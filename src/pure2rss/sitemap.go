@@ -4,19 +4,17 @@ import (
 	"encoding/xml"
 	"fmt"
 	"io"
+	"time"
 )
 
-type SiteMapLink struct {
-	Loc string
-}
-
-func ParseSiteMapList(data io.Reader) ([]SiteMapLink, error) {
+func ParseSiteMapList(data io.Reader) ([]Link, error) {
 	decoder := xml.NewDecoder(data)
 
 	var sitemapList = struct {
 		XMLName xml.Name `xml:"sitemapindex"`
 		SiteMap []struct {
 			Loc string `xml:"loc"`
+            LastMod string `xml:"lastmod"`
 		} `xml:"sitemap"`
 	}{}
 
@@ -26,10 +24,14 @@ func ParseSiteMapList(data io.Reader) ([]SiteMapLink, error) {
 		return nil, fmt.Errorf("decoding sitemap list from xml: %w", err)
 	}
 
-	output := make([]SiteMapLink, 0, len(sitemapList.SiteMap))
+    output := make([]Link, 0, len(sitemapList.SiteMap))
 
 	for _, sitemap := range sitemapList.SiteMap {
-		output = append(output, SiteMapLink{Loc: sitemap.Loc})
+        lastMod, err := time.Parse(time.RFC3339, sitemap.LastMod)
+        if err != nil {
+            return nil, fmt.Errorf("parsing last modification time of a page, %w", err)
+        }
+		output = append(output, Link{Loc: sitemap.Loc})
 	}
 
 	return output, nil
@@ -37,7 +39,7 @@ func ParseSiteMapList(data io.Reader) ([]SiteMapLink, error) {
 
 type Link struct{
     Loc string
-    LastMod string
+    LastMod time.Time
 }
 
 func ParseSiteMap(reader io.Reader) ([]Link, error) {
@@ -60,7 +62,12 @@ func ParseSiteMap(reader io.Reader) ([]Link, error) {
 	output := make([]Link, 0, len(sitemap.Urls))
 
 	for _, url := range sitemap.Urls {
-		output = append(output, Link{Loc: url.Loc, LastMod: url.LastMod})
+        lastMod, err := time.Parse(time.RFC3339, url.LastMod)
+        if err != nil {
+            return nil, fmt.Errorf("parsing last modification time of a page, %w", err)
+        }
+
+		output = append(output, Link{Loc: url.Loc, LastMod: lastMod})
 	}
 
 	return output, nil
