@@ -3,49 +3,75 @@ package pure2rss
 import (
 	"fmt"
 	"net/http"
+	"time"
 )
 
 type Crawler struct {
-	sitemapURL string
-	done       chan error
-	onIndexLink    func(Link) bool
-	onPostLink func(Link) bool
+	client *http.Client
+
+	sitemapURL  string
+	done        chan error
+	onIndexLink func(Link) bool
+	onPostLink  func(Link) bool
 }
 
 func NewCrawler(sitemapURL string) *Crawler {
+	client := &http.Client{
+		Timeout: time.Second * 10,
+	}
+
 	return &Crawler{
-		sitemapURL: sitemapURL,
-		done:       make(chan error),
-		onIndexLink:    func(l Link) bool {return true},
-		onPostLink: func(l Link) bool { return true },
+		client:      client,
+		sitemapURL:  sitemapURL,
+		done:        make(chan error),
+		onIndexLink: func(l Link) bool { return true },
+		onPostLink:  func(l Link) bool { return true },
 	}
 }
 
-func (c *Crawler) Run() {
-	response, err := http.Get(c.sitemapURL)
+func (c *Crawler) fetchAndParseSitemapIndex() ([]Link, error) {
+	req, err := http.NewRequest(http.MethodGet, c.sitemapURL, nil)
 	if err != nil {
-		c.done <- fmt.Errorf("loading sitemap index, %w", err)
-		return
+		return nil, fmt.Errorf("constructing site map index request, %w", err)
+	}
+
+	response, err := c.client.Do(req)
+	if err != nil {
+		return nil, fmt.Errorf("loading sitemap index, %w", err)
 	}
 	defer response.Body.Close()
 
 	if response.StatusCode != http.StatusOK {
-		c.done <- fmt.Errorf("unexpected status code %q when fetching sitemap index", response.Status)
-		return
+		return nil, fmt.Errorf("unexpected status code %q when fetching sitemap index", response.Status)
 	}
 
 	links, err := ParseSiteMapList(response.Body)
 	if err != nil {
-		c.done <- fmt.Errorf("parsing sitemap list, %w", err)
-		return
+		return nil, fmt.Errorf("parsing sitemap list, %w", err)
+	}
+
+	return links, nil
+}
+
+func (c *Crawler) Run() {
+	links, err := c.fetchAndParseSitemapIndex()
+	if err != nil {
+		c.done <- fmt.Errorf("fetching and parsing site map index, %w", err)
+        return
 	}
 
 	for _, sitemapLink := range links {
-	    if !c.onIndexLink(sitemapLink) {
-            continue
+		if !c.onIndexLink(sitemapLink) {
+			continue
+		}
+
+
+        req, err := http.NewRequest(http.MethodGet, sitemapLink.Loc, nil)
+        if err != nil {
+            c.done <- fmt.Errorf("constructing post sitemap request, %w", err)
         }
 
-		sitemapResponse, err := http.Get(sitemapLink.Loc)
+		sitemapResponse, err := c.client.Do(req)
 		if err != nil {
 			c.done <- fmt.Errorf("fetching sitemap %q failed, %w", sitemapLink.Loc, err)
 			return

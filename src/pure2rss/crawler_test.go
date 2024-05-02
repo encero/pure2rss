@@ -72,9 +72,6 @@ func newTestServer() (string, func()) {
 
 
         serverURL := fmt.Sprintf("http://%s", r.Host)
-
-        fmt.Println(serverURL)
-
         data = []byte(strings.ReplaceAll(string(data), "#server#", serverURL))
 
 		w.WriteHeader(http.StatusOK)
