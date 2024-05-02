@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//blog.purestorage.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://blog.purestorage.com/post-sitemap.xml</loc>
+        <loc>#server#/post-sitemap.xml</loc>
 		<lastmod>2024-05-02T02:00:05+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://blog.purestorage.com/post-sitemap2.xml</loc>
+		<loc>#server#/post-sitemap2.xml</loc>
 		<lastmod>2024-02-29T14:38:24+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://blog.purestorage.com/post-sitemap3.xml</loc>
+		<loc>#server#/post-sitemap3.xml</loc>
 		<lastmod>2024-05-02T02:00:05+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://blog.purestorage.com/page-sitemap.xml</loc>
+		<loc>#server#/page-sitemap.xml</loc>
 		<lastmod>2024-04-03T16:28:30+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://blog.purestorage.com/category-sitemap.xml</loc>
+		<loc>#server#/category-sitemap.xml</loc>
 		<lastmod>2024-05-01T23:18:23+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://blog.purestorage.com/post_tag-sitemap.xml</loc>
+		<loc>#server#/post_tag-sitemap.xml</loc>
 		<lastmod>2024-05-01T23:18:23+00:00</lastmod>
 	</sitemap>
 </sitemapindex>

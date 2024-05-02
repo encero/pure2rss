@@ -29,9 +29,9 @@ func ParseSiteMapList(data io.Reader) ([]Link, error) {
 	for _, sitemap := range sitemapList.SiteMap {
         lastMod, err := time.Parse(time.RFC3339, sitemap.LastMod)
         if err != nil {
-            return nil, fmt.Errorf("parsing last modification time of a page, %w", err)
+            return nil, fmt.Errorf("parsing last modification time of a sitemap, %w", err)
         }
-		output = append(output, Link{Loc: sitemap.Loc})
+		output = append(output, Link{Loc: sitemap.Loc, LastMod: lastMod})
 	}
 
 	return output, nil
