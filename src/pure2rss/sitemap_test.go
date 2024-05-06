@@ -10,13 +10,13 @@ import (
 	"github.com/encero/pure2rss/src/pure2rss"
 )
 
-//go:embed sitemaps/*
+//go:embed test_data/*
 var sitemaps embed.FS
 
 func TestParseSitemapList(t *testing.T) {
 	is := is.New(t)
 
-	file, err := sitemaps.Open("sitemaps/sitemap_index.xml")
+	file, err := sitemaps.Open("test_data/sitemap_index.xml")
 	is.NoErr(err)
 	defer file.Close()
 
@@ -36,7 +36,7 @@ func TestParseSitemapList(t *testing.T) {
 func TestParseSitemap(t *testing.T) {
 	is := is.New(t)
 
-	file, err := sitemaps.Open("sitemaps/post-sitemap.xml")
+	file, err := sitemaps.Open("test_data/post-sitemap.xml")
 	is.NoErr(err)
 	defer file.Close()
 

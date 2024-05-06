@@ -12,10 +12,18 @@ type Crawler struct {
 	sitemapURL  string
 	done        chan error
 	onIndexLink func(Link) bool
-	onPostLink  func(Link) bool
+	onPostLink  func(Link)
 }
 
-func NewCrawler(sitemapURL string) *Crawler {
+type crawlerOption func (c *Crawler)
+
+func CrawlerTimeout(d time.Duration) crawlerOption {
+    return func(c *Crawler) {
+        c.client.Timeout = d
+    }
+}
+
+func NewCrawler(sitemapURL string, options ...crawlerOption) *Crawler {
 	client := &http.Client{
 		Timeout: time.Second * 10,
 	}
@@ -25,7 +33,7 @@ func NewCrawler(sitemapURL string) *Crawler {
 		sitemapURL:  sitemapURL,
 		done:        make(chan error),
 		onIndexLink: func(l Link) bool { return true },
-		onPostLink:  func(l Link) bool { return true },
+		onPostLink:  func(l Link) { return },
 	}
 }
 
@@ -57,7 +65,7 @@ func (c *Crawler) Run() {
 	links, err := c.fetchAndParseSitemapIndex()
 	if err != nil {
 		c.done <- fmt.Errorf("fetching and parsing site map index, %w", err)
-        return
+		return
 	}
 
 	for _, sitemapLink := range links {
@@ -65,11 +73,10 @@ func (c *Crawler) Run() {
 			continue
 		}
 
-
-        req, err := http.NewRequest(http.MethodGet, sitemapLink.Loc, nil)
-        if err != nil {
-            c.done <- fmt.Errorf("constructing post sitemap request, %w", err)
-        }
+		req, err := http.NewRequest(http.MethodGet, sitemapLink.Loc, nil)
+		if err != nil {
+			c.done <- fmt.Errorf("constructing post sitemap request, %w", err)
+		}
 
 		sitemapResponse, err := c.client.Do(req)
 		if err != nil {
@@ -85,6 +92,10 @@ func (c *Crawler) Run() {
 		}
 
 		for _, link := range postLinks {
+            if link.Loc == "https://blog.purestorage.com/" {
+                continue
+            }
+
 			c.onPostLink(link)
 		}
 	}
@@ -96,7 +107,7 @@ func (c *Crawler) OnIndexLink(f func(Link) bool) {
 	c.onIndexLink = f
 }
 
-func (c *Crawler) OnPostLink(f func(Link) bool) {
+func (c *Crawler) OnPostLink(f func(Link)) {
 	c.onPostLink = f
 }
 

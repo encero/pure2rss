@@ -31,10 +31,8 @@ func TestCrawler(t *testing.T) {
 	})
 
 	onPostCalled := 0
-	crawler.OnPostLink(func(l pure2rss.Link) bool {
+	crawler.OnPostLink(func(l pure2rss.Link) {
 		onPostCalled += 1
-
-		return true
 	})
 
 	go crawler.Run()
@@ -52,7 +50,7 @@ func TestCrawler(t *testing.T) {
 
 func newTestServer() (string, func()) {
 	s := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
-		filePath := fmt.Sprintf("sitemaps%s", r.URL.Path)
+		filePath := fmt.Sprintf("test_data%s", r.URL.Path)
 
 		file, err := sitemaps.Open(filePath)
 		if err != nil {

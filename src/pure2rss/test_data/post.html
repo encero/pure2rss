@@ -1,0 +1,1067 @@
+
+<!doctype html>
+<html class="no-js" lang="en-US" lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="https://blog.purestorage.com/xmlrpc.php" />
+            <meta property="og:image" content="https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-11-at-12.07.46-PM.png" />
+        <link rel="preload" as="image" href="https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-11-at-12.07.46-PM-768x504.png">
+            <link rel="shortcut icon" href="https://blog.purestorage.com/wp-content/uploads/2020/09/favicon.png" type="image/png" />
+            <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Space+Mono&display=swap" rel="preload" as="style" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Space+Mono&display=swap" rel="stylesheet" />
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<link rel="alternate" hreflang="en" href="https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/" />
+<link rel="alternate" hreflang="x-default" href="https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/" />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v22.6 (Yoast SEO v22.6) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Streamlining Azure VMware Solution | Pure Storage Blog</title>
+	<meta name="description" content="This blog post explores the seamless integration of Azure Functions for managing Azure VMware Solution (AVS) infrastructure alongside the automation of expanding Pure Cloud Block Store capacity." />
+	<link rel="canonical" href="https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Streamlining Azure VMware Solution: Automating Pure Cloud Block Store Expansion" />
+	<meta property="og:description" content="This blog post explores the seamless integration of Azure Functions for managing Azure VMware Solution (AVS) infrastructure alongside the automation of expanding Pure Cloud Block Store capacity." />
+	<meta property="og:url" content="https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/" />
+	<meta property="og:site_name" content="Pure Storage Blog" />
+	<meta property="article:publisher" content="https://www.facebook.com/PureStorage" />
+	<meta property="article:published_time" content="2024-04-16T15:58:05+00:00" />
+	<meta property="article:modified_time" content="2024-04-17T21:19:52+00:00" />
+	<meta property="og:image" content="https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-11-at-12.07.46-PM.png" />
+	<meta property="og:image:width" content="1650" />
+	<meta property="og:image:height" content="1083" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="author" content="Kyle Grossmiller" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@purestorage" />
+	<meta name="twitter:site" content="@purestorage" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Kyle Grossmiller" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="6 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/#article","isPartOf":{"@id":"https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/"},"author":{"name":"Kyle Grossmiller","@id":"https://blog.purestorage.com/#/schema/person/aeeec84740572bba7be931efbfd227a7"},"headline":"Streamlining Azure VMware Solution: Automating Pure Cloud Block Store Expansion","datePublished":"2024-04-16T15:58:05+00:00","dateModified":"2024-04-17T21:19:52+00:00","mainEntityOfPage":{"@id":"https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/"},"wordCount":952,"publisher":{"@id":"https://blog.purestorage.com/#organization"},"image":{"@id":"https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/#primaryimage"},"thumbnailUrl":"https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-11-at-12.07.46-PM.png","keywords":["Azure","Cloud Migration","Featured","Pure Cloud Block Store","VMware"],"articleSection":["Purely Technical"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/","url":"https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/","name":"Streamlining Azure VMware Solution | Pure Storage Blog","isPartOf":{"@id":"https://blog.purestorage.com/#website"},"primaryImageOfPage":{"@id":"https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/#primaryimage"},"image":{"@id":"https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/#primaryimage"},"thumbnailUrl":"https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-11-at-12.07.46-PM.png","datePublished":"2024-04-16T15:58:05+00:00","dateModified":"2024-04-17T21:19:52+00:00","description":"This blog post explores the seamless integration of Azure Functions for managing Azure VMware Solution (AVS) infrastructure alongside the automation of expanding Pure Cloud Block Store capacity.","breadcrumb":{"@id":"https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/#primaryimage","url":"https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-11-at-12.07.46-PM.png","contentUrl":"https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-11-at-12.07.46-PM.png","width":1650,"height":1083,"caption":"Azure VMware Solution"},{"@type":"BreadcrumbList","@id":"https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://blog.purestorage.com/"},{"@type":"ListItem","position":2,"name":"Streamlining Azure VMware Solution: Automating Pure Cloud Block Store Expansion"}]},{"@type":"WebSite","@id":"https://blog.purestorage.com/#website","url":"https://blog.purestorage.com/","name":"Pure Storage Blog","description":"Flash Storage, Cloud Storage, Hybrid Cloud, Data Protection The capabilities around data and its storage evolve daily. To help digitally transform your organization, check-in regularly to access news, innovation, announcements along with how-to and enablement content","publisher":{"@id":"https://blog.purestorage.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://blog.purestorage.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://blog.purestorage.com/#organization","name":"Pure Storage","url":"https://blog.purestorage.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://blog.purestorage.com/#/schema/logo/image/","url":"https://blog.purestorage.com/wp-content/uploads/2019/08/download-5.png","contentUrl":"https://blog.purestorage.com/wp-content/uploads/2019/08/download-5.png","width":302,"height":167,"caption":"Pure Storage"},"image":{"@id":"https://blog.purestorage.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/PureStorage","https://x.com/purestorage","https://www.instagram.com/purestorage","https://www.linkedin.com/company/pure-storage","https://www.youtube.com/user/purestorage","https://en.wikipedia.org/wiki/Pure_Storage"]},{"@type":"Person","@id":"https://blog.purestorage.com/#/schema/person/aeeec84740572bba7be931efbfd227a7","name":"Kyle Grossmiller","url":"https://blog.purestorage.com/author/kyle-grossmiller/"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//players.brightcove.net' />
+<link rel='stylesheet' id='urvanov_syntax_highlighter-css' href='https://blog.purestorage.com/wp-content/plugins/urvanov-syntax-highlighter/css/min/urvanov_syntax_highlighter.min.css?ver=2.8.36' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:#ffffffa6}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:#ffffffa6}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--base: #ffffff;--wp--preset--color--contrast: #000000;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: clamp(0.875rem, 0.875rem + ((1vw - 0.2rem) * 0.227), 1rem);--wp--preset--font-size--medium: clamp(1rem, 1rem + ((1vw - 0.2rem) * 0.227), 1.125rem);--wp--preset--font-size--large: clamp(1.75rem, 1.75rem + ((1vw - 0.2rem) * 0.227), 1.875rem);--wp--preset--font-size--x-large: 2.25rem;--wp--preset--font-size--xx-large: clamp(4rem, 4rem + ((1vw - 0.2rem) * 10.909), 10rem);--wp--preset--font-family--inter: "Inter", sans-serif;--wp--preset--font-family--system-font: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;--wp--preset--spacing--30: clamp(1.5rem, 5vw, 2rem);--wp--preset--spacing--40: clamp(1.8rem, 1.8rem + ((1vw - 0.48rem) * 2.885), 3rem);--wp--preset--spacing--50: clamp(2.5rem, 8vw, 4.5rem);--wp--preset--spacing--60: clamp(3.75rem, 10vw, 7rem);--wp--preset--spacing--70: clamp(5rem, 5.25rem + ((1vw - 0.48rem) * 9.096), 8rem);--wp--preset--spacing--80: clamp(7rem, 14vw, 11rem);--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 700px;--wp--style--global--wide-size: 1200px; }.wp-site-blocks { padding-top: var(--wp--style--root--padding-top); padding-bottom: var(--wp--style--root--padding-bottom); }.has-global-padding { padding-right: var(--wp--style--root--padding-right); padding-left: var(--wp--style--root--padding-left); }.has-global-padding :where(.has-global-padding:not(.wp-block-block)) { padding-right: 0; padding-left: 0; }.has-global-padding > .alignfull { margin-right: calc(var(--wp--style--root--padding-right) * -1); margin-left: calc(var(--wp--style--root--padding-left) * -1); }.has-global-padding :where(.has-global-padding:not(.wp-block-block)) > .alignfull { margin-right: 0; margin-left: 0; }.has-global-padding > .alignfull:where(:not(.has-global-padding):not(.is-layout-flex):not(.is-layout-grid)) > :where([class*="wp-block-"]:not(.alignfull):not([class*="__"]),p,h1,h2,h3,h4,h5,h6,ul,ol) { padding-right: var(--wp--style--root--padding-right); padding-left: var(--wp--style--root--padding-left); }.has-global-padding :where(.has-global-padding) > .alignfull:where(:not(.has-global-padding)) > :where([class*="wp-block-"]:not(.alignfull):not([class*="__"]),p,h1,h2,h3,h4,h5,h6,ul,ol) { padding-right: 0; padding-left: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 1.5rem; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child:first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child:last-child { margin-block-end: 0; }body { --wp--style--block-gap: 1.5rem; }:where(body .is-layout-flow)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-flow)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-flow)  > *{margin-block-start: 1.5rem;margin-block-end: 0;}:where(body .is-layout-constrained)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-constrained)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-constrained)  > *{margin-block-start: 1.5rem;margin-block-end: 0;}:where(body .is-layout-flex) {gap: 1.5rem;}:where(body .is-layout-grid) {gap: 1.5rem;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{background-color: var(--wp--preset--color--base);color: var(--wp--preset--color--contrast);font-family: Karla;font-size: clamp(1.325rem, calc(1.325rem + ((1vw - 0.48rem) * 8.4135)), 1.225rem);line-height: 1.6;--wp--style--root--padding-top: 0px;--wp--style--root--padding-right: var(--wp--preset--spacing--30);--wp--style--root--padding-bottom: 0px;--wp--style--root--padding-left: var(--wp--preset--spacing--30);}a:where(:not(.wp-element-button)){color: var(--wp--preset--color--contrast);text-decoration: none;}a:where(:not(.wp-element-button)):hover{text-decoration: underline;}a:where(:not(.wp-element-button)):focus{text-decoration: underline dashed;}a:where(:not(.wp-element-button)):active{color: var(--wp--preset--color--secondary);text-decoration: none;}h1, h2, h3, h4, h5, h6{font-weight: 400;line-height: 1.4;}h1{font-size: clamp(2.625rem, calc(2.625rem + ((1vw - 0.48rem) * 8.4135)), 3.325rem);line-height: 1.1;}h2{font-size: clamp(1.625rem, calc(1.625rem + ((1vw - 0.48rem) * 8.4135)), 1.825rem);line-height: 1.2;}h3{font-size: clamp(1.625rem, calc(1.625rem + ((1vw - 0.48rem) * 8.4135)), 1.125rem);line-height: 1.2;}h4{font-size: var(--wp--preset--font-size--large);}h5{font-size: var(--wp--preset--font-size--medium);font-weight: 700;text-transform: uppercase;}h6{font-size: var(--wp--preset--font-size--medium);text-transform: uppercase;}.wp-element-button, .wp-block-button__link{background-color: var(--wp--preset--color--primary);border-radius: 0;border-width: 0;color: var(--wp--preset--color--contrast);font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.wp-element-button:visited, .wp-block-button__link:visited{color: var(--wp--preset--color--contrast);}.wp-element-button:hover, .wp-block-button__link:hover{background-color: var(--wp--preset--color--contrast);color: var(--wp--preset--color--base);}.wp-element-button:focus, .wp-block-button__link:focus{background-color: var(--wp--preset--color--contrast);color: var(--wp--preset--color--base);}.wp-element-button:active, .wp-block-button__link:active{background-color: var(--wp--preset--color--secondary);color: var(--wp--preset--color--base);}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-base-color{color: var(--wp--preset--color--base) !important;}.has-contrast-color{color: var(--wp--preset--color--contrast) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-base-background-color{background-color: var(--wp--preset--color--base) !important;}.has-contrast-background-color{background-color: var(--wp--preset--color--contrast) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-base-border-color{border-color: var(--wp--preset--color--base) !important;}.has-contrast-border-color{border-color: var(--wp--preset--color--contrast) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-xx-large-font-size{font-size: var(--wp--preset--font-size--xx-large) !important;}.has-inter-font-family{font-family: var(--wp--preset--font-family--inter) !important;}.has-system-font-font-family{font-family: var(--wp--preset--font-family--system-font) !important;}
+.wp-block-navigation{font-size: clamp(1.125rem, calc(1.125rem + ((1vw - 0.48rem) * 8.4135)), 1.125rem);line-height: 1.6;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;text-decoration: none;}
+.wp-block-navigation a:where(:not(.wp-element-button)):hover{text-decoration: none;}
+.wp-block-navigation a:where(:not(.wp-element-button)):focus{text-decoration: underline dashed;}
+.wp-block-navigation a:where(:not(.wp-element-button)):active{text-decoration: none;}
+.wp-block-pullquote{border-width: 1px 0;border-style: solid;font-size: clamp(0.984em, 0.984rem + ((1vw - 0.2em) * 0.938), 1.5em);line-height: 1.3;margin-top: var(--wp--preset--spacing--40) !important;margin-bottom: var(--wp--preset--spacing--40) !important;}
+.wp-block-pullquote cite{font-size: var(--wp--preset--font-size--small);font-style: normal;text-transform: none;}
+.wp-block-cover{color: var(--wp--preset--color--secondary);}
+.wp-block-comment-author-name a:where(:not(.wp-element-button)){text-decoration: none;}
+.wp-block-comment-author-name a:where(:not(.wp-element-button)):hover{text-decoration: underline;}
+.wp-block-comment-author-name a:where(:not(.wp-element-button)):focus{text-decoration: underline dashed;}
+.wp-block-comment-author-name a:where(:not(.wp-element-button)):active{color: var(--wp--preset--color--secondary);text-decoration: none;}
+.wp-block-comment-date{font-size: var(--wp--preset--font-size--small);}
+.wp-block-comment-date a:where(:not(.wp-element-button)){text-decoration: none;}
+.wp-block-comment-date a:where(:not(.wp-element-button)):hover{text-decoration: underline;}
+.wp-block-comment-date a:where(:not(.wp-element-button)):focus{text-decoration: underline dashed;}
+.wp-block-comment-date a:where(:not(.wp-element-button)):active{color: var(--wp--preset--color--secondary);text-decoration: none;}
+.wp-block-comment-edit-link{font-size: var(--wp--preset--font-size--small);}
+.wp-block-comment-reply-link{font-size: var(--wp--preset--font-size--small);}
+.wp-block-comments-pagination{margin-top: var(--wp--preset--spacing--40);}
+.wp-block-comments-pagination a:where(:not(.wp-element-button)){text-decoration: none;}
+.wp-block-comments-title{font-size: var(--wp--preset--font-size--large);margin-bottom: var(--wp--preset--spacing--40);}
+.wp-block-post-author{font-size: var(--wp--preset--font-size--small);}
+.wp-block-post-content a:where(:not(.wp-element-button)){color: var(--wp--preset--color--secondary);}
+.wp-block-post-date{font-size: var(--wp--preset--font-size--small);font-weight: 400;}
+.wp-block-post-date a:where(:not(.wp-element-button)){text-decoration: none;}
+.wp-block-post-date a:where(:not(.wp-element-button)):hover{text-decoration: underline;}
+.wp-block-post-excerpt{font-size: clamp(1.225rem, calc(1.225rem + ((1vw - 0.48rem) * 8.4135)), 1.125rem);}
+.wp-block-post-terms{font-size: var(--wp--preset--font-size--small);}
+.wp-block-post-title{font-weight: 400;margin-top: 1.25rem;margin-bottom: 1.25rem;}
+.wp-block-post-title a:where(:not(.wp-element-button)){text-decoration: none;}
+.wp-block-post-title a:where(:not(.wp-element-button)):hover{text-decoration: underline;}
+.wp-block-post-title a:where(:not(.wp-element-button)):focus{text-decoration: underline dashed;}
+.wp-block-post-title a:where(:not(.wp-element-button)):active{color: var(--wp--preset--color--secondary);text-decoration: none;}
+.wp-block-query h2{font-size: var(--wp--preset--font-size--x-large);}
+.wp-block-query-pagination{font-size: var(--wp--preset--font-size--small);font-weight: 400;}
+.wp-block-query-pagination a:where(:not(.wp-element-button)){text-decoration: none;}
+.wp-block-query-pagination a:where(:not(.wp-element-button)):hover{text-decoration: underline;}
+.wp-block-quote{border-left-color: inherit;border-left-width: 1px;border-left-style: solid;padding-right: var(--wp--preset--spacing--30);padding-left: var(--wp--preset--spacing--30);}
+.wp-block-quote cite{font-size: var(--wp--preset--font-size--small);font-style: normal;}
+.wp-block-site-title{font-size: var(--wp--preset--font-size--medium);font-weight: normal;line-height: 1.4;}
+.wp-block-site-title a:where(:not(.wp-element-button)){text-decoration: none;}
+.wp-block-site-title a:where(:not(.wp-element-button)):hover{text-decoration: underline;}
+.wp-block-site-title a:where(:not(.wp-element-button)):focus{text-decoration: underline dashed;}
+.wp-block-site-title a:where(:not(.wp-element-button)):active{color: var(--wp--preset--color--secondary);text-decoration: none;}
+</style>
+<link rel='stylesheet' id='pdfprnt_frontend-css' href='https://blog.purestorage.com/wp-content/plugins/pdf-print-pro/css/frontend.css?ver=2.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wpa-style-css' href='https://blog.purestorage.com/wp-content/plugins/wp-accessibility/css/wpa-style.css?ver=2.0.1' type='text/css' media='all' />
+<style id='wpa-style-inline-css' type='text/css'>
+.wpa-hide-ltr#skiplinks a, .wpa-hide-ltr#skiplinks a:hover, .wpa-hide-ltr#skiplinks a:visited {
+	
+}
+.wpa-hide-ltr#skiplinks a:active,  .wpa-hide-ltr#skiplinks a:focus {
+	
+}
+	:root { --admin-bar-top : 7px; }
+</style>
+<link rel='stylesheet' id='wpml-legacy-horizontal-list-0-css' href='https://blog.purestorage.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpml-menu-item-0-css' href='https://blog.purestorage.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.min.css?ver=1' type='text/css' media='all' />
+<style id='wpml-menu-item-0-inline-css' type='text/css'>
+pdfprnt-buttons {}
+</style>
+<link rel='stylesheet' id='styles-css' href='https://blog.purestorage.com/wp-content/themes/pdm/dist/main.css?ver=6.5.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='brightcove-pip-css-css' href='https://players.brightcove.net/videojs-pip/1/videojs-pip.css?ver=2.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='brightcove-playlist-css' href='https://blog.purestorage.com/wp-content/plugins/brightcove-video-connect/assets/css/brightcove_playlist.min.css?ver=2.8.5' type='text/css' media='all' />
+<style id='block-visibility-screen-size-styles-inline-css' type='text/css'>
+/* Large screens (desktops, 992px and up) */
+@media ( min-width: 992px ) {
+	.block-visibility-hide-large-screen {
+		display: none !important;
+	}
+}
+
+/* Medium screens (tablets, between 768px and 992px) */
+@media ( min-width: 768px ) and ( max-width: 991.98px ) {
+	.block-visibility-hide-medium-screen {
+		display: none !important;
+	}
+}
+
+/* Small screens (mobile devices, less than 768px) */
+@media ( max-width: 767.98px ) {
+	.block-visibility-hide-small-screen {
+		display: none !important;
+	}
+}
+</style>
+<script type="text/javascript" id="wpml-cookie-js-extra">
+/* <![CDATA[ */
+var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":"\/"}};
+var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":"\/"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://blog.purestorage.com/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=4.6.10" id="wpml-cookie-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://blog.purestorage.com/wp-content/plugins/stop-user-enumeration/frontend/js/frontend.js?ver=1.4.9" id="stop-user-enumeration-js"></script>
+<script type="text/javascript" src="https://blog.purestorage.com/wp-content/plugins/wp-accessibility/js/fingerprint.min.js?ver=2.0.1" id="wpa-fingerprintjs-js"></script>
+<link rel="https://api.w.org/" href="https://blog.purestorage.com/wp-json/" /><link rel="alternate" type="application/json" href="https://blog.purestorage.com/wp-json/wp/v2/posts/139963" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://blog.purestorage.com/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://blog.purestorage.com/?p=139963' />
+<link rel="alternate" type="application/json+oembed" href="https://blog.purestorage.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblog.purestorage.com%2Fpurely-technical%2Fstreamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://blog.purestorage.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblog.purestorage.com%2Fpurely-technical%2Fstreamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:4.6.10 stt:1,4,3,27,28,29;" />
+<script async src="//analytics.newscred.com/analytics_1ff3a390ecdb4ccb9297e8d8b258277c.js"></script><script async src="//analytics.newscred.com/analytics_1ff3a390ecdb4ccb9297e8d8b258277c.js"></script><script type="text/javascript">
+		digitalData = {}
+		digitalData.pageData = {
+			"page_name": "Streamlining Azure VMware Solution: Automating Pure Cloud Block Store Expansion",
+			"page_path": "https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion",
+			"section_name": "Post"
+		},
+		digitalData.siteData = {
+			"site_id": "blog",
+			"language_code": "en",
+			"site_domain": "https://blog.purestorage.com"
+		}
+	</script>
+<style id='wp-fonts-local' type='text/css'>
+@font-face{font-family:Inter;font-style:normal;font-weight:200 900;font-display:fallback;src:url('https://blog.purestorage.com/wp-content/themes/pdm/assets/fonts/inter/Inter-VariableFont_slnt,wght.ttf') format('truetype');font-stretch:normal;}
+</style>
+		<style type="text/css" id="wp-custom-css">
+			.video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+}
+.wp-block-embed__wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+	display: block;
+}
+/* END YouTube */
+
+/* @media (min-width: 1200px)
+.feat-posts--related .feat-posts__list .post-card:first-child .post-card__thumb {
+    padding-bottom: 26% !important;
+} */
+/* Title Color */
+.homepagev2 .hero-content-wrapper .hero-content .title a {
+    color: #000;
+}
+/* END Title Color */
+.post-author {
+    height: initial !important;
+}
+@media (min-width: $tablet) and (max-width: $desktop - 1) {
+    .post-author {
+        height: initial !important;
+    }
+}
+.gheader {
+    top: 0 !important;
+}
+.ps-xf-container .global-nav {
+    min-height: calc(48px + var(--ps-utility-menu-height, 0px)) !important;
+}
+.urvanov-syntax-highlighter-syntax .crayon-table td {
+vertical-align: initial !important;
+}
+.homepagev2 .hero-newsletter-wrapper .hero-newsletter-section .hero-newsletter-button-wrapper .hero-newsletter-button {
+    display: block;
+}
+
+#popular .homev2-post-meta .post-action.post-like .post-action__count, .popular-articles .story-card .post-action__count {
+	font-size: 13px;
+	line-height: 18px;
+}
+.homev2-post-meta .post-action .svg-icon, .popular-articles .story-card .post-action .svg-icon {
+	width: 15px;
+	height: 15px;
+}
+.aligncenter .wp-caption-text {
+    text-align: center;
+}
+
+table, ul, ol{table-layout: fixed;width: 100%;} table td {word-wrap: break-word;}
+
+p, li {word-wrap: break-word;}
+
+.blog-sidebar .sidebar-cta {
+    background: #ff5001;
+}
+
+.wp-video-shortcode{ max-width: 100%; width: 100%;}
+.subscription-widget--bg-orange-gradient {
+    background: #ff5001 !important;
+}
+.homepagev2 .latest-posts .post-list .post-card.floating-ad {
+	margin-right: 15px; }
+}
+
+html[lang="ja"] .pdfprnt-buttons,
+html[lang="ko"] .pdfprnt-buttons{ display: none; }
+
+html:lang(ja) .pdfprnt-buttons,
+html:lang(ko) .pdfprnt-buttons { display: none; 
+}
+.box-shadow {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.filter-drop-shadow {
+    filter: drop-shadow(0 4px 8px rgba(0 0 0 / 20%));
+    -webkit-filter: drop-shadow(0 4px 8px rgba(0 0 0 / 20%));
+}
+.height-50px {
+	height: 50px !important;
+}
+.text-align-center {
+	text-align: center;
+}
+.justify-content-center {
+	justify-content: center;
+}
+.justify-content-space-between {
+  justify-content: space-between !important;
+}
+.gap-0 {
+		gap: 0 !important;
+}
+.position-relative {
+	position: relative;
+}
+.position-absolute {
+	position: absolute;
+}
+.top-0 {
+	top: 0;
+}
+.banner-cta-until-blocks {
+	align-items: initial !important;
+}
+.banner-cta-until-blocks-img {
+	background-position: right top !important;
+}
+.banner-cta-until-blocks-img {
+	object-fit: cover !important;
+	background-position: 85% top !important;
+}
+@media ( max-width: 767px ) {
+.banner-cta-until-blocks-img {
+	object-fit: cover !important;
+	background-position: 90% top !important;
+	}
+}
+@media ( max-width: 767px ) {
+.banner-cta-until-blocks {
+	flex-direction: column !important;
+	flex-basis: initial !important;
+	}
+}
+@media ( max-width: 767px ) {
+.banner-cta-until-blocks div {
+	flex-basis: initial !important;
+	}
+}
+.banner-cta-until-blocks-button a.wp-element-button {
+    background: #00b2a9;
+    border-radius: 6px;
+		color: white;
+	display: block;
+}
+@media ( max-width: 767px ) {
+.mobile-darken-5 {
+	-webkit-box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.5);
+	}
+}
+@media ( max-width: 767px ) {
+.mobile-lighten-5 {
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.5);
+    box-shadow: inset 0 0 0 1000px rgb(255 255 255 / 50%);
+	}
+}		</style>
+		    
+<script async src="//analytics.newscred.com/analytics_94976f71f7aa4a808897f7044695b8c0.js"></script>    <script>var ajaxURL = "https://blog.purestorage.com/wp-admin/admin-ajax.php";</script>
+    <link rel="stylesheet" href="https://www.purestorage.com/etc.clientlibs/purestorage-com/clientlibs/clientlib-xf-site-v2.css">
+    <!-- Site Wide CSS With Variation for Subscription Page -->
+            <style>
+        :root {
+        --ps-grid-override-breakpoint-large: 992px;
+        --ps-grid-override-max-width-large: 1140px;
+        --ps-grid-override-margin-large: 64px;
+        --ps-grid-override-max-width-xlarge: 1140px;
+        --ps-grid-override-margin-xlarge: 64px;
+        --ps-grid-override-max-width-medium: 720px;
+        --ps-grid-override-margin-medium: 15px;
+        --ps-grid-override-margin-small: 15px;
+        }
+        .ps-grid-override-medium-high .global-nav-variation__mobile-right {
+            padding-right: 16px
+        }
+        </style> 
+    </head>
+ 
+<body class="post-template-default single-post safari purely-technical post-parent post-id-139963"> 
+<header class="gheader gheader--post">
+    <div class="ps-xf-container">
+   <div class="root responsivegrid">
+      <div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+         <div class="global-nav-wrapper aem-GridColumn aem-GridColumn--default--12">
+            <style data-href="components/global-nav-variation/global-nav-variation-mini.scss">/*4/4/2023, 3:40:02 PM*/.ps-xf-container .ellipsis-line-1{display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden;text-overflow:ellipsis}.ps-xf-container .ellipsis-line-2{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;text-overflow:ellipsis}.ps-xf-container .ellipsis-line-3{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;text-overflow:ellipsis}.ps-xf-container .ellipsis-line-4{display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden;text-overflow:ellipsis}.ps-xf-container .ellipsis-line-5{display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden;text-overflow:ellipsis}.ps-xf-container .ellipsis-line-9{display:-webkit-box;-webkit-line-clamp:9;-webkit-box-orient:vertical;overflow:hidden;text-overflow:ellipsis}.ps-xf-container .ellipsis-line-11{display:-webkit-box;-webkit-line-clamp:11;-webkit-box-orient:vertical;overflow:hidden;text-overflow:ellipsis}.ps-xf-container .ellipsis-line-1m-2d{display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden;text-overflow:ellipsis}@media all and (min-width:992px){.ps-xf-container .ellipsis-line-1m-2d{-webkit-line-clamp:2}}.ps-xf-container .ellipsis-line-3m-4d{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;text-overflow:ellipsis}@media all and (min-width:992px){.ps-xf-container .ellipsis-line-3m-4d{-webkit-line-clamp:4}}.ps-xf-container .ellipsis-line-5m-7d{display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden;text-overflow:ellipsis}@media all and (min-width:992px){.ps-xf-container .ellipsis-line-5m-7d{-webkit-line-clamp:7}}.ps-xf-container .ellipsis-line-3m-2d{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;text-overflow:ellipsis}@media all and (min-width:992px){.ps-xf-container .ellipsis-line-3m-2d{-webkit-line-clamp:2}}.ps-xf-container .global-nav-variation{color:#000}.ps-xf-container .global-nav-variation__desktop,.ps-xf-container .global-nav-variation__mobile{background:#fff}.ps-xf-container .global-nav-variation__desktop .ps-grid-v2,.ps-xf-container .global-nav-variation__mobile .ps-grid-v2{width:100%}.ps-xf-container .global-nav-variation__desktop .ps-grid-v2 .ps-grid-v2__inner,.ps-xf-container .global-nav-variation__mobile .ps-grid-v2 .ps-grid-v2__inner{align-items:center}.ps-xf-container .global-nav-variation__desktop-text-link,.ps-xf-container .global-nav-variation__mobile-text-link{display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden;text-overflow:ellipsis}.ps-xf-container .global-nav-variation__desktop-text-link p,.ps-xf-container .global-nav-variation__mobile-text-link p{margin:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.ps-xf-container .global-nav-variation__desktop-text-link a,.ps-xf-container .global-nav-variation__mobile-text-link a{display:inline-block}.ps-xf-container .global-nav-variation__desktop-left,.ps-xf-container .global-nav-variation__desktop-right,.ps-xf-container .global-nav-variation__mobile-left,.ps-xf-container .global-nav-variation__mobile-right{margin-top:0;margin-bottom:0}.ps-xf-container .global-nav-variation__desktop-left,.ps-xf-container .global-nav-variation__mobile-left{display:flex;align-items:center}.ps-xf-container .global-nav-variation__desktop-right,.ps-xf-container .global-nav-variation__mobile-right{display:flex;justify-content:flex-end;align-items:center}.ps-xf-container .global-nav-variation__desktop .global-nav-variation__logo svg,.ps-xf-container .global-nav-variation__desktop .global-nav-variation__logo>div,.ps-xf-container .global-nav-variation__mobile .global-nav-variation__logo svg,.ps-xf-container .global-nav-variation__mobile .global-nav-variation__logo>div{max-height:inherit;max-width:inherit}.global-nav-variation__logo+.ps-xf-container .global-nav-variation__desktop-text-link,.global-nav-variation__logo+.ps-xf-container .global-nav-variation__mobile-text-link{margin-left:16px}.ps-xf-container .global-nav-variation__desktop.pureCanvas,.ps-xf-container .global-nav-variation__mobile.pureCanvas{background:#faf7f1}.ps-xf-container .global-nav-variation__desktop.pureGradient,.ps-xf-container .global-nav-variation__mobile.pureGradient{color:#fff;background:linear-gradient(214.77deg,#feb804 -27.58%,#fe5000 100%)}.ps-xf-container .global-nav-variation__desktop.pureGradient .global-nav-variation__logo svg path,.ps-xf-container .global-nav-variation__mobile.pureGradient .global-nav-variation__logo svg path{fill:#fff}.ps-xf-container .global-nav-variation__desktop a:not([href]),.ps-xf-container .global-nav-variation__mobile a:not([href]){pointer-events:none}.ps-xf-container .global-nav-variation__mobile{box-shadow:0 8px 24px rgba(0,0,0,.15)}.ps-xf-container .global-nav-variation__desktop{box-shadow:0 2px 6px rgba(0,0,0,.15)}.ps-xf-container .global-nav-variation__desktop-navigation-items{display:flex;justify-content:flex-end;align-items:center;flex-wrap:wrap;overflow:hidden}.ps-xf-container .global-nav-variation__desktop-navigation-item:not(.active){position:relative;font:inherit;color:inherit;text-decoration:none;border-bottom:2px solid transparent;background-image:linear-gradient(currentColor,currentColor);background-position:50% 100%;background-repeat:no-repeat;transition:all .3s cubic-bezier(.55,.01,.25,1) 0s;background-size:0 1px!important}.ps-xf-container .global-nav-variation__desktop-navigation-item:not(.active).selected,.ps-xf-container .global-nav-variation__desktop-navigation-item:not(.active):focus,.ps-xf-container .global-nav-variation__desktop-navigation-item:not(.active):hover{color:inherit}.ps-xf-container .global-nav-variation__desktop-navigation-item:not(.active).selected,.ps-xf-container .global-nav-variation__desktop-navigation-item:not(.active):focus,.ps-xf-container .global-nav-variation__desktop-navigation-item:not(.active):hover{background-size:100% 1px!important}@supports (-webkit-touch-callout:none){.ps-xf-container .global-nav-variation__desktop-navigation-item:not(.active){background-image:none!important}}.ps-xf-container .global-nav-variation__desktop-navigation-item.active{position:relative;font:inherit;color:inherit;text-decoration:none;border-bottom:2px solid transparent;background-image:linear-gradient(currentColor,currentColor);background-position:50% 100%;background-repeat:no-repeat;transition:all .3s cubic-bezier(.55,.01,.25,1) 0s}.ps-xf-container .global-nav-variation__desktop-navigation-item.active.selected,.ps-xf-container .global-nav-variation__desktop-navigation-item.active:focus,.ps-xf-container .global-nav-variation__desktop-navigation-item.active:hover{color:inherit}.ps-xf-container .global-nav-variation__desktop-navigation-item+.ps-xf-container .global-nav-variation__desktop-navigation-item{margin-left:16px}@media (min-width:1024px){.ps-xf-container .global-nav-variation__mobile{display:none}.ps-xf-container .global-nav-variation__desktop{visibility:visible;opacity:1}.ps-xf-container .global-nav-variation__desktop-text-link{display:-webkit-box}}.ps-grid-override-min-large .ps-xf-container .global-nav-variation__mobile{display:none}.ps-grid-override-min-large .ps-xf-container .global-nav-variation__desktop{visibility:visible;opacity:1}.ps-grid-override-min-large .ps-xf-container .global-nav-variation__desktop-text-link{display:-webkit-box}@media (max-width:1023.98px){.ps-xf-container .global-nav-variation__mobile{display:flex}.ps-xf-container .global-nav-variation__desktop{visibility:hidden;height:0;opacity:0}.ps-xf-container .global-nav-variation__desktop-text-link{display:none}}.ps-grid-override-max-large .ps-xf-container .global-nav-variation__mobile{display:flex}.ps-grid-override-max-large .ps-xf-container .global-nav-variation__desktop{visibility:hidden;height:0;opacity:0}.ps-grid-override-max-large .ps-xf-container .global-nav-variation__desktop-text-link{display:none}body.has-sec-nav .stacked .alert-bar__placeholder{position:relative}.ps-xf-container .global-nav-variation__desktop-left{grid-column-end:span var(--ps-grid-cell-span-4)}.ps-xf-container .global-nav-variation__desktop-right{grid-column-end:span var(--ps-grid-cell-span-8)}.ps-xf-container .global-nav-variation__mobile-left{grid-column-end:span var(--ps-grid-cell-span-1)}.ps-xf-container .global-nav-variation__mobile-right{grid-column-end:span var(--ps-grid-cell-span-3)}@media (min-width:640px){.ps-xf-container .global-nav-variation__mobile-left{grid-column-end:span var(--ps-grid-cell-span-3)}.ps-xf-container .global-nav-variation__mobile-right{grid-column-end:span var(--ps-grid-cell-span-9)}}.ps-grid-override-min-medium .ps-xf-container .global-nav-variation__mobile-left{grid-column-end:span var(--ps-grid-cell-span-3)}.ps-grid-override-min-medium .ps-xf-container .global-nav-variation__mobile-right{grid-column-end:span var(--ps-grid-cell-span-9)}.ps-xf-container .global-nav-variation{color:#000}.ps-xf-container .global-nav-variation__desktop-right,.ps-xf-container .global-nav-variation__mobile-right{height:48px}.ps-xf-container .global-nav-variation__desktop-menu,.ps-xf-container .global-nav-variation__mobile-menu{background:linear-gradient(214.77deg,#feb804 -27.58%,#fe5000 100%)}.ps-xf-container .global-nav-variation__desktop .global-nav-variation__logo,.ps-xf-container .global-nav-variation__mobile .global-nav-variation__logo{max-height:32px}.ps-xf-container .global-nav-variation__desktop.pureGradient .global-nav-variation__mobile-menu,.ps-xf-container .global-nav-variation__mobile.pureGradient .global-nav-variation__mobile-menu{background:#faf7f1}.ps-xf-container .global-nav-variation__desktop.pureGradient .global-nav-variation__mobile-menu span:after,.ps-xf-container .global-nav-variation__desktop.pureGradient .global-nav-variation__mobile-menu span:before,.ps-xf-container .global-nav-variation__mobile.pureGradient .global-nav-variation__mobile-menu span:after,.ps-xf-container .global-nav-variation__mobile.pureGradient .global-nav-variation__mobile-menu span:before{border-color:#474747}.ps-xf-container .global-nav-variation__desktop.landing-page .global-nav-variation__desktop-navigation-items,.ps-xf-container .global-nav-variation__desktop.landing-page .global-nav-variation__desktop-text-link,.ps-xf-container .global-nav-variation__mobile.landing-page .global-nav-variation__desktop-navigation-items,.ps-xf-container .global-nav-variation__mobile.landing-page .global-nav-variation__desktop-text-link{display:none}.ps-xf-container .global-nav-variation__desktop.landing-page .global-nav-variation__mobile-right .btn,.ps-xf-container .global-nav-variation__mobile.landing-page .global-nav-variation__mobile-right .btn{margin-right:20px}.ps-xf-container .global-nav-variation__desktop.landing-page .global-nav-variation__mobile-menu,.ps-xf-container .global-nav-variation__desktop.landing-page .global-nav-variation__mobile-overlay,.ps-xf-container .global-nav-variation__mobile.landing-page .global-nav-variation__mobile-menu,.ps-xf-container .global-nav-variation__mobile.landing-page .global-nav-variation__mobile-overlay{display:none}@media (max-width:639.98px){.ps-xf-container .global-nav-variation__mobile-right{margin-right:calc(0px - var(--ps-grid-margin-small))}}.ps-grid-override-max-medium .ps-xf-container .global-nav-variation__mobile-right{margin-right:calc(0px - var(--ps-grid-margin-small))}@media (min-width:640px) and (max-width:1023.98px){.ps-xf-container .global-nav-variation__mobile-right{margin-right:calc(0px - var(--ps-grid-margin-medium))}}.ps-grid-override-medium-low .ps-xf-container .global-nav-variation__mobile-right{margin-right:calc(0px - var(--ps-grid-margin-medium))}.ps-grid-override-medium-high .ps-xf-container .global-nav-variation__mobile-right{margin-right:calc((var(--ps-grid-max-width-medium) - 100vw)/ 2 - var(--ps-grid-margin-medium))}@media (min-width:1024px) and (max-width:1199.98px){.ps-xf-container .global-nav-variation__mobile-right{margin-right:calc(0px - var(--ps-grid-margin-large))}}.ps-grid-override-large-low .ps-xf-container .global-nav-variation__mobile-right{margin-right:calc(0px - var(--ps-grid-margin-large))}.ps-grid-override-large-high .ps-xf-container .global-nav-variation__mobile-right{margin-right:calc((var(--ps-grid-max-width-large) - 100vw)/ 2 - var(--ps-grid-margin-large))}@media (min-width:1200px) and (max-width:1444px){.ps-xf-container .global-nav-variation__mobile-right{margin-right:calc(0px - var(--ps-grid-margin-xlarge))}}.ps-grid-override-xlarge-low .ps-xf-container .global-nav-variation__mobile-right{margin-right:calc(0px - var(--ps-grid-margin-xlarge))}@media (min-width:1444.02px){.ps-xf-container .global-nav-variation__mobile-right{margin-right:calc((var(--ps-grid-max-width-xlarge) - 100vw)/ 2 - var(--ps-grid-margin-xlarge))}}.ps-grid-override-xlarge-high .ps-xf-container .global-nav-variation__mobile-right{margin-right:calc((var(--ps-grid-max-width-xlarge) - 100vw)/ 2 - var(--ps-grid-margin-xlarge))}.ps-xf-container .global-nav-variation__mobile .btn{margin:0;padding:0;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}.ps-xf-container .global-nav-variation__mobile-menu{width:48px;height:48px;margin-left:16px;padding:16px;border:0;outline:0;cursor:pointer}.ps-xf-container .global-nav-variation__mobile-menu span{display:block;width:16px}.ps-xf-container .global-nav-variation__mobile-menu span:after,.ps-xf-container .global-nav-variation__mobile-menu span:before{content:" ";display:block;border-bottom:1px solid #fff;border-top:1px solid #fff;height:6px;position:relative}.ps-xf-container .global-nav-variation__mobile-menu span:after{margin-top:4px}.ps-xf-container .global-nav-variation__mobile-overlay{position:fixed;top:0;right:0;height:100%;width:100%;max-height:0;max-width:0;background:linear-gradient(214.77deg,#feb804 -27.58%,#fe5000 100%)}.ps-xf-container .global-nav-variation__mobile-overlay.opened{max-height:100%;max-width:100%}.ps-xf-container .global-nav-variation__mobile-overlay.opened .global-nav-variation__logo{margin-left:16px}.ps-xf-container .global-nav-variation__mobile-overlay.opened .global-nav-variation__logo svg path{fill:#fff}.ps-xf-container .global-nav-variation__mobile-overlay-head{display:flex;align-items:center;height:48px}.ps-xf-container .global-nav-variation__mobile-overlay-close-btn{width:20px;height:20px;position:relative;cursor:pointer;display:block;margin-left:auto;margin-right:19px;height:12px;width:12px}.ps-xf-container .global-nav-variation__mobile-overlay-close-btn:after,.ps-xf-container .global-nav-variation__mobile-overlay-close-btn:before{content:" ";display:block;position:absolute;border-top:1px solid #000;width:20px;height:1px;top:50%}.ps-xf-container .global-nav-variation__mobile-overlay-close-btn:before{transform:rotate(-45deg)}.ps-xf-container .global-nav-variation__mobile-overlay-close-btn:after{transform:rotate(45deg)}.ps-xf-container .global-nav-variation__mobile-overlay-close-btn:after,.ps-xf-container .global-nav-variation__mobile-overlay-close-btn:before{width:12px;border-top-color:#fff}.ps-xf-container .global-nav-variation__mobile-overlay-close-btn:before{transform:translateY(-50%) rotate(-45deg)}.ps-xf-container .global-nav-variation__mobile-overlay-close-btn:after{transform:translateY(-50%) rotate(45deg)}.ps-xf-container .global-nav-variation__mobile-content{margin:33px 16px auto 16px;padding:8px 16px}.ps-xf-container .global-nav-variation__mobile-content hr{margin-top:24px;margin-bottom:24px}.ps-xf-container .global-nav-variation__mobile-navigation-items{display:flex;flex-direction:column}.ps-xf-container .global-nav-variation__mobile-navigation-items .ps-xf-container .global-nav-variation__mobile-navigation-item{font:normal 800 20px/26px Inter,sans-serif;letter-spacing:-.03em;color:#fff}@supports (font-variation-settings:normal){.ps-xf-container .global-nav-variation__mobile-navigation-items .ps-xf-container .global-nav-variation__mobile-navigation-item{font-variation-settings:"wght" 800}}.ps-xf-container .global-nav-variation__mobile-navigation-items .ps-xf-container .global-nav-variation__mobile-navigation-item a:not(.btn):not(.ps-btn){background-size:100% 3px}.ps-xf-container .global-nav-variation__mobile-navigation-items .ps-xf-container .global-nav-variation__mobile-navigation-item a:not(.btn):not(.ps-btn).selected,.ps-xf-container .global-nav-variation__mobile-navigation-items .ps-xf-container .global-nav-variation__mobile-navigation-item a:not(.btn):not(.ps-btn):focus,.ps-xf-container .global-nav-variation__mobile-navigation-items .ps-xf-container .global-nav-variation__mobile-navigation-item a:not(.btn):not(.ps-btn):hover{background-size:0 3px}.ps-xf-container .global-nav-variation__mobile-navigation-items .ps-xf-container .global-nav-variation__mobile-navigation-item:focus,.ps-xf-container .global-nav-variation__mobile-navigation-items .ps-xf-container .global-nav-variation__mobile-navigation-item:hover{color:#fe5000}.ps-xf-container .global-nav-variation__mobile-navigation-item+.ps-xf-container .global-nav-variation__mobile-navigation-item{margin-top:24px}.ps-xf-container .global-nav-variation__desktop-right .btn,.ps-xf-container .global-nav-variation__desktop-right .ps-btn{margin:0 0 0 32px}.ps-xf-container .global-nav-variation__desktop-text-link{font:normal 400 14px/20px Inter,sans-serif;letter-spacing:normal}@supports (font-variation-settings:normal){.ps-xf-container .global-nav-variation__desktop-text-link{font-variation-settings:"wght" 400}}.ps-xf-container .global-nav-variation__desktop-text-link a:not(.btn):not(.ps-btn){background-size:100% 1px}.ps-xf-container .global-nav-variation__desktop-text-link a:not(.btn):not(.ps-btn).selected,.ps-xf-container .global-nav-variation__desktop-text-link a:not(.btn):not(.ps-btn):focus,.ps-xf-container .global-nav-variation__desktop-text-link a:not(.btn):not(.ps-btn):hover{background-size:0 1px}.ps-xf-container .global-nav-variation__desktop-navigation-items{font:normal 400 14px/20px Inter,sans-serif;letter-spacing:normal;height:22px}@supports (font-variation-settings:normal){.ps-xf-container .global-nav-variation__desktop-navigation-items{font-variation-settings:"wght" 400}}.ps-xf-container .global-nav-variation__desktop-navigation-items a:not(.btn):not(.ps-btn){background-size:100% 1px}.ps-xf-container .global-nav-variation__desktop-navigation-items a:not(.btn):not(.ps-btn).selected,.ps-xf-container .global-nav-variation__desktop-navigation-items a:not(.btn):not(.ps-btn):focus,.ps-xf-container .global-nav-variation__desktop-navigation-items a:not(.btn):not(.ps-btn):hover{background-size:0 1px}.ps-xf-container .global-nav-variation__desktop-navigation-item{font:normal 400 14px/20px Inter,sans-serif;letter-spacing:normal}@supports (font-variation-settings:normal){.ps-xf-container .global-nav-variation__desktop-navigation-item{font-variation-settings:"wght" 400}}.ps-xf-container .global-nav-variation__desktop-navigation-item a:not(.btn):not(.ps-btn){background-size:100% 1px}.ps-xf-container .global-nav-variation__desktop-navigation-item a:not(.btn):not(.ps-btn).selected,.ps-xf-container .global-nav-variation__desktop-navigation-item a:not(.btn):not(.ps-btn):focus,.ps-xf-container .global-nav-variation__desktop-navigation-item a:not(.btn):not(.ps-btn):hover{background-size:0 1px}.ps-xf-container .global-nav-variation__desktop .btn{margin:0 0 0 32px;white-space:nowrap;overflow:visible}body{padding-top:48px!important}@media (min-width:1024px){.ps-xf-container .global-nav-variation__mobile{display:none}.ps-xf-container .global-nav-variation__desktop{height:48px;opacity:1;visibility:visible}}.ps-grid-override-min-large .ps-xf-container .global-nav-variation__mobile{display:none}.ps-grid-override-min-large .ps-xf-container .global-nav-variation__desktop{height:48px;opacity:1;visibility:visible}</style>
+            <div class="global-nav ps-critical-module ps-an-custom an-path ps-component ps-initialized" data-an-id="mini_header|main_nav" data-ps-module="global-nav-variation" data-component-name="mini_header" data-comp-id="72868877-0723-4aa4-9252-64b1d8ff2388">
+               <div class="global-nav-variation__desktop white microsite">
+                  <div class="ps-grid-v2">
+                     <div class="ps-grid-v2__inner">
+                        <div class="global-nav-variation__desktop-left ps-grid-v2__cell">
+                           <a class="global-nav-variation__logo" alt="Pure Storage" aria-label="Pure Storage" href="https://www.purestorage.com/">
+                              <div data-expand="300" data-svg="https://www.purestorage.com/content/dam/purestorage/nav/pure-logo.svg">
+                                 <!--?xml version="1.0" encoding="UTF-8"?-->
+                                 <svg width="346px" height="61px" viewBox="0 0 346 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+                                    
+                                    <desc>Created with Sketch.</desc>
+                                    <defs>
+                                       <polygon id="path-1_0" points="0.000985714286 0.059456 67.2501107 0.059456 67.2501107 61 0.000985714286 61"></polygon>
+                                    </defs>
+                                    <g id="Page-1_1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                       <g id="Group-28_2">
+                                          <g id="Group-3_3">
+                                             <mask id="mask-2_4" fill="white">
+                                                <use xlink:href="#path-1_0"></use>
+                                             </mask>
+                                             <g id="Clip-2_5"></g>
+                                             <path d="M35.9844857,61.000496 L21.11745,61.000496 C18.0494143,61.000496 15.1908429,59.338896 13.6555929,56.667936 L1.14687857,34.866256 C-0.380978571,32.190336 -0.380978571,28.869616 1.14687857,26.196176 L13.6555929,4.396976 C15.1883786,1.721056 18.0494143,0.059456 21.11745,0.059456 L46.12995,0.059456 C49.1979857,0.059456 52.0565571,1.721056 53.5942714,4.396976 L66.1005214,26.196176 C67.6333071,28.867136 67.6333071,32.190336 66.1005214,34.866256 L62.8649143,40.056896 C61.3592357,42.683216 58.4982,44.342336 55.4277,44.342336 L40.5434143,44.342336 L48.6804857,30.518816 L41.1520929,17.404576 L26.0928429,17.404576 L18.5619857,30.528736 L35.9844857,61.000496 Z" id="Fill-1_6" fill="#FE5000" mask="url(#mask-2_4)"></path>
+                                          </g>
+                                          <path d="M91.5097991,30.62631 C94.1697276,30.62631 95.865771,29.8146718 95.865771,27.0124104 C95.865771,24.2523442 94.4113152,23.4804192 91.8721805,23.4804192 L89.9370147,23.4804192 L89.9370147,30.62631 L91.5097991,30.62631 Z M89.9370147,45 L83,45 L83,18 L92.8409959,18 C99.1691113,18 103,20.9635962 103,26.5656371 C103,32.8601765 98.4443486,36.0273028 91.9929742,36.0273028 L89.9370147,36.0273028 L89.9370147,45 Z" id="Fill-4_7" fill="#222222"></path>
+                                          <path d="M113.853016,18 L113.853016,35.3489569 C113.853016,38.3798429 115.407309,39.2966676 117.597448,39.2966676 C119.67065,39.2966676 121.144548,38.0628556 121.144548,35.5489027 L121.144548,18 L128,18 L128,36.3462476 C128,41.7325928 123.695244,45 117.439095,45 C110.544664,45 107,42.2105121 107,35.7488486 L107,18 L113.853016,18 Z" id="Fill-6_8" fill="#222222"></path>
+                                          <polygon id="Fill-8_9" fill="#222222" points="158 18 175.718633 18 175.718633 24.0915694 165.004288 24.0915694 165.004288 28.1898501 174.209711 28.1898501 174.209711 34.2814195 165.004288 34.2814195 165.004288 38.9109129 176 38.9109129 176 45 158 45"></polygon>
+                                          <path d="M182.34738,39.8795031 C183.61242,40.731677 186.509287,42.1975155 189.735514,42.1975155 C192.470197,42.1975155 195.446909,41.3403727 195.446909,37.1962733 C195.446909,33.9465839 192.589964,32.8906832 189.328805,31.9962733 C185.408927,30.9403727 181.571389,29.4770186 181.571389,24.4782609 C181.571389,19.9664596 185.082063,17 190.184641,17 C193.857499,17 197.081231,18.7068323 199,20.6173913 L197.203493,22.7689441 C195.082617,20.9428571 192.712226,19.7627329 190.142223,19.7627329 C187.856668,19.7627329 184.919878,20.7391304 184.919878,24.152795 C184.919878,27.3627329 187.694483,28.2968944 191.205157,29.3552795 C194.960355,30.5329193 198.795398,31.9565217 198.795398,37.0745342 C198.795398,42.1552795 195.367064,45 189.653174,45 C185.733296,45 182.102856,43.4149068 181,42.5204969 L182.34738,39.8795031 Z" id="Fill-10_10" fill="#222222"></path>
+                                          <polygon id="Fill-12_11" fill="#222222" points="221 18 221 20.7603199 212.987747 20.7603199 212.987747 45 209.854627 45 209.854627 20.7603199 202 20.7603199 202 18"></polygon>
+                                          <path d="M234.218881,42.2770186 C239.987619,42.2770186 241.780013,36.7093168 241.780013,31.1838509 C241.780013,26.3888199 240.228388,19.7627329 234.177537,19.7627329 C228.372319,19.7627329 226.222419,25.4124224 226.222419,30.9403727 C226.222419,36.3018634 227.654875,42.2770186 234.218881,42.2770186 M233.900287,45 C227.097944,45 223,40.3267081 223,31.0596273 C223,20.6173913 228.887906,17 234.299138,17 C240.028963,17 245,20.6968944 245,31.0596273 C245,40.3664596 240.705063,45 233.900287,45" id="Fill-14_12" fill="#222222"></path>
+                                          <path d="M278.816927,34.0778707 L287.902857,34.0778707 L283.317736,20.884435 L278.816927,34.0778707 Z M272,45 L281.492615,18 L285.306523,18 L295,45 L291.632453,45 L288.67407,36.676841 L278.045714,36.676841 L275.164205,45 L272,45 Z" id="Fill-16_13" fill="#222222"></path>
+                                          <path d="M315.920261,42.5229814 C313.74556,44.026087 310.623656,45 307.185212,45 C300.269663,45 296,40.4906832 296,31.0621118 C296,20.5378882 301.929685,17 307.185212,17 C309.874592,17 313.31062,17.8546584 316,21.3900621 L313.74556,23.2186335 C312.008216,21.1068323 309.951915,19.7627329 307.146551,19.7627329 C302.166485,19.7627329 299.201643,23.9490683 299.201643,30.7763975 C299.201643,38.0931677 301.731545,42.3614907 307.46309,42.3614907 C309.519391,42.3614907 311.848737,41.6285714 312.798357,40.9354037 L312.798357,32.8931677 L306.827595,32.8931677 L306.827595,30.1279503 L315.920261,30.1279503 L315.920261,42.5229814 Z" id="Fill-18_14" fill="#222222"></path>
+                                          <polygon id="Fill-20_15" fill="#222222" points="322 18 336.721729 18 336.721729 20.7603199 325.126311 20.7603199 325.126311 29.8579572 335.1005 29.8579572 335.1005 32.6157948 325.126311 32.6157948 325.126311 42.2396801 337 42.2396801 337 45 322 45"></polygon>
+                                          <path d="M257.372383,32.4531164 L253.253114,32.4531164 L253.253114,20.6409266 L256.83859,20.6409266 C261.489133,20.6409266 264.785052,21.1671263 264.785052,26.5259239 C264.785052,30.8695532 261.738404,32.4531164 257.372383,32.4531164 Z M265.102306,36.5286817 C264.480387,35.1709873 264.08256,34.4834528 263.221442,34.0590182 C266.24291,32.7311087 268.123774,30.0777716 268.123774,26.0394374 C268.123774,20.7600662 264.661675,18 258.895706,18 L250,18 L250,45 L253.253114,45 L253.253114,35.0518478 L257.94898,35.0518478 C258.283859,35.0518478 258.611185,35.0394374 258.933475,35.0195808 L258.888153,35.0394374 C260.572621,35.0394374 261.355685,36.1241037 262.055659,37.5835632 L265.540419,44.9900717 L269,44.9900717 L265.102306,36.5286817 Z" id="Fill-22_16" fill="#222222"></path>
+                                          <path d="M139.825303,30.62631 L139.825303,23.4804192 L141.729983,23.4804192 C144.231542,23.4804192 145.660659,24.2523442 145.660659,27.0124104 C145.660659,29.8146718 143.993761,30.62631 141.37331,30.62631 L139.825303,30.62631 Z M150.392028,36.4492554 C149.996534,35.4812466 149.368111,34.7142857 148.662045,34.3469388 C151.168458,32.808053 152.684922,30.2192499 152.684922,26.5681191 C152.684922,20.9635962 148.914385,18 142.683536,18 L133,18 L133,45 L139.825303,45 L139.825303,36.0273028 L141.581976,36.0273028 C142.499133,36.0918367 143.083882,36.6081081 143.493934,37.5562603 L146.696707,44.9751793 L154,44.9751793 L150.392028,36.4492554 Z" id="Fill-24_17" fill="#222222"></path>
+                                          <path d="M342.529187,20.3031026 C343.015636,20.3031026 343.443711,20.2553699 343.443711,19.6945107 C343.443711,19.2267303 342.97672,19.1694511 342.587561,19.1694511 L341.804378,19.1694511 L341.804378,20.3031026 L342.529187,20.3031026 Z M341.804378,22.5011933 L341.157401,22.5011933 L341.157401,18.627685 L342.653231,18.627685 C343.606671,18.627685 344.09312,18.9546539 344.09312,19.7422434 C344.09312,20.4439141 343.655316,20.7326969 343.064281,20.7995227 L344.170952,22.5011933 L343.436414,22.5011933 L342.414871,20.8448687 L341.804378,20.8448687 L341.804378,22.5011933 Z M342.509729,17.6085919 C340.965254,17.6085919 339.763725,18.797136 339.763725,20.5011933 C339.763725,22.0906921 340.812022,23.3914081 342.509729,23.3914081 C344.037179,23.3914081 345.238707,22.2124105 345.238707,20.5011933 C345.238707,18.797136 344.037179,17.6085919 342.509729,17.6085919 Z M342.509729,24 C340.459347,24 339,22.4916468 339,20.5011933 C339,18.3937947 340.622307,17 342.509729,17 C344.380125,17 346,18.3937947 346,20.5011933 C346,22.6038186 344.380125,24 342.509729,24 Z" id="Fill-26_18" fill="#222222"></path>
+                                       </g>
+                                    </g>
+                                 </svg>
+                              </div>
+                           </a>
+                           <div class="global-nav-variation__desktop-text-link"></div>
+                        </div>
+                        <div class="global-nav-variation__desktop-right ps-grid-v2__cell">
+                           <a class="ps-btn ps-btn--ultimate " href="https://blog.purestorage.com/subscribe/" data-an-id="Subscribe" data-an-title="Subscribe"><span class="initial-text">Subscribe</span>
+                           </a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="global-nav-variation__mobile white microsite">
+                  <div class="ps-grid-v2">
+                     <div class="ps-grid-v2__inner">
+                        <div class="global-nav-variation__mobile-left ps-grid-v2__cell">
+                           <a class="global-nav-variation__logo" alt="Pure Storage" aria-label="Pure Storage" href="https://www.purestorage.com/">
+                              <div data-expand="300" data-svg="https://www.purestorage.com/content/dam/purestorage/nav/pure-logo.svg">
+                                 <!--?xml version="1.0" encoding="UTF-8"?-->
+                                 <svg width="346px" height="61px" viewBox="0 0 346 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+                                    
+                                    <desc>Created with Sketch.</desc>
+                                    <defs>
+                                       <polygon id="path-1_19" points="0.000985714286 0.059456 67.2501107 0.059456 67.2501107 61 0.000985714286 61"></polygon>
+                                    </defs>
+                                    <g id="Page-1_20" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                       <g id="Group-28_21">
+                                          <g id="Group-3_22">
+                                             <mask id="mask-2_23" fill="white">
+                                                <use xlink:href="#path-1_19"></use>
+                                             </mask>
+                                             <g id="Clip-2_24"></g>
+                                             <path d="M35.9844857,61.000496 L21.11745,61.000496 C18.0494143,61.000496 15.1908429,59.338896 13.6555929,56.667936 L1.14687857,34.866256 C-0.380978571,32.190336 -0.380978571,28.869616 1.14687857,26.196176 L13.6555929,4.396976 C15.1883786,1.721056 18.0494143,0.059456 21.11745,0.059456 L46.12995,0.059456 C49.1979857,0.059456 52.0565571,1.721056 53.5942714,4.396976 L66.1005214,26.196176 C67.6333071,28.867136 67.6333071,32.190336 66.1005214,34.866256 L62.8649143,40.056896 C61.3592357,42.683216 58.4982,44.342336 55.4277,44.342336 L40.5434143,44.342336 L48.6804857,30.518816 L41.1520929,17.404576 L26.0928429,17.404576 L18.5619857,30.528736 L35.9844857,61.000496 Z" id="Fill-1_25" fill="#FE5000" mask="url(#mask-2_23)"></path>
+                                          </g>
+                                          <path d="M91.5097991,30.62631 C94.1697276,30.62631 95.865771,29.8146718 95.865771,27.0124104 C95.865771,24.2523442 94.4113152,23.4804192 91.8721805,23.4804192 L89.9370147,23.4804192 L89.9370147,30.62631 L91.5097991,30.62631 Z M89.9370147,45 L83,45 L83,18 L92.8409959,18 C99.1691113,18 103,20.9635962 103,26.5656371 C103,32.8601765 98.4443486,36.0273028 91.9929742,36.0273028 L89.9370147,36.0273028 L89.9370147,45 Z" id="Fill-4_26" fill="#222222"></path>
+                                          <path d="M113.853016,18 L113.853016,35.3489569 C113.853016,38.3798429 115.407309,39.2966676 117.597448,39.2966676 C119.67065,39.2966676 121.144548,38.0628556 121.144548,35.5489027 L121.144548,18 L128,18 L128,36.3462476 C128,41.7325928 123.695244,45 117.439095,45 C110.544664,45 107,42.2105121 107,35.7488486 L107,18 L113.853016,18 Z" id="Fill-6_27" fill="#222222"></path>
+                                          <polygon id="Fill-8_28" fill="#222222" points="158 18 175.718633 18 175.718633 24.0915694 165.004288 24.0915694 165.004288 28.1898501 174.209711 28.1898501 174.209711 34.2814195 165.004288 34.2814195 165.004288 38.9109129 176 38.9109129 176 45 158 45"></polygon>
+                                          <path d="M182.34738,39.8795031 C183.61242,40.731677 186.509287,42.1975155 189.735514,42.1975155 C192.470197,42.1975155 195.446909,41.3403727 195.446909,37.1962733 C195.446909,33.9465839 192.589964,32.8906832 189.328805,31.9962733 C185.408927,30.9403727 181.571389,29.4770186 181.571389,24.4782609 C181.571389,19.9664596 185.082063,17 190.184641,17 C193.857499,17 197.081231,18.7068323 199,20.6173913 L197.203493,22.7689441 C195.082617,20.9428571 192.712226,19.7627329 190.142223,19.7627329 C187.856668,19.7627329 184.919878,20.7391304 184.919878,24.152795 C184.919878,27.3627329 187.694483,28.2968944 191.205157,29.3552795 C194.960355,30.5329193 198.795398,31.9565217 198.795398,37.0745342 C198.795398,42.1552795 195.367064,45 189.653174,45 C185.733296,45 182.102856,43.4149068 181,42.5204969 L182.34738,39.8795031 Z" id="Fill-10_29" fill="#222222"></path>
+                                          <polygon id="Fill-12_30" fill="#222222" points="221 18 221 20.7603199 212.987747 20.7603199 212.987747 45 209.854627 45 209.854627 20.7603199 202 20.7603199 202 18"></polygon>
+                                          <path d="M234.218881,42.2770186 C239.987619,42.2770186 241.780013,36.7093168 241.780013,31.1838509 C241.780013,26.3888199 240.228388,19.7627329 234.177537,19.7627329 C228.372319,19.7627329 226.222419,25.4124224 226.222419,30.9403727 C226.222419,36.3018634 227.654875,42.2770186 234.218881,42.2770186 M233.900287,45 C227.097944,45 223,40.3267081 223,31.0596273 C223,20.6173913 228.887906,17 234.299138,17 C240.028963,17 245,20.6968944 245,31.0596273 C245,40.3664596 240.705063,45 233.900287,45" id="Fill-14_31" fill="#222222"></path>
+                                          <path d="M278.816927,34.0778707 L287.902857,34.0778707 L283.317736,20.884435 L278.816927,34.0778707 Z M272,45 L281.492615,18 L285.306523,18 L295,45 L291.632453,45 L288.67407,36.676841 L278.045714,36.676841 L275.164205,45 L272,45 Z" id="Fill-16_32" fill="#222222"></path>
+                                          <path d="M315.920261,42.5229814 C313.74556,44.026087 310.623656,45 307.185212,45 C300.269663,45 296,40.4906832 296,31.0621118 C296,20.5378882 301.929685,17 307.185212,17 C309.874592,17 313.31062,17.8546584 316,21.3900621 L313.74556,23.2186335 C312.008216,21.1068323 309.951915,19.7627329 307.146551,19.7627329 C302.166485,19.7627329 299.201643,23.9490683 299.201643,30.7763975 C299.201643,38.0931677 301.731545,42.3614907 307.46309,42.3614907 C309.519391,42.3614907 311.848737,41.6285714 312.798357,40.9354037 L312.798357,32.8931677 L306.827595,32.8931677 L306.827595,30.1279503 L315.920261,30.1279503 L315.920261,42.5229814 Z" id="Fill-18_33" fill="#222222"></path>
+                                          <polygon id="Fill-20_34" fill="#222222" points="322 18 336.721729 18 336.721729 20.7603199 325.126311 20.7603199 325.126311 29.8579572 335.1005 29.8579572 335.1005 32.6157948 325.126311 32.6157948 325.126311 42.2396801 337 42.2396801 337 45 322 45"></polygon>
+                                          <path d="M257.372383,32.4531164 L253.253114,32.4531164 L253.253114,20.6409266 L256.83859,20.6409266 C261.489133,20.6409266 264.785052,21.1671263 264.785052,26.5259239 C264.785052,30.8695532 261.738404,32.4531164 257.372383,32.4531164 Z M265.102306,36.5286817 C264.480387,35.1709873 264.08256,34.4834528 263.221442,34.0590182 C266.24291,32.7311087 268.123774,30.0777716 268.123774,26.0394374 C268.123774,20.7600662 264.661675,18 258.895706,18 L250,18 L250,45 L253.253114,45 L253.253114,35.0518478 L257.94898,35.0518478 C258.283859,35.0518478 258.611185,35.0394374 258.933475,35.0195808 L258.888153,35.0394374 C260.572621,35.0394374 261.355685,36.1241037 262.055659,37.5835632 L265.540419,44.9900717 L269,44.9900717 L265.102306,36.5286817 Z" id="Fill-22_35" fill="#222222"></path>
+                                          <path d="M139.825303,30.62631 L139.825303,23.4804192 L141.729983,23.4804192 C144.231542,23.4804192 145.660659,24.2523442 145.660659,27.0124104 C145.660659,29.8146718 143.993761,30.62631 141.37331,30.62631 L139.825303,30.62631 Z M150.392028,36.4492554 C149.996534,35.4812466 149.368111,34.7142857 148.662045,34.3469388 C151.168458,32.808053 152.684922,30.2192499 152.684922,26.5681191 C152.684922,20.9635962 148.914385,18 142.683536,18 L133,18 L133,45 L139.825303,45 L139.825303,36.0273028 L141.581976,36.0273028 C142.499133,36.0918367 143.083882,36.6081081 143.493934,37.5562603 L146.696707,44.9751793 L154,44.9751793 L150.392028,36.4492554 Z" id="Fill-24_36" fill="#222222"></path>
+                                          <path d="M342.529187,20.3031026 C343.015636,20.3031026 343.443711,20.2553699 343.443711,19.6945107 C343.443711,19.2267303 342.97672,19.1694511 342.587561,19.1694511 L341.804378,19.1694511 L341.804378,20.3031026 L342.529187,20.3031026 Z M341.804378,22.5011933 L341.157401,22.5011933 L341.157401,18.627685 L342.653231,18.627685 C343.606671,18.627685 344.09312,18.9546539 344.09312,19.7422434 C344.09312,20.4439141 343.655316,20.7326969 343.064281,20.7995227 L344.170952,22.5011933 L343.436414,22.5011933 L342.414871,20.8448687 L341.804378,20.8448687 L341.804378,22.5011933 Z M342.509729,17.6085919 C340.965254,17.6085919 339.763725,18.797136 339.763725,20.5011933 C339.763725,22.0906921 340.812022,23.3914081 342.509729,23.3914081 C344.037179,23.3914081 345.238707,22.2124105 345.238707,20.5011933 C345.238707,18.797136 344.037179,17.6085919 342.509729,17.6085919 Z M342.509729,24 C340.459347,24 339,22.4916468 339,20.5011933 C339,18.3937947 340.622307,17 342.509729,17 C344.380125,17 346,18.3937947 346,20.5011933 C346,22.6038186 344.380125,24 342.509729,24 Z" id="Fill-26_37" fill="#222222"></path>
+                                       </g>
+                                    </g>
+                                 </svg>
+                              </div>
+                           </a>
+                        </div>
+                        <div class="global-nav-variation__mobile-right ps-grid-v2__cell">
+                           <a class="btn btn-line black-text " href="https://blog.purestorage.com/subscribe/" data-an-id="Subscribe" data-an-title="Subscribe">
+                              <span class="initial-text">Subscribe</span>
+                              <svg width="12" height="10" viewBox="0 0 12 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M11 5.39453L6.73333 1.39453M11 5.39453L6.73333 9.39453M11 5.39453H1" stroke-linecap="round" stroke-linejoin="round"></path>
+                              </svg>
+                           </a>
+                           <div class="global-nav-variation__mobile-menu">
+                              <span class="lines"></span>
+                           </div>
+                        </div>
+                        <div class="global-nav-variation__mobile-overlay">
+                           <div class="global-nav-variation__mobile-overlay-head">
+                              <a class="global-nav-variation__logo" alt="Pure Storage" aria-label="Pure Storage" href="https://www.purestorage.com/">
+                                 <div data-expand="300" data-svg="https://www.purestorage.com/content/dam/purestorage/nav/pure-logo.svg">
+                                    <!--?xml version="1.0" encoding="UTF-8"?-->
+                                    <svg width="346px" height="61px" viewBox="0 0 346 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                       <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+                                       
+                                       <desc>Created with Sketch.</desc>
+                                       <defs>
+                                          <polygon id="path-1_38" points="0.000985714286 0.059456 67.2501107 0.059456 67.2501107 61 0.000985714286 61"></polygon>
+                                       </defs>
+                                       <g id="Page-1_39" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                          <g id="Group-28_40">
+                                             <g id="Group-3_41">
+                                                <mask id="mask-2_42" fill="white">
+                                                   <use xlink:href="#path-1_38"></use>
+                                                </mask>
+                                                <g id="Clip-2_43"></g>
+                                                <path d="M35.9844857,61.000496 L21.11745,61.000496 C18.0494143,61.000496 15.1908429,59.338896 13.6555929,56.667936 L1.14687857,34.866256 C-0.380978571,32.190336 -0.380978571,28.869616 1.14687857,26.196176 L13.6555929,4.396976 C15.1883786,1.721056 18.0494143,0.059456 21.11745,0.059456 L46.12995,0.059456 C49.1979857,0.059456 52.0565571,1.721056 53.5942714,4.396976 L66.1005214,26.196176 C67.6333071,28.867136 67.6333071,32.190336 66.1005214,34.866256 L62.8649143,40.056896 C61.3592357,42.683216 58.4982,44.342336 55.4277,44.342336 L40.5434143,44.342336 L48.6804857,30.518816 L41.1520929,17.404576 L26.0928429,17.404576 L18.5619857,30.528736 L35.9844857,61.000496 Z" id="Fill-1_44" fill="#FE5000" mask="url(#mask-2_42)"></path>
+                                             </g>
+                                             <path d="M91.5097991,30.62631 C94.1697276,30.62631 95.865771,29.8146718 95.865771,27.0124104 C95.865771,24.2523442 94.4113152,23.4804192 91.8721805,23.4804192 L89.9370147,23.4804192 L89.9370147,30.62631 L91.5097991,30.62631 Z M89.9370147,45 L83,45 L83,18 L92.8409959,18 C99.1691113,18 103,20.9635962 103,26.5656371 C103,32.8601765 98.4443486,36.0273028 91.9929742,36.0273028 L89.9370147,36.0273028 L89.9370147,45 Z" id="Fill-4_45" fill="#222222"></path>
+                                             <path d="M113.853016,18 L113.853016,35.3489569 C113.853016,38.3798429 115.407309,39.2966676 117.597448,39.2966676 C119.67065,39.2966676 121.144548,38.0628556 121.144548,35.5489027 L121.144548,18 L128,18 L128,36.3462476 C128,41.7325928 123.695244,45 117.439095,45 C110.544664,45 107,42.2105121 107,35.7488486 L107,18 L113.853016,18 Z" id="Fill-6_46" fill="#222222"></path>
+                                             <polygon id="Fill-8_47" fill="#222222" points="158 18 175.718633 18 175.718633 24.0915694 165.004288 24.0915694 165.004288 28.1898501 174.209711 28.1898501 174.209711 34.2814195 165.004288 34.2814195 165.004288 38.9109129 176 38.9109129 176 45 158 45"></polygon>
+                                             <path d="M182.34738,39.8795031 C183.61242,40.731677 186.509287,42.1975155 189.735514,42.1975155 C192.470197,42.1975155 195.446909,41.3403727 195.446909,37.1962733 C195.446909,33.9465839 192.589964,32.8906832 189.328805,31.9962733 C185.408927,30.9403727 181.571389,29.4770186 181.571389,24.4782609 C181.571389,19.9664596 185.082063,17 190.184641,17 C193.857499,17 197.081231,18.7068323 199,20.6173913 L197.203493,22.7689441 C195.082617,20.9428571 192.712226,19.7627329 190.142223,19.7627329 C187.856668,19.7627329 184.919878,20.7391304 184.919878,24.152795 C184.919878,27.3627329 187.694483,28.2968944 191.205157,29.3552795 C194.960355,30.5329193 198.795398,31.9565217 198.795398,37.0745342 C198.795398,42.1552795 195.367064,45 189.653174,45 C185.733296,45 182.102856,43.4149068 181,42.5204969 L182.34738,39.8795031 Z" id="Fill-10_48" fill="#222222"></path>
+                                             <polygon id="Fill-12_49" fill="#222222" points="221 18 221 20.7603199 212.987747 20.7603199 212.987747 45 209.854627 45 209.854627 20.7603199 202 20.7603199 202 18"></polygon>
+                                             <path d="M234.218881,42.2770186 C239.987619,42.2770186 241.780013,36.7093168 241.780013,31.1838509 C241.780013,26.3888199 240.228388,19.7627329 234.177537,19.7627329 C228.372319,19.7627329 226.222419,25.4124224 226.222419,30.9403727 C226.222419,36.3018634 227.654875,42.2770186 234.218881,42.2770186 M233.900287,45 C227.097944,45 223,40.3267081 223,31.0596273 C223,20.6173913 228.887906,17 234.299138,17 C240.028963,17 245,20.6968944 245,31.0596273 C245,40.3664596 240.705063,45 233.900287,45" id="Fill-14_50" fill="#222222"></path>
+                                             <path d="M278.816927,34.0778707 L287.902857,34.0778707 L283.317736,20.884435 L278.816927,34.0778707 Z M272,45 L281.492615,18 L285.306523,18 L295,45 L291.632453,45 L288.67407,36.676841 L278.045714,36.676841 L275.164205,45 L272,45 Z" id="Fill-16_51" fill="#222222"></path>
+                                             <path d="M315.920261,42.5229814 C313.74556,44.026087 310.623656,45 307.185212,45 C300.269663,45 296,40.4906832 296,31.0621118 C296,20.5378882 301.929685,17 307.185212,17 C309.874592,17 313.31062,17.8546584 316,21.3900621 L313.74556,23.2186335 C312.008216,21.1068323 309.951915,19.7627329 307.146551,19.7627329 C302.166485,19.7627329 299.201643,23.9490683 299.201643,30.7763975 C299.201643,38.0931677 301.731545,42.3614907 307.46309,42.3614907 C309.519391,42.3614907 311.848737,41.6285714 312.798357,40.9354037 L312.798357,32.8931677 L306.827595,32.8931677 L306.827595,30.1279503 L315.920261,30.1279503 L315.920261,42.5229814 Z" id="Fill-18_52" fill="#222222"></path>
+                                             <polygon id="Fill-20_53" fill="#222222" points="322 18 336.721729 18 336.721729 20.7603199 325.126311 20.7603199 325.126311 29.8579572 335.1005 29.8579572 335.1005 32.6157948 325.126311 32.6157948 325.126311 42.2396801 337 42.2396801 337 45 322 45"></polygon>
+                                             <path d="M257.372383,32.4531164 L253.253114,32.4531164 L253.253114,20.6409266 L256.83859,20.6409266 C261.489133,20.6409266 264.785052,21.1671263 264.785052,26.5259239 C264.785052,30.8695532 261.738404,32.4531164 257.372383,32.4531164 Z M265.102306,36.5286817 C264.480387,35.1709873 264.08256,34.4834528 263.221442,34.0590182 C266.24291,32.7311087 268.123774,30.0777716 268.123774,26.0394374 C268.123774,20.7600662 264.661675,18 258.895706,18 L250,18 L250,45 L253.253114,45 L253.253114,35.0518478 L257.94898,35.0518478 C258.283859,35.0518478 258.611185,35.0394374 258.933475,35.0195808 L258.888153,35.0394374 C260.572621,35.0394374 261.355685,36.1241037 262.055659,37.5835632 L265.540419,44.9900717 L269,44.9900717 L265.102306,36.5286817 Z" id="Fill-22_54" fill="#222222"></path>
+                                             <path d="M139.825303,30.62631 L139.825303,23.4804192 L141.729983,23.4804192 C144.231542,23.4804192 145.660659,24.2523442 145.660659,27.0124104 C145.660659,29.8146718 143.993761,30.62631 141.37331,30.62631 L139.825303,30.62631 Z M150.392028,36.4492554 C149.996534,35.4812466 149.368111,34.7142857 148.662045,34.3469388 C151.168458,32.808053 152.684922,30.2192499 152.684922,26.5681191 C152.684922,20.9635962 148.914385,18 142.683536,18 L133,18 L133,45 L139.825303,45 L139.825303,36.0273028 L141.581976,36.0273028 C142.499133,36.0918367 143.083882,36.6081081 143.493934,37.5562603 L146.696707,44.9751793 L154,44.9751793 L150.392028,36.4492554 Z" id="Fill-24_55" fill="#222222"></path>
+                                             <path d="M342.529187,20.3031026 C343.015636,20.3031026 343.443711,20.2553699 343.443711,19.6945107 C343.443711,19.2267303 342.97672,19.1694511 342.587561,19.1694511 L341.804378,19.1694511 L341.804378,20.3031026 L342.529187,20.3031026 Z M341.804378,22.5011933 L341.157401,22.5011933 L341.157401,18.627685 L342.653231,18.627685 C343.606671,18.627685 344.09312,18.9546539 344.09312,19.7422434 C344.09312,20.4439141 343.655316,20.7326969 343.064281,20.7995227 L344.170952,22.5011933 L343.436414,22.5011933 L342.414871,20.8448687 L341.804378,20.8448687 L341.804378,22.5011933 Z M342.509729,17.6085919 C340.965254,17.6085919 339.763725,18.797136 339.763725,20.5011933 C339.763725,22.0906921 340.812022,23.3914081 342.509729,23.3914081 C344.037179,23.3914081 345.238707,22.2124105 345.238707,20.5011933 C345.238707,18.797136 344.037179,17.6085919 342.509729,17.6085919 Z M342.509729,24 C340.459347,24 339,22.4916468 339,20.5011933 C339,18.3937947 340.622307,17 342.509729,17 C344.380125,17 346,18.3937947 346,20.5011933 C346,22.6038186 344.380125,24 342.509729,24 Z" id="Fill-26_56" fill="#222222"></path>
+                                          </g>
+                                       </g>
+                                    </svg>
+                                 </div>
+                              </a>
+                              <div class="global-nav-variation__mobile-overlay-close-btn"></div>
+                           </div>
+                           <div class="global-nav-variation__mobile-content">
+                              <hr>
+                              <a class="btn btn-line light-text " href="https://blog.purestorage.com/subscribe/" data-an-id="Subscribe" data-an-title="Subscribe">
+                                 <span class="initial-text">Subscribe</span>
+                                 <svg width="12" height="10" viewBox="0 0 12 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M11 5.39453L6.73333 1.39453M11 5.39453L6.73333 9.39453M11 5.39453H1" stroke-linecap="round" stroke-linejoin="round"></path>
+                                 </svg>
+                              </a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="alert-bar__placeholder"></div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>    <div class="gheader-top">
+        <div class="ps-grid">
+            <div class="ps-grid__inner">
+                <div class="ps-grid__cell gheader-top__wrapper">
+                    <a class="gheader__logo" href="https://blog.purestorage.com">Blog Home</a>
+                    <button type="button" class="menu-burger" title="Menu">
+                        <span class="menu-burger__icon"></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="gheader-bottom">
+        <div class="ps-grid">
+                <div class="ps-grid__inner">
+                    <div class="ps-grid__cell ps-grid__cell--span-9-desktop gheader-bottom__navigation">
+                        <div class="logo-icon"><a href="https://blog.purestorage.com"></a></div>
+                        <button type="button" class="close-burger" title="Menu">
+                        </button>
+                        <a class="gheader__logo" href="https://blog.purestorage.com">Blog Home</a>
+                        <div class="gheader__menu-title">Blog Categories</div>
+                        <nav class="menu menu--main" id="mainnav">
+                            <ul id="menu-main"><li itemscope="itemscope" data-color="" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-91902" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-91902 nav-item item-lvl-0"><a itemprop="url" class="nav-link" title="Perspectives" href="https://blog.purestorage.com/perspectives/"><span itemprop="name" class="inner">Perspectives</span></a></li>
+<li itemscope="itemscope" data-color="" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-91903" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-91903 nav-item item-lvl-0"><a itemprop="url" class="nav-link" title="Solutions" href="https://blog.purestorage.com/solutions/"><span itemprop="name" class="inner">Solutions</span></a></li>
+<li itemscope="itemscope" data-color="" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-91904" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-91904 nav-item item-lvl-0"><a itemprop="url" class="nav-link" title="Products" href="https://blog.purestorage.com/products/"><span itemprop="name" class="inner">Products</span></a></li>
+<li itemscope="itemscope" data-color="" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-91905" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-91905 nav-item item-lvl-0"><a itemprop="url" class="nav-link" title="News &amp; Events" href="https://blog.purestorage.com/news-events/"><span itemprop="name" class="inner">News &amp; Events</span></a></li>
+<li itemscope="itemscope" data-color="" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-91907" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-91907 nav-item item-lvl-0"><a itemprop="url" class="nav-link" title="Purely Technical" href="https://blog.purestorage.com/purely-technical/"><span itemprop="name" class="inner">Purely Technical</span></a></li>
+<li itemscope="itemscope" data-color="" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-104145" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-104145 nav-item item-lvl-0"><a itemprop="url" class="nav-link" title="Purely Educational" href="https://blog.purestorage.com/purely-informational/"><span itemprop="name" class="inner">Purely Educational</span></a></li>
+</ul>                        </nav>
+                        <hr>
+                        <div class="lang-switcher">
+    <button class="btn btn--black" type="button">
+		<div class="svg-icon svg-icon--world"><div class="positioner"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M13.6 21.6c-.2 0-.2 0-.4-.2s-.2-.2-.2-.4v-3.6c-.8-.2-1.4-.6-1.8-1.2-.6-.6-.8-1.2-.8-2v-.8c-1.4 0-2.8-.6-3.8-1.6S5 9.6 5 8c0-1.6.6-3 1.8-4 1.4-1 3-1.4 5.2-1.6.4 0 1 .2 1.6.4.2 0 .4.2.4.4 0 1.4-.4 2.6-1 3.8.6.6 1 1.4 1 2 0 .2 0 .6-.2.8-.2.2-.6.2-.8.2-.2 0-.4-.2-.8-.4-.2-.4-.8-.6-1-.6-.2 0-.6.2-.8.4-.2.2-.4.4-.4.8 0 .6.2 1 .6 1.4.6.2 1.2.4 1.8.4h2c1 0 1.8.4 2.6 1.2.6.6 1 1.4 1 2.4 0 1.4-.6 2.8-1.4 4.2-1.2 1.2-2.2 1.8-3 1.8zM0 12c0 3.4 1.4 6 3.6 8.4 2.2 2.4 5 3.6 8.4 3.6s6.2-1.2 8.4-3.6c2.4-2.2 3.6-5 3.6-8.4s-1.2-6.2-3.6-8.4C18.2 1.2 15.4 0 12 0S5.8 1.2 3.6 3.6C1.2 5.8 0 8.6 0 12z"/></svg></div></div>		<span>English</span>
+	</button>
+    <div class="lang-switcher__list">
+        <ul id="menu-language-selector"><li itemscope="itemscope" data-color="" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-wpml-ls-912-en" class="menu-item wpml-ls-slot-912 wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-912-en nav-item item-lvl-0"><a title="English" href="https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/"><i class="fa English" aria-hidden="true"></i>&nbsp;<span class="wpml-ls-native" lang="en">English</span></span></a></li>
+<li itemscope="itemscope" data-color="" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-wpml-ls-912-de" class="menu-item wpml-ls-slot-912 wpml-ls-item wpml-ls-item-de wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-912-de nav-item item-lvl-0"><a title="Deutsch" href="https://blog.purestorage.com/de/"><i class="fa Deutsch" aria-hidden="true"></i>&nbsp;<span class="wpml-ls-native" lang="de">Deutsch</span></span></a></li>
+<li itemscope="itemscope" data-color="" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-wpml-ls-912-ja" class="menu-item wpml-ls-slot-912 wpml-ls-item wpml-ls-item-ja wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-912-ja nav-item item-lvl-0"><a title="日本語" href="https://blog.purestorage.com/ja/"><i class="fa 日本語" aria-hidden="true"></i>&nbsp;<span class="wpml-ls-native" lang="ja">日本語</span></span></a></li>
+<li itemscope="itemscope" data-color="" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-wpml-ls-912-ko" class="menu-item wpml-ls-slot-912 wpml-ls-item wpml-ls-item-ko wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-912-ko nav-item item-lvl-0"><a title="한국어" href="https://blog.purestorage.com/ko/"><i class="fa 한국어" aria-hidden="true"></i>&nbsp;<span class="wpml-ls-native" lang="ko">한국어</span></span></a></li>
+<li itemscope="itemscope" data-color="" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-wpml-ls-912-it" class="menu-item wpml-ls-slot-912 wpml-ls-item wpml-ls-item-it wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-912-it nav-item item-lvl-0"><a title="Italiano" href="https://blog.purestorage.com/it/"><i class="fa Italiano" aria-hidden="true"></i>&nbsp;<span class="wpml-ls-native" lang="it">Italiano</span></span></a></li>
+<li itemscope="itemscope" data-color="" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-wpml-ls-912-fr" class="menu-item wpml-ls-slot-912 wpml-ls-item wpml-ls-item-fr wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-912-fr nav-item item-lvl-0"><a title="Français" href="https://blog.purestorage.com/fr/"><i class="fa Français" aria-hidden="true"></i>&nbsp;<span class="wpml-ls-native" lang="fr">Français</span></span></a></li>
+</ul>    </div>
+</div>                        <nav class="social-links"><ul><li>Follow us: </li><li><a href="https://www.facebook.com/PureStorage/" target="_blank"><div class="svg-icon svg-icon--facebook"><div class="positioner"><svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="none" viewBox="0 0 29 29"><path fill="#919191" fill-rule="evenodd" d="M14.09.1a14.08 14.08 0 012.2 28v-9.85h3.28l.62-4.07h-3.9v-2.64c0-1.11.54-2.2 2.3-2.2h1.77V5.87s-1.61-.27-3.16-.27c-3.21 0-5.32 1.95-5.32 5.48v3.1H8.31v4.07h3.57v9.85a14.09 14.09 0 012.2-28z" clip-rule="evenodd"/></svg></div></div></a></li><li><a href="https://twitter.com/purestorage" target="_blank"><div class="svg-icon svg-icon--twitter"><div class="positioner"><svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="none" viewBox="0 0 28 28"><path fill="#919191" d="M14 0a14 14 0 100 28 14 14 0 000-28zm7.03 11.35v.43c0 4.46-3.39 9.6-9.6 9.6-1.9 0-3.68-.55-5.17-1.51a6.79 6.79 0 005-1.4 3.37 3.37 0 01-3.15-2.34 3.17 3.17 0 001.52-.06 3.37 3.37 0 01-2.7-3.3v-.05c.45.25.97.4 1.52.42a3.38 3.38 0 01-1.05-4.5 9.58 9.58 0 006.96 3.53 3.38 3.38 0 015.75-3.08c.76-.16 1.48-.44 2.14-.82-.26.79-.79 1.45-1.49 1.87a6.92 6.92 0 001.94-.54 6.6 6.6 0 01-1.67 1.75z"/></svg></div></div></a></li><li><a href="https://www.linkedin.com/company/pure-storage/" target="_blank"><div class="svg-icon svg-icon--linkedin"><div class="positioner"><svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="none" viewBox="0 0 28 28"><path fill="#919191" fill-rule="evenodd" d="M28 14a14 14 0 11-28 0 14 14 0 0128 0zm-5.64 6.89v-5.77c0-3.1-1.65-4.51-3.84-4.51-1.77 0-2.57 1-3.02 1.67v-1.42h-3.35c.05.94 0 10.05 0 10.05h3.35V15.3c0-.3 0-.6.1-.83.25-.6.8-1.22 1.72-1.22 1.22 0 1.7.92 1.7 2.27v5.37h3.34zm-6.86-8.61v.02h-.03l.03-.02zM6.76 7.74c0-1 .75-1.75 1.9-1.75 1.12 0 1.85.75 1.87 1.75 0 .97-.72 1.74-1.9 1.74h-.02c-1.12 0-1.85-.77-1.85-1.74zm3.55 13.15H6.96V10.83h3.35V20.9z" clip-rule="evenodd"/></svg></div></div></a></li><li><a href="https://www.youtube.com/@purestorage" target="_blank"><div class="svg-icon svg-icon--youtube"><div class="positioner"><svg xmlns="http://www.w3.org/2000/svg" width="29" height="28" fill="none" viewBox="0 0 29 28"><path fill="#919191" fill-rule="evenodd" d="M14.17 28a14 14 0 100-28 14 14 0 000 28zM23.4 9.12a2.44 2.44 0 00-1.7-1.72c-1.5-.4-7.52-.4-7.52-.4s-6.02 0-7.52.4c-.84.22-1.48.88-1.71 1.72-.4 1.51-.4 4.66-.4 4.66s0 3.15.41 4.66c.22.83.88 1.49 1.7 1.72 1.5.4 7.52.4 7.52.4s6.02 0 7.53-.4a2.42 2.42 0 001.7-1.72c.4-1.5.4-4.66.4-4.66s0-3.15-.4-4.66zM12.2 16.65l5.03-2.87-5.03-2.86v5.73z" clip-rule="evenodd"/></svg></div></div></a></li></ul></nav>                    </div>
+                    <div class="ps-grid__cell ps-grid__cell--span-3-desktop gheader-bottom__search">
+                        <form action="https://blog.purestorage.com">
+    <div class="search-input">
+        <input name="s" type="text" placeholder="Search here..." autocomplete="off">
+        <button type="submit"><div class="svg-icon svg-icon--search"><div class="positioner"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M10.569 0C4.741 0 0 4.741 0 10.569c0 5.827 4.741 10.569 10.569 10.569 5.827 0 10.569-4.742 10.569-10.569C21.139 4.741 16.396 0 10.569 0zm0 19.188c-4.752 0-8.618-3.867-8.618-8.618 0-4.752 3.866-8.618 8.618-8.618 4.751 0 8.618 3.866 8.618 8.618.001 4.75-3.867 8.618-8.618 8.618z"/><path d="M23.715 22.334l-5.594-5.593a.974.974 0 00-1.38 0 .974.974 0 000 1.38l5.593 5.594a.979.979 0 001.38 0 .976.976 0 00.001-1.381z"/></svg></div></div></button>
+    </div>
+</form>                    </div>
+                </div>
+            </div>
+    </div>
+</header>
+<main id="contentarea">
+<div class="page-header">
+    <div class="ps-grid">
+        <div class="ps-grid__inner">
+            <div class="ps-grid__cell ps-grid__cell--span-9-desktop">
+                <div class="post-header">
+                                        <div class="post-category"><a href="https://blog.purestorage.com/purely-technical/">Purely Technical</a></div>
+                    
+                    <h1 class="post-title post-header__title">Streamlining Azure VMware Solution: Automating Pure Cloud Block Store Expansion</h1>
+
+                                        <p class="post-excerpt post-header__subtitle">This blog post explores the seamless integration of Azure Functions for managing Azure VMware Solution (AVS) infrastructure alongside the automation of expanding Pure Cloud Block Store capacity. 
+</p>
+                    
+                    <div class="post-header__taglist">
+                        <ul class="post-tags visible_tablet"><li><a class="btn btn--flex btn--orange" href="https://blog.purestorage.com/tag/azure/">Azure</a></li><li><a class="btn btn--flex btn--orange" href="https://blog.purestorage.com/tag/cloud-migration/">Cloud Migration</a></li><li><a class="btn btn--flex btn--orange" href="https://blog.purestorage.com/tag/featured/">Featured</a></li><li><a class="btn btn--flex btn--orange" href="https://blog.purestorage.com/tag/pure-cloud-block-store/">Pure Cloud Block Store</a></li><li><a class="btn btn--flex btn--orange" href="https://blog.purestorage.com/tag/vmware/">VMware</a></li></ul>                    </div>
+
+                    <div class="post-thumb">
+                        <div class="positioner">
+                            <img width="768" height="504" src="https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-11-at-12.07.46-PM-768x504.png" class="webfeedsFeaturedVisual wp-post-image" alt="Azure VMware Solution" decoding="async" fetchpriority="high" srcset="https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-11-at-12.07.46-PM-768x504.png 768w, https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-11-at-12.07.46-PM-670x440.png 670w, https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-11-at-12.07.46-PM-1400x919.png 1400w, https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-11-at-12.07.46-PM-1536x1008.png 1536w, https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-11-at-12.07.46-PM-150x98.png 150w, https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-11-at-12.07.46-PM.png 1650w" sizes="(max-width: 768px) 100vw, 768px" />                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="ps-grid__cell ps-grid__cell--span-3-desktop">
+                <div class="blog-sidebar">
+                    <div class="blog-sidebar__widget">
+                        <div class="post-meta">
+                                                        <p class="post-meta__readtime">5 min Read</p>
+                                                        <p class="post-meta__date">Apr 16, 2024</p>
+                            <div class="post-actions">
+                                
+<button class="post-action post-like" data-id="139963" type="button"><span class="post-action__count">0</span> <div class="svg-icon svg-icon--like"><div class="positioner"><svg width="8" height="8" viewBox="0 0 8 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1.75 2.72506L1.539 2.59106L1.5 2.65206V2.72506H1.75ZM3.099 0.605062L3.3095 0.740062L3.099 0.605062ZM4.4325 1.36006L4.2085 1.24856L4.4325 1.36056V1.36006ZM3.75 2.72506L3.5265 2.61306C3.5074 2.65118 3.49837 2.69354 3.50025 2.73613C3.50214 2.77872 3.51489 2.82012 3.53729 2.8564C3.55968 2.89267 3.59098 2.92262 3.62821 2.94339C3.66544 2.96416 3.70737 2.97506 3.75 2.97506V2.72506ZM7.25 5.22506L7.45 5.37506L7.5 5.30856V5.22506H7.25ZM6.05 6.82506L6.25 6.97506L6.05 6.82506ZM4.141 0.359562L4.2695 0.145062L4.141 0.360062V0.359562ZM0 2.47506V7.47506H0.5V2.47506H0ZM1.961 2.85906L3.3095 0.740062L2.888 0.471062L1.539 2.59106L1.961 2.85906ZM4.2085 1.24906L3.5265 2.61256L3.9735 2.83656L4.656 1.47156L4.2085 1.24806V1.24906ZM3.75 2.97506H6.25V2.47506H3.75V2.97506ZM7 3.72506V5.22506H7.5V3.72506H7ZM7.05 5.07506L5.85 6.67506L6.25 6.97506L7.45 5.37506L7.05 5.07506ZM5.25 6.97506H2.75V7.47506H5.25V6.97506ZM2 6.22506V2.72506H1.5V6.22506H2ZM6.25 2.97506C6.44891 2.97506 6.63968 3.05408 6.78033 3.19473C6.92098 3.33538 7 3.52615 7 3.72506H7.5C7.5 3.39354 7.3683 3.0756 7.13388 2.84118C6.89946 2.60676 6.58152 2.47506 6.25 2.47506V2.97506ZM2.75 6.97506C2.55109 6.97506 2.36032 6.89604 2.21967 6.75539C2.07902 6.61474 2 6.42397 2 6.22506H1.5C1.5 6.55658 1.6317 6.87453 1.86612 7.10895C2.10054 7.34337 2.41848 7.47506 2.75 7.47506V6.97506ZM4.012 0.574062C4.244 0.713062 4.3295 1.00706 4.2085 1.24906L4.656 1.47206C4.77061 1.24286 4.79447 0.978849 4.72281 0.732816C4.65115 0.486784 4.48926 0.276872 4.2695 0.145062L4.012 0.574062ZM5.85 6.67506C5.78014 6.76821 5.68955 6.84381 5.58541 6.89588C5.48127 6.94795 5.36643 6.97506 5.25 6.97506V7.47506C5.44406 7.47506 5.63545 7.42988 5.80902 7.3431C5.98259 7.25631 6.13357 7.13031 6.25 6.97506L5.85 6.67506ZM3.31 0.740062C3.46 0.503062 3.772 0.430062 4.012 0.574062L4.27 0.145062C4.04267 0.00858809 3.77103 -0.0337077 3.51297 0.0271883C3.25491 0.0880842 3.03084 0.247356 2.8885 0.471062L3.31 0.739562V0.740062Z" fill="#474747"/>
+</svg>
+</div></div></button>                                <div class="post-action post-share">
+    <span class="post-action__count">Share</span> <div class="svg-icon svg-icon--share"><div class="positioner"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M11.5 1.84v13.72h.97V1.84l2.13 2.14.68-.68-3.3-3.3-3.33 3.3.68.68 2.17-2.14zm3.33 5.28v.97h4.2c.61 0 1.13.51 1.13 1.13V21.9c0 .62-.5 1.12-1.13 1.13H4.93c-.62 0-1.12-.51-1.13-1.13V9.22c0-.62.52-1.13 1.13-1.13h3.88v-.97H4.93a2.1 2.1 0 00-2.1 2.1V21.9c0 1.16.94 2.1 2.1 2.1h14.13a2.1 2.1 0 002.11-2.1V9.22a2.15 2.15 0 00-2.14-2.1h-4.2z"/></svg></div></div>    <div class="post-share__links">
+        <ul><li><a href="https://www.facebook.com/sharer/sharer.php?u=https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/" target="_blank"><div class="svg-icon svg-icon--facebook"><div class="positioner"><svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="none" viewBox="0 0 29 29"><path fill="#919191" fill-rule="evenodd" d="M14.09.1a14.08 14.08 0 012.2 28v-9.85h3.28l.62-4.07h-3.9v-2.64c0-1.11.54-2.2 2.3-2.2h1.77V5.87s-1.61-.27-3.16-.27c-3.21 0-5.32 1.95-5.32 5.48v3.1H8.31v4.07h3.57v9.85a14.09 14.09 0 012.2-28z" clip-rule="evenodd"/></svg></div></div></a></li><li><a href="https://twitter.com/intent/tweet?text=Streamlining Azure VMware Solution: Automating Pure Cloud Block Store Expansion%0Ahttps://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/" target="_blank"><div class="svg-icon svg-icon--twitter"><div class="positioner"><svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="none" viewBox="0 0 28 28"><path fill="#919191" d="M14 0a14 14 0 100 28 14 14 0 000-28zm7.03 11.35v.43c0 4.46-3.39 9.6-9.6 9.6-1.9 0-3.68-.55-5.17-1.51a6.79 6.79 0 005-1.4 3.37 3.37 0 01-3.15-2.34 3.17 3.17 0 001.52-.06 3.37 3.37 0 01-2.7-3.3v-.05c.45.25.97.4 1.52.42a3.38 3.38 0 01-1.05-4.5 9.58 9.58 0 006.96 3.53 3.38 3.38 0 015.75-3.08c.76-.16 1.48-.44 2.14-.82-.26.79-.79 1.45-1.49 1.87a6.92 6.92 0 001.94-.54 6.6 6.6 0 01-1.67 1.75z"/></svg></div></div></a></li><li><a href="https://www.linkedin.com/shareArticle?mini=true&url=https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/" target="_blank"><div class="svg-icon svg-icon--linkedin"><div class="positioner"><svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="none" viewBox="0 0 28 28"><path fill="#919191" fill-rule="evenodd" d="M28 14a14 14 0 11-28 0 14 14 0 0128 0zm-5.64 6.89v-5.77c0-3.1-1.65-4.51-3.84-4.51-1.77 0-2.57 1-3.02 1.67v-1.42h-3.35c.05.94 0 10.05 0 10.05h3.35V15.3c0-.3 0-.6.1-.83.25-.6.8-1.22 1.72-1.22 1.22 0 1.7.92 1.7 2.27v5.37h3.34zm-6.86-8.61v.02h-.03l.03-.02zM6.76 7.74c0-1 .75-1.75 1.9-1.75 1.12 0 1.85.75 1.87 1.75 0 .97-.72 1.74-1.9 1.74h-.02c-1.12 0-1.85-.77-1.85-1.74zm3.55 13.15H6.96V10.83h3.35V20.9z" clip-rule="evenodd"/></svg></div></div></a></li></ul>    </div>
+</div>                            </div>
+                        </div>
+                    </div>
+                    <div class="blog-sidebar__taglist">
+                        <ul class="post-tags visible_tablet"><li><a class="btn btn--flex btn--orange" href="https://blog.purestorage.com/tag/azure/">Azure</a></li><li><a class="btn btn--flex btn--orange" href="https://blog.purestorage.com/tag/cloud-migration/">Cloud Migration</a></li><li><a class="btn btn--flex btn--orange" href="https://blog.purestorage.com/tag/featured/">Featured</a></li><li><a class="btn btn--flex btn--orange" href="https://blog.purestorage.com/tag/pure-cloud-block-store/">Pure Cloud Block Store</a></li><li><a class="btn btn--flex btn--orange" href="https://blog.purestorage.com/tag/vmware/">VMware</a></li></ul>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="page-content">
+    <div class="ps-grid">
+        <div class="ps-grid__inner">
+            <div class="ps-grid__cell ps-grid__cell--span-9-desktop">
+                <div class="post-content">
+                    <section class="wpa-content-summary" id="summary-139963"><div class="wpa-content-summary-inner"><h2>Summary</h2><p>A new feature is now available for Pure Cloud Block Store on Azure that enables you to automate capacity upgrades using Azure Functions and PowerShell.</p>
+</div></section><div class="pdfprnt-buttons pdfprnt-buttons-post pdfprnt-top-right"><a href="https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/?print=pdf" class="pdfprnt-button pdfprnt-button-pdf" target="_blank" rel="nofollow"><img decoding="async" src="https://blog.purestorage.com/wp-content/plugins/pdf-print-pro/images/pdf.png?1589327882" alt="image_pdf" title="View PDF" /></a><a href="https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/?print=print" class="pdfprnt-button pdfprnt-button-print" target="_blank" rel="nofollow"><img decoding="async" src="https://blog.purestorage.com/wp-content/plugins/pdf-print-pro/images/print.png?1388056126" alt="image_print" title="Print Content" /></a></div><p><span style="font-weight: 400;">We&#8217;re excited to announce a new feature for </span><a href="https://www.purestorage.com/products/cloud-block-storage/cbs.html" target="_blank" rel="noopener"><span style="font-weight: 400;">Pure Cloud Block Store</span></a><span style="font-weight: 400;">™</span><span style="font-weight: 400;"> on Azure: automatic user-driven capacity upgrades. This innovation builds upon the capability to </span><a href="https://blog.purestorage.com/purely-technical/customer-driven-capacity-upgrade-for-pure-cloud-block-store/" target="_blank" rel="noopener"><span style="font-weight: 400;">self-upgrade capacity</span></a><span style="font-weight: 400;"> on Pure Cloud Block Store on Azure for users who are on Purity version 6.6.2 or later and can scale up their storage capacity without the need to contact Pure Support. This blog post aims to go deeper into this innovation by showcasing how to automate the capacity expansion process using Azure Functions and PowerShell. </span><span style="font-weight: 400;">To provide some background: In a </span><a href="https://blog.purestorage.com/purely-technical/lifecycle-management-of-azure-vmware-solution-with-pure-cloud-block-store/" target="_blank" rel="noopener"><span style="font-weight: 400;">previous post</span></a><span style="font-weight: 400;">, we discussed our newly </span><a href="https://blogs.vmware.com/cloud/2024/03/12/pure-cloud-block-store-for-azure-vmware-solution/" target="_blank" rel="noopener"><span style="font-weight: 400;">generally available</span></a><span style="font-weight: 400;"> host lifecycle management integration between Azure VMware Solution (AVS) and Pure Cloud Block Store. </span></p>
+<p><span style="font-weight: 400;">This integration enables automatic updates to AVS ESXi host membership lifecycle management through the power of Azure Functions. </span></p>
+<h2><b>Automating Capacity Upgrades for Pure Cloud Block Store</b><b>  </b></h2>
+<p><span style="font-weight: 400;">Building on this foundation, we&#8217;ve expanded the capabilities of Azure Functions to automate user-driven capacity upgrades for Pure Cloud Block Store. Users can now set a capacity threshold on a per-array basis that, once reached, automatically initiates a storage expansion.</span></p>
+<p><img decoding="async" class="aligncenter size-large wp-image-140135" src="https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.35-AM-1400x645.png" alt=" Azure VMware Solution" width="1024" height="472" srcset="https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.35-AM-1400x645.png 1400w, https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.35-AM-728x335.png 728w, https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.35-AM-768x354.png 768w, https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.35-AM-1536x708.png 1536w, https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.35-AM-2048x943.png 2048w, https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.35-AM-150x69.png 150w, https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.35-AM-2000x921.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<h6 style="text-align: center;"><i><span style="font-weight: 400;">Figure 1: Graphical representation of automatic Pure Cloud Block Store capacity expansion.</span></i></h6>
+<p><span style="font-weight: 400;">This enhancement is useful as it ensures your array autonomously expands its storage capacity before reaching full utilization, thereby mitigating the risk associated with maxing out available space. It&#8217;s important to note that </span><i><span style="font-weight: 400;">opting in is required</span></i><span style="font-weight: 400;"> for this feature. This requirement is in place because adding capacity to a Pure Cloud Block Store instance will increase your monthly spend on Azure infrastructure. We understand that some customers prefer to have direct control over when and how their spending increases.</span></p>
+<h2><b>New Capacity Monitoring Capabilities with PowerShell Functions </b></h2>
+<p><span style="font-weight: 400;">The PowerShell functions for creating and managing capacity monitoring infrastructure are now available and included in version </span><a href="https://www.powershellgallery.com/packages/PureStorage.CBS.AVS/1.1.322"><span style="font-weight: 400;">1.1.322</span></a><span style="font-weight: 400;"> of the </span><i><span style="font-weight: 400;">PureStorage.CBS.AVS module</span></i><span style="font-weight: 400;">. In this article, we&#8217;ll discuss the following functions:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><code>Deploy-PCBSCapacityMonitor</code></li>
+<li style="font-weight: 400;" aria-level="1"><code>Add-PCBSCapacityMonitorArray</code></li>
+<li style="font-weight: 400;" aria-level="1"><code>Get-PCBSCapacityMonitor</code></li>
+<li style="font-weight: 400;" aria-level="1"><code>Remove-PCBSCapacityMonitorArray</code></li>
+<li style="font-weight: 400;" aria-level="1"><code>Remove-PCBSCapacityMonitor</code></li>
+</ul>
+<p><span style="font-weight: 400;">The </span><code>Deploy-PCBSCapacityMonitor</code><span style="font-weight: 400;"> function is essential for establishing a new Azure monitoring resource group or augmenting an existing host lifecycle monitoring resource group with capacity monitoring capabilities. For the purposes of this post, we will focus on creating a brand-new resource group.</span></p>
+<p><span style="font-weight: 400;">The required parameters for setting up a new resource group with the </span><code>Deploy-PCBSCapacityMonitor</code><span style="font-weight: 400;"> command include:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><code>-MonitorResourceGroup myMonitorGroup</code><b>:</b><span style="font-weight: 400;"> Specifies the name of the resource group where the capacity monitoring system will be deployed. This can either be a newly created resource group or an existing AVS host monitor resource group.</span></li>
+<li style="font-weight: 400;" aria-level="1"><code>-MonitorResourceGroupRegion myRegion</code><b>:</b><span style="font-weight: 400;"> Defines the region where the host monitoring components will be deployed. It&#8217;s recommended to use the same region as your Pure Cloud Block Store deployment.</span></li>
+<li style="font-weight: 400;" aria-level="1"><code>-AVSCloudName myAVSCloud</code><span style="font-weight: 400;">: Identifies the AVS SDDC instance to associate with. </span><b>Note:</b><span style="font-weight: 400;"> The requirement for an AVS SDDC association will be removed in an upcoming release, allowing for Pure Cloud Block Store expansion without needing an Azure VMware Solution association.</span></li>
+<li style="font-weight: 400;" aria-level="1"><code>-AVSResourceGroup myAVSCloudResourceGroup</code><b>:</b><span style="font-weight: 400;"> The resource group that contains your AVS deployment.</span></li>
+<li style="font-weight: 400;" aria-level="1"><code>-VNetName myVNet</code><b>: </b><span style="font-weight: 400;">The name of the Azure virtual network used by (or peered to) your Pure Cloud Block Store.</span></li>
+<li style="font-weight: 400;" aria-level="1"><code>-VNetResourceGroup myVNetRG</code><span style="font-weight: 400;">: The Azure resource group containing the virtual network mentioned above.</span></li>
+<li style="font-weight: 400;" aria-level="1"><code>-VNetSubnetAddress 192.168.1.0/24</code><b>: </b><span style="font-weight: 400;">The CIDR block for the capacity monitoring function for network connectivity. This can be the same subnet used by an existing AVS host monitoring setup, a new unused address block within the Azure virtual network, or an existing subnet not currently used by any Azure services.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Optional parameters include:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><code>-VNetSubnetName myVNetSubnetName</code><b>:</b><span style="font-weight: 400;"> Allows you to specify a name for the Azure virtual network subnet to be used by the capacity monitoring infrastructure. If omitted, a subnet name will be generated automatically.</span></li>
+<li style="font-weight: 400;" aria-level="1"><code>-DefaultUtilizationThreshold 80</code><b>:</b><span style="font-weight: 400;"> Sets the default capacity utilization threshold that triggers an expansion. If this parameter is not included, the default threshold is 80%.</span></li>
+<li style="font-weight: 400;" aria-level="1"><code>-MonitorIntervalInMinute 30</code><b>:</b><span style="font-weight: 400;"> Specifies how frequently the monitoring system checks array utilization, with the default interval being 30 minutes.</span></li>
+</ul>
+<p><span style="font-weight: 400;">After successful execution, the capacity resource group will be available in your subscription, comprising the components outlined above.</span></p>
+<p><span style="font-weight: 400;"> <img decoding="async" class="aligncenter size-large wp-image-140141" src="https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.41-AM-1400x576.png" alt="Pure Cloud Block Store " width="1024" height="421" srcset="https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.41-AM-1400x576.png 1400w, https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.41-AM-728x299.png 728w, https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.41-AM-768x316.png 768w, https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.41-AM-1536x632.png 1536w, https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.41-AM-2048x842.png 2048w, https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.41-AM-150x62.png 150w, https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.41-AM-2000x822.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></span></p>
+<h6 style="text-align: center;"><i><span style="font-weight: 400;">Figure 2: Resource group components for capacity monitoring.</span></i></h6>
+<p><span style="font-weight: 400;">The components of the capacity monitoring setup are identical to those in the host lifecycle management resource group. This similarity allows for the integration of both automation functions within the same resource group (RG). For more details on these components and their functionalities, check out the </span><a href="https://support.purestorage.com/bundle/m_cbs_for_azure_vmware_solution/page/production-branch/content/documents/Production/Pure_Cloud_Block_Store/Azure_VMware_Solution_and_Cloud_Block_Store_Implementation_Guide/topics/task/t_avs_host_lifecycle_management.html" target="_blank" rel="noopener"><span style="font-weight: 400;">documentation</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">After establishing the capacity monitoring system, the next step involves adding a storage array to the monitoring setup. To accomplish this, the command </span><code>Add-PCBSCapacityMonitorArray</code><span style="font-weight: 400;"> should be executed. This command requires the following parameters:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><code>-MonitorResourceGroup myMonitorGroup</code><b>:</b><span style="font-weight: 400;"> Specifies the capacity monitor resource group that was either created or specified in the previous step.</span></li>
+<li style="font-weight: 400;" aria-level="1"><code>-PureCloudBlockStoreEndpoint myArray</code><b>:</b><span style="font-weight: 400;"> Identifies the management IP address of the Pure Cloud Block Store instance.</span></li>
+<li style="font-weight: 400;" aria-level="1"><code>-PureCloudBlockStoreCredential (Get-Credential)</code><b>:</b><span style="font-weight: 400;"> This will prompt for the Pure Cloud Block Store array&#8217;s username and password, ensuring secure access.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Once the Pure Cloud Block Store array is successfully integrated, its status and adherence to the desired capacity threshold can be verified using the command: </span><code>Get-PCBSCapacityMonitor -MonitorResourceGroup myMonitorGroup</code><span style="font-weight: 400;">. This verification step ensures that the array is monitored correctly and will trigger an expansion process once it reaches the specified capacity threshold (for example, set at 60%).</span></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-large wp-image-140147" src="https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.43-AM-1400x310.png" alt="Pure Cloud Block Store" width="1024" height="227" srcset="https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.43-AM-1400x310.png 1400w, https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.43-AM-728x161.png 728w, https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.43-AM-768x170.png 768w, https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.43-AM-1536x340.png 1536w, https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.43-AM-2048x454.png 2048w, https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.43-AM-150x33.png 150w, https://blog.purestorage.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-16-at-10.38.43-AM-2000x443.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<h6 style="text-align: center;"><i><span style="font-weight: 400;">Figure 3: PowerShell output showing an array being monitored for capacity expansion with the threshold set to 60%.</span></i></h6>
+<p><span style="font-weight: 400;">The additional commands, </span><code>Remove-PCBSCapacityMonitorArray</code><span style="font-weight: 400;"> and </span><code>Remove-PCBSCapacityMonitor</code><span style="font-weight: 400;">, serve to reverse the setup process. Specifically, </span><code>Remove-PCBSCapacityMonitorArray</code><span style="font-weight: 400;"> removes a Pure Cloud Block Store instance from the capacity monitoring system, while </span><code>Remove-PCBSCapacityMonitor</code><span style="font-weight: 400;"> dismantles the resource group with all of its components dedicated to capacity monitoring.</span></p>
+<p><span style="font-weight: 400;">To further assist you, we’ve created a two-part technical demo video series. These videos show the end-to-end setup process, from adding a Pure Cloud Block Store array to the monitoring system to demonstrating the capacity upgrade process when the array reaches the set capacity threshold. These instructional videos are an excellent resource for those looking to familiarize themselves with the setup and operation of the capacity monitoring system.</span></p>
+<p style="text-align: center;"><em><a href="https://youtu.be/dfVZwWHDRKc" target="_blank" rel="noopener">Automatic Pure Cloud Block Store Capacity Expansion on Azure: Part 1</a></em></p>
+<p style="text-align: center;"><em><a href="https://youtu.be/ZGLRaSzp8ew" target="_blank" rel="noopener">Automatic Pure Cloud Block Store Capacity Expansion on Azure: Part 2</a></em></p>
+<p><img loading="lazy" decoding="async" class="nc_pixel" src="https://pixel.welcomesoftware.com/px.gif?key=YXJ0aWNsZT1mMzk1YmU0OGY4MmMxMWVlYmNjMjhlZDZlZDE3ZGNhNg==" alt="" width="1" height="1" /></p>
+                </div>
+                <div class="post-author">
+                    <p class="h4 post-author__name">
+                        Written By: Kyle Grossmiller 
+                                            </p>
+                </div>
+            </div>
+            <div class="ps-grid__cell ps-grid__cell--span-3-desktop">
+                
+<div class="blog-sidebar">
+    <div class="blog-sidebar__widget">
+        <div class="sidebar-cta">
+            <h4 class="sidebar-cta__headline">Learn More</h4>
+            <p><span style="font-weight: 400;">Check out our two-part video series for a step-by-step demo of the setup process. </span></p>
+            <a class="btn btn--white" href="https://youtu.be/dfVZwWHDRKc">Watch Part 1</a>
+        </div>
+    </div>
+</div>            </div>
+        </div>
+    </div>
+</div>
+
+<div class="feat-posts feat-posts--related">
+    <div class="ps-grid">
+        <div class="ps-grid__inner">
+             <div class="ps-grid__cell ps-grid__cell--span-12-desktop">
+                <h2 class="feat-posts__title">Related Stories</h2>
+             </div>
+            <div class="ps-grid__cell ps-grid__cell--span-9-desktop">
+                <div class="feat-posts__list ps-grid__inner">
+                                        
+    <article 
+        class="
+            post-card ps-grid__cell 
+            ps-grid__cell--span-4-desktop
+
+            purely-technical        ">
+        <a class="post-card__thumb" href="https://blog.purestorage.com/purely-technical/how-snapshot-consolidation-with-fan-in-replication-can-simplify-your-life/">
+            <div class="positioner"><img data-src="https://blog.purestorage.com/wp-content/uploads/2024/04/shutterstock_373737937-1-768x503.jpg" data-src-delay="0" alt="Snapshot Consolidation" /></div>
+        </a>
+        <div class="post-card__content">
+            <span class="post-card__categories purely-technical"><a href="https://blog.purestorage.com/purely-technical/" rel="category tag">Purely Technical</a></span>
+            <h3 class="post-card__headline h4"><a href="https://blog.purestorage.com/purely-technical/how-snapshot-consolidation-with-fan-in-replication-can-simplify-your-life/">Taming the Storage Sprawl: Simplify Your Life with Fan-in Replication for Snapshot Consolidation</a></h3>
+            <p class="post-card__excerpt">Data sprawl is a struggle storage admins know all too well. Learn how the...</p>
+            <div class="post-card__meta">
+                                <span class="post-card__readtime">3 min</span> /
+                                <span class="post-card__author">By Satvik Kumar</span>
+            </div>
+            <a class="post-card__permalink" href="https://blog.purestorage.com/purely-technical/how-snapshot-consolidation-with-fan-in-replication-can-simplify-your-life/">Read Post <div class="svg-icon svg-icon--arrow"><div class="positioner"><svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11"><path fill="#474747" d="M6.1 10.04l-.67-.71 3.63-3.4H.03v-.98h9.03l-3.63-3.4.67-.72 4.87 4.6z"/></svg></div></div></a>
+        </div>
+
+        
+    </article>
+                                        
+    <article 
+        class="
+            post-card ps-grid__cell 
+            ps-grid__cell--span-4-desktop
+
+            purely-technical        ">
+        <a class="post-card__thumb" href="https://blog.purestorage.com/purely-technical/harnessing-static-and-dynamic-code-scanning-in-devsecops/">
+            <div class="positioner"><img data-src="https://blog.purestorage.com/wp-content/uploads/2024/02/TSK-8739-BLOG-p3-Harnessing-Static-and-Dynamic-Code-Scanning-in-DevSecOps-768x435.png" data-src-delay="0" alt="" /></div>
+        </a>
+        <div class="post-card__content">
+            <span class="post-card__categories purely-technical"><a href="https://blog.purestorage.com/purely-technical/" rel="category tag">Purely Technical</a></span>
+            <h3 class="post-card__headline h4"><a href="https://blog.purestorage.com/purely-technical/harnessing-static-and-dynamic-code-scanning-in-devsecops/">Harnessing Static and Dynamic Code Scanning in DevSecOps</a></h3>
+            <p class="post-card__excerpt">In part three of our DevSecOps series, we delve into static and dynamic code...</p>
+            <div class="post-card__meta">
+                                <span class="post-card__readtime">16 min</span> /
+                                <span class="post-card__author">By Ratinder Paul Singh Ahuja</span>
+            </div>
+            <a class="post-card__permalink" href="https://blog.purestorage.com/purely-technical/harnessing-static-and-dynamic-code-scanning-in-devsecops/">Read Post <div class="svg-icon svg-icon--arrow"><div class="positioner"><svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11"><path fill="#474747" d="M6.1 10.04l-.67-.71 3.63-3.4H.03v-.98h9.03l-3.63-3.4.67-.72 4.87 4.6z"/></svg></div></div></a>
+        </div>
+
+        
+    </article>
+                                        
+    <article 
+        class="
+            post-card ps-grid__cell 
+            ps-grid__cell--span-4-desktop
+
+            purely-technical        ">
+        <a class="post-card__thumb" href="https://blog.purestorage.com/purely-technical/why-iops-dont-matter/">
+            <div class="positioner"><img data-src="https://blog.purestorage.com/wp-content/uploads/2024/01/Screen-Shot-2024-02-09-at-8.28.31-PM-768x502.png" data-src-delay="0" alt="Why IOPS Don't Matter" /></div>
+        </a>
+        <div class="post-card__content">
+            <span class="post-card__categories purely-technical"><a href="https://blog.purestorage.com/purely-technical/" rel="category tag">Purely Technical</a></span>
+            <h3 class="post-card__headline h4"><a href="https://blog.purestorage.com/purely-technical/why-iops-dont-matter/">Why IOPS Don&#8217;t Matter</a></h3>
+            <p class="post-card__excerpt">The commonly accepted measure of performance for storage systems has long been IOPS, but...</p>
+            <div class="post-card__meta">
+                                <span class="post-card__readtime">7 min</span> /
+                                <span class="post-card__author">By Fred Lherault</span>
+            </div>
+            <a class="post-card__permalink" href="https://blog.purestorage.com/purely-technical/why-iops-dont-matter/">Read Post <div class="svg-icon svg-icon--arrow"><div class="positioner"><svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11"><path fill="#474747" d="M6.1 10.04l-.67-.71 3.63-3.4H.03v-.98h9.03l-3.63-3.4.67-.72 4.87 4.6z"/></svg></div></div></a>
+        </div>
+
+        
+    </article>
+                                        
+    <article 
+        class="
+            post-card ps-grid__cell 
+            ps-grid__cell--span-4-desktop
+
+            purely-technical        ">
+        <a class="post-card__thumb" href="https://blog.purestorage.com/purely-technical/notes-from-a-hackathon-how-to-cut-down-web-requests-by-70/">
+            <div class="positioner"><img data-src="https://blog.purestorage.com/wp-content/uploads/2024/01/02624196-6f9f-44a2-ad9d-cb88a173234f-1-768x503.jpeg" data-src-delay="0" alt="Cut Down Web Requests by 70%" /></div>
+        </a>
+        <div class="post-card__content">
+            <span class="post-card__categories purely-technical"><a href="https://blog.purestorage.com/purely-technical/" rel="category tag">Purely Technical</a></span>
+            <h3 class="post-card__headline h4"><a href="https://blog.purestorage.com/purely-technical/notes-from-a-hackathon-how-to-cut-down-web-requests-by-70/">Notes from a Hackathon: How to Cut Down Web Requests by 70%</a></h3>
+            <p class="post-card__excerpt">At a Pure Storage Hackathon, Martin Vich explored how to limit data traffic to...</p>
+            <div class="post-card__meta">
+                                <span class="post-card__readtime">4 min</span> /
+                                <span class="post-card__author">By Martin Vich</span>
+            </div>
+            <a class="post-card__permalink" href="https://blog.purestorage.com/purely-technical/notes-from-a-hackathon-how-to-cut-down-web-requests-by-70/">Read Post <div class="svg-icon svg-icon--arrow"><div class="positioner"><svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11"><path fill="#474747" d="M6.1 10.04l-.67-.71 3.63-3.4H.03v-.98h9.03l-3.63-3.4.67-.72 4.87 4.6z"/></svg></div></div></a>
+        </div>
+
+        
+    </article>
+                                    </div>
+            </div>
+            <div class="ps-grid__cell ps-grid__cell--span-3-desktop">
+                <div class="feat-posts-popular">
+                    <h2>Top Stories</h2>
+                    <div class="feat-posts-popular__list">
+                        
+<article class="story-card purely-technical">
+    <div class="story-card__content">
+        <h3 class="story-card__headline h5"><a href="https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/">Streamlining Azure VMware Solution: Automating Pure Cloud Block Store Expansion <div class="svg-icon svg-icon--arrow"><div class="positioner"><svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11"><path fill="#474747" d="M6.1 10.04l-.67-.71 3.63-3.4H.03v-.98h9.03l-3.63-3.4.67-.72 4.87 4.6z"/></svg></div></div></a></h3>
+
+        
+<button class="post-action post-like" data-id="139963" type="button"><span class="post-action__count">0</span> <div class="svg-icon svg-icon--like"><div class="positioner"><svg width="8" height="8" viewBox="0 0 8 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1.75 2.72506L1.539 2.59106L1.5 2.65206V2.72506H1.75ZM3.099 0.605062L3.3095 0.740062L3.099 0.605062ZM4.4325 1.36006L4.2085 1.24856L4.4325 1.36056V1.36006ZM3.75 2.72506L3.5265 2.61306C3.5074 2.65118 3.49837 2.69354 3.50025 2.73613C3.50214 2.77872 3.51489 2.82012 3.53729 2.8564C3.55968 2.89267 3.59098 2.92262 3.62821 2.94339C3.66544 2.96416 3.70737 2.97506 3.75 2.97506V2.72506ZM7.25 5.22506L7.45 5.37506L7.5 5.30856V5.22506H7.25ZM6.05 6.82506L6.25 6.97506L6.05 6.82506ZM4.141 0.359562L4.2695 0.145062L4.141 0.360062V0.359562ZM0 2.47506V7.47506H0.5V2.47506H0ZM1.961 2.85906L3.3095 0.740062L2.888 0.471062L1.539 2.59106L1.961 2.85906ZM4.2085 1.24906L3.5265 2.61256L3.9735 2.83656L4.656 1.47156L4.2085 1.24806V1.24906ZM3.75 2.97506H6.25V2.47506H3.75V2.97506ZM7 3.72506V5.22506H7.5V3.72506H7ZM7.05 5.07506L5.85 6.67506L6.25 6.97506L7.45 5.37506L7.05 5.07506ZM5.25 6.97506H2.75V7.47506H5.25V6.97506ZM2 6.22506V2.72506H1.5V6.22506H2ZM6.25 2.97506C6.44891 2.97506 6.63968 3.05408 6.78033 3.19473C6.92098 3.33538 7 3.52615 7 3.72506H7.5C7.5 3.39354 7.3683 3.0756 7.13388 2.84118C6.89946 2.60676 6.58152 2.47506 6.25 2.47506V2.97506ZM2.75 6.97506C2.55109 6.97506 2.36032 6.89604 2.21967 6.75539C2.07902 6.61474 2 6.42397 2 6.22506H1.5C1.5 6.55658 1.6317 6.87453 1.86612 7.10895C2.10054 7.34337 2.41848 7.47506 2.75 7.47506V6.97506ZM4.012 0.574062C4.244 0.713062 4.3295 1.00706 4.2085 1.24906L4.656 1.47206C4.77061 1.24286 4.79447 0.978849 4.72281 0.732816C4.65115 0.486784 4.48926 0.276872 4.2695 0.145062L4.012 0.574062ZM5.85 6.67506C5.78014 6.76821 5.68955 6.84381 5.58541 6.89588C5.48127 6.94795 5.36643 6.97506 5.25 6.97506V7.47506C5.44406 7.47506 5.63545 7.42988 5.80902 7.3431C5.98259 7.25631 6.13357 7.13031 6.25 6.97506L5.85 6.67506ZM3.31 0.740062C3.46 0.503062 3.772 0.430062 4.012 0.574062L4.27 0.145062C4.04267 0.00858809 3.77103 -0.0337077 3.51297 0.0271883C3.25491 0.0880842 3.03084 0.247356 2.8885 0.471062L3.31 0.739562V0.740062Z" fill="#474747"/>
+</svg>
+</div></div></button>    </div>
+</article>
+<article class="story-card purely-technical">
+    <div class="story-card__content">
+        <h3 class="story-card__headline h5"><a href="https://blog.purestorage.com/purely-technical/how-snapshot-consolidation-with-fan-in-replication-can-simplify-your-life/">Taming the Storage Sprawl: Simplify Your Life with Fan-in Replication for Snapshot Consolidation <div class="svg-icon svg-icon--arrow"><div class="positioner"><svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11"><path fill="#474747" d="M6.1 10.04l-.67-.71 3.63-3.4H.03v-.98h9.03l-3.63-3.4.67-.72 4.87 4.6z"/></svg></div></div></a></h3>
+
+        
+<button class="post-action post-like" data-id="139435" type="button"><span class="post-action__count">5</span> <div class="svg-icon svg-icon--like"><div class="positioner"><svg width="8" height="8" viewBox="0 0 8 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1.75 2.72506L1.539 2.59106L1.5 2.65206V2.72506H1.75ZM3.099 0.605062L3.3095 0.740062L3.099 0.605062ZM4.4325 1.36006L4.2085 1.24856L4.4325 1.36056V1.36006ZM3.75 2.72506L3.5265 2.61306C3.5074 2.65118 3.49837 2.69354 3.50025 2.73613C3.50214 2.77872 3.51489 2.82012 3.53729 2.8564C3.55968 2.89267 3.59098 2.92262 3.62821 2.94339C3.66544 2.96416 3.70737 2.97506 3.75 2.97506V2.72506ZM7.25 5.22506L7.45 5.37506L7.5 5.30856V5.22506H7.25ZM6.05 6.82506L6.25 6.97506L6.05 6.82506ZM4.141 0.359562L4.2695 0.145062L4.141 0.360062V0.359562ZM0 2.47506V7.47506H0.5V2.47506H0ZM1.961 2.85906L3.3095 0.740062L2.888 0.471062L1.539 2.59106L1.961 2.85906ZM4.2085 1.24906L3.5265 2.61256L3.9735 2.83656L4.656 1.47156L4.2085 1.24806V1.24906ZM3.75 2.97506H6.25V2.47506H3.75V2.97506ZM7 3.72506V5.22506H7.5V3.72506H7ZM7.05 5.07506L5.85 6.67506L6.25 6.97506L7.45 5.37506L7.05 5.07506ZM5.25 6.97506H2.75V7.47506H5.25V6.97506ZM2 6.22506V2.72506H1.5V6.22506H2ZM6.25 2.97506C6.44891 2.97506 6.63968 3.05408 6.78033 3.19473C6.92098 3.33538 7 3.52615 7 3.72506H7.5C7.5 3.39354 7.3683 3.0756 7.13388 2.84118C6.89946 2.60676 6.58152 2.47506 6.25 2.47506V2.97506ZM2.75 6.97506C2.55109 6.97506 2.36032 6.89604 2.21967 6.75539C2.07902 6.61474 2 6.42397 2 6.22506H1.5C1.5 6.55658 1.6317 6.87453 1.86612 7.10895C2.10054 7.34337 2.41848 7.47506 2.75 7.47506V6.97506ZM4.012 0.574062C4.244 0.713062 4.3295 1.00706 4.2085 1.24906L4.656 1.47206C4.77061 1.24286 4.79447 0.978849 4.72281 0.732816C4.65115 0.486784 4.48926 0.276872 4.2695 0.145062L4.012 0.574062ZM5.85 6.67506C5.78014 6.76821 5.68955 6.84381 5.58541 6.89588C5.48127 6.94795 5.36643 6.97506 5.25 6.97506V7.47506C5.44406 7.47506 5.63545 7.42988 5.80902 7.3431C5.98259 7.25631 6.13357 7.13031 6.25 6.97506L5.85 6.67506ZM3.31 0.740062C3.46 0.503062 3.772 0.430062 4.012 0.574062L4.27 0.145062C4.04267 0.00858809 3.77103 -0.0337077 3.51297 0.0271883C3.25491 0.0880842 3.03084 0.247356 2.8885 0.471062L3.31 0.739562V0.740062Z" fill="#474747"/>
+</svg>
+</div></div></button>    </div>
+</article>
+<article class="story-card purely-technical">
+    <div class="story-card__content">
+        <h3 class="story-card__headline h5"><a href="https://blog.purestorage.com/purely-technical/harnessing-static-and-dynamic-code-scanning-in-devsecops/">Harnessing Static and Dynamic Code Scanning in DevSecOps <div class="svg-icon svg-icon--arrow"><div class="positioner"><svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11"><path fill="#474747" d="M6.1 10.04l-.67-.71 3.63-3.4H.03v-.98h9.03l-3.63-3.4.67-.72 4.87 4.6z"/></svg></div></div></a></h3>
+
+        
+<button class="post-action post-like" data-id="134432" type="button"><span class="post-action__count">0</span> <div class="svg-icon svg-icon--like"><div class="positioner"><svg width="8" height="8" viewBox="0 0 8 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1.75 2.72506L1.539 2.59106L1.5 2.65206V2.72506H1.75ZM3.099 0.605062L3.3095 0.740062L3.099 0.605062ZM4.4325 1.36006L4.2085 1.24856L4.4325 1.36056V1.36006ZM3.75 2.72506L3.5265 2.61306C3.5074 2.65118 3.49837 2.69354 3.50025 2.73613C3.50214 2.77872 3.51489 2.82012 3.53729 2.8564C3.55968 2.89267 3.59098 2.92262 3.62821 2.94339C3.66544 2.96416 3.70737 2.97506 3.75 2.97506V2.72506ZM7.25 5.22506L7.45 5.37506L7.5 5.30856V5.22506H7.25ZM6.05 6.82506L6.25 6.97506L6.05 6.82506ZM4.141 0.359562L4.2695 0.145062L4.141 0.360062V0.359562ZM0 2.47506V7.47506H0.5V2.47506H0ZM1.961 2.85906L3.3095 0.740062L2.888 0.471062L1.539 2.59106L1.961 2.85906ZM4.2085 1.24906L3.5265 2.61256L3.9735 2.83656L4.656 1.47156L4.2085 1.24806V1.24906ZM3.75 2.97506H6.25V2.47506H3.75V2.97506ZM7 3.72506V5.22506H7.5V3.72506H7ZM7.05 5.07506L5.85 6.67506L6.25 6.97506L7.45 5.37506L7.05 5.07506ZM5.25 6.97506H2.75V7.47506H5.25V6.97506ZM2 6.22506V2.72506H1.5V6.22506H2ZM6.25 2.97506C6.44891 2.97506 6.63968 3.05408 6.78033 3.19473C6.92098 3.33538 7 3.52615 7 3.72506H7.5C7.5 3.39354 7.3683 3.0756 7.13388 2.84118C6.89946 2.60676 6.58152 2.47506 6.25 2.47506V2.97506ZM2.75 6.97506C2.55109 6.97506 2.36032 6.89604 2.21967 6.75539C2.07902 6.61474 2 6.42397 2 6.22506H1.5C1.5 6.55658 1.6317 6.87453 1.86612 7.10895C2.10054 7.34337 2.41848 7.47506 2.75 7.47506V6.97506ZM4.012 0.574062C4.244 0.713062 4.3295 1.00706 4.2085 1.24906L4.656 1.47206C4.77061 1.24286 4.79447 0.978849 4.72281 0.732816C4.65115 0.486784 4.48926 0.276872 4.2695 0.145062L4.012 0.574062ZM5.85 6.67506C5.78014 6.76821 5.68955 6.84381 5.58541 6.89588C5.48127 6.94795 5.36643 6.97506 5.25 6.97506V7.47506C5.44406 7.47506 5.63545 7.42988 5.80902 7.3431C5.98259 7.25631 6.13357 7.13031 6.25 6.97506L5.85 6.67506ZM3.31 0.740062C3.46 0.503062 3.772 0.430062 4.012 0.574062L4.27 0.145062C4.04267 0.00858809 3.77103 -0.0337077 3.51297 0.0271883C3.25491 0.0880842 3.03084 0.247356 2.8885 0.471062L3.31 0.739562V0.740062Z" fill="#474747"/>
+</svg>
+</div></div></button>    </div>
+</article>
+<article class="story-card purely-technical">
+    <div class="story-card__content">
+        <h3 class="story-card__headline h5"><a href="https://blog.purestorage.com/purely-technical/why-iops-dont-matter/">Why IOPS Don&#8217;t Matter <div class="svg-icon svg-icon--arrow"><div class="positioner"><svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11"><path fill="#474747" d="M6.1 10.04l-.67-.71 3.63-3.4H.03v-.98h9.03l-3.63-3.4.67-.72 4.87 4.6z"/></svg></div></div></a></h3>
+
+        
+<button class="post-action post-like" data-id="5051" type="button"><span class="post-action__count">18</span> <div class="svg-icon svg-icon--like"><div class="positioner"><svg width="8" height="8" viewBox="0 0 8 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1.75 2.72506L1.539 2.59106L1.5 2.65206V2.72506H1.75ZM3.099 0.605062L3.3095 0.740062L3.099 0.605062ZM4.4325 1.36006L4.2085 1.24856L4.4325 1.36056V1.36006ZM3.75 2.72506L3.5265 2.61306C3.5074 2.65118 3.49837 2.69354 3.50025 2.73613C3.50214 2.77872 3.51489 2.82012 3.53729 2.8564C3.55968 2.89267 3.59098 2.92262 3.62821 2.94339C3.66544 2.96416 3.70737 2.97506 3.75 2.97506V2.72506ZM7.25 5.22506L7.45 5.37506L7.5 5.30856V5.22506H7.25ZM6.05 6.82506L6.25 6.97506L6.05 6.82506ZM4.141 0.359562L4.2695 0.145062L4.141 0.360062V0.359562ZM0 2.47506V7.47506H0.5V2.47506H0ZM1.961 2.85906L3.3095 0.740062L2.888 0.471062L1.539 2.59106L1.961 2.85906ZM4.2085 1.24906L3.5265 2.61256L3.9735 2.83656L4.656 1.47156L4.2085 1.24806V1.24906ZM3.75 2.97506H6.25V2.47506H3.75V2.97506ZM7 3.72506V5.22506H7.5V3.72506H7ZM7.05 5.07506L5.85 6.67506L6.25 6.97506L7.45 5.37506L7.05 5.07506ZM5.25 6.97506H2.75V7.47506H5.25V6.97506ZM2 6.22506V2.72506H1.5V6.22506H2ZM6.25 2.97506C6.44891 2.97506 6.63968 3.05408 6.78033 3.19473C6.92098 3.33538 7 3.52615 7 3.72506H7.5C7.5 3.39354 7.3683 3.0756 7.13388 2.84118C6.89946 2.60676 6.58152 2.47506 6.25 2.47506V2.97506ZM2.75 6.97506C2.55109 6.97506 2.36032 6.89604 2.21967 6.75539C2.07902 6.61474 2 6.42397 2 6.22506H1.5C1.5 6.55658 1.6317 6.87453 1.86612 7.10895C2.10054 7.34337 2.41848 7.47506 2.75 7.47506V6.97506ZM4.012 0.574062C4.244 0.713062 4.3295 1.00706 4.2085 1.24906L4.656 1.47206C4.77061 1.24286 4.79447 0.978849 4.72281 0.732816C4.65115 0.486784 4.48926 0.276872 4.2695 0.145062L4.012 0.574062ZM5.85 6.67506C5.78014 6.76821 5.68955 6.84381 5.58541 6.89588C5.48127 6.94795 5.36643 6.97506 5.25 6.97506V7.47506C5.44406 7.47506 5.63545 7.42988 5.80902 7.3431C5.98259 7.25631 6.13357 7.13031 6.25 6.97506L5.85 6.67506ZM3.31 0.740062C3.46 0.503062 3.772 0.430062 4.012 0.574062L4.27 0.145062C4.04267 0.00858809 3.77103 -0.0337077 3.51297 0.0271883C3.25491 0.0880842 3.03084 0.247356 2.8885 0.471062L3.31 0.739562V0.740062Z" fill="#474747"/>
+</svg>
+</div></div></button>    </div>
+</article>
+<article class="story-card purely-technical">
+    <div class="story-card__content">
+        <h3 class="story-card__headline h5"><a href="https://blog.purestorage.com/purely-technical/notes-from-a-hackathon-how-to-cut-down-web-requests-by-70/">Notes from a Hackathon: How to Cut Down Web Requests by 70% <div class="svg-icon svg-icon--arrow"><div class="positioner"><svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11"><path fill="#474747" d="M6.1 10.04l-.67-.71 3.63-3.4H.03v-.98h9.03l-3.63-3.4.67-.72 4.87 4.6z"/></svg></div></div></a></h3>
+
+        
+<button class="post-action post-like" data-id="130307" type="button"><span class="post-action__count">3</span> <div class="svg-icon svg-icon--like"><div class="positioner"><svg width="8" height="8" viewBox="0 0 8 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1.75 2.72506L1.539 2.59106L1.5 2.65206V2.72506H1.75ZM3.099 0.605062L3.3095 0.740062L3.099 0.605062ZM4.4325 1.36006L4.2085 1.24856L4.4325 1.36056V1.36006ZM3.75 2.72506L3.5265 2.61306C3.5074 2.65118 3.49837 2.69354 3.50025 2.73613C3.50214 2.77872 3.51489 2.82012 3.53729 2.8564C3.55968 2.89267 3.59098 2.92262 3.62821 2.94339C3.66544 2.96416 3.70737 2.97506 3.75 2.97506V2.72506ZM7.25 5.22506L7.45 5.37506L7.5 5.30856V5.22506H7.25ZM6.05 6.82506L6.25 6.97506L6.05 6.82506ZM4.141 0.359562L4.2695 0.145062L4.141 0.360062V0.359562ZM0 2.47506V7.47506H0.5V2.47506H0ZM1.961 2.85906L3.3095 0.740062L2.888 0.471062L1.539 2.59106L1.961 2.85906ZM4.2085 1.24906L3.5265 2.61256L3.9735 2.83656L4.656 1.47156L4.2085 1.24806V1.24906ZM3.75 2.97506H6.25V2.47506H3.75V2.97506ZM7 3.72506V5.22506H7.5V3.72506H7ZM7.05 5.07506L5.85 6.67506L6.25 6.97506L7.45 5.37506L7.05 5.07506ZM5.25 6.97506H2.75V7.47506H5.25V6.97506ZM2 6.22506V2.72506H1.5V6.22506H2ZM6.25 2.97506C6.44891 2.97506 6.63968 3.05408 6.78033 3.19473C6.92098 3.33538 7 3.52615 7 3.72506H7.5C7.5 3.39354 7.3683 3.0756 7.13388 2.84118C6.89946 2.60676 6.58152 2.47506 6.25 2.47506V2.97506ZM2.75 6.97506C2.55109 6.97506 2.36032 6.89604 2.21967 6.75539C2.07902 6.61474 2 6.42397 2 6.22506H1.5C1.5 6.55658 1.6317 6.87453 1.86612 7.10895C2.10054 7.34337 2.41848 7.47506 2.75 7.47506V6.97506ZM4.012 0.574062C4.244 0.713062 4.3295 1.00706 4.2085 1.24906L4.656 1.47206C4.77061 1.24286 4.79447 0.978849 4.72281 0.732816C4.65115 0.486784 4.48926 0.276872 4.2695 0.145062L4.012 0.574062ZM5.85 6.67506C5.78014 6.76821 5.68955 6.84381 5.58541 6.89588C5.48127 6.94795 5.36643 6.97506 5.25 6.97506V7.47506C5.44406 7.47506 5.63545 7.42988 5.80902 7.3431C5.98259 7.25631 6.13357 7.13031 6.25 6.97506L5.85 6.67506ZM3.31 0.740062C3.46 0.503062 3.772 0.430062 4.012 0.574062L4.27 0.145062C4.04267 0.00858809 3.77103 -0.0337077 3.51297 0.0271883C3.25491 0.0880842 3.03084 0.247356 2.8885 0.471062L3.31 0.739562V0.740062Z" fill="#474747"/>
+</svg>
+</div></div></button>    </div>
+</article>                                            </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+</main>
+
+<footer class="gfooter">
+   <link rel="preload" as="style" crossorigin href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap">
+   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet" />
+   <link rel="preload" as="style" crossorigin href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap">
+   <link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet" />   
+   <!-- endregion -->
+   <div class="ps-xf-container">
+      <div class="root responsivegrid">
+         <div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+            <div class="footer aem-GridColumn aem-GridColumn--default--12">
+               <style data-href="components/footer/footer.scss">/*4/4/2023, 3:40:00 PM*/.ps-xf-container .footer__nav-fat-grid-column{grid-column-end:span var(--ps-grid-cell-span-2)}.ps-xf-container .footer__locale-wrapper{grid-column-end:span var(--ps-grid-cell-span-6)}.ps-xf-container .footer__copyright,.ps-xf-container .footer__nav-slim-list-wrap{grid-column-end:span var(--ps-grid-cell-span-12)}@media (min-width:640px){.ps-xf-container .footer__nav-fat-grid-column{grid-column-end:span var(--ps-grid-cell-span-6)}}.ps-grid-override-min-medium .ps-xf-container .footer__nav-fat-grid-column{grid-column-end:span var(--ps-grid-cell-span-6)}@media (min-width:1024px){.ps-xf-container .footer__nav-fat-grid-column{grid-column-end:span var(--ps-grid-cell-span-2)}.ps-xf-container .footer__desktop-gap-column-1{grid-column-end:span var(--ps-grid-cell-span-1)}.ps-xf-container .footer__desktop-gap-column-2{grid-column-end:span var(--ps-grid-cell-span-2)}.ps-xf-container .footer__desktop-gap-column-3{grid-column-end:span var(--ps-grid-cell-span-3)}.ps-xf-container .footer__desktop-gap-column-4{grid-column-end:span var(--ps-grid-cell-span-4)}.ps-xf-container .footer__desktop-gap-column-5{grid-column-end:span var(--ps-grid-cell-span-5)}.ps-xf-container .footer__desktop-gap-column-6{grid-column-end:span var(--ps-grid-cell-span-6)}.ps-xf-container .footer__desktop-gap-column-7{grid-column-end:span var(--ps-grid-cell-span-7)}.ps-xf-container .footer__desktop-gap-column-8{grid-column-end:span var(--ps-grid-cell-span-8)}.ps-xf-container .footer__desktop-gap-column-9{grid-column-end:span var(--ps-grid-cell-span-9)}.ps-xf-container .footer__locale-wrapper{grid-column-end:span var(--ps-grid-cell-span-3)}}.ps-grid-override-min-large .ps-xf-container .footer__nav-fat-grid-column{grid-column-end:span var(--ps-grid-cell-span-2)}.ps-grid-override-min-large .ps-xf-container .footer__desktop-gap-column-1{grid-column-end:span var(--ps-grid-cell-span-1)}.ps-grid-override-min-large .ps-xf-container .footer__desktop-gap-column-2{grid-column-end:span var(--ps-grid-cell-span-2)}.ps-grid-override-min-large .ps-xf-container .footer__desktop-gap-column-3{grid-column-end:span var(--ps-grid-cell-span-3)}.ps-grid-override-min-large .ps-xf-container .footer__desktop-gap-column-4{grid-column-end:span var(--ps-grid-cell-span-4)}.ps-grid-override-min-large .ps-xf-container .footer__desktop-gap-column-5{grid-column-end:span var(--ps-grid-cell-span-5)}.ps-grid-override-min-large .ps-xf-container .footer__desktop-gap-column-6{grid-column-end:span var(--ps-grid-cell-span-6)}.ps-grid-override-min-large .ps-xf-container .footer__desktop-gap-column-7{grid-column-end:span var(--ps-grid-cell-span-7)}.ps-grid-override-min-large .ps-xf-container .footer__desktop-gap-column-8{grid-column-end:span var(--ps-grid-cell-span-8)}.ps-grid-override-min-large .ps-xf-container .footer__desktop-gap-column-9{grid-column-end:span var(--ps-grid-cell-span-9)}.ps-grid-override-min-large .ps-xf-container .footer__locale-wrapper{grid-column-end:span var(--ps-grid-cell-span-3)}.ps-xf-container .site-footer.pattern-lines{border-top:0}.ps-xf-container .footer--bg-tan{background-color:#faf7f1}.ps-xf-container .footer--bg-white{background-color:#fff}.ps-xf-container .footer--bg-light-grey{background-color:#dadada}.ps-xf-container .footer__nav-fat-column--no-title li:first-child{padding-top:0}.ps-xf-container .footer__nav-slim-list-wrap{display:flex;justify-content:space-between}.ps-xf-container .footer__nav-column,.ps-xf-container .footer__nav-list{list-style:none;margin-bottom:0}.ps-xf-container .footer__nav-list{flex-wrap:wrap}.ps-xf-container .footer__nav-fat-column-title{white-space:pre-line}.ps-xf-container .footer__nav-item a.footer__nav-link{white-space:pre-line;word-break:break-word;color:#000;position:relative;font:inherit;color:inherit;text-decoration:none;border-bottom:2px solid transparent;background-image:linear-gradient(currentColor,currentColor);background-position:50% 100%;background-repeat:no-repeat;transition:all .3s cubic-bezier(.55,.01,.25,1) 0s;background-size:0 1px!important}.ps-xf-container .footer__nav-item a.footer__nav-link.selected,.ps-xf-container .footer__nav-item a.footer__nav-link:focus,.ps-xf-container .footer__nav-item a.footer__nav-link:hover{color:inherit}.ps-xf-container .footer__nav-item a.footer__nav-link.selected,.ps-xf-container .footer__nav-item a.footer__nav-link:focus,.ps-xf-container .footer__nav-item a.footer__nav-link:hover{background-size:100% 1px!important}@supports (-webkit-touch-callout:none){.ps-xf-container .footer__nav-item a.footer__nav-link{background-image:none!important}}.ps-xf-container .footer__nav-list{width:100%;margin:0;list-style:none;display:flex;align-items:flex-start}.ps-xf-container .footer__social-links{width:100%;list-style:none;display:inline-flex;padding-bottom:16px}.ps-xf-container .footer__locale-cta{font:normal 700 14px/16px Inter,sans-serif;letter-spacing:normal;display:none;max-width:100%;margin-bottom:16px;cursor:pointer;padding:11px 16px;color:#474747;border-style:solid;border-width:1px}@supports (font-variation-settings:normal){.ps-xf-container .footer__locale-cta{font-variation-settings:"wght" 700}}.nav-normal .ps-xf-container .footer__locale-cta{display:flex}.ps-xf-container .footer__locale-cta-flag{flex:none;background-size:16px 16px;height:16px;width:16px;float:right;display:inline-block}.ps-xf-container .footer__locale-cta-title{margin-left:10px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}.ps-xf-container .footer__social-icon{display:inline-block;border-radius:50%;background:#000;color:#fff;width:32px;height:32px;text-align:center;line-height:32px;vertical-align:middle;font-size:1.3em;margin-left:10px}.ps-xf-container .footer__social-icon svg{width:calc(100% - 6px);height:calc(100% - 6px);fill:#fff;padding-top:5px}.ps-xf-container .footer__social-icon:first-of-type{margin-left:0}.ps-xf-container .footer__social-icon:hover{background:#6c6c6c;color:#fff}.ps-xf-container .footer__copyright{color:#000;display:flex;justify-content:flex-start;align-items:flex-end;text-align:left;margin-left:0}.ps-xf-container .footer__slim-logo{margin-right:16px;display:inline-block}.ps-xf-container .footer__slim-logo .img-responsive{height:26px;width:30px}.ps-xf-container .footer__nav-slim-links{display:flex}.ps-xf-container .footer__module{padding-bottom:16px}.ps-xf-container .footer__slim-only{padding-top:16px}.ps-xf-container .footer .localization{padding-bottom:16px}@media (min-width:1024px){.ps-xf-container .footer .footer__nav-fat{font:normal 400 16px/22px Inter,sans-serif;letter-spacing:normal;padding-top:64px;padding-bottom:64px}@supports (font-variation-settings:normal){.ps-xf-container .footer .footer__nav-fat{font-variation-settings:"wght" 400}}.ps-xf-container .footer .footer__nav-fat a:not(.btn):not(.ps-btn){background-size:100% 1px}.ps-xf-container .footer .footer__nav-fat a:not(.btn):not(.ps-btn).selected,.ps-xf-container .footer .footer__nav-fat a:not(.btn):not(.ps-btn):focus,.ps-xf-container .footer .footer__nav-fat a:not(.btn):not(.ps-btn):hover{background-size:0 1px}.ps-xf-container .footer .footer__nav-fat-column-title{font:normal 700 20px/28px Inter,sans-serif;letter-spacing:normal}@supports (font-variation-settings:normal){.ps-xf-container .footer .footer__nav-fat-column-title{font-variation-settings:"wght" 700}}.ps-xf-container .footer .footer__nav-fat-column-title a:not(.btn):not(.ps-btn){background-size:100% 3px}.ps-xf-container .footer .footer__nav-fat-column-title a:not(.btn):not(.ps-btn).selected,.ps-xf-container .footer .footer__nav-fat-column-title a:not(.btn):not(.ps-btn):focus,.ps-xf-container .footer .footer__nav-fat-column-title a:not(.btn):not(.ps-btn):hover{background-size:0 3px}.ps-xf-container .footer .footer__nav-fat .footer__nav-item{padding-top:24px}.ps-xf-container .footer .footer__nav-fat .footer__nav-item:first-child{padding-top:0}.ps-xf-container .footer__nav-list{flex-direction:row}.ps-xf-container .footer__nav-slim{font:normal 400 14px/20px "Space Mono",monospace;letter-spacing:normal;row-gap:8px;column-gap:8px}.ps-xf-container .footer__nav-slim a:not(.btn):not(.ps-btn){background-size:100% 1px}.ps-xf-container .footer__nav-slim a:not(.btn):not(.ps-btn).selected,.ps-xf-container .footer__nav-slim a:not(.btn):not(.ps-btn):focus,.ps-xf-container .footer__nav-slim a:not(.btn):not(.ps-btn):hover{background-size:0 1px}.ps-xf-container .footer__nav-slim .footer__nav-item{padding:0 24px 8px 0}.ps-xf-container .footer__copyright{align-items:center}.ps-xf-container .footer__copyright-text{margin-top:0}.ps-xf-container .footer__locale-cta{float:right}.ps-xf-container .footer__social-links{justify-content:flex-end}}.ps-grid-override-min-large .ps-xf-container .footer .footer__nav-fat{font:normal 400 16px/22px Inter,sans-serif;letter-spacing:normal;padding-top:64px;padding-bottom:64px}@supports (font-variation-settings:normal){.ps-grid-override-min-large .ps-xf-container .footer .footer__nav-fat{font-variation-settings:"wght" 400}}.ps-grid-override-min-large .ps-xf-container .footer .footer__nav-fat a:not(.btn):not(.ps-btn){background-size:100% 1px}.ps-grid-override-min-large .ps-xf-container .footer .footer__nav-fat a:not(.btn):not(.ps-btn).selected,.ps-grid-override-min-large .ps-xf-container .footer .footer__nav-fat a:not(.btn):not(.ps-btn):focus,.ps-grid-override-min-large .ps-xf-container .footer .footer__nav-fat a:not(.btn):not(.ps-btn):hover{background-size:0 1px}.ps-grid-override-min-large .ps-xf-container .footer .footer__nav-fat-column-title{font:normal 700 20px/28px Inter,sans-serif;letter-spacing:normal}@supports (font-variation-settings:normal){.ps-grid-override-min-large .ps-xf-container .footer .footer__nav-fat-column-title{font-variation-settings:"wght" 700}}.ps-grid-override-min-large .ps-xf-container .footer .footer__nav-fat-column-title a:not(.btn):not(.ps-btn){background-size:100% 3px}.ps-grid-override-min-large .ps-xf-container .footer .footer__nav-fat-column-title a:not(.btn):not(.ps-btn).selected,.ps-grid-override-min-large .ps-xf-container .footer .footer__nav-fat-column-title a:not(.btn):not(.ps-btn):focus,.ps-grid-override-min-large .ps-xf-container .footer .footer__nav-fat-column-title a:not(.btn):not(.ps-btn):hover{background-size:0 3px}.ps-grid-override-min-large .ps-xf-container .footer .footer__nav-fat .footer__nav-item{padding-top:24px}.ps-grid-override-min-large .ps-xf-container .footer .footer__nav-fat .footer__nav-item:first-child{padding-top:0}.ps-grid-override-min-large .ps-xf-container .footer__nav-list{flex-direction:row}.ps-grid-override-min-large .ps-xf-container .footer__nav-slim{font:normal 400 14px/20px "Space Mono",monospace;letter-spacing:normal;row-gap:8px;column-gap:8px}.ps-grid-override-min-large .ps-xf-container .footer__nav-slim a:not(.btn):not(.ps-btn){background-size:100% 1px}.ps-grid-override-min-large .ps-xf-container .footer__nav-slim a:not(.btn):not(.ps-btn).selected,.ps-grid-override-min-large .ps-xf-container .footer__nav-slim a:not(.btn):not(.ps-btn):focus,.ps-grid-override-min-large .ps-xf-container .footer__nav-slim a:not(.btn):not(.ps-btn):hover{background-size:0 1px}.ps-grid-override-min-large .ps-xf-container .footer__nav-slim .footer__nav-item{padding:0 24px 8px 0}.ps-grid-override-min-large .ps-xf-container .footer__copyright{align-items:center}.ps-grid-override-min-large .ps-xf-container .footer__copyright-text{margin-top:0}.ps-grid-override-min-large .ps-xf-container .footer__locale-cta{float:right}.ps-grid-override-min-large .ps-xf-container .footer__social-links{justify-content:flex-end}@media (max-width:1023.98px){.ps-xf-container .footer__nav-fat{font:normal 400 14px/20px Inter,sans-serif;letter-spacing:normal;padding-top:32px;padding-bottom:0;row-gap:32px}@supports (font-variation-settings:normal){.ps-xf-container .footer__nav-fat{font-variation-settings:"wght" 400}}.ps-xf-container .footer__nav-fat a:not(.btn):not(.ps-btn){background-size:100% 1px}.ps-xf-container .footer__nav-fat a:not(.btn):not(.ps-btn).selected,.ps-xf-container .footer__nav-fat a:not(.btn):not(.ps-btn):focus,.ps-xf-container .footer__nav-fat a:not(.btn):not(.ps-btn):hover{background-size:0 1px}.ps-xf-container .footer__nav-fat-column-title{font:normal 700 16px/22px Inter,sans-serif;letter-spacing:normal}@supports (font-variation-settings:normal){.ps-xf-container .footer__nav-fat-column-title{font-variation-settings:"wght" 700}}.ps-xf-container .footer__nav-fat-column-title a:not(.btn):not(.ps-btn){background-size:100% 2px}.ps-xf-container .footer__nav-fat-column-title a:not(.btn):not(.ps-btn).selected,.ps-xf-container .footer__nav-fat-column-title a:not(.btn):not(.ps-btn):focus,.ps-xf-container .footer__nav-fat-column-title a:not(.btn):not(.ps-btn):hover{background-size:0 2px}.ps-xf-container .footer__nav-fat .footer__nav-item{padding-top:8px}.ps-xf-container .footer__desktop-gap{display:none}.ps-xf-container .footer__nav-list{flex-direction:column}.ps-xf-container .footer__nav-list li:not(:last-child){margin-bottom:8px}.ps-xf-container .footer__nav-slim{font:normal 400 10px/16px "Space Mono",monospace;letter-spacing:normal;row-gap:16px;column-gap:var(--ps-grid-gutter-large)}.ps-xf-container .footer__nav-slim a:not(.btn):not(.ps-btn){background-size:100% 1px}.ps-xf-container .footer__nav-slim a:not(.btn):not(.ps-btn).selected,.ps-xf-container .footer__nav-slim a:not(.btn):not(.ps-btn):focus,.ps-xf-container .footer__nav-slim a:not(.btn):not(.ps-btn):hover{background-size:0 1px}.ps-xf-container .footer__nav-slim .footer__nav-item{padding:0}.ps-xf-container .footer__copyright{align-items:flex-start}.ps-xf-container .footer__copyright-text{margin-top:5px}.ps-xf-container .footer__locale-cta{float:left}.ps-xf-container .footer__social-links{justify-content:flex-start}}.ps-grid-override-max-large .ps-xf-container .footer__nav-fat{font:normal 400 14px/20px Inter,sans-serif;letter-spacing:normal;padding-top:32px;padding-bottom:0;row-gap:32px}@supports (font-variation-settings:normal){.ps-grid-override-max-large .ps-xf-container .footer__nav-fat{font-variation-settings:"wght" 400}}.ps-grid-override-max-large .ps-xf-container .footer__nav-fat a:not(.btn):not(.ps-btn){background-size:100% 1px}.ps-grid-override-max-large .ps-xf-container .footer__nav-fat a:not(.btn):not(.ps-btn).selected,.ps-grid-override-max-large .ps-xf-container .footer__nav-fat a:not(.btn):not(.ps-btn):focus,.ps-grid-override-max-large .ps-xf-container .footer__nav-fat a:not(.btn):not(.ps-btn):hover{background-size:0 1px}.ps-grid-override-max-large .ps-xf-container .footer__nav-fat-column-title{font:normal 700 16px/22px Inter,sans-serif;letter-spacing:normal}@supports (font-variation-settings:normal){.ps-grid-override-max-large .ps-xf-container .footer__nav-fat-column-title{font-variation-settings:"wght" 700}}.ps-grid-override-max-large .ps-xf-container .footer__nav-fat-column-title a:not(.btn):not(.ps-btn){background-size:100% 2px}.ps-grid-override-max-large .ps-xf-container .footer__nav-fat-column-title a:not(.btn):not(.ps-btn).selected,.ps-grid-override-max-large .ps-xf-container .footer__nav-fat-column-title a:not(.btn):not(.ps-btn):focus,.ps-grid-override-max-large .ps-xf-container .footer__nav-fat-column-title a:not(.btn):not(.ps-btn):hover{background-size:0 2px}.ps-grid-override-max-large .ps-xf-container .footer__nav-fat .footer__nav-item{padding-top:8px}.ps-grid-override-max-large .ps-xf-container .footer__desktop-gap{display:none}.ps-grid-override-max-large .ps-xf-container .footer__nav-list{flex-direction:column}.ps-grid-override-max-large .ps-xf-container .footer__nav-list li:not(:last-child){margin-bottom:8px}.ps-grid-override-max-large .ps-xf-container .footer__nav-slim{font:normal 400 10px/16px "Space Mono",monospace;letter-spacing:normal;row-gap:16px;column-gap:var(--ps-grid-gutter-large)}.ps-grid-override-max-large .ps-xf-container .footer__nav-slim a:not(.btn):not(.ps-btn){background-size:100% 1px}.ps-grid-override-max-large .ps-xf-container .footer__nav-slim a:not(.btn):not(.ps-btn).selected,.ps-grid-override-max-large .ps-xf-container .footer__nav-slim a:not(.btn):not(.ps-btn):focus,.ps-grid-override-max-large .ps-xf-container .footer__nav-slim a:not(.btn):not(.ps-btn):hover{background-size:0 1px}.ps-grid-override-max-large .ps-xf-container .footer__nav-slim .footer__nav-item{padding:0}.ps-grid-override-max-large .ps-xf-container .footer__copyright{align-items:flex-start}.ps-grid-override-max-large .ps-xf-container .footer__copyright-text{margin-top:5px}.ps-grid-override-max-large .ps-xf-container .footer__locale-cta{float:left}.ps-grid-override-max-large .ps-xf-container .footer__social-links{justify-content:flex-start}</style>
+               <div>
+                  <footer class="footer-section footer--bg-tan ps-lazy-module ps-an-custom ps-visible ps-initialized ps-component" data-ps-module="footer" data-component-name="footer" data-comp-id="13c28e47-30c8-46b8-b9be-cb166afad92b">
+                     <div class="ps-grid-v2">
+                        <div class="footer__nav-fat ps-grid-v2__inner">
+                           <div class="ps-grid-v2__cell footer__nav-fat-grid-column footer__nav-fat-column--no-title">
+                              <ul class="footer__nav-column">
+                                 <li class="footer__nav-item ">
+                                    <a href="https://www.purestorage.com/company.html" data-an-id="About" data-an-title="About" class="footer__nav-link">About</a>
+                                 </li>
+                                 <li class="footer__nav-item ">
+                                    <a href="https://www.purestorage.com/why-pure.html" data-an-id="Why Pure" data-an-title="Why Pure" class="footer__nav-link">Why Pure</a>
+                                 </li>
+                                 <li class="footer__nav-item ">
+                                    <a href="https://investor.purestorage.com/investor-home/default.aspx" data-an-id="Investor Relations" data-an-title="Investor Relations" class="footer__nav-link" target="_blank">Investor Relations</a>
+                                 </li>
+                                 <li class="footer__nav-item ">
+                                    <a href="https://www.purestorage.com/company/leadership.html" data-an-id="Leadership" data-an-title="Leadership" class="footer__nav-link">Leadership</a>
+                                 </li>
+                                 <li class="footer__nav-item ">
+                                    <a href="https://www.purestorage.com/company/newsroom.html" data-an-id="Newsroom" data-an-title="Newsroom" class="footer__nav-link">Newsroom</a>
+                                 </li>
+                                 <li class="footer__nav-item ">
+                                    <a href="https://www.purestorage.com/company/careers.html" data-an-id="Careers" data-an-title="Careers" class="footer__nav-link">Careers</a>
+                                 </li>
+                                 <li class="footer__nav-item ">
+                                    <a href="https://www.purestorage.com/docs.html?item=/type/pdf/subtype/doc/path/content/dam/pdf/en/infographics/ig-pure-storage-fast-facts.pdf" data-an-id="Fast Facts" data-an-title="Fast Facts" class="footer__nav-link">Fast Facts</a>
+                                 </li>
+                              </ul>
+                           </div>
+                           <div class="ps-grid-v2__cell footer__nav-fat-grid-column footer__nav-fat-column--no-title">
+                              <ul class="footer__nav-column">
+                                 <li class="footer__nav-item ">
+                                    <a href="https://www.purestorage.com/products.html" data-an-id="Products" data-an-title="Products" class="footer__nav-link">Products</a>
+                                 </li>
+                                 <li class="footer__nav-item ">
+                                    <a href="https://www.purestorage.com/resources.html" data-an-id="Resources" data-an-title="Resources" class="footer__nav-link">Resources</a>
+                                 </li>
+                                 <li class="footer__nav-item ">
+                                    <a href="https://www.purestorage.com/knowledge.html" data-an-id="Knowledge" data-an-title="Knowledge" class="footer__nav-link">Knowledge</a>
+                                 </li>
+                                 <li class="footer__nav-item ">
+                                    <a href="https://www.purestorage.com/resources/the-pure-report.html" data-an-id="Podcasts" data-an-title="Podcasts" class="footer__nav-link">Podcasts</a>
+                                 </li>
+                                 <li class="footer__nav-item ">
+                                    <a href="https://www.purestorage.com/events.html" data-an-id="Webinars" data-an-title="Webinars" class="footer__nav-link">Webinars</a>
+                                 </li>
+                                 <li class="footer__nav-item ">
+                                    <a href="https://www.purestorage.com/events.html" data-an-id="Events" data-an-title="Events" class="footer__nav-link">Events</a>
+                                 </li>
+                              </ul>
+                           </div>
+                           <div class="ps-grid-v2__cell footer__nav-fat-grid-column footer__nav-fat-column--no-title">
+                              <ul class="footer__nav-column">
+                                 <li class="footer__nav-item ">
+                                    <a href="https://www.purestorage.com/partners/request-access.html" data-an-id="Partner with Pure" data-an-title="Partner with Pure" class="footer__nav-link">Partner with Pure</a>
+                                 </li>
+                                 <li class="footer__nav-item ">
+                                    <a href="https://purestorage.force.com/partners/s/login1/?language=en_US" data-an-id="Partner Portal" data-an-title="Partner Portal" class="footer__nav-link" target="_blank">Partner Portal</a>
+                                 </li>
+                                 <li class="footer__nav-item ">
+                                    <a href="https://www.purestorage.com/partners/technology-alliance-partners.html" data-an-id="Technology Alliances" data-an-title="Technology Alliances" class="footer__nav-link">Technology Alliances</a>
+                                 </li>
+                                 <li class="footer__nav-item ">
+                                    <a href="https://www.purestorage.com/partners/certifications.html" data-an-id="Certifications" data-an-title="Certifications" class="footer__nav-link">Certifications</a>
+                                 </li>
+                              </ul>
+                           </div>
+                           <div class="ps-grid-v2__cell footer__nav-fat-grid-column footer__nav-fat-column--no-title">
+                              <ul class="footer__nav-column">
+                                 <li class="footer__nav-item ">
+                                    <a href="https://www.purestorage.com/contact.html" data-an-id="Contact Us" data-an-title="Contact Us" class="footer__nav-link">Contact Us</a>
+                                 </li>
+                                 <li class="footer__nav-item ">
+                                    <a href="https://www.purestorage.com/company/customer-community.html" data-an-id="Customer Community" data-an-title="Customer Community" class="footer__nav-link">Customer Community</a>
+                                 </li>
+                                 <li class="footer__nav-item ">
+                                    <a href="https://www.purestorage.com/knowledge.html" data-an-id="Knowledge" data-an-title="Knowledge" class="footer__nav-link">Knowledge</a>
+                                 </li>
+                              </ul>
+                           </div>
+                           <div class="ps-grid-v2__cell footer__desktop-gap footer__desktop-gap-column-1"></div>
+                           <div class="ps-grid-v2__cell footer__locale-wrapper">
+                              <div class="footer__locale-cta ">
+                                 <div class="footer__locale-cta-flag lazyload" data-bg="https://www.purestorage.com/content/dam/purestorage/icons/country/usa.svg.imgo.svg"></div>
+                                 <span class="footer__locale-cta-title" title="Choose Your Region">Choose Your Region</span>
+                              </div>
+                              <div class="footer__social-links">
+                                 <a href="https://www.facebook.com/PureStorage" alt="Facebook" aria-label="Facebook" target="_blank" class="footer__social-icon" data-social-provider="facebook-f">
+                                    <svg width="10" height="10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                       <path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path>
+                                    </svg>
+                                 </a>
+                                 <a href="https://twitter.com/purestorage" alt="Twitter" aria-label="Twitter" target="_blank" class="footer__social-icon" data-social-provider="twitter">
+                                    <svg width="10" height="10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                                       <path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path>
+                                    </svg>
+                                 </a>
+                                 <a href="https://www.linkedin.com/company/purestorage" alt="LinkedIn" aria-label="LinkedIn" target="_blank" class="footer__social-icon" data-social-provider="linkedin-in">
+                                    <svg width="10" height="10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                                       <path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path>
+                                    </svg>
+                                 </a>
+                                 <a href="https://www.youtube.com/user/purestorage" alt="YouTube" aria-label="YouTube" target="_blank" class="footer__social-icon" data-social-provider="youtube">
+                                    <svg width="10" height="10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                                       <path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path>
+                                    </svg>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </footer>
+                  <footer data-component-name="footer" class="footer__module ps-lazy-module ps-an-custom footer-section footer--bg-tan ps-visible ps-initialized ps-component" data-ps-module="footer" data-comp-id="9942c5be-d387-43de-9e45-5b40ba4fca5d">
+                     <div class="ps-grid-v2">
+                        <div class="footer__nav-slim ps-grid-v2__inner">
+                           <div class="footer__nav-slim-list-wrap ps-grid-v2__cell">
+                              <div class="footer__nav-slim-links">
+                                 <ul class="footer__nav-list">
+                                    <li class="footer__nav-item ">
+                                       <a href="https://www.purestorage.com/privacy.html" data-an-id="Privacy" data-an-title="Privacy" class="footer__nav-link">Privacy</a>
+                                    </li>
+                                    <li class="footer__nav-item ">
+                                       <a href="https://www.purestorage.com/terms.html" data-an-id="Website Terms" data-an-title="Website Terms" class="footer__nav-link">Website Terms</a>
+                                    </li>
+                                    <li class="footer__nav-item ">
+                                       <a href="https://www.purestorage.com/legal/productenduserinfo.html" data-an-id="Legal" data-an-title="Legal" class="footer__nav-link">Legal</a>
+                                    </li>
+                                    <li class="footer__nav-item ">
+                                       <a data-an-id="Cookie Settings" data-an-title="Cookie Settings" class="footer__nav-link optanon-toggle-display" href="javascript:;">Cookie Settings</a>
+                                    </li>
+                                 </ul>
+                              </div>
+                           </div>
+                           <div class="footer__copyright ps-grid-v2__cell">
+                              <a class="footer__slim-logo">
+                              <img class="img-responsive" alt="Pure Logo" title="Pure Logo" src="//www.purestorage.com/content/dam/purestorage/home-2020/footer-pure-logo.svg.imgo.svg">
+                              </a>
+                              <span class="footer__copyright-text">© 2024 Pure Storage, Inc. All rights reserved.</span>
+                           </div>
+                        </div>
+                     </div>
+                  </footer>
+                  <ps-inline-block onattached="_inline_footer"></ps-inline-block>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</footer>
+
+<div class="pdm-lightbox pdm-lightbox--reset">
+    <div class="pdm-lightbox__container">
+        <button class="pdm-lightbox__close" type="button">Close Popup</button>
+        <div class="pdm-lightbox__content"></div>
+    </div>
+</div>
+<script src="https://assets.adobedtm.com/launch-ENbb8844ab0e58403b8364adcb2ff0fca4.min.js"></script>
+<script type="text/javascript">_satellite.pageBottom();</script><script type="text/javascript" src="https://blog.purestorage.com/wp-includes/js/jquery/jquery.js" id="jquery-js"></script>
+<script type="text/javascript" id="urvanov_syntax_highlighter_js-js-extra">
+/* <![CDATA[ */
+var UrvanovSyntaxHighlighterSyntaxSettings = {"version":"2.8.36","is_admin":"0","ajaxurl":"https:\/\/blog.purestorage.com\/wp-admin\/admin-ajax.php","prefix":"urvanov-syntax-highlighter-","setting":"urvanov-syntax-highlighter-setting","selected":"urvanov-syntax-highlighter-setting-selected","changed":"urvanov-syntax-highlighter-setting-changed","special":"urvanov-syntax-highlighter-setting-special","orig_value":"data-orig-value","debug":""};
+var UrvanovSyntaxHighlighterSyntaxStrings = {"copy":"Copied to the clipboard","minimize":"Click To Expand Code"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://blog.purestorage.com/wp-content/plugins/urvanov-syntax-highlighter/js/min/urvanov_syntax_highlighter.min.js?ver=2.8.36" id="urvanov_syntax_highlighter_js-js"></script>
+<script type="text/javascript" src="https://blog.purestorage.com/wp-content/themes/pdm/dist/bundle.min.js?ver=6.5.2" id="site-js"></script>
+<script type="text/javascript" id="wpa.longdesc-js-extra">
+/* <![CDATA[ */
+var wpald = {"url":"https:\/\/blog.purestorage.com\/wp-json\/wp\/v2\/media","type":"jquery","text":"<span class=\"dashicons dashicons-media-text\" aria-hidden=\"true\"><\/span><span class=\"screen-reader\">Long Description<\/span>"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://blog.purestorage.com/wp-content/plugins/wp-accessibility/js/longdesc.min.js?ver=2.0.1" id="wpa.longdesc-js"></script>
+<script type="text/javascript" id="wp-accessibility-js-extra">
+/* <![CDATA[ */
+var wpa = {"skiplinks":{"enabled":true,"output":"<div class=\"wpa-hide-ltr\" id=\"skiplinks\" role=\"navigation\" aria-label=\"Skip links\"><a href=\"#contentarea\" class='no-scroll et_smooth_scroll_disabled'>Skip to Content<\/a> <a href=\"#mainnav\" class='no-scroll et_smooth_scroll_disabled'>Skip to navigation<\/a> <\/div>"},"target":"1","tabindex":"1","underline":{"enabled":false,"target":"a"},"dir":"ltr","lang":"en-US","titles":"1","labels":"1","wpalabels":{"s":"Search","author":"Name","email":"Email","url":"Website","comment":"Comment"},"current":"","errors":"","tracking":"1","ajaxurl":"https:\/\/blog.purestorage.com\/wp-admin\/admin-ajax.php","security":"20ba8c2cb4","action":"wpa_stats_action","url":"https:\/\/blog.purestorage.com\/purely-technical\/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion\/","post_id":"139963"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://blog.purestorage.com/wp-content/plugins/wp-accessibility/js/wp-accessibility.min.js?ver=2.0.1" id="wp-accessibility-js"></script>
+
+</body>
+</html><script>
+window.addEventListener('message', function (event) {
+  try {
+    let data = JSON.parse(event.data)
+    if (data.type === 'setSameOriginForPurefolio') {
+      document.domain = data.domain
+      window.top.postMessage('domain:set', "*")
+    }
+  } catch(err) {
+      return false
+  }
+}, false)
+</script>
