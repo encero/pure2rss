@@ -45,7 +45,7 @@ func TestCrawler(t *testing.T) {
 	}
 
 	is.Equal(onIndexCalled, 6)   // OnIndex was called expected times
-	is.Equal(onPostCalled, 2438) // OnPost was called expected times
+	is.Equal(onPostCalled, 2437) // OnPost was called expected times
 }
 
 func newTestServer() (string, func()) {

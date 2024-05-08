@@ -10,13 +10,14 @@ import (
 )
 
 type Post struct {
+    PostLink PostLink
 	Title   string
 	Summary string
 	Tags    []string
 }
 
-func FetchAndAndParsePost(c *http.Client, url string) (Post, error) {
-	req, err := http.NewRequest(http.MethodGet, url, nil)
+func FetchAndAndParsePost(c *http.Client, postLink PostLink) (Post, error) {
+	req, err := http.NewRequest(http.MethodGet, postLink.Link.Loc, nil)
 	if err != nil {
 		return Post{}, fmt.Errorf("constructing post fetch request, %w", err)
 	}
@@ -36,7 +37,9 @@ func FetchAndAndParsePost(c *http.Client, url string) (Post, error) {
 		return Post{}, fmt.Errorf("parsing post page with goquery, %w", err)
 	}
 
-	post := Post{}
+	post := Post{
+		PostLink: postLink,
+	}
 
 	h1 := doc.Find("main h1")
 	post.Title = h1.Text()

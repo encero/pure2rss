@@ -18,7 +18,11 @@ func TestFetchAndParsePost(t *testing.T) {
 	postURL := fmt.Sprintf("%s/post.html", serverURL)
 
 	client := http.DefaultClient
-	post, err := pure2rss.FetchAndAndParsePost(client, postURL)
+	post, err := pure2rss.FetchAndAndParsePost(client, pure2rss.PostLink{
+		Link:     pure2rss.Link{
+			Loc:     postURL,
+		},
+	})
 	is.NoErr(err)
 
 	is.Equal(post.Title, "Streamlining Azure VMware Solution: Automating Pure Cloud Block Store Expansion")                                                                           // title
