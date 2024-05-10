@@ -12,5 +12,5 @@ jobs:
       run: |
         ./pure2rss
         git add rss.xml
-        git ci -m "commiting updated feed"
-        git push
+        git commit -m "commiting updated feed"
+        git push 
