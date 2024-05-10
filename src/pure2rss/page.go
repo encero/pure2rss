@@ -5,15 +5,17 @@ import (
 	"net/http"
 	"net/url"
 	"strings"
+	"time"
 
 	"github.com/PuerkitoBio/goquery"
 )
 
 type Post struct {
-    PostLink PostLink
-	Title   string
-	Summary string
-	Tags    []string
+	PostLink    PostLink
+	Title       string
+	Summary     string
+	PublishDate time.Time
+	Tags        []string
 }
 
 func FetchAndAndParsePost(c *http.Client, postLink PostLink) (Post, error) {
@@ -46,6 +48,12 @@ func FetchAndAndParsePost(c *http.Client, postLink PostLink) (Post, error) {
 
 	summary := doc.Find("section.wpa-content-summary p")
 	post.Summary = summary.Text()
+
+	publishDateNode := doc.Find(".post-meta__date")
+	post.PublishDate, err = time.Parse("Jan 02, 2006", publishDateNode.Text())
+	if err != nil {
+		return Post{}, fmt.Errorf("parsing post date, %w", err)
+	}
 
 	post.Tags = []string{}
 

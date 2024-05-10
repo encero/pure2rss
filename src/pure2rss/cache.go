@@ -95,7 +95,10 @@ func (c *Cache) Persist() error {
 	defer file.Close()
 	defer os.Remove(tmpPath)
 
-	err = json.NewEncoder(file).Encode(c.posts)
+    encoder := json.NewEncoder(file)
+    encoder.SetIndent("", " ")
+
+	err = encoder.Encode(c.posts)
 	if err != nil {
 		return fmt.Errorf("encoding cache to file, %w", err)
 	}

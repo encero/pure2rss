@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"net/http"
 	"testing"
+	"time"
 
 	"github.com/encero/pure2rss/src/pure2rss"
 	"github.com/matryer/is"
@@ -19,31 +20,32 @@ func TestFetchAndParsePost(t *testing.T) {
 
 	client := http.DefaultClient
 	post, err := pure2rss.FetchAndAndParsePost(client, pure2rss.PostLink{
-		Link:     pure2rss.Link{
-			Loc:     postURL,
+		Link: pure2rss.Link{
+			Loc: postURL,
 		},
 	})
 	is.NoErr(err)
 
 	is.Equal(post.Title, "Streamlining Azure VMware Solution: Automating Pure Cloud Block Store Expansion")                                                                           // title
 	is.Equal(post.Summary, "A new feature is now available for Pure Cloud Block Store on Azure that enables you to automate capacity upgrades using Azure Functions and PowerShell.") // summary
-	is.Equal(post.Tags, []string{"Azure", "Cloud Migration", "Featured", "Pure Cloud Block Store", "VMware"})                                                                         // tags
+	is.Equal(post.PublishDate, time.Date(2024, 04, 16, 0, 0, 0, 0, time.UTC))
+	is.Equal(post.Tags, []string{"Azure", "Cloud Migration", "Featured", "Pure Cloud Block Store", "VMware"}) // tags
 }
 
 func TestParsePostLink(t *testing.T) {
 	is := is.New(t)
 
 	link, err := pure2rss.ParsePostLink(pure2rss.Link{
-        Loc: "https://blog.purestorage.com/perspectives/randomware-shakes-up-the-ransomware-game/",
-    })
+		Loc: "https://blog.purestorage.com/perspectives/randomware-shakes-up-the-ransomware-game/",
+	})
 	is.NoErr(err)
 	is.Equal(link.Lang, "en")                                       // link lang
 	is.Equal(link.Category, "perspectives")                         // link category
 	is.Equal(link.Slug, "randomware-shakes-up-the-ransomware-game") // link slug
 
 	link, err = pure2rss.ParsePostLink(pure2rss.Link{
-        Loc:"https://blog.purestorage.com/ko/news-events-ko/goat-of-the-year-siriusxm/",
-    })
+		Loc: "https://blog.purestorage.com/ko/news-events-ko/goat-of-the-year-siriusxm/",
+	})
 	is.NoErr(err)
 	is.Equal(link.Lang, "ko")                        // link lang
 	is.Equal(link.Category, "news-events-ko")        //link category
