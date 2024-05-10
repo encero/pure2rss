@@ -28,13 +28,19 @@ func NewCrawler(sitemapURL string, options ...crawlerOption) *Crawler {
 		Timeout: time.Second * 10,
 	}
 
-	return &Crawler{
+    c :=  &Crawler{
 		client:      client,
 		sitemapURL:  sitemapURL,
 		done:        make(chan error),
 		onIndexLink: func(l Link) bool { return true },
 		onPostLink:  func(l Link) { return },
 	}
+
+    for _, opt := range options {
+        opt(c)
+    }
+
+    return c
 }
 
 func (c *Crawler) fetchAndParseSitemapIndex() ([]Link, error) {
