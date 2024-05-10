@@ -156,14 +156,14 @@
       <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Upgrade to Purity//FA 6.5.0 Yourself through Pure1</title>
-      <link>https://blog.purestorage.com/purely-technical/upgrade-to-purity-fa-6-5-0-yourself-through-pure1/</link>
+      <title>Minimize the Impact of a Cyberattack with Commvault and Pure Storage</title>
+      <link>https://blog.purestorage.com/purely-technical/minimize-the-impact-of-a-cyber-attack-with-commvault-and-pure-storage/</link>
       <description></description>
       <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Minimize the Impact of a Cyberattack with Commvault and Pure Storage</title>
-      <link>https://blog.purestorage.com/purely-technical/minimize-the-impact-of-a-cyber-attack-with-commvault-and-pure-storage/</link>
+      <title>Upgrade to Purity//FA 6.5.0 Yourself through Pure1</title>
+      <link>https://blog.purestorage.com/purely-technical/upgrade-to-purity-fa-6-5-0-yourself-through-pure1/</link>
       <description></description>
       <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
     </item>
@@ -198,14 +198,14 @@
       <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Reach Your Data Resiliency High Score</title>
-      <link>https://blog.purestorage.com/purely-technical/reach-your-data-resiliency-high-score/</link>
+      <title>NFS 4.1 Support Now Available with Purity//FA 6.4.10</title>
+      <link>https://blog.purestorage.com/purely-technical/nfs-4-1-support-now-available-with-purity-fa-6-4-10/</link>
       <description></description>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>NFS 4.1 Support Now Available with Purity//FA 6.4.10</title>
-      <link>https://blog.purestorage.com/purely-technical/nfs-4-1-support-now-available-with-purity-fa-6-4-10/</link>
+      <title>Reach Your Data Resiliency High Score</title>
+      <link>https://blog.purestorage.com/purely-technical/reach-your-data-resiliency-high-score/</link>
       <description></description>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
     </item>
@@ -252,8 +252,8 @@
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Run Apache Spark on Kubernetes: Approaches and Workflow</title>
-      <link>https://blog.purestorage.com/purely-technical/running-apache-spark-on-kubernetes-approaches-and-workflow/</link>
+      <title>How to Accelerate Apache Spark with RAPIDS on GPU</title>
+      <link>https://blog.purestorage.com/purely-technical/accelerating-apache-spark-with-rapids-on-gpu/</link>
       <description></description>
       <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
     </item>
@@ -264,8 +264,8 @@
       <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Accelerate Apache Spark with RAPIDS on GPU</title>
-      <link>https://blog.purestorage.com/purely-technical/accelerating-apache-spark-with-rapids-on-gpu/</link>
+      <title>How to Run Apache Spark on Kubernetes: Approaches and Workflow</title>
+      <link>https://blog.purestorage.com/purely-technical/running-apache-spark-on-kubernetes-approaches-and-workflow/</link>
       <description></description>
       <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
     </item>
@@ -312,8 +312,8 @@
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Take and Store Nearly Half a Million Snapshots with Purity 6.4.5</title>
-      <link>https://blog.purestorage.com/purely-technical/take-store-nearly-half-a-million-snapshots-with-purity-6-4-3/</link>
+      <title>Accommodate More Complex Networks with Purity//FA 6.4.5</title>
+      <link>https://blog.purestorage.com/purely-technical/increase-vlan-tag-limit-to-500-and-vlan-subnet-interfaces-to-2000/</link>
       <description></description>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
     </item>
@@ -324,20 +324,20 @@
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Accommodate More Complex Networks with Purity//FA 6.4.5</title>
-      <link>https://blog.purestorage.com/purely-technical/increase-vlan-tag-limit-to-500-and-vlan-subnet-interfaces-to-2000/</link>
+      <title>Take and Store Nearly Half a Million Snapshots with Purity 6.4.5</title>
+      <link>https://blog.purestorage.com/purely-technical/take-store-nearly-half-a-million-snapshots-with-purity-6-4-3/</link>
       <description></description>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Look Out for Anomalous Drops in Data Reduction Ratios on Your Appliances</title>
-      <link>https://blog.purestorage.com/purely-technical/anomalous-drops-in-data-reduction-ratios/</link>
+      <title>How to Use the FlashBlade Network Plumbing Validation Tool</title>
+      <link>https://blog.purestorage.com/purely-technical/flashblade-network-plumbing-validation/</link>
       <description></description>
       <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Use the FlashBlade Network Plumbing Validation Tool</title>
-      <link>https://blog.purestorage.com/purely-technical/flashblade-network-plumbing-validation/</link>
+      <title>Look Out for Anomalous Drops in Data Reduction Ratios on Your Appliances</title>
+      <link>https://blog.purestorage.com/purely-technical/anomalous-drops-in-data-reduction-ratios/</link>
       <description></description>
       <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
     </item>
@@ -486,8 +486,8 @@
       <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Use Logstash to Send Directly to an S3 Object Store</title>
-      <link>https://blog.purestorage.com/purely-technical/using-logstash-to-send-directly-to-an-s3-object-store/</link>
+      <title>How to Compare Data Formats for Log Analytics</title>
+      <link>https://blog.purestorage.com/purely-technical/comparing-data-formats-for-log-analytics/</link>
       <description></description>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
     </item>
@@ -498,8 +498,8 @@
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Compare Data Formats for Log Analytics</title>
-      <link>https://blog.purestorage.com/purely-technical/comparing-data-formats-for-log-analytics/</link>
+      <title>How to Use Logstash to Send Directly to an S3 Object Store</title>
+      <link>https://blog.purestorage.com/purely-technical/using-logstash-to-send-directly-to-an-s3-object-store/</link>
       <description></description>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
     </item>
@@ -552,14 +552,14 @@
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Scaling Synopsys VCS Workloads in Hybrid Cloud with Azure and FlashBlade</title>
-      <link>https://blog.purestorage.com/purely-technical/scaling-synopsys-vcs-workloads-in-hybrid-cloud-with-azure-and-flashblade/</link>
+      <title>How to Improve Data Loading for Pandas on S3</title>
+      <link>https://blog.purestorage.com/purely-technical/faster-data-loading-for-pandas-on-s3/</link>
       <description></description>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Improve Data Loading for Pandas on S3</title>
-      <link>https://blog.purestorage.com/purely-technical/faster-data-loading-for-pandas-on-s3/</link>
+      <title>Scaling Synopsys VCS Workloads in Hybrid Cloud with Azure and FlashBlade</title>
+      <link>https://blog.purestorage.com/purely-technical/scaling-synopsys-vcs-workloads-in-hybrid-cloud-with-azure-and-flashblade/</link>
       <description></description>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
     </item>
@@ -576,15 +576,15 @@
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Configure Presto on FlashBlade S3</title>
-      <link>https://blog.purestorage.com/purely-technical/presto-on-flashblade-s3/</link>
-      <description>Presto is an open source, scale-out SQL engine for interactively querying large data sets, originally created inside Facebook. There are a variety of connectors to different data sources; in order to query data from S3, Presto leverages the Hive connector and the Hive Metastore. Presto operates at impressively large scales and shows promising performance results against Hive on S3 in previous testing.</description>
-      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How to Configure Apache Spark on FlashBlade, Part 1</title>
       <link>https://blog.purestorage.com/purely-technical/apache-spark-on-flashblade/</link>
       <description></description>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Configure Presto on FlashBlade S3</title>
+      <link>https://blog.purestorage.com/purely-technical/presto-on-flashblade-s3/</link>
+      <description>Presto is an open source, scale-out SQL engine for interactively querying large data sets, originally created inside Facebook. There are a variety of connectors to different data sources; in order to query data from S3, Presto leverages the Hive connector and the Hive Metastore. Presto operates at impressively large scales and shows promising performance results against Hive on S3 in previous testing.</description>
       <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -666,14 +666,14 @@
       <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Simplify Cloud Migration to Microsoft Azure</title>
-      <link>https://blog.purestorage.com/purely-technical/migration-to-microsoft-azure-made-easy-with-pure-cloud-block-store/</link>
+      <title>Expedite Cloud Migrations with Pure Storage and AWS</title>
+      <link>https://blog.purestorage.com/purely-technical/expedite-cloud-migrations-with-pure-storage-and-aws/</link>
       <description></description>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Expedite Cloud Migrations with Pure Storage and AWS</title>
-      <link>https://blog.purestorage.com/purely-technical/expedite-cloud-migrations-with-pure-storage-and-aws/</link>
+      <title>How to Simplify Cloud Migration to Microsoft Azure</title>
+      <link>https://blog.purestorage.com/purely-technical/migration-to-microsoft-azure-made-easy-with-pure-cloud-block-store/</link>
       <description></description>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
     </item>
@@ -870,14 +870,14 @@
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pure Storage® and Portworx®: Better Together</title>
-      <link>https://blog.purestorage.com/purely-technical/pure-storage-and-portworx/</link>
+      <title>Portworx and Pure Rock the Boat for Innovation with Kubernetes</title>
+      <link>https://blog.purestorage.com/purely-technical/portworx-and-pure-innovate-with-kubernetes/</link>
       <description></description>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Portworx and Pure Rock the Boat for Innovation with Kubernetes</title>
-      <link>https://blog.purestorage.com/purely-technical/portworx-and-pure-innovate-with-kubernetes/</link>
+      <title>Pure Storage® and Portworx®: Better Together</title>
+      <link>https://blog.purestorage.com/purely-technical/pure-storage-and-portworx/</link>
       <description></description>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
     </item>
@@ -900,14 +900,14 @@
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Testing DirectFlash Fabric Connectivity with vSphere 7</title>
-      <link>https://blog.purestorage.com/purely-technical/directflash-fabric-connectivity-with-vsphere-7/</link>
+      <title>Rapid Restore of VMware with Veeam and FlashArray//C</title>
+      <link>https://blog.purestorage.com/purely-technical/rapid-restore-of-vmware-with-veeam-and-flasharray-c/</link>
       <description></description>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Rapid Restore of VMware with Veeam and FlashArray//C</title>
-      <link>https://blog.purestorage.com/purely-technical/rapid-restore-of-vmware-with-veeam-and-flasharray-c/</link>
+      <title>Testing DirectFlash Fabric Connectivity with vSphere 7</title>
+      <link>https://blog.purestorage.com/purely-technical/directflash-fabric-connectivity-with-vsphere-7/</link>
       <description></description>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
     </item>
@@ -972,14 +972,14 @@
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Modernizing JFrog Artifactory on Fast Object</title>
-      <link>https://blog.purestorage.com/purely-technical/jfrog-artifactory-fast-object/</link>
+      <title>Control File and Object Replication with Pure1 Storage Management</title>
+      <link>https://blog.purestorage.com/purely-technical/file-object-replication-pure1/</link>
       <description></description>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Control File and Object Replication with Pure1 Storage Management</title>
-      <link>https://blog.purestorage.com/purely-technical/file-object-replication-pure1/</link>
+      <title>Modernizing JFrog Artifactory on Fast Object</title>
+      <link>https://blog.purestorage.com/purely-technical/jfrog-artifactory-fast-object/</link>
       <description></description>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
     </item>
@@ -1134,14 +1134,14 @@
       <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Purity Migrate: S/4HANA Migration from DellEMC PowerMax to Pure Storage FlashArray//X</title>
-      <link>https://blog.purestorage.com/purely-technical/purity-migrate-s-4hana-migration-from-dellemc-powermax-to-pure-storage-flasharray-x/</link>
+      <title>Getting Started with Cisco Intersight: Signup &amp; Initial Device Claim</title>
+      <link>https://blog.purestorage.com/purely-technical/getting-started-with-cisco-intersight-intersight-signup-and-initial-device-claim/</link>
       <description></description>
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Getting Started with Cisco Intersight: Signup &amp; Initial Device Claim</title>
-      <link>https://blog.purestorage.com/purely-technical/getting-started-with-cisco-intersight-intersight-signup-and-initial-device-claim/</link>
+      <title>Purity Migrate: S/4HANA Migration from DellEMC PowerMax to Pure Storage FlashArray//X</title>
+      <link>https://blog.purestorage.com/purely-technical/purity-migrate-s-4hana-migration-from-dellemc-powermax-to-pure-storage-flasharray-x/</link>
       <description></description>
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
     </item>
@@ -1212,14 +1212,14 @@
       <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Continuous Integration (CI) on a Data Platform of Least Resistance</title>
-      <link>https://blog.purestorage.com/purely-technical/continuous-integration-ci-on-a-data-platform-of-least-resistance/</link>
+      <title>CD Pipeline: Speeding Up the Software Life Cycle</title>
+      <link>https://blog.purestorage.com/purely-technical/speed-up-continuous-cd-pipeline/</link>
       <description></description>
       <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CD Pipeline: Speeding Up the Software Life Cycle</title>
-      <link>https://blog.purestorage.com/purely-technical/speed-up-continuous-cd-pipeline/</link>
+      <title>Continuous Integration (CI) on a Data Platform of Least Resistance</title>
+      <link>https://blog.purestorage.com/purely-technical/continuous-integration-ci-on-a-data-platform-of-least-resistance/</link>
       <description></description>
       <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
     </item>
@@ -1308,14 +1308,14 @@
       <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Benefits of Helix Core and All-Flash Storage</title>
-      <link>https://blog.purestorage.com/purely-technical/benefits-of-helix-core-and-all-flash-storage/</link>
+      <title>Accelerate Perforce Helix Core Database Recovery with Pure Storage</title>
+      <link>https://blog.purestorage.com/purely-technical/accelerate-perforce-helix-core-database-recovery-with-pure-storage/</link>
       <description></description>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Accelerate Perforce Helix Core Database Recovery with Pure Storage</title>
-      <link>https://blog.purestorage.com/purely-technical/accelerate-perforce-helix-core-database-recovery-with-pure-storage/</link>
+      <title>Benefits of Helix Core and All-Flash Storage</title>
+      <link>https://blog.purestorage.com/purely-technical/benefits-of-helix-core-and-all-flash-storage/</link>
       <description></description>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
     </item>
@@ -1362,16 +1362,22 @@
       <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Copying Apache Cassandra Cluster Running On VVols DatastoreCopying Apache Cassandra Cluster Running On VVols Datastore Pure Storage FlashArray//X Snapshots-II</title>
+      <link>https://blog.purestorage.com/purely-technical/copying-apache-vcassandra-cluster-running-on-vvols-datastore-pure-storage-flasharray-x-snapshots-ii/</link>
+      <description></description>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Recovering SAP HANA MDC Systems from Storage Snapshots</title>
       <link>https://blog.purestorage.com/purely-technical/recovering-sap-hana-mdc-systems-from-storage-snapshots/</link>
       <description></description>
       <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Copying Apache Cassandra Cluster Running On VVols DatastoreCopying Apache Cassandra Cluster Running On VVols Datastore Pure Storage FlashArray//X Snapshots-II</title>
-      <link>https://blog.purestorage.com/purely-technical/copying-apache-vcassandra-cluster-running-on-vvols-datastore-pure-storage-flasharray-x-snapshots-ii/</link>
+      <title>Exploring the Pure1® REST API – Part 3</title>
+      <link>https://blog.purestorage.com/purely-technical/pure1-rest-api-part-3/</link>
       <description></description>
-      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Exploring the Pure1® REST API, Part 1</title>
@@ -1382,12 +1388,6 @@
     <item>
       <title>Exploring the Pure1® REST API, Part i</title>
       <link>https://blog.purestorage.com/purely-technical/pure1-rest-api-part-2/</link>
-      <description></description>
-      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploring the Pure1® REST API – Part 3</title>
-      <link>https://blog.purestorage.com/purely-technical/pure1-rest-api-part-3/</link>
       <description></description>
       <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
     </item>
@@ -1416,14 +1416,14 @@
       <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>SAP HANA Backup and Recovery with CloudSnap</title>
-      <link>https://blog.purestorage.com/purely-technical/sap-hana-backup-and-recovery-using-purity-cloudsnap/</link>
+      <title>MongoDB: (Disk) Space – The Final Frontier</title>
+      <link>https://blog.purestorage.com/purely-technical/mongodb-disk-space-the-final-frontier/</link>
       <description></description>
       <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MongoDB: (Disk) Space – The Final Frontier</title>
-      <link>https://blog.purestorage.com/purely-technical/mongodb-disk-space-the-final-frontier/</link>
+      <title>SAP HANA Backup and Recovery with CloudSnap</title>
+      <link>https://blog.purestorage.com/purely-technical/sap-hana-backup-and-recovery-using-purity-cloudsnap/</link>
       <description></description>
       <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
     </item>
@@ -1440,12 +1440,6 @@
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>NVMe-oF Support is now Released!</title>
-      <link>https://blog.purestorage.com/purely-technical/nvme-of-support-is-now-released/</link>
-      <description></description>
-      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Analyzing the Possibilities of MariaDB and DirectFlash Fabric</title>
       <link>https://blog.purestorage.com/purely-technical/analyzing-the-possibilities-of-mariadb-and-directflash-fabric/</link>
       <description></description>
@@ -1458,20 +1452,26 @@
       <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Performance Consistency with FlashArray NVMe-oF and SQL Server Linux</title>
-      <link>https://blog.purestorage.com/purely-technical/performance-consistency-with-flasharray-nvme-of-and-sql-server-linux/</link>
-      <description></description>
-      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Beyond DAS: MongoDB on FlashArray with NVMe-oF RoCE</title>
       <link>https://blog.purestorage.com/purely-technical/mongodb-on-flasharray-with-nvme-of-roce/</link>
       <description></description>
       <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>NVMe-oF Support is now Released!</title>
+      <link>https://blog.purestorage.com/purely-technical/nvme-of-support-is-now-released/</link>
+      <description></description>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Oracle 18c Runs Faster with DirectFlash™ Fabric – NVMe-oF RoCE</title>
       <link>https://blog.purestorage.com/purely-technical/oracle-18c-runs-faster-with-directflash-fabric-nvmeof-roce/</link>
+      <description></description>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Performance Consistency with FlashArray NVMe-oF and SQL Server Linux</title>
+      <link>https://blog.purestorage.com/purely-technical/performance-consistency-with-flasharray-nvme-of-and-sql-server-linux/</link>
       <description></description>
       <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
     </item>
@@ -1542,14 +1542,14 @@
       <pubDate>Sat, 08 Dec 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Unified Infrastructure-as-Code in Hybrid Cloud with Ansible</title>
-      <link>https://blog.purestorage.com/purely-technical/unified-iac-in-hybrid-cloud-with-ansible/</link>
+      <title>Enabling SCSI_ID on VMware</title>
+      <link>https://blog.purestorage.com/purely-technical/enabling-scsi_id-on-vmware/</link>
       <description></description>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Enabling SCSI_ID on VMware</title>
-      <link>https://blog.purestorage.com/purely-technical/enabling-scsi_id-on-vmware/</link>
+      <title>Unified Infrastructure-as-Code in Hybrid Cloud with Ansible</title>
+      <link>https://blog.purestorage.com/purely-technical/unified-iac-in-hybrid-cloud-with-ansible/</link>
       <description></description>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
     </item>
@@ -1566,12 +1566,6 @@
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Say Hello to Hybrid CI/CD with Cloud Block Store</title>
-      <link>https://blog.purestorage.com/purely-technical/hybrid-cicd-with-cloud-block-store/</link>
-      <description></description>
-      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Pure Storage Cloud Block Store for AWS</title>
       <link>https://blog.purestorage.com/purely-technical/announcing-pure-storage-cloud-block-store-for-aws/</link>
       <description></description>
@@ -1580,6 +1574,12 @@
     <item>
       <title>SAP HANA Migration from On-premises to the Cloud</title>
       <link>https://blog.purestorage.com/purely-technical/sap-hana-migration-from-on-premises-to-the-cloud/</link>
+      <description></description>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Say Hello to Hybrid CI/CD with Cloud Block Store</title>
+      <link>https://blog.purestorage.com/purely-technical/hybrid-cicd-with-cloud-block-store/</link>
       <description></description>
       <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
     </item>
@@ -1632,14 +1632,14 @@
       <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pure Storage and VMware PowerShell Module</title>
-      <link>https://blog.purestorage.com/purely-technical/pure-storage-and-vmware-powershell-module/</link>
+      <title>Growing a VMFS datastore with PowerCLI</title>
+      <link>https://blog.purestorage.com/purely-technical/growing-a-vmfs-datastore-with-powercli/</link>
       <description></description>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Growing a VMFS datastore with PowerCLI</title>
-      <link>https://blog.purestorage.com/purely-technical/growing-a-vmfs-datastore-with-powercli/</link>
+      <title>Pure Storage and VMware PowerShell Module</title>
+      <link>https://blog.purestorage.com/purely-technical/pure-storage-and-vmware-powershell-module/</link>
       <description></description>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
     </item>
@@ -1722,20 +1722,20 @@
       <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>What’s New in Core Storage in vSphere 6.7 Part II: Sector Size and VMFS-6</title>
-      <link>https://blog.purestorage.com/purely-technical/whats-new-in-core-storage-in-vsphere-6-7-part-ii-sector-size-and-vmfs-6/</link>
-      <description></description>
-      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>PowerCLI and VVols Part I: Assigning a SPBM Policy</title>
       <link>https://blog.purestorage.com/purely-technical/powercli-and-vvols-part-i-assigning-a-spbm-policy/</link>
       <description></description>
       <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>What’s New in Core Storage in vSphere 6.7 Part I: In-Guest UNMAP and Snapshots</title>
-      <link>https://blog.purestorage.com/purely-technical/whats-new-in-core-storage-in-vsphere-6-7-part-i-in-guest-unmap-and-snapshots/</link>
+      <title>What’s New in Core Storage in vSphere 6.7 Part II: Sector Size and VMFS-6</title>
+      <link>https://blog.purestorage.com/purely-technical/whats-new-in-core-storage-in-vsphere-6-7-part-ii-sector-size-and-vmfs-6/</link>
+      <description></description>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ActiveCluster for Oracle RAC on Extended Distance Cluster</title>
+      <link>https://blog.purestorage.com/purely-technical/activecluster-for-oracle-rac-on-extended-distance-cluster/</link>
       <description></description>
       <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
     </item>
@@ -1746,8 +1746,8 @@
       <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ActiveCluster for Oracle RAC on Extended Distance Cluster</title>
-      <link>https://blog.purestorage.com/purely-technical/activecluster-for-oracle-rac-on-extended-distance-cluster/</link>
+      <title>What’s New in Core Storage in vSphere 6.7 Part I: In-Guest UNMAP and Snapshots</title>
+      <link>https://blog.purestorage.com/purely-technical/whats-new-in-core-storage-in-vsphere-6-7-part-i-in-guest-unmap-and-snapshots/</link>
       <description></description>
       <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
     </item>
@@ -1836,14 +1836,14 @@
       <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Recovery of SAP HANA  2.0  MDC on Pure Storage using snapshots-&gt;Part-2</title>
-      <link>https://blog.purestorage.com/purely-technical/recovery-of-sap-hana-2-0-mdc-on-pure-storage-using-snapshots-part-2/</link>
+      <title>Cody Hosterman Talks VVols on VMware vSpeaking Podcast</title>
+      <link>https://blog.purestorage.com/purely-technical/vspeaking-podcast-appearance-vvols/</link>
       <description></description>
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cody Hosterman Talks VVols on VMware vSpeaking Podcast</title>
-      <link>https://blog.purestorage.com/purely-technical/vspeaking-podcast-appearance-vvols/</link>
+      <title>Recovery of SAP HANA  2.0  MDC on Pure Storage using snapshots-&gt;Part-2</title>
+      <link>https://blog.purestorage.com/purely-technical/recovery-of-sap-hana-2-0-mdc-on-pure-storage-using-snapshots-part-2/</link>
       <description></description>
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
     </item>
@@ -1920,8 +1920,8 @@
       <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>VVol Data Mobility: Virtual to Physical</title>
-      <link>https://blog.purestorage.com/purely-technical/vvol-data-mobility-virtual-to-physical/</link>
+      <title>Check Provisioning Type of a Windows Server Volume</title>
+      <link>https://blog.purestorage.com/purely-technical/check-provisioning-type-of-a-windows-server-volume/</link>
       <description></description>
       <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
     </item>
@@ -1932,8 +1932,8 @@
       <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Check Provisioning Type of a Windows Server Volume</title>
-      <link>https://blog.purestorage.com/purely-technical/check-provisioning-type-of-a-windows-server-volume/</link>
+      <title>VVol Data Mobility: Virtual to Physical</title>
+      <link>https://blog.purestorage.com/purely-technical/vvol-data-mobility-virtual-to-physical/</link>
       <description></description>
       <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
     </item>
@@ -2046,14 +2046,14 @@
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>In-Guest UNMAP, EnableBlockDelete and VMFS-6EnableBlockDelete with VMFS-5EnableBlockDelete and VMFS-6Conclusion</title>
-      <link>https://blog.purestorage.com/purely-technical/in-guest-unmap-enableblockdelete-and-vmfs-6/</link>
+      <title>In-Guest UNMAP and VMware Snapshots</title>
+      <link>https://blog.purestorage.com/purely-technical/in-guest-unmap-and-vmware-snapshots/</link>
       <description></description>
       <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>In-Guest UNMAP and VMware Snapshots</title>
-      <link>https://blog.purestorage.com/purely-technical/in-guest-unmap-and-vmware-snapshots/</link>
+      <title>In-Guest UNMAP, EnableBlockDelete and VMFS-6EnableBlockDelete with VMFS-5EnableBlockDelete and VMFS-6Conclusion</title>
+      <link>https://blog.purestorage.com/purely-technical/in-guest-unmap-enableblockdelete-and-vmfs-6/</link>
       <description></description>
       <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
     </item>
@@ -2107,13 +2107,13 @@
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>
@@ -2124,14 +2124,14 @@
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Docker, Oracle 12c and Persistent Storage</title>
-      <link>https://blog.purestorage.com/purely-technical/docker-oracle-12c-and-persistent-storage/</link>
+      <title>Accelerating Continuous Integration and Delivery with Modern All-Flash Storage</title>
+      <link>https://blog.purestorage.com/purely-technical/accelerating-continuous-integration-delivery-modern-flash-storage/</link>
       <description></description>
       <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Accelerating Continuous Integration and Delivery with Modern All-Flash Storage</title>
-      <link>https://blog.purestorage.com/purely-technical/accelerating-continuous-integration-delivery-modern-flash-storage/</link>
+      <title>Docker, Oracle 12c and Persistent Storage</title>
+      <link>https://blog.purestorage.com/purely-technical/docker-oracle-12c-and-persistent-storage/</link>
       <description></description>
       <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
     </item>
@@ -2160,14 +2160,14 @@
       <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Purity Run – Opening FlashArray to run your VMs &amp; Containers</title>
-      <link>https://blog.purestorage.com/purely-technical/purity-run-opening-flasharray-to-run-your-vms-containers/</link>
+      <title>Introducing vSphere Virtual Volumes on the FlashArray</title>
+      <link>https://blog.purestorage.com/purely-technical/introducing-vsphere-virtual-volumes-on-the-flasharray/</link>
       <description></description>
       <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing vSphere Virtual Volumes on the FlashArray</title>
-      <link>https://blog.purestorage.com/purely-technical/introducing-vsphere-virtual-volumes-on-the-flasharray/</link>
+      <title>Purity Run – Opening FlashArray to run your VMs &amp; Containers</title>
+      <link>https://blog.purestorage.com/purely-technical/purity-run-opening-flasharray-to-run-your-vms-containers/</link>
       <description></description>
       <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
     </item>
@@ -2376,14 +2376,14 @@
       <pubDate>Sun, 07 Aug 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>VMFS UNMAP Process Switches Block Count</title>
-      <link>https://blog.purestorage.com/purely-technical/vmfs-unmap-switches-block-count/</link>
+      <title>Get GitHub Download Release Metrics</title>
+      <link>https://blog.purestorage.com/purely-technical/get-github-download-release-metrics/</link>
       <description></description>
       <pubDate>Wed, 27 Jul 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Get GitHub Download Release Metrics</title>
-      <link>https://blog.purestorage.com/purely-technical/get-github-download-release-metrics/</link>
+      <title>VMFS UNMAP Process Switches Block Count</title>
+      <link>https://blog.purestorage.com/purely-technical/vmfs-unmap-switches-block-count/</link>
       <description></description>
       <pubDate>Wed, 27 Jul 2016 00:00:00 +0000</pubDate>
     </item>
@@ -2394,14 +2394,14 @@
       <pubDate>Tue, 26 Jul 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>vRealize Orchestrator, TLS 1.2, and Certificate Importing</title>
-      <link>https://blog.purestorage.com/purely-technical/vrealize-orchestrator-tls-1-2-and-certificate-importing/</link>
+      <title>Pure PowerShell SDK: Find All Disconnected Volumes</title>
+      <link>https://blog.purestorage.com/purely-technical/find-all-disconnected-volumes/</link>
       <description></description>
       <pubDate>Tue, 26 Jul 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pure PowerShell SDK: Find All Disconnected Volumes</title>
-      <link>https://blog.purestorage.com/purely-technical/find-all-disconnected-volumes/</link>
+      <title>vRealize Orchestrator, TLS 1.2, and Certificate Importing</title>
+      <link>https://blog.purestorage.com/purely-technical/vrealize-orchestrator-tls-1-2-and-certificate-importing/</link>
       <description></description>
       <pubDate>Tue, 26 Jul 2016 00:00:00 +0000</pubDate>
     </item>
@@ -2448,14 +2448,14 @@
       <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Using Parameters with the FlashArray Python Toolkit</title>
-      <link>https://blog.purestorage.com/purely-technical/deeper-detail-on-using-parameters-with-the-flasharray-python-toolkit/</link>
+      <title>How to Get Started with PowerShell Remoting</title>
+      <link>https://blog.purestorage.com/purely-technical/powershell-remotingstart-transitioning-if-you-havent/</link>
       <description></description>
       <pubDate>Wed, 06 Jul 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Get Started with PowerShell Remoting</title>
-      <link>https://blog.purestorage.com/purely-technical/powershell-remotingstart-transitioning-if-you-havent/</link>
+      <title>Using Parameters with the FlashArray Python Toolkit</title>
+      <link>https://blog.purestorage.com/purely-technical/deeper-detail-on-using-parameters-with-the-flasharray-python-toolkit/</link>
       <description></description>
       <pubDate>Wed, 06 Jul 2016 00:00:00 +0000</pubDate>
     </item>
@@ -2466,14 +2466,14 @@
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pure Storage Python Toolkit Intro with Windows</title>
-      <link>https://blog.purestorage.com/purely-technical/pure-storage-python-toolkit-intro-with-windows/</link>
+      <title>Protection Group Recovery in PowerShell</title>
+      <link>https://blog.purestorage.com/purely-technical/protection-group-recovery-in-powershell/</link>
       <description></description>
       <pubDate>Thu, 30 Jun 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Protection Group Recovery in PowerShell</title>
-      <link>https://blog.purestorage.com/purely-technical/protection-group-recovery-in-powershell/</link>
+      <title>Pure Storage Python Toolkit Intro with Windows</title>
+      <link>https://blog.purestorage.com/purely-technical/pure-storage-python-toolkit-intro-with-windows/</link>
       <description></description>
       <pubDate>Thu, 30 Jun 2016 00:00:00 +0000</pubDate>
     </item>

@@ -39,7 +39,12 @@ func main() {
 	}
 
 	slices.SortFunc(posts, func(a, b pure2rss.Post) int {
-		return b.PublishDate.Compare(a.PublishDate)
+        res :=  b.PublishDate.Compare(a.PublishDate)
+        if res == 0 {
+            return strings.Compare(a.Title, b.Title)
+        }
+
+        return res
 	})
 
 	lastPost := posts[len(posts)-1]
