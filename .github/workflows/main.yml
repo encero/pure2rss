@@ -13,4 +13,4 @@ jobs:
         ./pure2rss
     - uses: stefanzweifel/git-auto-commit-action@v5
       with: 
-        file_pattern: 'rss.xml'
+        file_pattern: 'rss.xml posts.json'
