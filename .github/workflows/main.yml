@@ -11,6 +11,6 @@ jobs:
     - name: run the updater
       run: |
         ./pure2rss
-        git add rss.xml
-        git commit -m "commiting updated feed"
-        git push 
+    - uses: stefanzweifel/git-auto-commit-action@v5
+      with: 
+        file_pattern: 'rss.xml'
