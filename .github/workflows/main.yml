@@ -1,0 +1,15 @@
+on:
+  schedule:
+  - cron: "0 17 * * *"
+jobs:
+  update_feed:
+    runs-on: ubuntu-latest
+    name: Update the rss feed
+    steps:
+    - uses: actions/checkout@v4
+    - name: run the updater
+      run: |
+        pure2rss
+        git add rss.xml
+        git ci -m "commiting updated feed"
+        git push
