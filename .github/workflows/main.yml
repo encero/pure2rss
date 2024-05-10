@@ -10,7 +10,7 @@ jobs:
     - uses: actions/checkout@v4
     - name: run the updater
       run: |
-        pure2rss
+        ./pure2rss
         git add rss.xml
         git ci -m "commiting updated feed"
         git push
