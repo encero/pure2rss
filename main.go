@@ -34,42 +34,41 @@ func main() {
 	}
 
 	posts, err := cache.LoadCategory("purely-technical")
-    if err != nil {
-        panic(err)
-    }
+	if err != nil {
+		panic(err)
+	}
 
-    slices.SortFunc(posts, func(a,b pure2rss.Post) int {
-        return b.PublishDate.Compare(a.PublishDate)
-    })
+	slices.SortFunc(posts, func(a, b pure2rss.Post) int {
+		return b.PublishDate.Compare(a.PublishDate)
+	})
 
-    lastPost := posts[len(posts) - 1]
+	lastPost := posts[len(posts)-1]
 
+	feed := feeds.Feed{
+		Title:       "Purely Technical",
+		Link:        &feeds.Link{Href: "https://blog.purestorage.com/purely-technical/"},
+		Description: "A wealth of technical detail for working with Pure products.",
+		Updated:     lastPost.PostLink.Link.LastMod,
+		Items:       make([]*feeds.Item, 0, len(posts)),
+	}
 
+	for _, post := range posts {
+		feed.Items = append(feed.Items, &feeds.Item{
+			Title:       post.Title,
+			Link:        &feeds.Link{Href: post.PostLink.Link.Loc},
+			Description: post.Summary,
+			Updated:     post.PostLink.Link.LastMod,
+			Created:     post.PublishDate,
+		})
+	}
 
-    feed := feeds.Feed{
-    	Title:       "Purely Technical",
-        Link:        &feeds.Link{Href:"https://blog.purestorage.com/purely-technical/"},
-    	Description: "A wealth of technical detail for working with Pure products.",
-    	Updated:     lastPost.PostLink.Link.LastMod,
-        Items: make([]*feeds.Item, 0, len(posts)),
-    }
+	file, err := os.Create("./rss.xml")
+	if err != nil {
+		panic(err)
+	}
+	defer file.Close()
 
-    for _, post := range posts {
-        feed.Items = append(feed.Items, &feeds.Item{
-        	Title:       post.Title,
-            Link:        &feeds.Link{Href: post.PostLink.Link.Loc},
-        	Description: post.Summary,
-        	Updated:     post.PostLink.Link.LastMod,
-        })
-    }
-
-    file, err := os.Create("./rss.xml")
-    if err != nil {
-        panic(err)
-    }
-    defer file.Close()
-
-    feed.WriteRss(file)
+	feed.WriteRss(file)
 }
 
 func downloadPostInfo(cache *pure2rss.Cache) error {
