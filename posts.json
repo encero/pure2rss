@@ -301,13 +301,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/accessing-external-data-using-flashblade-s3-object-storage-from-oracle-19c-21c/",
-    "LastMod": "2024-02-17T00:20:06Z"
+    "LastMod": "2024-05-11T04:34:39Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "accessing-external-data-using-flashblade-s3-object-storage-from-oracle-19c-21c"
   },
-  "Title": "Accessing External Data Using FlashBlade S3 Object Storage from Oracle 19c/21cSummary on Oracle",
+  "Title": "Accessing External Data Using FlashBlade S3 Object Storage from Oracle 19c/21c",
   "Summary": "",
   "PublishDate": "2022-10-18T00:00:00Z",
   "Tags": [
@@ -319,13 +319,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/activecluster-and-vaai/",
-    "LastMod": "2022-08-24T21:50:58Z"
+    "LastMod": "2024-05-11T14:24:33Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "activecluster-and-vaai"
   },
-  "Title": "ActiveCluster and VAAIHardware Assisted Locking/ATSZero Offload/WRITE SAMESpace Reclamation/UNMAPCopy Offload/XCOPYConclusion",
+  "Title": "ActiveCluster and VAAI",
   "Summary": "",
   "PublishDate": "2018-02-05T00:00:00Z",
   "Tags": []
@@ -1062,13 +1062,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/building-your-own-web-client-plugin-with-vro/",
-    "LastMod": "2024-02-17T01:24:04Z"
+    "LastMod": "2024-05-11T15:47:35Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "building-your-own-web-client-plugin-with-vro"
   },
-  "Title": "Building Your Own Web Client Plugin with vRORegistering vRO with vCenterAdding Workflows to vCenter Menu OptionsRunning a Workflow from vCenter",
+  "Title": "Building Your Own Web Client Plugin with vRO",
   "Summary": "",
   "PublishDate": "2017-06-01T00:00:00Z",
   "Tags": []
@@ -1263,13 +1263,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/comparing-vvols-to-vmdks-and-rdms/",
-    "LastMod": "2022-08-29T15:47:18Z"
+    "LastMod": "2024-05-11T15:15:34Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "comparing-vvols-to-vmdks-and-rdms"
   },
-  "Title": "Comparing VVols to VMDKs and RDMsVirtual Disks vs. VVolspRDM and VVolvRDM and VVolBut wait, there’s more!",
+  "Title": "Comparing VVols to VMDKs and RDMs",
   "Summary": "",
   "PublishDate": "2017-10-19T00:00:00Z",
   "Tags": [
@@ -1455,13 +1455,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/copying-apache-vcassandra-cluster-running-on-vvols-datastore-pure-storage-flasharray-x-snapshots-ii/",
-    "LastMod": "2022-08-19T20:32:42Z"
+    "LastMod": "2024-05-11T15:26:11Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "copying-apache-vcassandra-cluster-running-on-vvols-datastore-pure-storage-flasharray-x-snapshots-ii"
   },
-  "Title": "Copying Apache Cassandra Cluster Running On VVols DatastoreCopying Apache Cassandra Cluster Running On VVols Datastore Pure Storage FlashArray//X Snapshots-II",
+  "Title": "Copying Apache Cassandra Cluster Running On VVols Datastore",
   "Summary": "",
   "PublishDate": "2019-05-07T00:00:00Z",
   "Tags": []
@@ -1519,13 +1519,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/csi-volume-resizing-and-elasticsearch/",
-    "LastMod": "2024-02-17T00:25:49Z"
+    "LastMod": "2024-05-11T15:09:54Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "csi-volume-resizing-and-elasticsearch"
   },
-  "Title": "How to Use Kubernetes CSI Volume Resizing and ElasticsearchSummary",
+  "Title": "How to Use Kubernetes CSI Volume Resizing and Elasticsearch",
   "Summary": "",
   "PublishDate": "2022-06-17T00:00:00Z",
   "Tags": [
@@ -1756,13 +1756,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/deduplication-compression-and-sql-server-databases-part-2/",
-    "LastMod": "2024-02-16T19:26:49Z"
+    "LastMod": "2024-05-11T15:31:05Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "deduplication-compression-and-sql-server-databases-part-2"
   },
-  "Title": "Part 2: Deduplication and Compression with SQL Server DatabasesThe SetupThe TestsSummary",
+  "Title": "Part 2: Deduplication and Compression with SQL Server Databases",
   "Summary": "",
   "PublishDate": "2015-05-01T00:00:00Z",
   "Tags": [
@@ -2131,13 +2131,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/esxi-and-the-missing-luns-256-or-higher/",
-    "LastMod": "2024-02-17T01:25:31Z"
+    "LastMod": "2024-05-11T14:26:06Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "esxi-and-the-missing-luns-256-or-higher"
   },
-  "Title": "ESXi and the Missing LUN IDs: 256 or HigherLUN Addressing 101LUN Addressing and ESXi",
+  "Title": "ESXi and the Missing LUN IDs: 256 or Higher",
   "Summary": "",
   "PublishDate": "2017-04-18T00:00:00Z",
   "Tags": [
@@ -2377,13 +2377,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/flasharray-3-0-plugin-for-the-vsphere-web-client/",
-    "LastMod": "2022-08-26T15:05:48Z"
+    "LastMod": "2024-05-11T04:55:41Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "flasharray-3-0-plugin-for-the-vsphere-web-client"
   },
-  "Title": "FlashArray Plugin 3.0 for the vSphere Web ClientRelease NotesInstallNew Features",
+  "Title": "FlashArray Plugin 3.0 for the vSphere Web Client",
   "Summary": "",
   "PublishDate": "2017-12-20T00:00:00Z",
   "Tags": [
@@ -2418,7 +2418,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/flasharray-fibre-channel-vmware-cloud-foundation/",
-    "LastMod": "2024-02-17T01:15:45Z"
+    "LastMod": "2024-05-11T14:40:28Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2707,13 +2707,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/getting-started-with-vrealize-orchestrator-and-vvols/",
-    "LastMod": "2022-08-24T18:38:43Z"
+    "LastMod": "2024-05-11T15:45:21Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "getting-started-with-vrealize-orchestrator-and-vvols"
   },
-  "Title": "Getting Started with vRealize Orchestrator and VVolsvCenter Management SDKSMS ServicePBM Service",
+  "Title": "Getting Started with vRealize Orchestrator and VVols",
   "Summary": "",
   "PublishDate": "2018-01-23T00:00:00Z",
   "Tags": [
@@ -3232,13 +3232,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/in-guest-unmap-enableblockdelete-and-vmfs-6/",
-    "LastMod": "2022-08-29T16:19:21Z"
+    "LastMod": "2024-05-11T15:44:50Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "in-guest-unmap-enableblockdelete-and-vmfs-6"
   },
-  "Title": "In-Guest UNMAP, EnableBlockDelete and VMFS-6EnableBlockDelete with VMFS-5EnableBlockDelete and VMFS-6Conclusion",
+  "Title": "In-Guest UNMAP, EnableBlockDelete and VMFS-6",
   "Summary": "",
   "PublishDate": "2017-08-11T00:00:00Z",
   "Tags": [
@@ -3630,13 +3630,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/latency-round-robin-psp-in-esxi-6-7-update-1/",
-    "LastMod": "2022-08-23T20:36:05Z"
+    "LastMod": "2024-05-11T15:48:08Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "latency-round-robin-psp-in-esxi-6-7-update-1"
   },
-  "Title": "Latency Round Robin PSP in ESXi 6.7 Update 1Configuring the Latency Policy as a SATP Rule in ESXCLIConfiguring the Latency Policy as a SATP Rule in PowerCLI",
+  "Title": "Latency Round Robin PSP in ESXi 6.7 Update 1",
   "Summary": "",
   "PublishDate": "2018-10-18T00:00:00Z",
   "Tags": [
@@ -4080,13 +4080,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/moving-from-an-rdm-to-a-vvol/",
-    "LastMod": "2022-08-26T17:40:41Z"
+    "LastMod": "2024-05-11T15:39:21Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "moving-from-an-rdm-to-a-vvol"
   },
-  "Title": "Moving from an RDM to a VVolOption 1: Offline MigrationCreate a new VVol and CopyConvert the RDM to a VVolHost-based CopyingConclusion",
+  "Title": "Moving from an RDM to a VVol",
   "Summary": "",
   "PublishDate": "2017-11-07T00:00:00Z",
   "Tags": [
@@ -4117,13 +4117,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/multi-site-flasharray-configuration-with-site-recovery-manager/",
-    "LastMod": "2024-02-17T01:26:53Z"
+    "LastMod": "2024-05-11T15:45:58Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "multi-site-flasharray-configuration-with-site-recovery-manager"
   },
-  "Title": "Multi-site FlashArray Configuration with Site Recovery ManagerFinal Thoughts",
+  "Title": "Multi-site FlashArray Configuration with Site Recovery Manager",
   "Summary": "",
   "PublishDate": "2017-04-10T00:00:00Z",
   "Tags": [
@@ -4847,13 +4847,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/postgresql-12-flasharray-x-r3-sas-das/",
-    "LastMod": "2024-02-17T01:11:03Z"
+    "LastMod": "2024-05-11T14:48:42Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "postgresql-12-flasharray-x-r3-sas-das"
   },
-  "Title": "PostgreSQL 12 on FlashArray//X R3 Leaves SAS DAS BehindResultsSummary",
+  "Title": "PostgreSQL 12 on FlashArray//X R3 Leaves SAS DAS Behind",
   "Summary": "",
   "PublishDate": "2020-03-04T00:00:00Z",
   "Tags": [
@@ -4884,13 +4884,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/powercli-and-vvols-part-v-array-snapshots-and-vvols/",
-    "LastMod": "2022-08-22T18:55:19Z"
+    "LastMod": "2024-05-11T15:17:14Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "powercli-and-vvols-part-v-array-snapshots-and-vvols"
   },
-  "Title": "PowerCLI and VVols Part V: Array Snapshots and VVolsRetrieving Snapshot of a VVol Virtual DiskCopy Snapshot to New VVolCopy Snapshot to an Existing VVol",
+  "Title": "PowerCLI and VVols Part V: Array Snapshots and VVols",
   "Summary": "",
   "PublishDate": "2018-10-30T00:00:00Z",
   "Tags": [
@@ -4932,13 +4932,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/powercli-and-vvols-part-viii-running-a-failover-planned-migration/",
-    "LastMod": "2022-08-22T21:44:50Z"
+    "LastMod": "2024-05-11T15:52:48Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "powercli-and-vvols-part-viii-running-a-failover-planned-migration"
   },
-  "Title": "PowerCLI and VVols Part VIII: Running a Failover–Planned MigrationGet Replication Group",
+  "Title": "PowerCLI and VVols Part VIII: Running a Failover–Planned Migration",
   "Summary": "",
   "PublishDate": "2019-02-14T00:00:00Z",
   "Tags": []
@@ -5656,13 +5656,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/queue-depth-limits-and-vvol-protocol-endpoints/",
-    "LastMod": "2022-08-29T20:51:54Z"
+    "LastMod": "2024-05-11T15:25:22Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "queue-depth-limits-and-vvol-protocol-endpoints"
   },
-  "Title": "Queue Depth Limits and VVol Protocol EndpointsUnderstanding PE Queue Depth HandlingDo I need more than one PE?",
+  "Title": "Queue Depth Limits and VVol Protocol Endpoints",
   "Summary": "",
   "PublishDate": "2017-06-21T00:00:00Z",
   "Tags": [
@@ -5818,13 +5818,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/recovering-a-deleted-virtual-machine-with-vvols/",
-    "LastMod": "2022-08-22T20:00:33Z"
+    "LastMod": "2024-05-11T04:58:45Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "recovering-a-deleted-virtual-machine-with-vvols"
   },
-  "Title": "How to Recover a Deleted Virtual Machine with VVolsOverviewConfig VVol, the story.Restoring a deleted VVol VM",
+  "Title": "How to Recover a Deleted Virtual Machine with VVols",
   "Summary": "",
   "PublishDate": "2017-08-25T00:00:00Z",
   "Tags": [
@@ -5889,13 +5889,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/registering-vasa-with-powershell/",
-    "LastMod": "2022-08-31T23:54:51Z"
+    "LastMod": "2024-05-11T14:10:56Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "registering-vasa-with-powershell"
   },
-  "Title": "Registering VASA with PowerShellRegistering VASA providers is the first step in setting up VVols for a given vCenter.",
+  "Title": "Registering VASA with PowerShell",
   "Summary": "",
   "PublishDate": "2019-07-08T00:00:00Z",
   "Tags": []
@@ -7741,13 +7741,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/virtual-volumes-vvol-bindings-explained/",
-    "LastMod": "2022-08-26T18:10:43Z"
+    "LastMod": "2024-05-11T14:33:48Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "virtual-volumes-vvol-bindings-explained"
   },
-  "Title": "Virtual Volumes: VVol Bindings ExplainedProtocol EndpointsVVol BindingsCreating a VMReading the Config VVolPower-On a VMvMotionConclusion",
+  "Title": "Virtual Volumes: VVol Bindings Explained",
   "Summary": "",
   "PublishDate": "2017-09-28T00:00:00Z",
   "Tags": [
@@ -7839,13 +7839,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/vmware-capacity-reporting-part-iv-vvol-capacity-reporting/",
-    "LastMod": "2022-08-26T15:32:53Z"
+    "LastMod": "2024-05-11T15:22:19Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "vmware-capacity-reporting-part-iv-vvol-capacity-reporting"
   },
-  "Title": "VMware Capacity Reporting Part IV: VVol Capacity ReportingVVol DatastoreData VVolData VVol Snapshots",
+  "Title": "VMware Capacity Reporting Part IV: VVol Capacity Reporting",
   "Summary": "",
   "PublishDate": "2018-03-06T00:00:00Z",
   "Tags": [
@@ -7857,13 +7857,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/vmware-capacity-reporting-part-v-vvols-and-unmap/",
-    "LastMod": "2022-08-26T17:33:43Z"
+    "LastMod": "2024-05-11T15:37:58Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "vmware-capacity-reporting-part-v-vvols-and-unmap"
   },
-  "Title": "VMware Capacity Reporting Part V: VVols and UNMAPVVols and UNMAP",
+  "Title": "VMware Capacity Reporting Part V: VVols and UNMAP",
   "Summary": "",
   "PublishDate": "2018-03-07T00:00:00Z",
   "Tags": []
@@ -8102,13 +8102,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/vrealize-orchestrator-vvol-workflow-package/",
-    "LastMod": "2023-10-26T15:39:33Z"
+    "LastMod": "2024-05-11T15:20:12Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "vrealize-orchestrator-vvol-workflow-package"
   },
-  "Title": "vRealize Orchestrator VVol Workflow PackageVVol Workflows:Actions",
+  "Title": "vRealize Orchestrator VVol Workflow Package",
   "Summary": "",
   "PublishDate": "2018-03-22T00:00:00Z",
   "Tags": [
@@ -8155,13 +8155,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/vvol-vmug-webinar-qa-follow-up/",
-    "LastMod": "2022-08-24T18:28:32Z"
+    "LastMod": "2024-05-11T15:43:55Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "vvol-vmug-webinar-qa-follow-up"
   },
-  "Title": "VVol VMUG Webinar Q\u0026A Follow UpVVol VMUG Questions:",
+  "Title": "VVol VMUG Webinar Q\u0026A Follow Up",
   "Summary": "",
   "PublishDate": "2018-03-28T00:00:00Z",
   "Tags": [
@@ -8222,13 +8222,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/what-is-a-config-vvol-anyways/",
-    "LastMod": "2024-04-15T21:09:38Z"
+    "LastMod": "2024-05-11T14:22:11Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "what-is-a-config-vvol-anyways"
   },
-  "Title": "What is a Config VVol?VVol DatastoreRecovering a Config VVolFinal Thoughts",
+  "Title": "What is a Config VVol?",
   "Summary": "",
   "PublishDate": "2017-11-21T00:00:00Z",
   "Tags": [
@@ -8240,13 +8240,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/what-is-a-vvol-datastore/",
-    "LastMod": "2023-11-15T16:22:51Z"
+    "LastMod": "2024-05-11T15:42:17Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "what-is-a-vvol-datastore"
   },
-  "Title": "What is a VVol Datastore?Conclusion",
+  "Title": "What is a VVol Datastore?",
   "Summary": "",
   "PublishDate": "2018-01-16T00:00:00Z",
   "Tags": [
@@ -8365,13 +8365,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/whats-new-in-core-storage-in-vsphere-6-7-part-iv-nvme-controller-in-guest-unmap-support/",
-    "LastMod": "2022-08-24T21:19:41Z"
+    "LastMod": "2024-05-11T14:41:49Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "whats-new-in-core-storage-in-vsphere-6-7-part-iv-nvme-controller-in-guest-unmap-support"
   },
-  "Title": "What’s New in Core Storage in vSphere 6.7 Part IV: NVMe Controller In-Guest UNMAP SupportConclusion",
+  "Title": "What’s New in Core Storage in vSphere 6.7 Part IV: NVMe Controller In-Guest UNMAP Support",
   "Summary": "",
   "PublishDate": "2018-04-21T00:00:00Z",
   "Tags": [
