@@ -723,7 +723,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/auto-on-safemodetm-now-available-in-purity-6-4-10/",
-    "LastMod": "2024-05-02T18:33:09Z"
+    "LastMod": "2024-05-14T00:47:40Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1630,7 +1630,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/data-protection-for-aws-outposts/",
-    "LastMod": "2024-02-17T00:55:10Z"
+    "LastMod": "2024-05-14T01:54:22Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1650,7 +1650,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/data-reduction-deep-dive-is-thin-provisioning-data-reduction/",
-    "LastMod": "2022-03-01T17:22:35Z"
+    "LastMod": "2024-05-13T18:03:38Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2741,7 +2741,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/harnessing-static-and-dynamic-code-scanning-in-devsecops/",
-    "LastMod": "2024-02-20T15:07:56Z"
+    "LastMod": "2024-05-13T18:19:46Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2751,8 +2751,9 @@
   "Summary": "",
   "PublishDate": "2024-02-12T00:00:00Z",
   "Tags": [
-   "DevOps",
-   "Disk Replacement"
+   "Cybersecurity",
+   "Data Protection",
+   "DevOps"
   ]
  },
  "https://blog.purestorage.com/purely-technical/hints-on-using-cinder-manage-with-openstack-newton-and-later/": {
@@ -2774,7 +2775,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-snapshot-consolidation-with-fan-in-replication-can-simplify-your-life/",
-    "LastMod": "2024-05-07T17:17:01Z"
+    "LastMod": "2024-05-13T23:29:37Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3885,7 +3886,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/minimize-the-impact-of-a-cyber-attack-with-commvault-and-pure-storage/",
-    "LastMod": "2024-02-16T23:52:32Z"
+    "LastMod": "2024-05-13T23:54:33Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5056,7 +5057,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/protect-oracle-backups-from-ransomware-and-other-threats/",
-    "LastMod": "2024-04-29T17:32:38Z"
+    "LastMod": "2024-05-14T01:41:22Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5691,7 +5692,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/ransomware-protection-with-netbackup-msdp-and-flashblade/",
-    "LastMod": "2024-04-29T17:36:20Z"
+    "LastMod": "2024-05-13T23:29:59Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7392,7 +7393,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/upgrade-to-purity-fa-6-5-0-yourself-through-pure1/",
-    "LastMod": "2024-02-16T23:52:24Z"
+    "LastMod": "2024-05-13T23:53:44Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
