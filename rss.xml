@@ -1692,6 +1692,12 @@
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How to Perform a Plumbing Test Using fio</title>
+      <link>https://blog.purestorage.com/purely-technical/fio-plumbing-test/</link>
+      <description></description>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>New PowerShell Toolkit Version 1805.11.1</title>
       <link>https://blog.purestorage.com/purely-technical/new-version-of-powershell-toolkit-1805-11-1/</link>
       <description></description>
@@ -2656,12 +2662,6 @@
       <link>https://blog.purestorage.com/purely-technical/native-pci-express-back-end-interconnect-in-flasharraym/</link>
       <description></description>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Using fio to Perform a Plumbing Test</title>
-      <link>https://blog.purestorage.com/purely-technical/fio-plumbing-test/</link>
-      <description></description>
-      <pubDate>Wed, 20 May 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>5 Things You Need to Know About OpenStack Kilo and Pure Storage</title>
