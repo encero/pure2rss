@@ -4209,13 +4209,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/new-flashstack-for-microsoft-exchange-server-2013/",
-    "LastMod": "2022-11-26T23:57:34Z"
+    "LastMod": "2024-05-15T15:55:56Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "new-flashstack-for-microsoft-exchange-server-2013"
   },
-  "Title": "New! FlashStack for Microsoft Exchange Server 2013",
+  "Title": "FlashStack for Microsoft Exchange Server",
   "Summary": "",
   "PublishDate": "2016-06-12T00:00:00Z",
   "Tags": [
@@ -6741,13 +6741,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/so-long-sqlio-hello-diskspd/",
-    "LastMod": "2024-04-26T01:56:23Z"
+    "LastMod": "2024-05-15T16:23:56Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "so-long-sqlio-hello-diskspd"
   },
-  "Title": "So Long, SQLIO. Hello, DiskSpd.",
+  "Title": "SQLIO vs. DiskSpd",
   "Summary": "",
   "PublishDate": "2015-12-16T00:00:00Z",
   "Tags": [
