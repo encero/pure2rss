@@ -424,7 +424,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/an-analysis-of-io-size-modalities-on-pure-storage-flasharrays/",
-    "LastMod": "2024-01-24T17:16:21Z"
+    "LastMod": "2024-05-21T21:41:19Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -434,6 +434,7 @@
   "Summary": "",
   "PublishDate": "2023-11-01T00:00:00Z",
   "Tags": [
+   "Cloud Migration",
    "Purity Data Services"
   ]
  },
