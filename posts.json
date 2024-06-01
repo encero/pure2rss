@@ -7412,7 +7412,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/upgrade-your-own-flasharray-with-pure1/",
-    "LastMod": "2024-02-17T00:14:54Z"
+    "LastMod": "2024-05-31T20:33:17Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7420,7 +7420,7 @@
   },
   "Title": "Upgrade Your Own FlashArray with Pure1",
   "Summary": "",
-  "PublishDate": "2023-02-07T00:00:00Z",
+  "PublishDate": "2024-05-31T00:00:00Z",
   "Tags": [
    "FlashArray//C",
    "FlashArray//X NVMe",

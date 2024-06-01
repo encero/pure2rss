@@ -6,6 +6,12 @@
     <pubDate>Wed, 22 May 2024 17:58:12 +0000</pubDate>
     <lastBuildDate>Wed, 22 May 2024 17:58:12 +0000</lastBuildDate>
     <item>
+      <title>Upgrade Your Own FlashArray with Pure1</title>
+      <link>https://blog.purestorage.com/purely-technical/upgrade-your-own-flasharray-with-pure1/</link>
+      <description></description>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>A New Power-up for Data Resilience: A Guide to Object-level Exclusions</title>
       <link>https://blog.purestorage.com/purely-technical/continuing-the-journey-of-data-resilience/</link>
       <description>Object-level exclusions are a powerful feature in the Pure1® Data Protection Assessment tool. They enable you to create smart exclusion rules, which filter out unnecessary data and enhance the accuracy and effectiveness of assessments.</description>
@@ -400,12 +406,6 @@
       <link>https://blog.purestorage.com/purely-technical/flasharray-extends-nvme-of-support-to-tcp/</link>
       <description></description>
       <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Upgrade Your Own FlashArray with Pure1</title>
-      <link>https://blog.purestorage.com/purely-technical/upgrade-your-own-flasharray-with-pure1/</link>
-      <description></description>
-      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Configure the VM Analytics Collector for the Pure1 VM Analytics Feature</title>
