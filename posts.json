@@ -7412,7 +7412,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/upgrade-your-own-flasharray-with-pure1/",
-    "LastMod": "2024-05-31T20:33:17Z"
+    "LastMod": "2024-06-07T14:49:57Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7425,7 +7425,7 @@
    "FlashArray//C",
    "FlashArray//X NVMe",
    "FlashArray//XL",
-   "Pure Fusion",
+   "Pure1 Storage Management",
    "Purity"
   ]
  },
@@ -7701,6 +7701,23 @@
   "PublishDate": "2015-03-26T00:00:00Z",
   "Tags": [
    "Oracle"
+  ]
+ },
+ "https://blog.purestorage.com/purely-technical/vector-database-and-storage/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/vector-database-and-storage/",
+    "LastMod": "2024-06-06T17:57:54Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "vector-database-and-storage"
+  },
+  "Title": "Vector Database and Storage",
+  "Summary": "",
+  "PublishDate": "2024-06-06T00:00:00Z",
+  "Tags": [
+   "AI and Machine Learning"
   ]
  },
  "https://blog.purestorage.com/purely-technical/veeam-10-is-compatible-with-pure-storage-plug-in-1-2-45/": {
