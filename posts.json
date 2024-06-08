@@ -1028,7 +1028,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/building-and-securing-kubernetes-native-products-the-pure-storage-product-security-journey/",
-    "LastMod": "2024-02-17T00:12:16Z"
+    "LastMod": "2024-06-07T23:03:05Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1041,7 +1041,8 @@
    "Cybersecurity",
    "Kubernetes",
    "Portworx",
-   "Portworx Data Services"
+   "Portworx Data Services",
+   "Ransomware"
   ]
  },
  "https://blog.purestorage.com/purely-technical/building-the-1st-gen-puretec-and-solutions-engineering-lab/": {
@@ -1370,7 +1371,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/continuing-the-journey-of-data-resilience/",
-    "LastMod": "2024-05-07T17:06:59Z"
+    "LastMod": "2024-06-07T22:53:41Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2742,7 +2743,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/harnessing-static-and-dynamic-code-scanning-in-devsecops/",
-    "LastMod": "2024-05-13T18:19:46Z"
+    "LastMod": "2024-06-07T22:45:08Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2754,7 +2755,8 @@
   "Tags": [
    "Cybersecurity",
    "Data Protection",
-   "DevOps"
+   "DevOps",
+   "Ransomware"
   ]
  },
  "https://blog.purestorage.com/purely-technical/hints-on-using-cinder-manage-with-openstack-newton-and-later/": {
@@ -2956,7 +2958,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-implement-threat-modeling-in-your-devsecops-process/",
-    "LastMod": "2024-02-17T00:00:16Z"
+    "LastMod": "2024-06-07T22:43:38Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2970,7 +2972,8 @@
    "DevOps",
    "Kubernetes",
    "Portworx",
-   "Portworx Data Services"
+   "Portworx Data Services",
+   "Ransomware"
   ]
  },
  "https://blog.purestorage.com/purely-technical/how-to-optimize-deep-learning-workflows-with-fast-s3/": {
@@ -3759,7 +3762,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/log-data-done-right/",
-    "LastMod": "2024-02-17T01:03:56Z"
+    "LastMod": "2024-06-07T23:02:35Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3769,7 +3772,9 @@
   "Summary": "",
   "PublishDate": "2020-07-29T00:00:00Z",
   "Tags": [
-   "Data Analytics"
+   "Cybersecurity",
+   "Data Analytics",
+   "Ransomware"
   ]
  },
  "https://blog.purestorage.com/purely-technical/lowering-azure-vms-recovery-time-with-pure-cloud-block-store-and-azure-automation/": {
