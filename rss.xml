@@ -330,6 +330,12 @@
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How Secure Is Your Pure Storage Array?</title>
+      <link>https://blog.purestorage.com/purely-technical/pure1-data-protection-assessment-tool/</link>
+      <description></description>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Non-disruptive Workload Mobility with ActiveWorkload</title>
       <link>https://blog.purestorage.com/purely-technical/non-disruptive-workload-migrations-with-activeworkload/</link>
       <description></description>
@@ -382,12 +388,6 @@
       <link>https://blog.purestorage.com/purely-technical/simplify-kafka-at-scale-with-confluent-tiered-storage/</link>
       <description>Kafka provides a cornerstone functionality for any data pipeline: the ability to reliably pass data from one service or place to another. Kafka brings the advantages of microservice architectures to data engineering and data science projects. Additionally, the use cases for Kafka as a permanent data store continue to grow. But putting more data in a Kafka cluster results in operational challenges.</description>
       <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Secure Is Your Pure Storage Array?</title>
-      <link>https://blog.purestorage.com/purely-technical/pure1-data-protection-assessment-tool/</link>
-      <description></description>
-      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Protecting Your VMs with the Pure Storage vSphere Plugin Replication Manager</title>
@@ -2119,13 +2119,13 @@
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>

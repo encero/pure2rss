@@ -1353,7 +1353,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/consolidate-oracle-workloads-with-flasharray-xl/",
-    "LastMod": "2024-06-10T13:49:56Z"
+    "LastMod": "2024-06-10T20:16:52Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2673,7 +2673,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/getting-started-with-pure-service-orchestrator-and-helm/",
-    "LastMod": "2024-06-10T16:46:53Z"
+    "LastMod": "2024-06-10T17:44:08Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4105,7 +4105,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/mpi-storage-benchmarks-with-docker/",
-    "LastMod": "2024-02-17T00:25:15Z"
+    "LastMod": "2024-06-10T21:40:15Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5487,7 +5487,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-data-protection-assessment-tool/",
-    "LastMod": "2024-02-17T00:11:44Z"
+    "LastMod": "2024-06-10T20:28:00Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5495,7 +5495,7 @@
   },
   "Title": "How Secure Is Your Pure Storage Array?",
   "Summary": "",
-  "PublishDate": "2023-03-29T00:00:00Z",
+  "PublishDate": "2023-06-01T00:00:00Z",
   "Tags": [
    "FlashArray//XL",
    "FlashBlade Object Storage",
