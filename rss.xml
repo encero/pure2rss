@@ -6,6 +6,12 @@
     <pubDate>Wed, 22 May 2024 17:58:12 +0000</pubDate>
     <lastBuildDate>Wed, 22 May 2024 17:58:12 +0000</lastBuildDate>
     <item>
+      <title>Generative AI, RAG, and Data Infrastructure</title>
+      <link>https://blog.purestorage.com/purely-technical/generative-ai-rag-and-data-infrastructure/</link>
+      <description></description>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Vector Databases: Storage Considerations and Solutions</title>
       <link>https://blog.purestorage.com/purely-technical/vector-database-and-storage/</link>
       <description></description>
@@ -427,13 +433,13 @@
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
+      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
+      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>

@@ -1862,7 +1862,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/",
-    "LastMod": "2024-02-17T00:18:46Z"
+    "LastMod": "2024-06-12T15:06:06Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2618,6 +2618,23 @@
   "Summary": "",
   "PublishDate": "2019-07-17T00:00:00Z",
   "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/generative-ai-rag-and-data-infrastructure/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/generative-ai-rag-and-data-infrastructure/",
+    "LastMod": "2024-06-11T21:49:21Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "generative-ai-rag-and-data-infrastructure"
+  },
+  "Title": "Generative AI, RAG, and Data Infrastructure",
+  "Summary": "",
+  "PublishDate": "2024-06-11T00:00:00Z",
+  "Tags": [
+   "AI and Machine Learning"
+  ]
  },
  "https://blog.purestorage.com/purely-technical/get-github-download-release-metrics/": {
   "PostLink": {
@@ -4419,7 +4436,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/non-disruptive-storage-consolidation-and-removal/",
-    "LastMod": "2024-02-05T21:36:16Z"
+    "LastMod": "2024-06-12T02:48:07Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
