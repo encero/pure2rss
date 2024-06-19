@@ -6,6 +6,18 @@
     <pubDate>Wed, 22 May 2024 17:58:12 +0000</pubDate>
     <lastBuildDate>Wed, 22 May 2024 17:58:12 +0000</lastBuildDate>
     <item>
+      <title>Enhanced Anomaly Detection in Pure1</title>
+      <link>https://blog.purestorage.com/purely-technical/anomalous-drops-in-data-reduction-ratios/</link>
+      <description></description>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Try the New Pure1 Security Assessment</title>
+      <link>https://blog.purestorage.com/purely-technical/pure1-data-protection-assessment-tool/</link>
+      <description></description>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Enhanced Security and Organization Management with Single Sign-On in Pure1</title>
       <link>https://blog.purestorage.com/purely-technical/enhanced-security-and-organization-management-with-single-sign-on-in-pure1/</link>
       <description>Enhance your security and simplify organization management with Single Sign-On integration with Pure1. Learn more about the benefits of using SSO and how easy it is to configure.</description>
@@ -342,12 +354,6 @@
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How Secure Is Your Pure Storage Array?</title>
-      <link>https://blog.purestorage.com/purely-technical/pure1-data-protection-assessment-tool/</link>
-      <description></description>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Non-disruptive Workload Mobility with ActiveWorkload</title>
       <link>https://blog.purestorage.com/purely-technical/non-disruptive-workload-migrations-with-activeworkload/</link>
       <description></description>
@@ -362,12 +368,6 @@
     <item>
       <title>How to Use the FlashBlade Network Plumbing Validation Tool</title>
       <link>https://blog.purestorage.com/purely-technical/flashblade-network-plumbing-validation/</link>
-      <description></description>
-      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Look Out for Anomalous Drops in Data Reduction Ratios on Your Appliances</title>
-      <link>https://blog.purestorage.com/purely-technical/anomalous-drops-in-data-reduction-ratios/</link>
       <description></description>
       <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
     </item>
@@ -2131,13 +2131,13 @@
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>

@@ -495,15 +495,15 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/anomalous-drops-in-data-reduction-ratios/",
-    "LastMod": "2024-02-17T00:07:53Z"
+    "LastMod": "2024-06-19T12:56:20Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "anomalous-drops-in-data-reduction-ratios"
   },
-  "Title": "Look Out for Anomalous Drops in Data Reduction Ratios on Your Appliances",
+  "Title": "Enhanced Anomaly Detection in Pure1",
   "Summary": "",
-  "PublishDate": "2023-05-25T00:00:00Z",
+  "PublishDate": "2024-06-19T00:00:00Z",
   "Tags": [
    "Data Protection",
    "Pure1 Storage Management"
@@ -2133,7 +2133,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/enhanced-security-and-organization-management-with-single-sign-on-in-pure1/",
-    "LastMod": "2024-06-14T18:43:29Z"
+    "LastMod": "2024-06-18T17:42:02Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5523,15 +5523,15 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-data-protection-assessment-tool/",
-    "LastMod": "2024-06-10T20:28:00Z"
+    "LastMod": "2024-06-19T12:59:06Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "pure1-data-protection-assessment-tool"
   },
-  "Title": "How Secure Is Your Pure Storage Array?",
+  "Title": "Try the New Pure1 Security Assessment",
   "Summary": "",
-  "PublishDate": "2023-06-01T00:00:00Z",
+  "PublishDate": "2024-06-19T00:00:00Z",
   "Tags": [
    "FlashArray//XL",
    "FlashBlade Object Storage",
