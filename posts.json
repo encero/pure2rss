@@ -2642,17 +2642,18 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/generative-ai-rag-and-data-infrastructure/",
-    "LastMod": "2024-06-11T21:49:21Z"
+    "LastMod": "2024-06-19T21:15:46Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "generative-ai-rag-and-data-infrastructure"
   },
-  "Title": "Generative AI, RAG, and Data Infrastructure",
+  "Title": "Generative AI, RAG, and Data Infrastructure Requirements",
   "Summary": "",
   "PublishDate": "2024-06-11T00:00:00Z",
   "Tags": [
-   "AI and Machine Learning"
+   "AI and Machine Learning",
+   "Generative AI"
   ]
  },
  "https://blog.purestorage.com/purely-technical/get-github-download-release-metrics/": {
