@@ -495,13 +495,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/anomalous-drops-in-data-reduction-ratios/",
-    "LastMod": "2024-06-19T12:56:20Z"
+    "LastMod": "2024-06-24T17:19:40Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "anomalous-drops-in-data-reduction-ratios"
   },
-  "Title": "Enhanced Anomaly Detection in Pure1",
+  "Title": "Enhanced Anomaly Detection in Pure1Introducing the Pure Storage Platform for the new era of data services.",
   "Summary": "",
   "PublishDate": "2024-06-19T00:00:00Z",
   "Tags": [
@@ -2815,7 +2815,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-snapshot-consolidation-with-fan-in-replication-can-simplify-your-life/",
-    "LastMod": "2024-05-13T23:29:37Z"
+    "LastMod": "2024-06-25T14:00:07Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5524,13 +5524,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-data-protection-assessment-tool/",
-    "LastMod": "2024-06-19T12:59:06Z"
+    "LastMod": "2024-06-24T17:17:51Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "pure1-data-protection-assessment-tool"
   },
-  "Title": "Try the New Pure1 Security Assessment",
+  "Title": "Try the New Pure1 Security AssessmentIntroducing the Pure Storage Platform for the new era of data services.",
   "Summary": "",
   "PublishDate": "2024-06-19T00:00:00Z",
   "Tags": [
@@ -6458,7 +6458,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/say-goodbye-to-vm-alignment-issues-and-poor-performance-with-pure-storage/",
-    "LastMod": "2024-05-22T17:58:12Z"
+    "LastMod": "2024-06-25T03:02:21Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
