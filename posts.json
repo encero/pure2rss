@@ -495,7 +495,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/anomalous-drops-in-data-reduction-ratios/",
-    "LastMod": "2024-06-24T17:19:40Z"
+    "LastMod": "2024-06-25T15:24:51Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4109,7 +4109,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/moving-engineering-users-to-a-flash-based-vdi/",
-    "LastMod": "2024-02-17T01:31:26Z"
+    "LastMod": "2024-06-25T17:31:23Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5524,7 +5524,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-data-protection-assessment-tool/",
-    "LastMod": "2024-06-24T17:17:51Z"
+    "LastMod": "2024-06-25T15:23:13Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7454,13 +7454,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/upgrade-your-own-flasharray-with-pure1/",
-    "LastMod": "2024-06-07T14:49:57Z"
+    "LastMod": "2024-06-25T15:29:06Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "upgrade-your-own-flasharray-with-pure1"
   },
-  "Title": "Upgrade Your Own FlashArray with Pure1",
+  "Title": "Upgrade Your Own FlashArray with Pure1Introducing the Pure Storage Platform for the new era of data services.",
   "Summary": "",
   "PublishDate": "2024-05-31T00:00:00Z",
   "Tags": [
@@ -8476,7 +8476,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/why-iops-dont-matter/",
-    "LastMod": "2024-02-16T19:26:55Z"
+    "LastMod": "2024-06-25T15:15:49Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
