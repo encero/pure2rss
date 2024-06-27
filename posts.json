@@ -495,18 +495,19 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/anomalous-drops-in-data-reduction-ratios/",
-    "LastMod": "2024-06-25T15:24:51Z"
+    "LastMod": "2024-06-27T15:48:13Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "anomalous-drops-in-data-reduction-ratios"
   },
-  "Title": "Enhanced Anomaly Detection in Pure1Introducing the Pure Storage Platform for the new era of data services.",
+  "Title": "Enhanced Anomaly Detection in Pure1",
   "Summary": "",
   "PublishDate": "2024-06-19T00:00:00Z",
   "Tags": [
    "Data Protection",
-   "Pure1 Storage Management"
+   "Pure1 Storage Management",
+   "Ransomware"
   ]
  },
  "https://blog.purestorage.com/purely-technical/ansible-collection-migration/": {
@@ -2815,7 +2816,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-snapshot-consolidation-with-fan-in-replication-can-simplify-your-life/",
-    "LastMod": "2024-06-25T14:00:07Z"
+    "LastMod": "2024-06-27T15:50:42Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2826,6 +2827,7 @@
   "PublishDate": "2024-04-10T00:00:00Z",
   "Tags": [
    "FlashArray//C",
+   "Ransomware",
    "SafeMode Snapshots"
   ]
  },
@@ -3929,7 +3931,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/minimize-the-impact-of-a-cyber-attack-with-commvault-and-pure-storage/",
-    "LastMod": "2024-05-19T14:08:27Z"
+    "LastMod": "2024-06-27T15:54:31Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3942,6 +3944,7 @@
    "AWS",
    "Commvault",
    "FlashBlade Object Storage",
+   "Ransomware",
    "SafeMode Snapshots"
   ]
  },
@@ -5524,19 +5527,20 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-data-protection-assessment-tool/",
-    "LastMod": "2024-06-25T15:23:13Z"
+    "LastMod": "2024-06-27T15:47:57Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "pure1-data-protection-assessment-tool"
   },
-  "Title": "Try the New Pure1 Security AssessmentIntroducing the Pure Storage Platform for the new era of data services.",
+  "Title": "Try the New Pure1 Security Assessment",
   "Summary": "",
   "PublishDate": "2024-06-19T00:00:00Z",
   "Tags": [
    "FlashArray//XL",
    "FlashBlade Object Storage",
    "Pure1 Storage Management",
+   "Ransomware",
    "SafeMode Snapshots"
   ]
  },
@@ -5735,7 +5739,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/ransomware-protection-with-netbackup-msdp-and-flashblade/",
-    "LastMod": "2024-05-13T23:29:59Z"
+    "LastMod": "2024-06-27T15:45:37Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5747,7 +5751,8 @@
   "Tags": [
    "Cybersecurity",
    "Data Protection",
-   "FlashBlade Object Storage"
+   "FlashBlade Object Storage",
+   "Ransomware"
   ]
  },
  "https://blog.purestorage.com/purely-technical/rapid-postgresql-backup-and-recovery-with-pgbackrest-and-flashblade/": {
@@ -7436,7 +7441,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/upgrade-to-purity-fa-6-5-0-yourself-through-pure1/",
-    "LastMod": "2024-05-13T23:53:44Z"
+    "LastMod": "2024-06-27T15:54:09Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7447,7 +7452,8 @@
   "PublishDate": "2023-10-12T00:00:00Z",
   "Tags": [
    "Pure1 Storage Management",
-   "Purity"
+   "Purity",
+   "Ransomware"
   ]
  },
  "https://blog.purestorage.com/purely-technical/upgrade-your-own-flasharray-with-pure1/": {
