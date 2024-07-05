@@ -251,7 +251,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/accelerating-software-development-streaming-data-analytics/",
-    "LastMod": "2023-05-05T18:00:43Z"
+    "LastMod": "2024-07-05T13:56:09Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -261,7 +261,10 @@
   "Summary": "",
   "PublishDate": "2017-11-06T00:00:00Z",
   "Tags": [
+   "Cyber Resiliency",
+   "Cybersecurity",
    "Data Analytics",
+   "Data Protection",
    "DevOps"
   ]
  },
@@ -834,7 +837,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/benefits-effective-log-coverage-analysis/",
-    "LastMod": "2023-10-25T21:05:53Z"
+    "LastMod": "2024-07-05T13:55:37Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -844,7 +847,10 @@
   "Summary": "",
   "PublishDate": "2019-05-21T00:00:00Z",
   "Tags": [
-   "Data Analytics"
+   "Cyber Resiliency",
+   "Cybersecurity",
+   "Data Analytics",
+   "Data Protection"
   ]
  },
  "https://blog.purestorage.com/purely-technical/benefits-of-helix-core-and-all-flash-storage/": {
@@ -973,7 +979,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/bringing-data-analytics-into-the-hardware-design-story/",
-    "LastMod": "2024-02-16T23:57:36Z"
+    "LastMod": "2024-07-05T13:44:47Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -983,7 +989,10 @@
   "Summary": "",
   "PublishDate": "2023-09-14T00:00:00Z",
   "Tags": [
+   "Cyber Resiliency",
+   "Cybersecurity",
    "Data Analytics",
+   "Data Protection",
    "FlashArray//X NVMe",
    "FlashBlade Object Storage"
   ]
@@ -1302,7 +1311,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/configure-the-vm-analytics-collector-for-the-pure1-vm-analytics-feature/",
-    "LastMod": "2024-02-17T00:17:22Z"
+    "LastMod": "2024-07-05T13:48:25Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1312,7 +1321,10 @@
   "Summary": "",
   "PublishDate": "2022-12-08T00:00:00Z",
   "Tags": [
+   "Cyber Resiliency",
+   "Cybersecurity",
    "Data Analytics",
+   "Data Protection",
    "Pure1 Storage Management",
    "VMware"
   ]
@@ -1336,7 +1348,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/",
-    "LastMod": "2022-08-23T19:33:28Z"
+    "LastMod": "2024-07-05T13:55:59Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2186,7 +2198,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/evolve-your-data-center-with-new-32g-mds-fibre-channel-switches-from-cisco/",
-    "LastMod": "2023-10-17T17:53:40Z"
+    "LastMod": "2024-07-05T14:23:55Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2196,7 +2208,8 @@
   "Summary": "",
   "PublishDate": "2018-04-28T00:00:00Z",
   "Tags": [
-   "Cisco"
+   "Cisco",
+   "Modernization"
   ]
  },
  "https://blog.purestorage.com/purely-technical/expedite-cloud-migrations-with-pure-storage-and-aws/": {
@@ -2298,7 +2311,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/faster-data-loading-for-pandas-on-s3/",
-    "LastMod": "2024-02-17T00:27:42Z"
+    "LastMod": "2024-07-05T13:49:27Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2308,7 +2321,10 @@
   "Summary": "",
   "PublishDate": "2022-05-24T00:00:00Z",
   "Tags": [
-   "Data Analytics"
+   "Cyber Resiliency",
+   "Cybersecurity",
+   "Data Analytics",
+   "Data Protection"
   ]
  },
  "https://blog.purestorage.com/purely-technical/file-object-replication-pure1/": {
@@ -2575,7 +2591,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/flashy-fast-apache-kafka-5-million-messages-per-second-writes-three-producers-on-pure-storage-flasharray-x-with-directflash-fabric/",
-    "LastMod": "2022-08-19T22:43:00Z"
+    "LastMod": "2024-07-05T13:55:51Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2586,7 +2602,10 @@
   "PublishDate": "2019-05-15T00:00:00Z",
   "Tags": [
    "Apache Spark",
+   "Cyber Resiliency",
+   "Cybersecurity",
    "Data Analytics",
+   "Data Protection",
    "FlashArray//X NVMe"
   ]
  },
@@ -3019,7 +3038,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-optimize-deep-learning-workflows-with-fast-s3/",
-    "LastMod": "2024-02-17T00:02:58Z"
+    "LastMod": "2024-07-05T13:46:22Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3031,7 +3050,10 @@
   "Tags": [
    "AI and Machine Learning",
    "AWS",
+   "Cyber Resiliency",
+   "Cybersecurity",
    "Data Analytics",
+   "Data Protection",
    "FlashBlade Object Storage",
    "Kubernetes"
   ]
@@ -3057,7 +3079,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-recover-faster-apache-kafka-broker-using-flasharray-snapshots/",
-    "LastMod": "2022-08-19T13:54:37Z"
+    "LastMod": "2024-07-05T13:55:24Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3068,8 +3090,11 @@
   "PublishDate": "2019-08-01T00:00:00Z",
   "Tags": [
    "Apache Spark",
+   "Cyber Resiliency",
+   "Cybersecurity",
    "Data Analytics",
    "Data Backup and Recovery",
+   "Data Protection",
    "FlashArray//X NVMe"
   ]
  },
@@ -3554,7 +3579,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/jfrog-artifactory-fast-object/",
-    "LastMod": "2024-02-17T01:08:48Z"
+    "LastMod": "2024-07-05T14:23:38Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3565,7 +3590,8 @@
   "PublishDate": "2020-05-14T00:00:00Z",
   "Tags": [
    "DevOps",
-   "FlashBlade Object Storage"
+   "FlashBlade Object Storage",
+   "Modernization"
   ]
  },
  "https://blog.purestorage.com/purely-technical/jumpstarting-private-docker-registry-on-flashblade/": {
@@ -3801,7 +3827,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/log-data-done-right/",
-    "LastMod": "2024-06-07T23:02:35Z"
+    "LastMod": "2024-07-05T13:54:11Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3811,8 +3837,10 @@
   "Summary": "",
   "PublishDate": "2020-07-29T00:00:00Z",
   "Tags": [
+   "Cyber Resiliency",
    "Cybersecurity",
    "Data Analytics",
+   "Data Protection",
    "Ransomware"
   ]
  },
@@ -3986,7 +4014,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/modernizing-sql-analytics-dremio-and-flashblade/",
-    "LastMod": "2024-02-17T00:29:10Z"
+    "LastMod": "2024-07-05T14:20:47Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3997,7 +4025,8 @@
   "PublishDate": "2022-05-02T00:00:00Z",
   "Tags": [
    "Evergreen//One",
-   "FlashBlade Object Storage"
+   "FlashBlade Object Storage",
+   "Modernization"
   ]
  },
  "https://blog.purestorage.com/purely-technical/mongodb-disk-space-the-final-frontier/": {
@@ -4323,7 +4352,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/new-release-pure-storage-hybrid-cloud-with-aws-design-guide/",
-    "LastMod": "2022-11-27T00:01:01Z"
+    "LastMod": "2024-07-05T14:27:48Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4332,7 +4361,9 @@
   "Title": "New Release! Pure Storage Hybrid Cloud with AWS Design Guide",
   "Summary": "",
   "PublishDate": "2017-08-26T00:00:00Z",
-  "Tags": []
+  "Tags": [
+   "hybrid cloud optimization"
+  ]
  },
  "https://blog.purestorage.com/purely-technical/new-release-pure-storage-powershell-sdk-1-6-6-0/": {
   "PostLink": {
@@ -4602,7 +4633,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/on-benchmarking-database-storage/",
-    "LastMod": "2024-02-16T19:26:44Z"
+    "LastMod": "2024-07-05T14:03:21Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5832,7 +5863,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/real-sap-hybrid-looks-like/",
-    "LastMod": "2022-08-25T22:11:55Z"
+    "LastMod": "2024-07-05T14:27:29Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5842,6 +5873,7 @@
   "Summary": "",
   "PublishDate": "2017-11-29T00:00:00Z",
   "Tags": [
+   "hybrid cloud optimization",
    "SAP"
   ]
  },
@@ -5849,7 +5881,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/realizing-true-hybrid-cloud-with-equinix-metal-vmware-cloud-foundation-and-pure-storage-flasharray/",
-    "LastMod": "2024-02-17T00:36:51Z"
+    "LastMod": "2024-07-05T14:25:27Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5860,6 +5892,7 @@
   "PublishDate": "2021-12-13T00:00:00Z",
   "Tags": [
    "FlashArray//X NVMe",
+   "hybrid cloud optimization",
    "VMware"
   ]
  },
@@ -6551,7 +6584,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/scaling-synopsys-vcs-workloads-in-hybrid-cloud-with-azure-and-flashblade/",
-    "LastMod": "2024-02-17T00:27:47Z"
+    "LastMod": "2024-07-05T14:25:08Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6563,7 +6596,8 @@
   "Tags": [
    "Azure",
    "FlashBlade Object Storage",
-   "Hybrid Cloud"
+   "Hybrid Cloud",
+   "hybrid cloud optimization"
   ]
  },
  "https://blog.purestorage.com/purely-technical/scom-management-pack-1-2-for-flasharray/": {
@@ -7118,7 +7152,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/the-role-of-data-storage-in-accelerating-time-to-insights/",
-    "LastMod": "2024-02-16T23:52:20Z"
+    "LastMod": "2024-07-05T13:44:03Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7129,7 +7163,10 @@
   "PublishDate": "2023-10-13T00:00:00Z",
   "Tags": [
    "AI and Machine Learning",
-   "Data Analytics"
+   "Cyber Resiliency",
+   "Cybersecurity",
+   "Data Analytics",
+   "Data Protection"
   ]
  },
  "https://blog.purestorage.com/purely-technical/the-tiering-stop-gap-is-redundant-2/": {
@@ -7340,7 +7377,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/unified-iac-in-hybrid-cloud-with-ansible/",
-    "LastMod": "2022-08-22T21:48:35Z"
+    "LastMod": "2024-07-05T14:27:05Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7349,7 +7386,9 @@
   "Title": "Unified Infrastructure-as-Code in Hybrid Cloud with Ansible",
   "Summary": "",
   "PublishDate": "2018-12-06T00:00:00Z",
-  "Tags": []
+  "Tags": [
+   "hybrid cloud optimization"
+  ]
  },
  "https://blog.purestorage.com/purely-technical/update-pure-storage-powershell-sdk-1-13-1-12/": {
   "PostLink": {
