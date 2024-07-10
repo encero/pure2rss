@@ -1856,7 +1856,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/",
-    "LastMod": "2024-06-12T15:14:34Z"
+    "LastMod": "2024-07-10T04:17:32Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2867,7 +2867,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-cli-scripting-by-miranda-steele-guest-blogger/",
-    "LastMod": "2024-04-26T01:33:02Z"
+    "LastMod": "2024-07-10T03:24:45Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2876,13 +2876,7 @@
   "Title": "How to Best Utilize Purity CLI Scripting",
   "Summary": "",
   "PublishDate": "2023-12-15T00:00:00Z",
-  "Tags": [
-   "FlashArray//XL",
-   "FlashBlade Object Storage",
-   "Microsoft",
-   "Purity",
-   "Purity Data Services"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/how-to-create-scalable-and-reliable-kubernetes-logging/": {
   "PostLink": {
@@ -3473,7 +3467,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/iscsi-setup-with-flasharray/",
-    "LastMod": "2022-03-01T16:49:32Z"
+    "LastMod": "2024-07-10T04:02:52Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3482,9 +3476,7 @@
   "Title": "iSCSI Setup with FlashArray",
   "Summary": "",
   "PublishDate": "2019-06-21T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/issue-with-consistent-lun-id-in-esxi-6-5/": {
   "PostLink": {
@@ -6123,7 +6115,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/s5cmd-for-high-performance-object-storage/",
-    "LastMod": "2024-02-17T00:21:39Z"
+    "LastMod": "2024-07-10T04:07:55Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6132,9 +6124,7 @@
   "Title": "How to Use S5cmd for High-performance Object Storage",
   "Summary": "",
   "PublishDate": "2022-09-30T00:00:00Z",
-  "Tags": [
-   "FlashBlade Object Storage"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/s5cmd-hits-v1-0-and-intro-to-advanced-usage/": {
   "PostLink": {
@@ -7349,7 +7339,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/upgrade-your-own-flasharray-with-pure1/",
-    "LastMod": "2024-07-07T20:11:28Z"
+    "LastMod": "2024-07-10T04:15:11Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
