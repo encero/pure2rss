@@ -1003,7 +1003,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/building-a-secure-multi-cloud-storage-backbone-with-portworx-by-pure-storage/",
-    "LastMod": "2024-04-25T20:47:58Z"
+    "LastMod": "2024-07-10T16:29:14Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1012,11 +1012,7 @@
   "Title": "Building a Secure Multi-cloud Storage Backbone with Portworx by Pure Storage",
   "Summary": "",
   "PublishDate": "2023-07-31T00:00:00Z",
-  "Tags": [
-   "Multicloud",
-   "Portworx",
-   "Portworx Data Services"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/building-and-securing-kubernetes-native-products-the-pure-storage-product-security-journey/": {
   "PostLink": {
@@ -2904,7 +2900,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-deploy-a-vm-analytics-collector-with-ipv6-ip-protocol-and-static-networking/",
-    "LastMod": "2024-01-24T17:15:53Z"
+    "LastMod": "2024-07-10T16:16:31Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2913,9 +2909,7 @@
   "Title": "How to Deploy a VM Analytics Collector with IPv6 IP Protocol and Static Networking",
   "Summary": "",
   "PublishDate": "2023-11-20T00:00:00Z",
-  "Tags": [
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/how-to-enabling-disabling-remote-assist-with-the-powershell-sdk/": {
   "PostLink": {
@@ -4408,13 +4402,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/non-disruptive-upgrade-to-flasharray-xl-2/",
-    "LastMod": "2024-07-08T14:41:16Z"
+    "LastMod": "2024-07-11T15:35:44Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "non-disruptive-upgrade-to-flasharray-xl-2"
   },
-  "Title": "Non-Disruptive Upgrade to FlashArray//XL",
+  "Title": "Non-Disruptive Upgrade from FlashArray//X or FlashArray//XL130 to FlashArray//XL170",
   "Summary": "",
   "PublishDate": "2022-11-29T00:00:00Z",
   "Tags": []
