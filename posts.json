@@ -392,7 +392,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/ai-readiness-is-not-an-option/",
-    "LastMod": "2024-05-28T20:21:06Z"
+    "LastMod": "2024-07-12T17:55:10Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -401,12 +401,7 @@
   "Title": "12 Reasons AI Readiness is the New Imperative",
   "Summary": "",
   "PublishDate": "2023-07-24T00:00:00Z",
-  "Tags": [
-   "AI and Machine Learning",
-   "AIRI//S",
-   "FlashBlade Object Storage",
-   "Generative AI"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/all-flash-arrays-the-new-tier-1-in-storage/": {
   "PostLink": {
@@ -7058,7 +7053,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/top-9-considerations-for-enterprise-ai/",
-    "LastMod": "2024-05-28T20:19:07Z"
+    "LastMod": "2024-07-12T17:47:16Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7067,15 +7062,7 @@
   "Title": "Top 9 Considerations for Enterprise AI",
   "Summary": "",
   "PublishDate": "2023-07-26T00:00:00Z",
-  "Tags": [
-   "AI and Machine Learning",
-   "AIRI//S",
-   "ESG",
-   "FlashBlade Object Storage",
-   "FlashBlade//S",
-   "Generative AI",
-   "NVIDIA"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/transforming-to-nvme-the-evergreen-way/": {
   "PostLink": {
