@@ -6,6 +6,18 @@
     <pubDate>Tue, 25 Jun 2024 03:02:24 +0000</pubDate>
     <lastBuildDate>Tue, 25 Jun 2024 03:02:24 +0000</lastBuildDate>
     <item>
+      <title>12 Reasons AI Readiness is the New Imperative</title>
+      <link>https://blog.purestorage.com/purely-technical/ai-readiness-is-not-an-option/</link>
+      <description></description>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top 9 Considerations for Enterprise AI</title>
+      <link>https://blog.purestorage.com/purely-technical/top-9-considerations-for-enterprise-ai/</link>
+      <description></description>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Enhanced Anomaly Detection in Pure1</title>
       <link>https://blog.purestorage.com/purely-technical/anomalous-drops-in-data-reduction-ratios/</link>
       <description></description>
@@ -264,18 +276,6 @@
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Top 9 Considerations for Enterprise AI</title>
-      <link>https://blog.purestorage.com/purely-technical/top-9-considerations-for-enterprise-ai/</link>
-      <description></description>
-      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>12 Reasons AI Readiness is the New Imperative</title>
-      <link>https://blog.purestorage.com/purely-technical/ai-readiness-is-not-an-option/</link>
-      <description></description>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How to Build an Open Data Lakehouse with Spark, Delta, and Trino on S3</title>
       <link>https://blog.purestorage.com/purely-technical/how-to-build-an-open-data-lakehouse-with-spark-delta-and-trino-on-s3/</link>
       <description></description>
@@ -439,13 +439,13 @@
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
+      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
+      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
