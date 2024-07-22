@@ -1268,7 +1268,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/concurrent-programming-case-study-comparing-python-go-and-rust/",
-    "LastMod": "2024-02-17T00:27:07Z"
+    "LastMod": "2024-07-22T15:05:19Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1277,10 +1277,7 @@
   "Title": "Concurrent Programming Case Study: Comparing Python, Go, and Rust",
   "Summary": "",
   "PublishDate": "2022-05-31T00:00:00Z",
-  "Tags": [
-   "FlashBlade Object Storage",
-   "Python"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/configure-the-vm-analytics-collector-for-the-pure1-vm-analytics-feature/": {
   "PostLink": {
@@ -3419,7 +3416,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/introductory-monitoring-stack-with-prometheus-and-grafana/",
-    "LastMod": "2024-02-17T00:06:20Z"
+    "LastMod": "2024-07-22T14:21:29Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3428,16 +3425,13 @@
   "Title": "How to Deploy A Monitoring Stack in Kubernetes with Prometheus and Grafana",
   "Summary": "",
   "PublishDate": "2023-06-15T00:00:00Z",
-  "Tags": [
-   "Containers",
-   "Kubernetes"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/io-plumbing-tests-with-fio/": {
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/io-plumbing-tests-with-fio/",
-    "LastMod": "2023-05-02T20:48:58Z"
+    "LastMod": "2024-07-22T14:53:10Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6532,7 +6526,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/setting-up-software-iscsi-multipathing-with-distributed-vswitches-with-the-vsphere-web-client/",
-    "LastMod": "2022-11-27T00:12:43Z"
+    "LastMod": "2024-07-22T15:13:10Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6541,10 +6535,7 @@
   "Title": "Setting up Software iSCSI Multipathing with Distributed vSwitches with the vSphere Web Client",
   "Summary": "",
   "PublishDate": "2017-07-25T00:00:00Z",
-  "Tags": [
-   "Virtualization",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/setting-up-system-center-virtual-machine-manager-2012-r2-with-pure-storage/": {
   "PostLink": {
