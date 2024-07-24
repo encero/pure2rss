@@ -3307,7 +3307,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/initializing-azure-vmware-solution-for-use-with-pure-cloud-block-store/",
-    "LastMod": "2024-01-24T17:15:57Z"
+    "LastMod": "2024-07-23T21:19:14Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3316,11 +3316,7 @@
   "Title": "Initializing Azure VMware Solution for Use with Pure Cloud Block Store",
   "Summary": "",
   "PublishDate": "2023-11-15T00:00:00Z",
-  "Tags": [
-   "Azure",
-   "Pure Cloud Block Store",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/installing-the-pure-storage-vsphere-plugin-with-powershell/": {
   "PostLink": {
@@ -6975,7 +6971,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/the-role-of-data-storage-in-accelerating-time-to-insights/",
-    "LastMod": "2024-07-06T16:47:59Z"
+    "LastMod": "2024-07-23T21:25:38Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
