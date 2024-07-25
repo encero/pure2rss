@@ -4767,7 +4767,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/portworx-and-pure-innovate-with-kubernetes/",
-    "LastMod": "2024-02-17T01:01:24Z"
+    "LastMod": "2024-07-25T15:07:31Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4776,12 +4776,7 @@
   "Title": "Portworx and Pure Rock the Boat for Innovation with Kubernetes",
   "Summary": "",
   "PublishDate": "2020-09-18T00:00:00Z",
-  "Tags": [
-   "DevOps",
-   "FlashArray//X NVMe",
-   "FlashBlade Object Storage",
-   "Portworx"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/postgresql-12-flasharray-x-r3-sas-das/": {
   "PostLink": {
@@ -5152,7 +5147,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-and-portworx/",
-    "LastMod": "2024-02-23T00:31:20Z"
+    "LastMod": "2024-07-25T14:25:20Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5161,11 +5156,7 @@
   "Title": "Pure Storage® and Portworx®: Better Together",
   "Summary": "",
   "PublishDate": "2020-09-18T00:00:00Z",
-  "Tags": [
-   "DevOps",
-   "FlashArray//X NVMe",
-   "Portworx"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/pure-storage-and-vmware-powershell-module/": {
   "PostLink": {
@@ -6052,7 +6043,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/running-oracle-database-19c-on-kubernetes-with-portworx/",
-    "LastMod": "2024-04-25T20:52:43Z"
+    "LastMod": "2024-07-25T13:41:49Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6061,12 +6052,7 @@
   "Title": "Running Oracle Database 19c on Kubernetes with Portworx",
   "Summary": "",
   "PublishDate": "2021-06-24T00:00:00Z",
-  "Tags": [
-   "Containers",
-   "Kubernetes",
-   "Oracle",
-   "Portworx"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/running-unmap-with-vrealize-orchestrator/": {
   "PostLink": {
