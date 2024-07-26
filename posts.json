@@ -965,7 +965,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/bringing-data-analytics-into-the-hardware-design-story/",
-    "LastMod": "2024-07-06T16:49:39Z"
+    "LastMod": "2024-07-25T18:34:12Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2051,7 +2051,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/enabling-tanzu-support-in-portworx-using-csi/",
-    "LastMod": "2024-02-17T00:48:42Z"
+    "LastMod": "2024-07-26T03:42:16Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2060,10 +2060,7 @@
   "Title": "Enabling Tanzu Support in Portworx Using CSI",
   "Summary": "",
   "PublishDate": "2021-04-28T00:00:00Z",
-  "Tags": [
-   "DevOps",
-   "Portworx"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/encryptreduce-save-space-and-protect-windows-server-data/": {
   "PostLink": {
@@ -4748,7 +4745,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/portworx-adds-flexibility-to-pure-and-vmware/",
-    "LastMod": "2024-02-17T01:00:11Z"
+    "LastMod": "2024-07-25T21:04:46Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4757,17 +4754,13 @@
   "Title": "Portworx Adds Flexibility to Pure and VMware",
   "Summary": "",
   "PublishDate": "2020-09-25T00:00:00Z",
-  "Tags": [
-   "DevOps",
-   "Portworx",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/portworx-and-pure-innovate-with-kubernetes/": {
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/portworx-and-pure-innovate-with-kubernetes/",
-    "LastMod": "2024-07-25T15:07:31Z"
+    "LastMod": "2024-07-26T02:52:34Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5147,7 +5140,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-and-portworx/",
-    "LastMod": "2024-07-25T14:25:20Z"
+    "LastMod": "2024-07-26T02:50:00Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6043,7 +6036,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/running-oracle-database-19c-on-kubernetes-with-portworx/",
-    "LastMod": "2024-07-25T13:41:49Z"
+    "LastMod": "2024-07-26T02:38:34Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
