@@ -928,7 +928,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/billion-dollar-backup-industry-flawed-heres-fixes/",
-    "LastMod": "2023-10-13T16:19:22Z"
+    "LastMod": "2024-07-28T17:01:57Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -937,9 +937,7 @@
   "Title": "The Billion-Dollar Backup Industry is Flawed. Here’s How We’re Fixing It.",
   "Summary": "",
   "PublishDate": "2017-11-14T00:00:00Z",
-  "Tags": [
-   "Data Backup and Recovery"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/boost-splunk-with-containers-pure/": {
   "PostLink": {
@@ -1595,7 +1593,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/data-mobility-for-hpc-and-eda-workloads-from-on-premises-to-azure-cloud/",
-    "LastMod": "2024-07-18T16:29:32Z"
+    "LastMod": "2024-07-28T17:09:17Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1958,7 +1956,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/elasticsearch-snapshots-on-s3/",
-    "LastMod": "2024-02-17T00:25:54Z"
+    "LastMod": "2024-07-28T17:21:12Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1967,9 +1965,7 @@
   "Title": "How to Configure ElasticSearch Snapshots on S3",
   "Summary": "",
   "PublishDate": "2022-06-15T00:00:00Z",
-  "Tags": [
-   "FlashBlade Object Storage"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/eliminate-mysql-and-mariadb-replication-time-to-availability/": {
   "PostLink": {
@@ -3698,7 +3694,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/log-analytics-pipelines-as-a-service/",
-    "LastMod": "2024-02-17T00:05:51Z"
+    "LastMod": "2024-07-28T17:31:16Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3707,10 +3703,7 @@
   "Title": "How to Deploy A Log Analytics Pipeline as-a-Service",
   "Summary": "",
   "PublishDate": "2023-06-22T00:00:00Z",
-  "Tags": [
-   "Portworx",
-   "Portworx Data Services"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/log-data-done-right/": {
   "PostLink": {
@@ -6592,7 +6585,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/simplify-kafka-at-scale-with-confluent-tiered-storage/",
-    "LastMod": "2024-02-17T00:10:28Z"
+    "LastMod": "2024-07-28T16:32:59Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6601,12 +6594,7 @@
   "Title": "How to Simplify Kafka at Scale with Confluent Tiered Storage",
   "Summary": "Kafka provides a cornerstone functionality for any data pipeline: the ability to reliably pass data from one service or place to another. Kafka brings the advantages of microservice architectures to data engineering and data science projects. Additionally, the use cases for Kafka as a permanent data store continue to grow. But putting more data in a Kafka cluster results in operational challenges.",
   "PublishDate": "2023-04-22T00:00:00Z",
-  "Tags": [
-   "Cloud Block Storage",
-   "FlashBlade Object Storage",
-   "Object Storage",
-   "Storage as a Service"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/sneak-peek-managing-a-flasharray-m-with-the-new-pure-storage-powershell-sdk-1-0/": {
   "PostLink": {
