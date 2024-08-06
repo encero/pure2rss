@@ -2824,7 +2824,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-build-an-open-data-lakehouse-with-spark-delta-and-trino-on-s3/",
-    "LastMod": "2024-02-17T00:02:57Z"
+    "LastMod": "2024-08-05T15:32:52Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2833,12 +2833,7 @@
   "Title": "How to Build an Open Data Lakehouse with Spark, Delta, and Trino on S3",
   "Summary": "",
   "PublishDate": "2023-07-20T00:00:00Z",
-  "Tags": [
-   "AI and Machine Learning",
-   "Apache Spark",
-   "FlashBlade Object Storage",
-   "Unstructured Data"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/how-to-cli-scripting-by-miranda-steele-guest-blogger/": {
   "PostLink": {
@@ -5524,7 +5519,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/purity-operating-environment-simplified-release-lines/",
-    "LastMod": "2024-02-16T23:56:49Z"
+    "LastMod": "2024-08-05T15:40:29Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5533,11 +5528,7 @@
   "Title": "Choose Your Path with Simplified Release Lines",
   "Summary": "",
   "PublishDate": "2023-09-21T00:00:00Z",
-  "Tags": [
-   "flasharray//X",
-   "Pure1 Storage Management",
-   "Purity"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/purity-run-opening-flasharray-to-run-your-vms-containers/": {
   "PostLink": {
@@ -6009,7 +6000,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/running-apache-spark-on-kubernetes-approaches-and-workflow/",
-    "LastMod": "2024-04-25T21:25:42Z"
+    "LastMod": "2024-08-05T15:28:07Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6018,12 +6009,7 @@
   "Title": "How to Run Apache Spark on Kubernetes: Approaches and Workflow",
   "Summary": "",
   "PublishDate": "2023-07-19T00:00:00Z",
-  "Tags": [
-   "AI and Machine Learning",
-   "Apache Spark",
-   "FlashBlade Object Storage",
-   "Kubernetes"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/running-oracle-database-19c-on-kubernetes-with-portworx/": {
   "PostLink": {
