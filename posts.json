@@ -214,7 +214,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/accelerating-apache-spark-with-rapids-on-gpu/",
-    "LastMod": "2024-03-20T13:26:29Z"
+    "LastMod": "2024-08-06T18:40:08Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -223,14 +223,7 @@
   "Title": "How to Accelerate Apache Spark with RAPIDS on GPU",
   "Summary": "",
   "PublishDate": "2023-07-19T00:00:00Z",
-  "Tags": [
-   "AI and Machine Learning",
-   "Apache Spark",
-   "FlashBlade Object Storage",
-   "GPU",
-   "Kubernetes",
-   "NVIDIA"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/accelerating-continuous-integration-delivery-modern-flash-storage/": {
   "PostLink": {
@@ -2463,7 +2456,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/flashblade-4-1-5/",
-    "LastMod": "2024-02-17T00:05:56Z"
+    "LastMod": "2024-08-06T21:39:24Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2472,11 +2465,7 @@
   "Title": "FlashBlade 4.1.5: Increased Security, Flexibility, and Coverage for All FlashBlade Customers",
   "Summary": "",
   "PublishDate": "2023-06-22T00:00:00Z",
-  "Tags": [
-   "FlashBlade Object Storage",
-   "FlashBlade//S",
-   "Purity"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/flashblade-network-plumbing-validation/": {
   "PostLink": {
@@ -2807,7 +2796,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-build-a-langchain-chatbot-with-pure-storage/",
-    "LastMod": "2024-01-24T17:16:26Z"
+    "LastMod": "2024-08-05T17:00:10Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2816,9 +2805,7 @@
   "Title": "How to Build a LangChain Chatbot Pt. 1: Using LangChain’s S3DirectoryLoader with FlashBlade",
   "Summary": "",
   "PublishDate": "2023-10-30T00:00:00Z",
-  "Tags": [
-   "FlashBlade Object Storage"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/how-to-build-an-open-data-lakehouse-with-spark-delta-and-trino-on-s3/": {
   "PostLink": {
@@ -2945,7 +2932,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-optimize-deep-learning-workflows-with-fast-s3/",
-    "LastMod": "2024-07-06T16:54:03Z"
+    "LastMod": "2024-08-06T18:03:36Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3634,7 +3621,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/lifecycle-management-of-azure-vmware-solution-with-pure-cloud-block-store/",
-    "LastMod": "2024-01-24T17:15:48Z"
+    "LastMod": "2024-08-05T17:14:49Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3643,11 +3630,7 @@
   "Title": "Lifecycle Management of Azure VMware Solution with Pure Cloud Block Store",
   "Summary": "",
   "PublishDate": "2023-11-27T00:00:00Z",
-  "Tags": [
-   "Azure",
-   "Pure Cloud Block Store",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/linux-io-scheduler/": {
   "PostLink": {
@@ -5009,7 +4992,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/protecting-your-vms-with-the-pure-storage-vsphere-plugin-replication-manager/",
-    "LastMod": "2024-02-17T00:11:57Z"
+    "LastMod": "2024-08-06T21:58:04Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5018,9 +5001,7 @@
   "Title": "Protecting Your VMs with the Pure Storage vSphere Plugin Replication Manager",
   "Summary": "",
   "PublishDate": "2023-03-16T00:00:00Z",
-  "Tags": [
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/protection-group-recovery-in-powershell/": {
   "PostLink": {
