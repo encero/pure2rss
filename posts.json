@@ -4879,7 +4879,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/prestosql-and-fast-object-putting-backups-to-use-for-devops-and-machine-learning/",
-    "LastMod": "2024-02-17T00:06:17Z"
+    "LastMod": "2024-08-08T06:28:56Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4888,11 +4888,7 @@
   "Title": "How to Put Backups to Use for DevOps and Machine Learning with PrestoSql and Fast Object",
   "Summary": "",
   "PublishDate": "2023-06-16T00:00:00Z",
-  "Tags": [
-   "DevOps",
-   "FlashBlade Object Storage",
-   "Unified Fast File and Object"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/private-docker-registry-kubernetes/": {
   "PostLink": {
@@ -6600,7 +6596,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/solve-big-data-protection-challenges/",
-    "LastMod": "2024-02-17T01:04:58Z"
+    "LastMod": "2024-08-08T06:19:43Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6609,10 +6605,7 @@
   "Title": "How to Solve One of the Biggest Data Protection Challenges",
   "Summary": "",
   "PublishDate": "2020-07-20T00:00:00Z",
-  "Tags": [
-   "Data Protection",
-   "FlashBlade Object Storage"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/speed-up-continuous-cd-pipeline/": {
   "PostLink": {
