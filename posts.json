@@ -1259,7 +1259,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/concurrent-programming-case-study-comparing-python-go-and-rust/",
-    "LastMod": "2024-07-22T15:05:19Z"
+    "LastMod": "2024-08-10T19:24:23Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2252,7 +2252,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/faster-data-loading-for-pandas-on-s3/",
-    "LastMod": "2024-07-06T17:02:30Z"
+    "LastMod": "2024-08-10T21:03:12Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2796,7 +2796,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-build-a-langchain-chatbot-with-pure-storage/",
-    "LastMod": "2024-08-05T17:00:10Z"
+    "LastMod": "2024-08-10T19:37:10Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3654,7 +3654,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/listing-67-billion-objects-in-1-bucket/",
-    "LastMod": "2024-02-17T00:27:36Z"
+    "LastMod": "2024-08-10T19:49:08Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3663,10 +3663,7 @@
   "Title": "How to List 67 Billion Objects in 1 Bucket in Golang",
   "Summary": "",
   "PublishDate": "2022-05-27T00:00:00Z",
-  "Tags": [
-   "FlashBlade Object Storage",
-   "Python"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/log-analytics-pipelines-as-a-service/": {
   "PostLink": {
@@ -3813,7 +3810,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/minimize-the-impact-of-a-cyber-attack-with-commvault-and-pure-storage/",
-    "LastMod": "2024-06-27T16:23:31Z"
+    "LastMod": "2024-08-10T19:31:43Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4894,7 +4891,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/private-docker-registry-kubernetes/",
-    "LastMod": "2024-02-17T01:14:27Z"
+    "LastMod": "2024-08-10T20:28:27Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4903,13 +4900,7 @@
   "Title": "Storing a Private Docker Registry on FlashBlade™ S3",
   "Summary": "",
   "PublishDate": "2020-01-27T00:00:00Z",
-  "Tags": [
-   "AI and Machine Learning",
-   "AWS",
-   "Docker",
-   "Kubernetes",
-   "NVIDIA"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/prometheus-grafana-dashboard-flashblade/": {
   "PostLink": {
@@ -7242,7 +7233,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-ansible-to-manage-your-pure-infrastructure/",
-    "LastMod": "2023-10-25T21:13:11Z"
+    "LastMod": "2024-08-10T18:55:05Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7251,11 +7242,7 @@
   "Title": "Using Ansible to Manage your Pure Infrastructure",
   "Summary": "",
   "PublishDate": "2019-05-17T00:00:00Z",
-  "Tags": [
-   "DevOps",
-   "FlashArray//X NVMe",
-   "FlashBlade Object Storage"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/using-autofs-with-oracle-rman-and-dnfs-on-pure-flashblade/": {
   "PostLink": {
