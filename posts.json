@@ -3148,7 +3148,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/improving-python-s3-client-performance-with-rust/",
-    "LastMod": "2024-02-17T00:09:31Z"
+    "LastMod": "2024-08-14T10:44:14Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3157,10 +3157,7 @@
   "Title": "How to Improve Python S3 Client Performance with Rust",
   "Summary": "",
   "PublishDate": "2023-05-20T00:00:00Z",
-  "Tags": [
-   "FlashBlade Object Storage",
-   "Python"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/in-guest-unmap-and-vmware-snapshots/": {
   "PostLink": {
