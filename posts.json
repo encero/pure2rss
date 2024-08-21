@@ -69,7 +69,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/a-guide-to-elasticsearch-snapshots/",
-    "LastMod": "2024-02-17T00:29:26Z"
+    "LastMod": "2024-08-21T04:16:26Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -78,10 +78,7 @@
   "Title": "A Guide to Elasticsearch Snapshots",
   "Summary": "",
   "PublishDate": "2022-04-22T00:00:00Z",
-  "Tags": [
-   "FlashBlade Object Storage",
-   "Kubernetes"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/a-presto-data-pipeline-with-s3/": {
   "PostLink": {
@@ -2841,7 +2838,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-create-scalable-and-reliable-kubernetes-logging/",
-    "LastMod": "2024-04-03T14:39:24Z"
+    "LastMod": "2024-08-21T05:02:53Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2850,14 +2847,7 @@
   "Title": "How to Create Scalable and Reliable Kubernetes Logging",
   "Summary": "",
   "PublishDate": "2023-07-20T00:00:00Z",
-  "Tags": [
-   "AWS",
-   "FlashArray//XL",
-   "FlashBlade Object Storage",
-   "Kubernetes",
-   "Object Storage",
-   "SQL Server"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/how-to-deploy-a-vm-analytics-collector-with-ipv6-ip-protocol-and-static-networking/": {
   "PostLink": {
@@ -3294,7 +3284,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/installing-the-pure-storage-vsphere-plugin-with-powershell/",
-    "LastMod": "2022-11-26T23:54:47Z"
+    "LastMod": "2024-08-20T17:41:37Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3303,9 +3293,7 @@
   "Title": "Installing the Pure Storage vSphere Plugin with PowerShell",
   "Summary": "",
   "PublishDate": "2019-07-13T00:00:00Z",
-  "Tags": [
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/integration-of-pure-storage-with-solarwinds/": {
   "PostLink": {
@@ -3447,7 +3435,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/jfrog-artifactory-fast-object/",
-    "LastMod": "2024-07-06T20:50:44Z"
+    "LastMod": "2024-08-21T04:22:07Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3477,7 +3465,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/jupyter-flash-kubernetes/",
-    "LastMod": "2024-02-17T01:19:14Z"
+    "LastMod": "2024-08-21T04:39:52Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3486,11 +3474,7 @@
   "Title": "Jupyter-as-a-Service on Flash: Sewing Up Data Pipelines on Kubernetes",
   "Summary": "",
   "PublishDate": "2019-08-22T00:00:00Z",
-  "Tags": [
-   "AI and Machine Learning",
-   "DevOps",
-   "Kubernetes"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/kicking-the-deployment-tires-with-microsoft-nano-server/": {
   "PostLink": {
@@ -4478,7 +4462,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/on-premises-storage-and-aws-outposts/",
-    "LastMod": "2024-02-17T00:58:59Z"
+    "LastMod": "2024-08-21T05:23:35Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4487,11 +4471,7 @@
   "Title": "Pairing On-premises Storage with AWS Outposts for AI ",
   "Summary": "",
   "PublishDate": "2020-10-15T00:00:00Z",
-  "Tags": [
-   "AWS",
-   "FlashBlade Object Storage",
-   "Hybrid Cloud"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/online-resizing-of-oracle-volumes-on-pure-flasharray/": {
   "PostLink": {
@@ -5160,7 +5140,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-powershell-ise-add-on/",
-    "LastMod": "2022-08-19T20:12:15Z"
+    "LastMod": "2024-08-21T15:35:04Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
