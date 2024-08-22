@@ -2264,7 +2264,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/file-object-replication-pure1/",
-    "LastMod": "2024-02-17T01:08:46Z"
+    "LastMod": "2024-08-21T16:19:17Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2273,11 +2273,7 @@
   "Title": "Control File and Object Replication with Pure1 Storage Management",
   "Summary": "",
   "PublishDate": "2020-05-14T00:00:00Z",
-  "Tags": [
-   "Data Backup and Recovery",
-   "FlashBlade Object Storage",
-   "Pure1 Storage Management"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/finally-truly-unified-block-and-file-a-look-at-the-details/": {
   "PostLink": {
@@ -2486,7 +2482,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/flashblade-s3-and-elasticsearch-the-journey-to-disaggregation/",
-    "LastMod": "2024-02-16T23:54:11Z"
+    "LastMod": "2024-08-22T00:37:51Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2495,9 +2491,7 @@
   "Title": "FlashBlade S3 and ElasticSearch: The Journey to Disaggregation",
   "Summary": "",
   "PublishDate": "2023-09-26T00:00:00Z",
-  "Tags": [
-   "AWS"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/flashstack-converged-architecture-for-citrix-xendesktop/": {
   "PostLink": {
@@ -5005,7 +4999,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-e-family-technical/",
-    "LastMod": "2024-07-31T13:45:37Z"
+    "LastMod": "2024-08-21T19:41:13Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5346,7 +5340,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-rest-api-part-1/",
-    "LastMod": "2023-10-16T20:44:23Z"
+    "LastMod": "2024-08-21T19:24:42Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5355,33 +5349,28 @@
   "Title": "Exploring the Pure1® REST API, Part 1",
   "Summary": "",
   "PublishDate": "2019-04-23T00:00:00Z",
-  "Tags": [
-   "Pure1 Storage Management"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/pure1-rest-api-part-2/": {
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-rest-api-part-2/",
-    "LastMod": "2024-04-15T22:07:22Z"
+    "LastMod": "2024-08-21T19:26:13Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "pure1-rest-api-part-2"
   },
-  "Title": "Exploring the Pure1® REST API, Part i",
+  "Title": "Exploring the Pure1® REST API, Part 2",
   "Summary": "",
   "PublishDate": "2019-04-23T00:00:00Z",
-  "Tags": [
-   "DevOps",
-   "Pure1 Storage Management"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/pure1-rest-api-part-3/": {
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-rest-api-part-3/",
-    "LastMod": "2024-04-30T16:25:07Z"
+    "LastMod": "2024-08-21T19:28:31Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5390,9 +5379,7 @@
   "Title": "Exploring the Pure1® REST API – Part 3",
   "Summary": "",
   "PublishDate": "2019-04-23T00:00:00Z",
-  "Tags": [
-   "Pure1 Storage Management"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/pures-holistic-approach-to-storage-subscription-management/": {
   "PostLink": {
@@ -5990,7 +5977,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/s5cmd-for-high-performance-object-storage/",
-    "LastMod": "2024-07-10T04:07:55Z"
+    "LastMod": "2024-08-21T21:03:09Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6320,7 +6307,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/scaling-synopsys-vcs-workloads-in-hybrid-cloud-with-azure-and-flashblade/",
-    "LastMod": "2024-07-06T18:13:12Z"
+    "LastMod": "2024-08-22T00:17:55Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6629,7 +6616,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sqreamdb-on-flashblade-s/",
-    "LastMod": "2024-02-23T20:10:18Z"
+    "LastMod": "2024-08-22T01:01:14Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6638,9 +6625,7 @@
   "Title": "Parallel Processing; Scaling to Reduce Time-to-insight with SQreamDB",
   "Summary": "",
   "PublishDate": "2023-12-28T00:00:00Z",
-  "Tags": [
-   "FlashBlade Object Storage"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/stateful-kubernetes-pure-service-orchestrator-kontena-pharos/": {
   "PostLink": {
@@ -6720,7 +6705,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/super-fast-backup-and-restore-sql-server/",
-    "LastMod": "2024-02-17T00:39:15Z"
+    "LastMod": "2024-08-21T16:12:34Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6729,11 +6714,7 @@
   "Title": "Super-Fast Backup and Restore Throughput for SQL Server",
   "Summary": "",
   "PublishDate": "2021-10-17T00:00:00Z",
-  "Tags": [
-   "Data Backup and Recovery",
-   "FlashBlade Object Storage",
-   "SQL Server"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/supercharge-your-data-heroes-with-rapids-open-source-nvidia-pure-datahub/": {
   "PostLink": {
@@ -6777,7 +6758,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/the-case-for-on-premise-hadoop-with-flashblade/",
-    "LastMod": "2024-05-18T00:56:47Z"
+    "LastMod": "2024-08-22T06:40:48Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6786,9 +6767,7 @@
   "Title": "The Case for On-Premises Hadoop with FlashBlade",
   "Summary": "",
   "PublishDate": "2017-04-27T00:00:00Z",
-  "Tags": [
-   "Object Storage"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/the-data-reduction-story-when-migrating-from-traditional-sap-ecc-to-s4hana-on-pure-storage-flasharray-m/": {
   "PostLink": {
