@@ -84,7 +84,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/a-presto-data-pipeline-with-s3/",
-    "LastMod": "2024-02-17T00:24:15Z"
+    "LastMod": "2024-08-21T16:24:42Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -93,11 +93,7 @@
   "Title": "How to Create A Presto Data Pipeline with S3",
   "Summary": "",
   "PublishDate": "2022-07-27T00:00:00Z",
-  "Tags": [
-   "AWS",
-   "FlashBlade Object Storage",
-   "Kubernetes"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/accelerate-devops-with-jfrog-artifactory-direct-cloud-storage/": {
   "PostLink": {
@@ -194,7 +190,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/accelerated-rman-recipes-oracle-flashblade/",
-    "LastMod": "2022-03-01T16:16:15Z"
+    "LastMod": "2024-08-22T00:12:13Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -203,9 +199,7 @@
   "Title": "Accelerated RMAN recipes for Oracle on FlashBlade",
   "Summary": "",
   "PublishDate": "2017-11-14T00:00:00Z",
-  "Tags": [
-   "FlashBlade Object Storage"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/accelerating-apache-spark-with-rapids-on-gpu/": {
   "PostLink": {
@@ -569,7 +563,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/apache-spark-on-flashblade/",
-    "LastMod": "2024-02-17T00:29:20Z"
+    "LastMod": "2024-08-22T04:30:05Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -578,10 +572,7 @@
   "Title": "How to Configure Apache Spark on FlashBlade, Part 1",
   "Summary": "",
   "PublishDate": "2022-04-26T00:00:00Z",
-  "Tags": [
-   "Apache Spark",
-   "FlashBlade Object Storage"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/application-consistency-with-pure-storage-vss-provider/": {
   "PostLink": {
@@ -918,7 +909,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/billion-dollar-backup-industry-flawed-heres-fixes/",
-    "LastMod": "2024-07-28T17:01:57Z"
+    "LastMod": "2024-08-21T23:39:55Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2449,7 +2440,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/flashblade-4-1-5/",
-    "LastMod": "2024-08-06T21:39:24Z"
+    "LastMod": "2024-08-22T06:06:54Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3007,7 +2998,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-self-onboard-azure-vmware-solution-for-use-with-pure-cloud-block-store/",
-    "LastMod": "2024-03-20T16:03:32Z"
+    "LastMod": "2024-08-21T20:03:04Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3016,11 +3007,7 @@
   "Title": "How to Self-onboard Azure VMware Solution for Use with Pure Cloud Block Store",
   "Summary": "",
   "PublishDate": "2023-11-30T00:00:00Z",
-  "Tags": [
-   "Azure",
-   "Pure Cloud Block Store",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/how-to-test-an-entire-distributed-system-in-15-seconds/": {
   "PostLink": {
@@ -3644,7 +3631,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/log-analytics-pipelines-as-a-service/",
-    "LastMod": "2024-07-28T17:31:16Z"
+    "LastMod": "2024-08-21T23:59:49Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4829,7 +4816,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/presto-on-flashblade-s3/",
-    "LastMod": "2024-02-17T00:29:18Z"
+    "LastMod": "2024-08-22T00:43:37Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4838,10 +4825,7 @@
   "Title": "How to Configure Presto on FlashBlade S3",
   "Summary": "Presto is an open source, scale-out SQL engine for interactively querying large data sets, originally created inside Facebook. There are a variety of connectors to different data sources; in order to query data from S3, Presto leverages the Hive connector and the Hive Metastore. Presto operates at impressively large scales and shows promising performance results against Hive on S3 in previous testing.",
   "PublishDate": "2022-04-26T00:00:00Z",
-  "Tags": [
-   "AWS",
-   "FlashBlade Object Storage"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/prestosql-and-fast-object-putting-backups-to-use-for-devops-and-machine-learning/": {
   "PostLink": {
@@ -5520,7 +5504,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/ransomware-protection-with-netbackup-msdp-and-flashblade/",
-    "LastMod": "2024-06-27T17:52:52Z"
+    "LastMod": "2024-08-22T00:45:59Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6503,7 +6487,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/simplify-kafka-at-scale-with-confluent-tiered-storage/",
-    "LastMod": "2024-07-28T16:32:59Z"
+    "LastMod": "2024-08-21T23:12:33Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7746,7 +7730,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/vmware-tanzu-kubernetes-on-flashblade/",
-    "LastMod": "2024-02-17T01:00:15Z"
+    "LastMod": "2024-08-22T05:33:22Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7755,10 +7739,7 @@
   "Title": "VMware Tanzu Kubernetes on FlashBlade® for ML/HPC Applications",
   "Summary": "",
   "PublishDate": "2020-09-22T00:00:00Z",
-  "Tags": [
-   "FlashBlade Object Storage",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/vmware-velero-and-pure-service-orchestrator/": {
   "PostLink": {
