@@ -439,13 +439,13 @@
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
+      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
+      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
@@ -474,7 +474,7 @@
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Accessing External Data Using FlashBlade S3 Object Storage from Oracle 19c/21c</title>
+      <title>How to Access External Data Using FlashBlade S3 Object Storage from Oracle 19c/21c</title>
       <link>https://blog.purestorage.com/purely-technical/accessing-external-data-using-flashblade-s3-object-storage-from-oracle-19c-21c/</link>
       <description></description>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
@@ -534,14 +534,14 @@
       <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Consolidate Oracle Workloads with FlashArray//XL</title>
-      <link>https://blog.purestorage.com/purely-technical/consolidate-oracle-workloads-with-flasharray-xl/</link>
+      <title>How to Configure ElasticSearch Snapshots on S3</title>
+      <link>https://blog.purestorage.com/purely-technical/elasticsearch-snapshots-on-s3/</link>
       <description></description>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Configure ElasticSearch Snapshots on S3</title>
-      <link>https://blog.purestorage.com/purely-technical/elasticsearch-snapshots-on-s3/</link>
+      <title>How to Consolidate Oracle Workloads with FlashArray//XL</title>
+      <link>https://blog.purestorage.com/purely-technical/consolidate-oracle-workloads-with-flasharray-xl/</link>
       <description></description>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
     </item>
@@ -750,13 +750,13 @@
       <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Running Oracle Database 19c on Kubernetes with Portworx</title>
+      <title>How to Run Oracle Database 19c on Kubernetes with Portworx</title>
       <link>https://blog.purestorage.com/purely-technical/running-oracle-database-19c-on-kubernetes-with-portworx/</link>
       <description></description>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Using Autofs with Oracle RMAN and dNFS on Pure FlashBlade</title>
+      <title>How to Use Autofs with Oracle RMAN and dNFS on Pure FlashBlade</title>
       <link>https://blog.purestorage.com/purely-technical/using-autofs-with-oracle-rman-and-dnfs-on-pure-flashblade/</link>
       <description></description>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>

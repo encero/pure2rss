@@ -288,19 +288,16 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/accessing-external-data-using-flashblade-s3-object-storage-from-oracle-19c-21c/",
-    "LastMod": "2024-05-11T04:34:39Z"
+    "LastMod": "2024-08-30T16:12:19Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "accessing-external-data-using-flashblade-s3-object-storage-from-oracle-19c-21c"
   },
-  "Title": "Accessing External Data Using FlashBlade S3 Object Storage from Oracle 19c/21c",
+  "Title": "How to Access External Data Using FlashBlade S3 Object Storage from Oracle 19c/21c",
   "Summary": "",
   "PublishDate": "2022-10-18T00:00:00Z",
-  "Tags": [
-   "FlashBlade Object Storage",
-   "Oracle"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/activecluster-and-vaai/": {
   "PostLink": {
@@ -1314,19 +1311,16 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/consolidate-oracle-workloads-with-flasharray-xl/",
-    "LastMod": "2024-06-10T20:16:52Z"
+    "LastMod": "2024-08-30T16:19:33Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "consolidate-oracle-workloads-with-flasharray-xl"
   },
-  "Title": "Consolidate Oracle Workloads with FlashArray//XL",
+  "Title": "How to Consolidate Oracle Workloads with FlashArray//XL",
   "Summary": "",
   "PublishDate": "2022-06-15T00:00:00Z",
-  "Tags": [
-   "FlashArray//XL",
-   "Oracle"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/continuing-the-journey-of-data-resilience/": {
   "PostLink": {
@@ -2998,7 +2992,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-self-onboard-azure-vmware-solution-for-use-with-pure-cloud-block-store/",
-    "LastMod": "2024-08-21T20:03:04Z"
+    "LastMod": "2024-08-30T14:53:57Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3265,7 +3259,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/installing-the-pure-storage-vsphere-plugin-with-powershell/",
-    "LastMod": "2024-08-20T17:41:37Z"
+    "LastMod": "2024-08-30T15:53:51Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5118,7 +5112,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-powershell-ise-add-on/",
-    "LastMod": "2024-08-21T15:35:04Z"
+    "LastMod": "2024-08-30T15:54:42Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5931,13 +5925,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/running-oracle-database-19c-on-kubernetes-with-portworx/",
-    "LastMod": "2024-07-26T02:38:34Z"
+    "LastMod": "2024-08-30T16:26:39Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "running-oracle-database-19c-on-kubernetes-with-portworx"
   },
-  "Title": "Running Oracle Database 19c on Kubernetes with Portworx",
+  "Title": "How to Run Oracle Database 19c on Kubernetes with Portworx",
   "Summary": "",
   "PublishDate": "2021-06-24T00:00:00Z",
   "Tags": []
@@ -6600,7 +6594,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sqreamdb-on-flashblade-s/",
-    "LastMod": "2024-08-22T01:01:14Z"
+    "LastMod": "2024-08-30T15:02:33Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6674,7 +6668,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/",
-    "LastMod": "2024-08-15T18:06:47Z"
+    "LastMod": "2024-08-30T15:15:02Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7188,19 +7182,16 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-autofs-with-oracle-rman-and-dnfs-on-pure-flashblade/",
-    "LastMod": "2024-02-17T00:46:05Z"
+    "LastMod": "2024-08-30T16:23:42Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "using-autofs-with-oracle-rman-and-dnfs-on-pure-flashblade"
   },
-  "Title": "Using Autofs with Oracle RMAN and dNFS on Pure FlashBlade",
+  "Title": "How to Use Autofs with Oracle RMAN and dNFS on Pure FlashBlade",
   "Summary": "",
   "PublishDate": "2021-06-11T00:00:00Z",
-  "Tags": [
-   "FlashBlade Object Storage",
-   "Oracle"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/using-logstash-to-send-directly-to-an-s3-object-store/": {
   "PostLink": {
