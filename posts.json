@@ -541,7 +541,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/apache-spark-on-flashblade-part-2/",
-    "LastMod": "2024-02-17T00:25:56Z"
+    "LastMod": "2024-09-03T03:17:58Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -550,11 +550,7 @@
   "Title": "How to Configure Apache Spark on FlashBlade, Part 2",
   "Summary": "",
   "PublishDate": "2022-06-14T00:00:00Z",
-  "Tags": [
-   "AI and Machine Learning",
-   "Apache Spark",
-   "FlashBlade Object Storage"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/apache-spark-on-flashblade/": {
   "PostLink": {
@@ -6266,7 +6262,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/scaling-software-builds-in-azure-with-flashblade-in-a-cloud-adjacent-architecture/",
-    "LastMod": "2024-04-26T01:39:36Z"
+    "LastMod": "2024-09-03T03:28:55Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6275,11 +6271,7 @@
   "Title": "Scaling Software Builds in Azure with FlashBlade in a Cloud-Adjacent Architecture",
   "Summary": "",
   "PublishDate": "2021-11-15T00:00:00Z",
-  "Tags": [
-   "Azure",
-   "FlashBlade Object Storage",
-   "Microsoft"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/scaling-synopsys-vcs-workloads-in-hybrid-cloud-with-azure-and-flashblade/": {
   "PostLink": {
@@ -6885,7 +6877,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/top-9-considerations-for-enterprise-ai/",
-    "LastMod": "2024-07-16T16:06:56Z"
+    "LastMod": "2024-09-03T16:55:19Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
