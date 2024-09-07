@@ -2463,7 +2463,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/flashblade-s3-and-elasticsearch-the-journey-to-disaggregation/",
-    "LastMod": "2024-08-22T00:37:51Z"
+    "LastMod": "2024-09-06T19:48:23Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3040,7 +3040,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/identify-the-asm-device-from-asmlib/",
-    "LastMod": "2024-07-22T20:42:46Z"
+    "LastMod": "2024-09-06T19:50:30Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3109,7 +3109,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/improving-python-s3-client-performance-with-rust/",
-    "LastMod": "2024-08-14T10:44:14Z"
+    "LastMod": "2024-09-07T04:54:12Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
