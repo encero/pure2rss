@@ -205,7 +205,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/accelerating-apache-spark-with-rapids-on-gpu/",
-    "LastMod": "2024-08-06T18:40:08Z"
+    "LastMod": "2024-09-08T04:56:56Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -507,7 +507,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/ansible-collections-pure-storage/",
-    "LastMod": "2024-02-17T01:10:49Z"
+    "LastMod": "2024-09-08T05:32:57Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -516,9 +516,7 @@
   "Title": "Ansible Content Collections for Pure Storage",
   "Summary": "",
   "PublishDate": "2020-03-20T00:00:00Z",
-  "Tags": [
-   "FlashBlade Object Storage"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/apache-cassandra-rapid-node-replacement-using-snapshots/": {
   "PostLink": {
@@ -4605,7 +4603,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/paas-pure-storage-red-hat-openshift-reference-architecture/",
-    "LastMod": "2024-04-16T18:21:20Z"
+    "LastMod": "2024-09-08T15:17:05Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4614,11 +4612,7 @@
   "Title": "All-Flash Platform-as-a-Service: Pure Storage and Red Hat OpenShift Reference Architecture",
   "Summary": "",
   "PublishDate": "2018-05-23T00:00:00Z",
-  "Tags": [
-   "DevOps",
-   "FlashBlade Object Storage",
-   "Software as a Service"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/performance-consistency-with-flasharray-nvme-of-and-sql-server-linux/": {
   "PostLink": {
@@ -4661,7 +4655,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/portworx-adds-flexibility-to-pure-and-vmware/",
-    "LastMod": "2024-09-04T18:56:58Z"
+    "LastMod": "2024-09-08T15:16:38Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4973,7 +4967,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-e-family-technical/",
-    "LastMod": "2024-08-21T19:41:13Z"
+    "LastMod": "2024-09-08T15:07:30Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5299,7 +5293,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-data-protection-assessment-tool/",
-    "LastMod": "2024-07-07T22:37:02Z"
+    "LastMod": "2024-09-08T15:16:49Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5344,7 +5338,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-rest-api-part-3/",
-    "LastMod": "2024-08-21T19:28:31Z"
+    "LastMod": "2024-09-08T15:17:45Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5966,7 +5960,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/s5cmd-hits-v1-0-and-intro-to-advanced-usage/",
-    "LastMod": "2024-02-17T00:25:32Z"
+    "LastMod": "2024-09-08T15:04:24Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5975,9 +5969,7 @@
   "Title": "S5cmd Hits v1.0 and Intro to Advanced Usage",
   "Summary": "",
   "PublishDate": "2022-06-27T00:00:00Z",
-  "Tags": [
-   "FlashBlade Object Storage"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/saas-platform-development/": {
   "PostLink": {
@@ -6601,7 +6593,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/stateful-kubernetes-pure-service-orchestrator-kontena-pharos/",
-    "LastMod": "2022-08-19T22:33:40Z"
+    "LastMod": "2024-09-08T15:20:14Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6610,13 +6602,7 @@
   "Title": "Stateful Kubernetes-In-a-Box with Kontena Pharos",
   "Summary": "",
   "PublishDate": "2019-05-21T00:00:00Z",
-  "Tags": [
-   "Containers",
-   "DevOps",
-   "FlashArray//X NVMe",
-   "FlashBlade Object Storage",
-   "Kubernetes"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/stateful-sidecar-containers-in-build-pipelines-at-the-speed-of-flash/": {
   "PostLink": {
@@ -7174,7 +7160,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-autofs-with-oracle-rman-and-dnfs-on-pure-flashblade/",
-    "LastMod": "2024-08-30T16:23:42Z"
+    "LastMod": "2024-09-08T03:37:55Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
