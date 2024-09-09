@@ -968,7 +968,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/building-a-secure-multi-cloud-storage-backbone-with-portworx-by-pure-storage/",
-    "LastMod": "2024-07-10T16:29:14Z"
+    "LastMod": "2024-09-09T15:58:11Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4497,7 +4497,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/optimize-your-cloud-storage-bill/",
-    "LastMod": "2024-07-06T07:01:42Z"
+    "LastMod": "2024-09-09T15:57:45Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4603,7 +4603,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/paas-pure-storage-red-hat-openshift-reference-architecture/",
-    "LastMod": "2024-09-08T15:17:05Z"
+    "LastMod": "2024-09-08T16:03:17Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4655,7 +4655,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/portworx-adds-flexibility-to-pure-and-vmware/",
-    "LastMod": "2024-09-08T15:16:38Z"
+    "LastMod": "2024-09-08T16:15:40Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5293,7 +5293,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-data-protection-assessment-tool/",
-    "LastMod": "2024-09-08T15:16:49Z"
+    "LastMod": "2024-09-08T16:02:29Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5338,7 +5338,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-rest-api-part-3/",
-    "LastMod": "2024-09-08T15:17:45Z"
+    "LastMod": "2024-09-08T16:07:22Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6593,7 +6593,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/stateful-kubernetes-pure-service-orchestrator-kontena-pharos/",
-    "LastMod": "2024-09-08T15:20:14Z"
+    "LastMod": "2024-09-08T16:10:28Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7977,7 +7977,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/what-is-new-with-cbs-terraform-provider-0-9-0/",
-    "LastMod": "2024-02-17T00:04:33Z"
+    "LastMod": "2024-09-09T15:58:16Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7986,11 +7986,7 @@
   "Title": "What Is New with Pure Cloud Block Store Terraform Provider 0.9.0?",
   "Summary": "",
   "PublishDate": "2023-07-12T00:00:00Z",
-  "Tags": [
-   "Azure",
-   "Pure Cloud Block Store",
-   "Terraform"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/what-is-sql-servers-io-block-size/": {
   "PostLink": {
