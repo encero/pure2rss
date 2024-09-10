@@ -1487,7 +1487,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/customer-driven-capacity-upgrade-for-pure-cloud-block-store/",
-    "LastMod": "2024-03-20T15:38:42Z"
+    "LastMod": "2024-09-09T17:32:34Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1496,10 +1496,7 @@
   "Title": "Customer-driven Capacity Upgrade for Pure Cloud Block Store",
   "Summary": "",
   "PublishDate": "2023-12-20T00:00:00Z",
-  "Tags": [
-   "Azure",
-   "Pure Cloud Block Store"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/data-applications-kubernetes-cluster/": {
   "PostLink": {
@@ -4497,7 +4494,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/optimize-your-cloud-storage-bill/",
-    "LastMod": "2024-09-09T15:57:45Z"
+    "LastMod": "2024-09-09T16:52:41Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6513,7 +6510,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/solve-big-data-protection-challenges/",
-    "LastMod": "2024-08-08T06:19:43Z"
+    "LastMod": "2024-09-09T16:55:06Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7699,7 +7696,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/vmware-tanzu-kubernetes-on-flashblade/",
-    "LastMod": "2024-08-22T05:33:22Z"
+    "LastMod": "2024-09-10T13:25:58Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
