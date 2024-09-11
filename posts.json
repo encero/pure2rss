@@ -4523,6 +4523,21 @@
    "FlashArray//X NVMe"
   ]
  },
+ "https://blog.purestorage.com/purely-technical/oracle-database-19c-on-oracle-direct-nfs-using-fa-file/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/oracle-database-19c-on-oracle-direct-nfs-using-fa-file/",
+    "LastMod": "2024-09-10T18:02:19Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "oracle-database-19c-on-oracle-direct-nfs-using-fa-file"
+  },
+  "Title": "Oracle Database 19c on Oracle Direct NFS Using FA File",
+  "Summary": "",
+  "PublishDate": "2024-09-10T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/oracle-database-cloning-on-pure-flasharray-part-1/": {
   "PostLink": {
    "Link": {
