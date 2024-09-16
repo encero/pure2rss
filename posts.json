@@ -4186,7 +4186,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/new-solutions-for-cloud-migration-disaster-recovery-and-more/",
-    "LastMod": "2024-02-17T00:40:47Z"
+    "LastMod": "2024-09-16T16:04:17Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4195,15 +4195,7 @@
   "Title": "New Solutions for Cloud Migration, Disaster Recovery, and More",
   "Summary": "",
   "PublishDate": "2021-08-24T00:00:00Z",
-  "Tags": [
-   "AI and Machine Learning",
-   "AWS",
-   "Azure",
-   "Cloud Block Storage",
-   "Data Protection",
-   "Hybrid Cloud",
-   "Multicloud"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/new-upgrade-simulations-for-flasharray-x-and-fleet-view-in-pure1/": {
   "PostLink": {
@@ -4527,7 +4519,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/oracle-database-19c-on-oracle-direct-nfs-using-fa-file/",
-    "LastMod": "2024-09-10T18:02:19Z"
+    "LastMod": "2024-09-16T15:36:11Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
