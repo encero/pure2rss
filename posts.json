@@ -2700,13 +2700,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/hints-on-using-cinder-manage-with-openstack-newton-and-later/",
-    "LastMod": "2024-05-16T20:54:11Z"
+    "LastMod": "2024-09-16T18:30:19Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "hints-on-using-cinder-manage-with-openstack-newton-and-later"
   },
-  "Title": "Hints on using Cinder Manage with OpenStack Newton and later",
+  "Title": "How to Use Cinder Manage with OpenStack Newton",
   "Summary": "",
   "PublishDate": "2017-08-17T00:00:00Z",
   "Tags": []
@@ -5997,7 +5997,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/san-mode-enabling-veeams-fastest-transport-mode-configuration-on-flasharray/",
-    "LastMod": "2024-02-17T01:14:33Z"
+    "LastMod": "2024-09-16T19:22:14Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6006,12 +6006,7 @@
   "Title": "SAN Mode: Enabling Veeam’s Fastest Transport Mode Configuration on FlashArray",
   "Summary": "",
   "PublishDate": "2020-01-17T00:00:00Z",
-  "Tags": [
-   "Data Backup and Recovery",
-   "Data Protection",
-   "FlashArray//X NVMe",
-   "Veeam"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/sap-big-data-warehouse-pure-data-platform/": {
   "PostLink": {
@@ -7261,7 +7256,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-pure-cloud-block-store-and-microsoft-azure-for-devtest/",
-    "LastMod": "2024-04-26T01:45:32Z"
+    "LastMod": "2024-09-16T20:49:22Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7270,11 +7265,7 @@
   "Title": "Using Pure Cloud Block Store and Microsoft Azure for DevTest",
   "Summary": "",
   "PublishDate": "2020-09-18T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe",
-   "Microsoft",
-   "Pure Cloud Block Store"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/using-pure-storage-flasharray-modules-ansible/": {
   "PostLink": {
