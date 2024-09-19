@@ -2013,7 +2013,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/enabling-tanzu-support-in-portworx-using-csi/",
-    "LastMod": "2024-07-26T03:42:16Z"
+    "LastMod": "2024-09-19T13:51:05Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4659,7 +4659,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/portworx-adds-flexibility-to-pure-and-vmware/",
-    "LastMod": "2024-09-13T20:40:30Z"
+    "LastMod": "2024-09-19T13:51:28Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6145,6 +6145,21 @@
    "SAP"
   ]
  },
+ "https://blog.purestorage.com/purely-technical/sap-hana-on-pure-storage-flasharray-file/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/sap-hana-on-pure-storage-flasharray-file/",
+    "LastMod": "2024-09-18T20:10:04Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sap-hana-on-pure-storage-flasharray-file"
+  },
+  "Title": "SAP HANA on Pure Storage FlashArray File",
+  "Summary": "",
+  "PublishDate": "2024-09-18T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/sap-hana-pure-directmemory-cache/": {
   "PostLink": {
    "Link": {
@@ -6862,7 +6877,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/top-9-considerations-for-enterprise-ai/",
-    "LastMod": "2024-09-03T16:55:19Z"
+    "LastMod": "2024-09-18T15:55:26Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6969,6 +6984,21 @@
   "Title": "Two Engineers: Two Different Job Experiences",
   "Summary": "",
   "PublishDate": "2021-08-09T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/understanding-deduplication-ratios/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/understanding-deduplication-ratios/",
+    "LastMod": "2024-09-19T13:52:30Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "understanding-deduplication-ratios"
+  },
+  "Title": "Understanding Deduplication Ratios",
+  "Summary": "",
+  "PublishDate": "2024-09-18T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/understanding-thin-provisioning-does-it-reduce-storage-capacity/": {
@@ -8156,7 +8186,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/xcr4-technical/",
-    "LastMod": "2024-02-17T00:07:17Z"
+    "LastMod": "2024-09-19T15:48:37Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8165,11 +8195,6 @@
   "Title": "Meet the World’s Most Powerful AND Efficient Storage",
   "Summary": "",
   "PublishDate": "2023-06-14T00:00:00Z",
-  "Tags": [
-   "FlashArray//XL",
-   "Pure//Accelerate",
-   "Pure1 Storage Management",
-   "Purity Data Services"
-  ]
+  "Tags": []
  }
 }
