@@ -373,13 +373,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/ai-readiness-is-not-an-option/",
-    "LastMod": "2024-07-16T16:06:13Z"
+    "LastMod": "2024-09-19T16:39:20Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "ai-readiness-is-not-an-option"
   },
-  "Title": "12 Reasons AI Readiness is the New Imperative",
+  "Title": "12 Reasons Why AI Readiness is the New Imperative",
   "Summary": "",
   "PublishDate": "2024-07-16T00:00:00Z",
   "Tags": []
@@ -2505,7 +2505,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/flex-agile-software-development-delivery-containers-flash-storage/",
-    "LastMod": "2024-02-17T00:42:10Z"
+    "LastMod": "2024-09-20T13:57:15Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2514,11 +2514,7 @@
   "Title": "How Do Containers and Flash Storage Improve Software Development and Delivery?",
   "Summary": "",
   "PublishDate": "2021-08-12T00:00:00Z",
-  "Tags": [
-   "Containers",
-   "Portworx",
-   "Portworx Data Services"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/force-the-invoke-restmethod-powershell-cmdlet-to-use-tls-1-2/": {
   "PostLink": {
@@ -2685,7 +2681,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/harnessing-static-and-dynamic-code-scanning-in-devsecops/",
-    "LastMod": "2024-07-06T06:57:37Z"
+    "LastMod": "2024-09-19T20:41:04Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5024,7 +5020,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-101-ensuring-100-performance/",
-    "LastMod": "2024-02-17T01:33:03Z"
+    "LastMod": "2024-09-20T13:31:05Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8186,7 +8182,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/xcr4-technical/",
-    "LastMod": "2024-09-19T15:48:37Z"
+    "LastMod": "2024-09-20T04:42:45Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
