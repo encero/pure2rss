@@ -69,7 +69,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/a-guide-to-elasticsearch-snapshots/",
-    "LastMod": "2024-08-21T04:16:26Z"
+    "LastMod": "2024-09-29T11:44:36Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -116,7 +116,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/accelerate-mysql-read-scale-with-directmemory-cache/",
-    "LastMod": "2024-02-17T00:42:49Z"
+    "LastMod": "2024-09-29T11:19:02Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -125,12 +125,7 @@
   "Title": "Accelerate MySQL \u0026 MariaDB Read Scale with DirectMemory Cache",
   "Summary": "",
   "PublishDate": "2021-07-23T00:00:00Z",
-  "Tags": [
-   "FlashArray//C",
-   "FlashArray//X NVMe",
-   "Pure Cloud Block Store",
-   "Purity Data Services"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/accelerate-perforce-helix-core-database-recovery-with-pure-storage/": {
   "PostLink": {
@@ -1098,7 +1093,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/cisco-validated-design-veeam-and-flashstack/",
-    "LastMod": "2024-02-17T00:47:51Z"
+    "LastMod": "2024-09-29T11:21:13Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1107,12 +1102,7 @@
   "Title": "A Cisco Validated Design for Veeam and FlashStack",
   "Summary": "",
   "PublishDate": "2021-05-19T00:00:00Z",
-  "Tags": [
-   "Cisco",
-   "Data Protection",
-   "FlashStack Infrastructure",
-   "Veeam"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/cisco-validated-designs-reference-architectures-ucs-director-automation-oh-my/": {
   "PostLink": {
@@ -1305,7 +1295,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/consolidate-oracle-workloads-with-flasharray-xl/",
-    "LastMod": "2024-08-30T16:19:33Z"
+    "LastMod": "2024-09-29T15:40:28Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1594,7 +1584,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/data-reduction-deep-dive-is-thin-provisioning-data-reduction/",
-    "LastMod": "2024-05-13T18:03:38Z"
+    "LastMod": "2024-09-29T14:52:12Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1603,9 +1593,7 @@
   "Title": "Is Thin Provisioning Data Reduction?",
   "Summary": "",
   "PublishDate": "2015-10-21T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/data-science-kubernetes-flashblade-object-storage/": {
   "PostLink": {
@@ -1922,7 +1910,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/elasticsearch-snapshots-on-s3/",
-    "LastMod": "2024-07-28T17:21:12Z"
+    "LastMod": "2024-09-29T11:44:16Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2225,7 +2213,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/faster-data-loading-for-pandas-on-s3/",
-    "LastMod": "2024-08-10T21:03:12Z"
+    "LastMod": "2024-09-29T11:20:10Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2255,7 +2243,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/finally-truly-unified-block-and-file-a-look-at-the-details/",
-    "LastMod": "2024-02-17T00:10:08Z"
+    "LastMod": "2024-09-29T04:29:58Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2264,10 +2252,7 @@
   "Title": "Finally! Truly Unified Block and File: A Look at the Details",
   "Summary": "",
   "PublishDate": "2023-04-26T00:00:00Z",
-  "Tags": [
-   "FlashArray//XL",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/find-all-disconnected-volumes/": {
   "PostLink": {
@@ -2338,7 +2323,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/flasharray-extends-nvme-of-support-to-tcp/",
-    "LastMod": "2024-02-17T00:14:42Z"
+    "LastMod": "2024-09-29T04:12:06Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2347,15 +2332,7 @@
   "Title": "FlashArray Delivers NVMe/TCP in Move Toward Cloud Operating Model",
   "Summary": "",
   "PublishDate": "2023-02-16T00:00:00Z",
-  "Tags": [
-   "FlashArray//C",
-   "FlashArray//X NVMe",
-   "FlashArray//XL",
-   "Portworx",
-   "Portworx Data Services",
-   "Purity//FA Releases",
-   "SAP"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/flasharray-fibre-channel-vmware-cloud-foundation/": {
   "PostLink": {
@@ -4280,7 +4257,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/non-disruptive-upgrade-to-flasharray-xl-2/",
-    "LastMod": "2024-07-17T20:00:14Z"
+    "LastMod": "2024-09-29T15:44:12Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4568,7 +4545,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/oracle-database-flash-array-xr3/",
-    "LastMod": "2024-05-18T12:31:59Z"
+    "LastMod": "2024-09-29T16:01:17Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4577,10 +4554,7 @@
   "Title": "Accelerate Oracle Database with the Next-Gen FlashArray//X",
   "Summary": "",
   "PublishDate": "2020-03-17T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe",
-   "Oracle"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/overwriting-a-volume-in-windows-server/": {
   "PostLink": {
@@ -5020,7 +4994,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-101-ensuring-100-performance/",
-    "LastMod": "2024-09-20T13:31:05Z"
+    "LastMod": "2024-09-29T14:43:06Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5401,7 +5375,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/purity-migrate-s-4hana-migration-from-dellemc-powermax-to-pure-storage-flasharray-x/",
-    "LastMod": "2022-08-19T19:10:39Z"
+    "LastMod": "2024-09-29T16:18:25Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5410,10 +5384,7 @@
   "Title": "Purity Migrate: S/4HANA Migration from DellEMC PowerMax to Pure Storage FlashArray//X",
   "Summary": "",
   "PublishDate": "2019-09-11T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe",
-   "SAP"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/purity-operating-environment-simplified-release-lines/": {
   "PostLink": {
@@ -8182,7 +8153,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/xcr4-technical/",
-    "LastMod": "2024-09-20T04:42:45Z"
+    "LastMod": "2024-09-29T16:07:07Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
