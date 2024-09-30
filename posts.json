@@ -33,7 +33,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/4-common-issues-with-mysql-how-to-solve/",
-    "LastMod": "2024-02-17T00:48:40Z"
+    "LastMod": "2024-09-30T10:44:38Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -42,13 +42,7 @@
   "Title": "4 Common MySQL Issues and How to Solve Them",
   "Summary": "",
   "PublishDate": "2021-04-29T00:00:00Z",
-  "Tags": [
-   "FlashArray//C",
-   "FlashArray//X NVMe",
-   "FlashBlade Object Storage",
-   "Pure Cloud Block Store",
-   "Purity Data Services"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/a-brief-history-of-time-with-powershell-and-pure-storage/": {
   "PostLink": {
@@ -116,7 +110,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/accelerate-mysql-read-scale-with-directmemory-cache/",
-    "LastMod": "2024-09-29T11:19:02Z"
+    "LastMod": "2024-09-30T10:08:49Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -517,7 +511,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/apache-cassandra-rapid-node-replacement-using-snapshots/",
-    "LastMod": "2023-10-18T16:58:00Z"
+    "LastMod": "2024-09-29T23:48:36Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -526,9 +520,7 @@
   "Title": "Apache Cassandra Rapid Node Replacement Using Snapshots",
   "Summary": "",
   "PublishDate": "2019-07-30T00:00:00Z",
-  "Tags": [
-   "Apache Spark"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/apache-spark-on-flashblade-part-2/": {
   "PostLink": {
@@ -762,7 +754,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/backup-and-recovery-of-sap-s-4hana-on-vvols-flasharraydemo-video/",
-    "LastMod": "2023-05-08T19:45:21Z"
+    "LastMod": "2024-09-30T07:17:25Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -843,7 +835,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/benefits-of-running-cassandra-on-flasharray-with-directflash-fabric/",
-    "LastMod": "2023-10-18T17:15:21Z"
+    "LastMod": "2024-09-29T23:52:36Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -852,10 +844,7 @@
   "Title": "Benefits of running Cassandra on FlashArray with DirectFlash Fabric",
   "Summary": "",
   "PublishDate": "2019-02-19T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe",
-   "Purity Data Services"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/best-practice-disable-disk-fragmentation-scheduled-task/": {
   "PostLink": {
@@ -1381,7 +1370,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/copying-apache-vcassandra-cluster-running-on-vmfs-datastore-pure-storage-flasharray-x-snapshots/",
-    "LastMod": "2022-08-22T16:40:19Z"
+    "LastMod": "2024-09-30T00:37:50Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1925,7 +1914,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/eliminate-mysql-and-mariadb-replication-time-to-availability/",
-    "LastMod": "2024-02-17T00:43:44Z"
+    "LastMod": "2024-09-30T10:36:11Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1934,10 +1923,7 @@
   "Title": "Eliminate MySQL and MariaDB Replication Time to Availability",
   "Summary": "",
   "PublishDate": "2021-07-16T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe",
-   "Pure Cloud Block Store"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/empowering-sql-server-dbas-via-snapshots-and-powershell/": {
   "PostLink": {
@@ -2323,7 +2309,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/flasharray-extends-nvme-of-support-to-tcp/",
-    "LastMod": "2024-09-29T04:12:06Z"
+    "LastMod": "2024-09-30T10:41:49Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2402,7 +2388,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/flashblade-4-1-5/",
-    "LastMod": "2024-08-22T06:06:54Z"
+    "LastMod": "2024-09-30T08:07:13Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2467,7 +2453,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/flashy-fast-apache-kafka-5-million-messages-per-second-writes-three-producers-on-pure-storage-flasharray-x-with-directflash-fabric/",
-    "LastMod": "2024-07-06T17:35:13Z"
+    "LastMod": "2024-09-29T23:36:35Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3055,7 +3041,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/improve-open-source-database-operations-with-aws-outposts-by-4x/",
-    "LastMod": "2024-02-17T00:40:55Z"
+    "LastMod": "2024-09-30T00:29:08Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3064,14 +3050,7 @@
   "Title": "Improve Open Source Database Operations with AWS Outposts by 4x",
   "Summary": "",
   "PublishDate": "2021-08-17T00:00:00Z",
-  "Tags": [
-   "AWS",
-   "FlashArray//C",
-   "FlashArray//X NVMe",
-   "Hybrid Cloud",
-   "Pure1 Storage Management",
-   "Purity Data Services"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/improving-python-s3-client-performance-with-rust/": {
   "PostLink": {
@@ -3817,7 +3796,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/mongodb-on-flasharray-with-nvme-of-roce/",
-    "LastMod": "2023-10-18T20:03:58Z"
+    "LastMod": "2024-09-30T06:47:02Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3826,10 +3805,7 @@
   "Title": "Beyond DAS: MongoDB on FlashArray with NVMe-oF RoCE",
   "Summary": "",
   "PublishDate": "2019-02-19T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe",
-   "MongoDB"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/mongodb-the-power-of-flasharray-snapshot/": {
   "PostLink": {
@@ -4174,7 +4150,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/new-upgrade-simulations-for-flasharray-x-and-fleet-view-in-pure1/",
-    "LastMod": "2022-08-23T21:09:32Z"
+    "LastMod": "2024-09-30T07:51:42Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4183,10 +4159,7 @@
   "Title": "New Upgrade Simulations for FlashArray//X and Fleet View in Pure1®",
   "Summary": "",
   "PublishDate": "2018-10-16T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe",
-   "Pure1 Storage Management"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/new-version-of-powershell-toolkit-1805-11-1/": {
   "PostLink": {
@@ -4474,7 +4447,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/oracle-18c-runs-faster-with-directflash-fabric-nvmeof-roce/",
-    "LastMod": "2022-03-01T16:52:33Z"
+    "LastMod": "2024-09-30T07:12:21Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4483,10 +4456,7 @@
   "Title": "Oracle 18c Runs Faster with DirectFlash™ Fabric – NVMe-oF RoCE",
   "Summary": "",
   "PublishDate": "2019-02-19T00:00:00Z",
-  "Tags": [
-   "DirectFlash Modules",
-   "FlashArray//X NVMe"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/oracle-database-19c-on-oracle-direct-nfs-using-fa-file/": {
   "PostLink": {
@@ -6131,7 +6101,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sap-hana-pure-directmemory-cache/",
-    "LastMod": "2024-02-17T01:18:50Z"
+    "LastMod": "2024-09-30T06:26:04Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6140,11 +6110,7 @@
   "Title": "Reducing costs for SAP HANA with Pure’s DirectMemory Cache",
   "Summary": "",
   "PublishDate": "2019-09-18T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe",
-   "FlashBlade Object Storage",
-   "SAP"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/sap-s-4hana-migration-lift-shift-from-on-prem-to-aws-using-cloud-block-store/": {
   "PostLink": {
@@ -6859,7 +6825,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/transforming-to-nvme-the-evergreen-way/",
-    "LastMod": "2024-04-24T00:29:41Z"
+    "LastMod": "2024-09-30T06:32:29Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6868,9 +6834,7 @@
   "Title": "Transform to NVMe the Evergreen Way",
   "Summary": "",
   "PublishDate": "2017-04-11T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/troubles-with-get-mpiosetting-in-windows-server/": {
   "PostLink": {
@@ -7111,7 +7075,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/upgrade-to-purity-fa-6-5-0-yourself-through-pure1/",
-    "LastMod": "2024-06-27T16:22:51Z"
+    "LastMod": "2024-09-30T10:34:31Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7900,7 +7864,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/wait-can-apps-benefit-nvme-today/",
-    "LastMod": "2024-04-25T05:08:07Z"
+    "LastMod": "2024-09-30T07:47:40Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
