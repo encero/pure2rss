@@ -4297,7 +4297,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/nvmeof-roce-suse-15/",
-    "LastMod": "2024-02-17T01:20:20Z"
+    "LastMod": "2024-09-30T23:24:37Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4306,9 +4306,7 @@
   "Title": "Configuring NVMeoF RoCE For SUSE 15",
   "Summary": "",
   "PublishDate": "2019-08-20T00:00:00Z",
-  "Tags": [
-   "SAP"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/object-storage-via-fuse-filesystems/": {
   "PostLink": {
@@ -6391,6 +6389,21 @@
    "FlashBlade Object Storage"
   ]
  },
+ "https://blog.purestorage.com/purely-technical/simplify-deployment-with-pure-validated-designs/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/simplify-deployment-with-pure-validated-designs/",
+    "LastMod": "2024-09-30T21:43:41Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "simplify-deployment-with-pure-validated-designs"
+  },
+  "Title": "Simplify Deployment with Pure Validated Designs",
+  "Summary": "",
+  "PublishDate": "2020-11-18T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/simplify-elastic-operations-without-compromising-data-searchability-using-flashblade/": {
   "PostLink": {
    "Link": {
@@ -7217,7 +7230,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-pure-cloud-block-store-and-microsoft-azure-for-devtest/",
-    "LastMod": "2024-09-16T20:49:22Z"
+    "LastMod": "2024-09-30T23:54:01Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7259,6 +7272,51 @@
   "Title": "Using Pure Storage PowerShell with Windows Server 2008 R2",
   "Summary": "",
   "PublishDate": "2015-03-13T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-are-snapshots-backups/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-are-snapshots-backups/",
+    "LastMod": "2024-09-30T19:07:43Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "using-t-sql-snapshot-backup-are-snapshots-backups"
+  },
+  "Title": "Using T-SQL Snapshot Backup: Are Snapshots Backups?",
+  "Summary": "",
+  "PublishDate": "2024-09-30T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-point-in-time-recovery-azure-edition/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-point-in-time-recovery-azure-edition/",
+    "LastMod": "2024-09-30T19:03:24Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "using-t-sql-snapshot-backup-point-in-time-recovery-azure-edition"
+  },
+  "Title": "Using T-SQL Snapshot Backup: Point-in-time Recovery – Azure Edition",
+  "Summary": "",
+  "PublishDate": "2024-09-30T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-point-in-time-recovery/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-point-in-time-recovery/",
+    "LastMod": "2024-09-30T19:13:37Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "using-t-sql-snapshot-backup-point-in-time-recovery"
+  },
+  "Title": "Using T-SQL Snapshot Backup: Point-in-time Recovery",
+  "Summary": "",
+  "PublishDate": "2024-09-30T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/using-the-powershell-sdk-with-system-center-2012-orchestrator/": {

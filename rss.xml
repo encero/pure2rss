@@ -6,6 +6,24 @@
     <pubDate>Tue, 25 Jun 2024 03:02:24 +0000</pubDate>
     <lastBuildDate>Tue, 25 Jun 2024 03:02:24 +0000</lastBuildDate>
     <item>
+      <title>Using T-SQL Snapshot Backup: Are Snapshots Backups?</title>
+      <link>https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-are-snapshots-backups/</link>
+      <description></description>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using T-SQL Snapshot Backup: Point-in-time Recovery</title>
+      <link>https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-point-in-time-recovery/</link>
+      <description></description>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using T-SQL Snapshot Backup: Point-in-time Recovery – Azure Edition</title>
+      <link>https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-point-in-time-recovery-azure-edition/</link>
+      <description></description>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>SAP HANA on Pure Storage FlashArray File</title>
       <link>https://blog.purestorage.com/purely-technical/sap-hana-on-pure-storage-flasharray-file/</link>
       <description></description>
@@ -880,6 +898,12 @@
       <link>https://blog.purestorage.com/purely-technical/protecting-kubernetes-applications/</link>
       <description></description>
       <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Simplify Deployment with Pure Validated Designs</title>
+      <link>https://blog.purestorage.com/purely-technical/simplify-deployment-with-pure-validated-designs/</link>
+      <description></description>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Near-zero RPO with ActiveDR and Microsoft SQL Server</title>
