@@ -425,7 +425,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/analyzing-the-possibilities-of-mariadb-and-directflash-fabric/",
-    "LastMod": "2022-04-10T22:28:20Z"
+    "LastMod": "2024-09-30T23:22:04Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -434,10 +434,7 @@
   "Title": "Analyzing the Possibilities of MariaDB and DirectFlash Fabric",
   "Summary": "",
   "PublishDate": "2019-02-19T00:00:00Z",
-  "Tags": [
-   "DirectFlash Modules",
-   "Software as a Service"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/announcing-pure-storage-cloud-block-store-for-aws/": {
   "PostLink": {
