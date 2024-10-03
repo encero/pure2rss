@@ -1079,7 +1079,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/cisco-validated-design-veeam-and-flashstack/",
-    "LastMod": "2024-09-29T11:21:13Z"
+    "LastMod": "2024-10-02T19:42:04Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2350,6 +2350,21 @@
   "Tags": [
    "VMware"
   ]
+ },
+ "https://blog.purestorage.com/purely-technical/flasharray-scom-management-upgrade-pack-1-1/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/flasharray-scom-management-upgrade-pack-1-1/",
+    "LastMod": "2024-09-30T21:32:44Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "flasharray-scom-management-upgrade-pack-1-1"
+  },
+  "Title": "Pure FlashArray SCOM Management Pack 1.1 Released",
+  "Summary": "",
+  "PublishDate": "2020-04-16T00:00:00Z",
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/flasharray-vsphere-web-client-now-supports-vsphere-6-7/": {
   "PostLink": {
@@ -3793,7 +3808,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/mongodb-on-flasharray-with-nvme-of-roce/",
-    "LastMod": "2024-09-30T06:47:02Z"
+    "LastMod": "2024-10-02T15:59:28Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6946,7 +6961,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/understanding-thin-provisioning-does-it-reduce-storage-capacity/",
-    "LastMod": "2024-02-17T01:33:59Z"
+    "LastMod": "2024-10-02T16:58:54Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6955,9 +6970,7 @@
   "Title": "Does Thin Provisioning Reduce Storage Capacity?",
   "Summary": "",
   "PublishDate": "2013-12-13T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray-2/": {
   "PostLink": {
