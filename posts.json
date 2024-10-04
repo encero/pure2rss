@@ -110,7 +110,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/accelerate-mysql-read-scale-with-directmemory-cache/",
-    "LastMod": "2024-09-30T10:08:49Z"
+    "LastMod": "2024-10-03T20:32:25Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -325,7 +325,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/activedr-and-mongodb-reduce-downtime-and-cost/",
-    "LastMod": "2024-02-17T01:04:56Z"
+    "LastMod": "2024-10-03T19:47:17Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -334,11 +334,7 @@
   "Title": "Combining ActiveDR™ with MongoDB to Reduce Downtime and Costs",
   "Summary": "",
   "PublishDate": "2020-07-22T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe",
-   "MongoDB",
-   "Purity Data Services"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/ai-developers-6-reasons-to-care-about-storage/": {
   "PostLink": {
@@ -440,7 +436,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/announcing-pure-storage-cloud-block-store-for-aws/",
-    "LastMod": "2023-12-05T19:51:47Z"
+    "LastMod": "2024-10-03T19:48:49Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -449,12 +445,7 @@
   "Title": "Pure Storage Cloud Block Store for AWS",
   "Summary": "",
   "PublishDate": "2018-11-19T00:00:00Z",
-  "Tags": [
-   "AWS",
-   "Pure Cloud Block Store",
-   "Virtualization",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/anomalous-drops-in-data-reduction-ratios/": {
   "PostLink": {
@@ -475,7 +466,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/ansible-collection-migration/",
-    "LastMod": "2024-02-17T01:10:40Z"
+    "LastMod": "2024-10-03T19:36:12Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -484,16 +475,13 @@
   "Title": "Migrating Ansible Content Collections",
   "Summary": "",
   "PublishDate": "2020-03-27T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe",
-   "FlashBlade Object Storage"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/ansible-collections-pure-storage/": {
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/ansible-collections-pure-storage/",
-    "LastMod": "2024-09-08T05:32:57Z"
+    "LastMod": "2024-10-03T21:16:15Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -508,7 +496,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/apache-cassandra-rapid-node-replacement-using-snapshots/",
-    "LastMod": "2024-09-29T23:48:36Z"
+    "LastMod": "2024-10-03T21:15:31Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -731,7 +719,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/automating-storage-snapshot-data-protection-for-saphana-and-flasharray/",
-    "LastMod": "2023-12-07T17:34:42Z"
+    "LastMod": "2024-10-03T21:11:58Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -740,18 +728,13 @@
   "Title": "Automate Storage Snapshot Data Protection for SAP HANA and FlashArray",
   "Summary": "",
   "PublishDate": "2019-04-13T00:00:00Z",
-  "Tags": [
-   "AI and Machine Learning",
-   "Data Backup and Recovery",
-   "FlashArray//X NVMe",
-   "SAP"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/backup-and-recovery-of-sap-s-4hana-on-vvols-flasharraydemo-video/": {
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/backup-and-recovery-of-sap-s-4hana-on-vvols-flasharraydemo-video/",
-    "LastMod": "2024-09-30T07:17:25Z"
+    "LastMod": "2024-10-03T20:30:30Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -832,7 +815,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/benefits-of-running-cassandra-on-flasharray-with-directflash-fabric/",
-    "LastMod": "2024-09-29T23:52:36Z"
+    "LastMod": "2024-10-03T18:51:22Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1109,7 +1092,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/cloning-oracle-database-cloud/",
-    "LastMod": "2024-02-17T01:15:12Z"
+    "LastMod": "2024-10-03T20:28:29Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1118,10 +1101,7 @@
   "Title": "Cloning Oracle Database to the Cloud",
   "Summary": "",
   "PublishDate": "2019-12-11T00:00:00Z",
-  "Tags": [
-   "Oracle",
-   "Pure Cloud Block Store"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/cloning-oracle-database-on-asm-with-pure-flasharray-on-to-same-host/": {
   "PostLink": {
@@ -1251,7 +1231,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/configuring-an-esxi-cluster-for-storage-provisioning-for-a-flasharray-via-powershell/",
-    "LastMod": "2023-04-28T17:13:53Z"
+    "LastMod": "2024-10-03T19:21:00Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1281,7 +1261,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/consolidate-oracle-workloads-with-flasharray-xl/",
-    "LastMod": "2024-09-29T15:40:28Z"
+    "LastMod": "2024-10-03T18:35:11Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1367,7 +1347,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/copying-apache-vcassandra-cluster-running-on-vmfs-datastore-pure-storage-flasharray-x-snapshots/",
-    "LastMod": "2024-09-30T00:37:50Z"
+    "LastMod": "2024-10-03T21:14:35Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1911,7 +1891,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/eliminate-mysql-and-mariadb-replication-time-to-availability/",
-    "LastMod": "2024-09-30T10:36:11Z"
+    "LastMod": "2024-10-03T21:21:10Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2019,7 +1999,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/end-to-end-encryption-with-vvols-part-i-introduction/",
-    "LastMod": "2022-04-16T22:38:54Z"
+    "LastMod": "2024-10-03T21:20:14Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2028,11 +2008,7 @@
   "Title": "End-to-End Encryption with vVols, Part I: Introduction",
   "Summary": "",
   "PublishDate": "2019-08-23T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe",
-   "Purity Data Services",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/enhanced-security-and-organization-management-with-single-sign-on-in-pure1/": {
   "PostLink": {
@@ -2465,7 +2441,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/flashy-fast-apache-kafka-5-million-messages-per-second-writes-three-producers-on-pure-storage-flasharray-x-with-directflash-fabric/",
-    "LastMod": "2024-09-29T23:36:35Z"
+    "LastMod": "2024-10-03T18:53:04Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3264,7 +3240,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/introducing-vsphere-virtual-volumes-on-the-flasharray/",
-    "LastMod": "2024-02-16T19:26:38Z"
+    "LastMod": "2024-10-03T18:37:58Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3273,11 +3249,7 @@
   "Title": "Introducing vSphere Virtual Volumes on the FlashArray",
   "Summary": "",
   "PublishDate": "2017-06-13T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe",
-   "Virtualization",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/introduction-to-azure-vmware-solution-run-command/": {
   "PostLink": {
@@ -3823,7 +3795,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/mongodb-the-power-of-flasharray-snapshot/",
-    "LastMod": "2022-03-01T16:48:21Z"
+    "LastMod": "2024-10-03T19:10:12Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3832,10 +3804,7 @@
   "Title": "MongoDB: The Power of FlashArray Snapshot",
   "Summary": "",
   "PublishDate": "2019-07-15T00:00:00Z",
-  "Tags": [
-   "DevOps",
-   "FlashArray//X NVMe"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/monitoring-automatic-vmfs-6-unmap-in-esxi/": {
   "PostLink": {
@@ -3996,7 +3965,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/ndu/",
-    "LastMod": "2024-05-09T17:25:57Z"
+    "LastMod": "2024-10-03T18:56:33Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4005,10 +3974,7 @@
   "Title": "Pure Storage Non-Disruptive Upgrades: A Technical Deep-dive",
   "Summary": "",
   "PublishDate": "2015-08-21T00:00:00Z",
-  "Tags": [
-   "Cost Optimization",
-   "FlashArray//X NVMe"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/near-zero-rpo-with-activedr-and-microsoft-sql-server/": {
   "PostLink": {
@@ -4242,7 +4208,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/non-disruptive-upgrade-to-flasharray-xl-2/",
-    "LastMod": "2024-09-29T15:44:12Z"
+    "LastMod": "2024-10-03T18:40:46Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4525,7 +4491,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/oracle-database-flash-array-xr3/",
-    "LastMod": "2024-09-29T16:01:17Z"
+    "LastMod": "2024-10-03T19:01:15Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4676,7 +4642,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/powercli-and-vvols-part-v-array-snapshots-and-vvols/",
-    "LastMod": "2024-05-11T15:17:14Z"
+    "LastMod": "2024-10-03T19:28:44Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4685,10 +4651,7 @@
   "Title": "PowerCLI and VVols Part V: Array Snapshots and VVols",
   "Summary": "",
   "PublishDate": "2018-10-30T00:00:00Z",
-  "Tags": [
-   "Virtualization",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/powercli-and-vvols-part-vi-running-a-test-failover/": {
   "PostLink": {
@@ -4974,7 +4937,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-101-ensuring-100-performance/",
-    "LastMod": "2024-09-29T14:43:06Z"
+    "LastMod": "2024-10-03T21:30:43Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4989,7 +4952,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-and-portworx/",
-    "LastMod": "2024-07-26T02:50:00Z"
+    "LastMod": "2024-10-03T21:06:56Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5385,7 +5348,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/purity-run-opening-flasharray-to-run-your-vms-containers/",
-    "LastMod": "2024-02-17T01:23:48Z"
+    "LastMod": "2024-10-03T19:23:03Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5394,11 +5357,7 @@
   "Title": "Purity Run – Opening FlashArray to run your VMs \u0026 Containers",
   "Summary": "",
   "PublishDate": "2017-06-13T00:00:00Z",
-  "Tags": [
-   "DevOps",
-   "FlashArray//X NVMe",
-   "Purity Data Services"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/queue-depth-limits-and-vvol-protocol-endpoints/": {
   "PostLink": {
@@ -6111,7 +6070,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sap-hana-pure-directmemory-cache/",
-    "LastMod": "2024-09-30T06:26:04Z"
+    "LastMod": "2024-10-03T21:24:52Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6145,7 +6104,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/say-goodbye-to-vm-alignment-issues-and-poor-performance-with-pure-storage/",
-    "LastMod": "2024-06-25T03:02:24Z"
+    "LastMod": "2024-10-03T19:45:52Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6343,7 +6302,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/setting-up-system-center-virtual-machine-manager-2012-r2-with-pure-storage/",
-    "LastMod": "2022-09-02T19:51:50Z"
+    "LastMod": "2024-10-03T19:30:29Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6850,7 +6809,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/transforming-to-nvme-the-evergreen-way/",
-    "LastMod": "2024-09-30T06:32:29Z"
+    "LastMod": "2024-10-03T19:21:55Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7128,7 +7087,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-ansible-to-manage-your-pure-infrastructure/",
-    "LastMod": "2024-08-10T18:55:05Z"
+    "LastMod": "2024-10-03T18:57:32Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7255,7 +7214,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-pure-storage-flasharray-modules-ansible/",
-    "LastMod": "2022-11-26T01:52:28Z"
+    "LastMod": "2024-10-03T18:50:14Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7264,10 +7223,7 @@
   "Title": "Utilizing the Pure Storage Integrations Released in Ansible 2.4",
   "Summary": "",
   "PublishDate": "2017-09-12T00:00:00Z",
-  "Tags": [
-   "DevOps",
-   "FlashArray//X NVMe"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/using-pure-storage-powershell-with-windows-server-2008-r2/": {
   "PostLink": {
@@ -7507,7 +7463,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/vm-performance-on-flash-part-2-thin-vs-thick-provisioning-does-it-matter/",
-    "LastMod": "2024-02-16T19:26:20Z"
+    "LastMod": "2024-10-03T20:38:50Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7516,9 +7472,7 @@
   "Title": "VM Performance on Flash Storage, Part 2: Thin vs. Thick Provisioning",
   "Summary": "",
   "PublishDate": "2012-02-14T00:00:00Z",
-  "Tags": [
-   "Virtualization"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/vmfs-management-on-azure-vmware-solution-and-pure-cloud-block-store/": {
   "PostLink": {
@@ -8185,7 +8139,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/xcr4-technical/",
-    "LastMod": "2024-09-29T16:07:07Z"
+    "LastMod": "2024-10-03T18:48:10Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
