@@ -2202,7 +2202,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/finally-truly-unified-block-and-file-a-look-at-the-details/",
-    "LastMod": "2024-09-29T04:29:58Z"
+    "LastMod": "2024-10-03T20:55:49Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5318,7 +5318,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/purity-migrate-s-4hana-migration-from-dellemc-powermax-to-pure-storage-flasharray-x/",
-    "LastMod": "2024-09-29T16:18:25Z"
+    "LastMod": "2024-10-03T20:45:53Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6459,7 +6459,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/speed-up-continuous-cd-pipeline/",
-    "LastMod": "2023-10-18T19:00:13Z"
+    "LastMod": "2024-10-03T21:04:45Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7038,7 +7038,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/updating-a-volume-group-name-on-the-flasharray-for-vvols/",
-    "LastMod": "2022-08-22T19:08:48Z"
+    "LastMod": "2024-10-03T20:51:21Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7047,11 +7047,7 @@
   "Title": "Updating a Volume Group Name on FlashArray for vVols",
   "Summary": "",
   "PublishDate": "2018-12-11T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe",
-   "VMware",
-   "vVols"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/upgrade-to-purity-fa-6-5-0-yourself-through-pure1/": {
   "PostLink": {
