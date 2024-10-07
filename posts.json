@@ -421,7 +421,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/analyzing-the-possibilities-of-mariadb-and-directflash-fabric/",
-    "LastMod": "2024-09-30T23:22:04Z"
+    "LastMod": "2024-10-06T17:46:19Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -734,7 +734,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/backup-and-recovery-of-sap-s-4hana-on-vvols-flasharraydemo-video/",
-    "LastMod": "2024-10-03T20:30:30Z"
+    "LastMod": "2024-10-06T18:14:35Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1347,7 +1347,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/copying-apache-vcassandra-cluster-running-on-vmfs-datastore-pure-storage-flasharray-x-snapshots/",
-    "LastMod": "2024-10-03T21:14:35Z"
+    "LastMod": "2024-10-06T18:04:24Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2441,7 +2441,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/flashy-fast-apache-kafka-5-million-messages-per-second-writes-three-producers-on-pure-storage-flasharray-x-with-directflash-fabric/",
-    "LastMod": "2024-10-03T18:53:04Z"
+    "LastMod": "2024-10-06T17:58:16Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7053,7 +7053,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/upgrade-to-purity-fa-6-5-0-yourself-through-pure1/",
-    "LastMod": "2024-09-30T10:34:31Z"
+    "LastMod": "2024-10-06T17:37:30Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7195,7 +7195,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-pure-cloud-block-store-and-microsoft-azure-for-devtest/",
-    "LastMod": "2024-09-30T23:54:01Z"
+    "LastMod": "2024-10-06T17:41:17Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
