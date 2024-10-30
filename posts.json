@@ -4208,13 +4208,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/non-disruptive-upgrade-to-flasharray-xl-2/",
-    "LastMod": "2024-10-03T18:40:46Z"
+    "LastMod": "2024-10-29T21:41:33Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "non-disruptive-upgrade-to-flasharray-xl-2"
   },
-  "Title": "Non-disruptive Upgrade from FlashArray//X or FlashArray//XL130 to FlashArray//XL170",
+  "Title": "How to Perform Non-disruptive Upgrades between FlashArray//X and //XL",
   "Summary": "",
   "PublishDate": "2022-11-29T00:00:00Z",
   "Tags": []
