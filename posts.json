@@ -2755,7 +2755,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-create-scalable-and-reliable-kubernetes-logging/",
-    "LastMod": "2024-09-04T18:51:38Z"
+    "LastMod": "2024-11-05T16:55:10Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4575,7 +4575,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/portworx-adds-flexibility-to-pure-and-vmware/",
-    "LastMod": "2024-09-19T13:51:28Z"
+    "LastMod": "2024-11-05T16:54:21Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6971,7 +6971,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/unlocking-performance-insights-using-resxtop-to-monitor-your-azure-vmware-solution-environment/",
-    "LastMod": "2024-10-17T15:14:11Z"
+    "LastMod": "2024-11-04T20:54:39Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7740,7 +7740,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/vmware-vvols-next-gen-storage-goes-back-to-the-future/",
-    "LastMod": "2024-02-17T01:32:47Z"
+    "LastMod": "2024-11-05T16:59:20Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7749,9 +7749,7 @@
   "Title": "VMware VVols: Next-gen Storage Goes back to The Future",
   "Summary": "",
   "PublishDate": "2014-08-28T00:00:00Z",
-  "Tags": [
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/volume-matching-via-the-api-in-purity-5-0/": {
   "PostLink": {
