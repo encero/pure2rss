@@ -2424,7 +2424,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/flashstack-converged-architecture-for-citrix-xendesktop/",
-    "LastMod": "2024-02-17T01:30:38Z"
+    "LastMod": "2024-11-07T18:51:05Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2433,9 +2433,7 @@
   "Title": "FlashStack Converged Architecture for Citrix XenDesktop",
   "Summary": "",
   "PublishDate": "2015-05-11T00:00:00Z",
-  "Tags": [
-   "FlashStack Infrastructure"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/flashy-fast-apache-kafka-5-million-messages-per-second-writes-three-producers-on-pure-storage-flasharray-x-with-directflash-fabric/": {
   "PostLink": {
