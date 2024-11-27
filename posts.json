@@ -325,7 +325,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/activedr-and-mongodb-reduce-downtime-and-cost/",
-    "LastMod": "2024-10-03T19:47:17Z"
+    "LastMod": "2024-11-25T21:22:16Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -466,7 +466,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/ansible-collection-migration/",
-    "LastMod": "2024-10-03T19:36:12Z"
+    "LastMod": "2024-11-25T21:51:53Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -719,7 +719,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/automating-storage-snapshot-data-protection-for-saphana-and-flasharray/",
-    "LastMod": "2024-10-03T21:11:58Z"
+    "LastMod": "2024-11-25T21:32:47Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -734,7 +734,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/backup-and-recovery-of-sap-s-4hana-on-vvols-flasharraydemo-video/",
-    "LastMod": "2024-10-06T18:14:35Z"
+    "LastMod": "2024-11-25T21:17:24Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1092,7 +1092,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/cloning-oracle-database-cloud/",
-    "LastMod": "2024-10-03T20:28:29Z"
+    "LastMod": "2024-11-25T21:12:42Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1231,7 +1231,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/configuring-an-esxi-cluster-for-storage-provisioning-for-a-flasharray-via-powershell/",
-    "LastMod": "2024-10-03T19:21:00Z"
+    "LastMod": "2024-11-26T19:12:44Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3963,7 +3963,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/ndu/",
-    "LastMod": "2024-10-03T18:56:33Z"
+    "LastMod": "2024-11-26T19:56:42Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4640,7 +4640,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/powercli-and-vvols-part-v-array-snapshots-and-vvols/",
-    "LastMod": "2024-10-11T17:55:17Z"
+    "LastMod": "2024-11-26T19:24:54Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5346,7 +5346,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/purity-run-opening-flasharray-to-run-your-vms-containers/",
-    "LastMod": "2024-10-03T19:23:03Z"
+    "LastMod": "2024-11-26T19:21:34Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6807,7 +6807,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/transforming-to-nvme-the-evergreen-way/",
-    "LastMod": "2024-10-03T19:21:55Z"
+    "LastMod": "2024-11-26T19:17:49Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
