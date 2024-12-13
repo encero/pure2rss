@@ -4935,13 +4935,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-101-ensuring-100-performance/",
-    "LastMod": "2024-10-03T21:30:43Z"
+    "LastMod": "2024-12-12T13:45:15Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "pure-storage-101-ensuring-100-performance"
   },
-  "Title": "Pure Storage 101: Ensuring 100% Performance",
+  "Title": "Non-Disruptive Storage for the Always-On Era",
   "Summary": "",
   "PublishDate": "2014-04-11T00:00:00Z",
   "Tags": []
@@ -5208,13 +5208,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-data-protection-assessment-tool/",
-    "LastMod": "2024-12-11T17:54:18Z"
+    "LastMod": "2024-12-12T17:48:53Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "pure1-data-protection-assessment-tool"
   },
-  "Title": "Try the New Pure1 Security Assessment",
+  "Title": "Try the Pure1 Security Assessment",
   "Summary": "",
   "PublishDate": "2024-06-19T00:00:00Z",
   "Tags": []
@@ -6575,14 +6575,14 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/",
-    "LastMod": "2024-08-30T15:15:02Z"
+    "LastMod": "2024-12-11T21:42:39Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion"
   },
-  "Title": "Streamlining Azure VMware Solution: Automating Pure Cloud Block Store Expansion",
-  "Summary": "A new feature is now available for Pure Cloud Block Store on Azure that enables you to automate capacity upgrades using Azure Functions and PowerShell.",
+  "Title": "How to Streamline Azure VMware Solution: Automating Pure Cloud Block Store Expansion",
+  "Summary": "",
   "PublishDate": "2024-04-16T00:00:00Z",
   "Tags": []
  },

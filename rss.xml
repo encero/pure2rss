@@ -66,7 +66,7 @@
       <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Try the New Pure1 Security Assessment</title>
+      <title>Try the Pure1 Security Assessment</title>
       <link>https://blog.purestorage.com/purely-technical/pure1-data-protection-assessment-tool/</link>
       <description></description>
       <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
@@ -102,9 +102,9 @@
       <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Streamlining Azure VMware Solution: Automating Pure Cloud Block Store Expansion</title>
+      <title>How to Streamline Azure VMware Solution: Automating Pure Cloud Block Store Expansion</title>
       <link>https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/</link>
-      <description>A new feature is now available for Pure Cloud Block Store on Azure that enables you to automate capacity upgrades using Azure Functions and PowerShell.</description>
+      <description></description>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -481,13 +481,13 @@
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
+      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
+      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
@@ -2892,7 +2892,7 @@
       <pubDate>Sat, 28 Jun 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pure Storage 101: Ensuring 100% Performance</title>
+      <title>Non-Disruptive Storage for the Always-On Era</title>
       <link>https://blog.purestorage.com/purely-technical/pure-storage-101-ensuring-100-performance/</link>
       <description></description>
       <pubDate>Fri, 11 Apr 2014 00:00:00 +0000</pubDate>
