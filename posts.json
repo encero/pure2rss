@@ -1859,7 +1859,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/does-vmware-vaai-integration-matters-on-a-flasharray/",
-    "LastMod": "2024-02-17T01:33:54Z"
+    "LastMod": "2024-12-09T14:50:08Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1868,9 +1868,7 @@
   "Title": "The Goodness of Pure Storage FlashArray and VMware VAAI integration",
   "Summary": "",
   "PublishDate": "2014-03-18T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/elasticsearch-snapshots-on-s3/": {
   "PostLink": {
@@ -6918,7 +6916,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/understanding-thin-provisioning-does-it-reduce-storage-capacity/",
-    "LastMod": "2024-10-02T16:58:54Z"
+    "LastMod": "2024-12-09T14:44:46Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
