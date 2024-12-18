@@ -1295,7 +1295,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/continuing-to-drive-evergreen-storage-in-azure/",
-    "LastMod": "2024-02-17T00:03:49Z"
+    "LastMod": "2024-12-17T21:25:43Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1304,10 +1304,7 @@
   "Title": "Continuing to Drive Evergreen Storage in Azure",
   "Summary": "",
   "PublishDate": "2023-07-12T00:00:00Z",
-  "Tags": [
-   "Azure",
-   "Purity//FA Releases"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/continuity-protectio-sap-hana-flasharray/": {
   "PostLink": {
@@ -2021,6 +2018,21 @@
   "Title": "Enhanced Security and Organization Management with Single Sign-On in Pure1",
   "Summary": "",
   "PublishDate": "2024-06-13T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/enhancing-pure-cloud-block-store-with-multi-tenant-capabilities/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/enhancing-pure-cloud-block-store-with-multi-tenant-capabilities/",
+    "LastMod": "2024-12-18T14:48:28Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "enhancing-pure-cloud-block-store-with-multi-tenant-capabilities"
+  },
+  "Title": "Enhancing Pure Cloud Block Store with Multi-tenant Capabilities",
+  "Summary": "",
+  "PublishDate": "2024-12-18T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/esxi-and-the-missing-luns-256-or-higher/": {
@@ -3171,7 +3183,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/initializing-azure-vmware-solution-for-use-with-pure-cloud-block-store/",
-    "LastMod": "2024-07-23T21:19:14Z"
+    "LastMod": "2024-12-18T14:57:40Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
