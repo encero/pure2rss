@@ -899,7 +899,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/bringing-data-analytics-into-the-hardware-design-story/",
-    "LastMod": "2024-07-25T18:34:12Z"
+    "LastMod": "2024-12-18T15:30:47Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2938,7 +2938,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-self-onboard-azure-vmware-solution-for-use-with-pure-cloud-block-store/",
-    "LastMod": "2024-08-30T14:53:57Z"
+    "LastMod": "2024-12-18T14:57:31Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6585,7 +6585,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/",
-    "LastMod": "2024-12-11T21:42:39Z"
+    "LastMod": "2024-12-18T14:51:35Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6648,6 +6648,21 @@
    "Purity",
    "SafeMode Snapshots"
   ]
+ },
+ "https://blog.purestorage.com/purely-technical/technically-speaking-on-pure-fusion/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/technically-speaking-on-pure-fusion/",
+    "LastMod": "2024-12-18T21:41:58Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "technically-speaking-on-pure-fusion"
+  },
+  "Title": "Technically Speaking on Pure Fusion ",
+  "Summary": "",
+  "PublishDate": "2024-12-18T00:00:00Z",
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/the-case-for-on-premise-hadoop-with-flashblade/": {
   "PostLink": {
@@ -7076,7 +7091,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/upgrade-to-purity-fa-6-5-0-yourself-through-pure1/",
-    "LastMod": "2024-10-06T17:37:30Z"
+    "LastMod": "2024-12-18T15:50:47Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7091,7 +7106,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/upgrade-your-own-flasharray-with-pure1/",
-    "LastMod": "2024-12-11T17:59:19Z"
+    "LastMod": "2024-12-18T15:48:04Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
