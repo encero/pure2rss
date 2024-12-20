@@ -3297,7 +3297,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/io-plumbing-tests-with-fio/",
-    "LastMod": "2024-07-22T14:53:10Z"
+    "LastMod": "2024-12-19T19:50:00Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3312,7 +3312,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/iscsi-setup-with-flasharray/",
-    "LastMod": "2024-07-10T04:02:52Z"
+    "LastMod": "2024-12-19T19:08:32Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5743,7 +5743,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/rman-backups-using-mount-host-on-flasharray/",
-    "LastMod": "2022-08-19T19:15:14Z"
+    "LastMod": "2024-12-19T19:07:18Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5752,10 +5752,7 @@
   "Title": "RMAN Backups Using Mount Host on Pure FlashArray",
   "Summary": "",
   "PublishDate": "2019-08-15T00:00:00Z",
-  "Tags": [
-   "Data Backup and Recovery",
-   "FlashArray//X NVMe"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/rubrik-and-flasharray-integration-why-it-matters/": {
   "PostLink": {
@@ -6653,13 +6650,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/technically-speaking-on-pure-fusion/",
-    "LastMod": "2024-12-18T21:41:58Z"
+    "LastMod": "2024-12-20T16:20:16Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "technically-speaking-on-pure-fusion"
   },
-  "Title": "Technically Speaking on Pure Fusion ",
+  "Title": "Technically Speaking on Pure Fusion",
   "Summary": "",
   "PublishDate": "2024-12-18T00:00:00Z",
   "Tags": []
