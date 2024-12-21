@@ -2640,7 +2640,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/harnessing-static-and-dynamic-code-scanning-in-devsecops/",
-    "LastMod": "2024-09-19T20:41:04Z"
+    "LastMod": "2024-12-19T18:53:07Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2990,7 +2990,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/identify-the-asm-device-from-asmlib/",
-    "LastMod": "2024-09-06T19:50:30Z"
+    "LastMod": "2024-12-19T18:50:04Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4365,7 +4365,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/online-resizing-of-oracle-volumes-on-pure-flasharray/",
-    "LastMod": "2022-09-14T15:29:55Z"
+    "LastMod": "2024-12-19T19:54:36Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4374,10 +4374,7 @@
   "Title": "Online resizing of Oracle volumes on Pure FlashArray",
   "Summary": "",
   "PublishDate": "2016-05-22T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe",
-   "Oracle"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/openstack-kilo-and-pure-storage/": {
   "PostLink": {
@@ -7509,7 +7506,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/vmfs-management-on-azure-vmware-solution-and-pure-cloud-block-store/",
-    "LastMod": "2024-07-23T14:01:59Z"
+    "LastMod": "2024-12-18T14:51:40Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
