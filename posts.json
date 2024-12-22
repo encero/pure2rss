@@ -4785,7 +4785,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/protect-microsoft-365-with-pure-and-veeam/",
-    "LastMod": "2024-02-17T00:29:16Z"
+    "LastMod": "2024-12-20T20:33:43Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4794,10 +4794,7 @@
   "Title": "Protect Microsoft 365 with Pure and Veeam",
   "Summary": "",
   "PublishDate": "2022-04-27T00:00:00Z",
-  "Tags": [
-   "FlashArray//C",
-   "Veeam"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/protect-oracle-backups-from-ransomware-and-other-threats/": {
   "PostLink": {
@@ -5506,7 +5503,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/realizing-true-hybrid-cloud-with-equinix-metal-vmware-cloud-foundation-and-pure-storage-flasharray/",
-    "LastMod": "2024-07-06T18:13:38Z"
+    "LastMod": "2024-12-18T14:53:19Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
