@@ -2144,7 +2144,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/extending-root-volume-on-lvm-on-pure-flasharray/",
-    "LastMod": "2022-08-30T20:38:10Z"
+    "LastMod": "2024-12-19T19:49:00Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2153,9 +2153,7 @@
   "Title": "Extending (root) volume on LVM on Pure FlashArray",
   "Summary": "",
   "PublishDate": "2017-03-11T00:00:00Z",
-  "Tags": [
-   "Purity Data Services"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/fast-file-and-s3-object-storage-for-azure-stack/": {
   "PostLink": {
