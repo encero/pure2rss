@@ -4509,7 +4509,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/overwriting-a-volume-in-windows-server/",
-    "LastMod": "2024-04-26T01:52:40Z"
+    "LastMod": "2025-01-03T15:12:17Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4518,9 +4518,7 @@
   "Title": "Overwriting a Volume in Windows Server",
   "Summary": "",
   "PublishDate": "2017-05-13T00:00:00Z",
-  "Tags": [
-   "Microsoft"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/paas-pure-storage-red-hat-openshift-reference-architecture/": {
   "PostLink": {
@@ -5118,6 +5116,21 @@
   "Title": "Pure Storage REST API + Windows PowerShell (Part 2)",
   "Summary": "",
   "PublishDate": "2014-07-18T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/pure-storage-rest-api-windows-powershell/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-rest-api-windows-powershell/",
+    "LastMod": "2025-01-03T15:59:34Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "pure-storage-rest-api-windows-powershell"
+  },
+  "Title": "Pure Storage REST API + Windows PowerShell",
+  "Summary": "",
+  "PublishDate": "2014-06-28T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/pure-storage-rest-client-and-python-library/": {
@@ -6836,7 +6849,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/troubles-with-get-mpiosetting-in-windows-server/",
-    "LastMod": "2024-04-26T01:49:59Z"
+    "LastMod": "2025-01-03T14:43:38Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6845,9 +6858,7 @@
   "Title": "Troubleshooting Get-MPIOSetting in Windows Server",
   "Summary": "",
   "PublishDate": "2018-03-23T00:00:00Z",
-  "Tags": [
-   "Microsoft"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/true-business-value-running-sap-pure-storage/": {
   "PostLink": {
@@ -7048,7 +7059,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/updated-restoring-protection-group-volume-snapshots/",
-    "LastMod": "2024-04-26T01:50:29Z"
+    "LastMod": "2025-01-03T14:45:54Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7057,9 +7068,7 @@
   "Title": "Updated: Restoring Protection Group Volume Snapshots",
   "Summary": "",
   "PublishDate": "2018-02-28T00:00:00Z",
-  "Tags": [
-   "Microsoft"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/updating-a-volume-group-name-on-the-flasharray-for-vvols/": {
   "PostLink": {
