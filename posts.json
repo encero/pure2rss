@@ -998,7 +998,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/calculating-block-size-using-the-powershell-sdk/",
-    "LastMod": "2022-09-14T18:41:21Z"
+    "LastMod": "2025-01-03T15:28:23Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1417,6 +1417,21 @@
   "Title": "Creating Volumes from Protection Group Sources (Part 2)",
   "Summary": "",
   "PublishDate": "2017-10-21T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/creating-volumes-from-protection-group-sources/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/creating-volumes-from-protection-group-sources/",
+    "LastMod": "2025-01-03T14:52:48Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "creating-volumes-from-protection-group-sources"
+  },
+  "Title": "Creating Volumes from Protection Group Sources",
+  "Summary": "",
+  "PublishDate": "2017-10-20T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/csi-volume-resizing-and-elasticsearch/": {
@@ -2587,7 +2602,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/getting-started-with-the-pure-storage-python-toolkit/",
-    "LastMod": "2024-04-26T01:56:48Z"
+    "LastMod": "2025-01-03T15:33:48Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2596,9 +2611,7 @@
   "Title": "Getting Started with the Pure Storage Python Toolkit",
   "Summary": "",
   "PublishDate": "2015-07-22T00:00:00Z",
-  "Tags": [
-   "Microsoft"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/getting-started-with-vrealize-orchestrator-and-vvols/": {
   "PostLink": {
@@ -2746,7 +2759,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-cli-scripting-by-miranda-steele-guest-blogger/",
-    "LastMod": "2024-07-22T19:58:37Z"
+    "LastMod": "2025-01-03T14:30:29Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4348,7 +4361,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/on-premises-storage-and-aws-outposts/",
-    "LastMod": "2024-08-21T05:23:35Z"
+    "LastMod": "2025-01-03T20:11:55Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4763,7 +4776,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/prometheus-grafana-dashboard-flashblade/",
-    "LastMod": "2024-02-17T01:14:29Z"
+    "LastMod": "2025-01-03T20:18:19Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4772,10 +4785,7 @@
   "Title": "Visualizing Prometheus Data with Grafana Dashboards for FlashBlade™",
   "Summary": "",
   "PublishDate": "2020-01-23T00:00:00Z",
-  "Tags": [
-   "DevOps",
-   "FlashBlade Object Storage"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/protect-microsoft-365-with-pure-and-veeam/": {
   "PostLink": {
@@ -5154,7 +5164,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-smi-s-provider-overview/",
-    "LastMod": "2024-06-14T19:29:46Z"
+    "LastMod": "2025-01-03T15:23:44Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5163,9 +5173,7 @@
   "Title": "Pure Storage SMI-S Provider Overview",
   "Summary": "",
   "PublishDate": "2015-12-22T00:00:00Z",
-  "Tags": [
-   "Microsoft"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/pure-storage-snapshots-with-sql-server-availability-groups/": {
   "PostLink": {
@@ -6280,7 +6288,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/setting-up-san-boot-for-an-8-node-windows-server-cluster/",
-    "LastMod": "2024-04-26T01:58:17Z"
+    "LastMod": "2025-01-03T15:49:23Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6289,9 +6297,7 @@
   "Title": "Setting up SAN boot for an 8-Node Windows Server Cluster",
   "Summary": "",
   "PublishDate": "2015-02-24T00:00:00Z",
-  "Tags": [
-   "Microsoft"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/setting-up-software-iscsi-multipathing-with-distributed-vswitches-with-the-vsphere-web-client/": {
   "PostLink": {
@@ -6881,7 +6887,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/try-the-rest-api-using-a-rest-client/",
-    "LastMod": "2024-04-26T01:57:18Z"
+    "LastMod": "2025-01-03T15:40:12Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6890,9 +6896,7 @@
   "Title": "Try the REST API using a REST client",
   "Summary": "",
   "PublishDate": "2015-04-22T00:00:00Z",
-  "Tags": [
-   "Microsoft"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/turbo-charging-azure-pipelines-with-flasharray/": {
   "PostLink": {
