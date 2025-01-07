@@ -4344,7 +4344,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/on-benchmarking-database-storage/",
-    "LastMod": "2024-07-05T14:03:21Z"
+    "LastMod": "2025-01-03T17:46:59Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4353,9 +4353,7 @@
   "Title": "Benchmarking Database Storage",
   "Summary": "",
   "PublishDate": "2013-04-30T00:00:00Z",
-  "Tags": [
-   "Oracle"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/on-premises-storage-and-aws-outposts/": {
   "PostLink": {
@@ -6808,7 +6806,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/tools-used-and-lessons-learned-in-pures-python-3-upgrade/",
-    "LastMod": "2024-02-17T00:39:07Z"
+    "LastMod": "2025-01-02T22:49:01Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6817,9 +6815,7 @@
   "Title": "Tools Used (and Lessons Learned) in Pure’s Python 3 Upgrade",
   "Summary": "",
   "PublishDate": "2021-10-21T00:00:00Z",
-  "Tags": [
-   "Python"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/top-9-considerations-for-enterprise-ai/": {
   "PostLink": {
