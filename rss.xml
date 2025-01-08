@@ -72,6 +72,12 @@
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>iSCSI Setup with FlashArray</title>
+      <link>https://blog.purestorage.com/purely-technical/iscsi-setup-with-flasharray/</link>
+      <description></description>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Enhanced Anomaly Detection in Pure1</title>
       <link>https://blog.purestorage.com/purely-technical/anomalous-drops-in-data-reduction-ratios/</link>
       <description></description>
@@ -493,13 +499,13 @@
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
+      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
+      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
@@ -1366,12 +1372,6 @@
       <link>https://blog.purestorage.com/purely-technical/backup-and-recovery-of-sap-s-4hana-on-vvols-flasharraydemo-video/</link>
       <description></description>
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>iSCSI Setup with FlashArray</title>
-      <link>https://blog.purestorage.com/purely-technical/iscsi-setup-with-flasharray/</link>
-      <description></description>
-      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>First Class Disks and VVols</title>

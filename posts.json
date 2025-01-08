@@ -645,7 +645,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/attach-detach-sql-server-databases-with-powershell/",
-    "LastMod": "2024-04-26T01:37:12Z"
+    "LastMod": "2025-01-03T14:33:33Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -654,10 +654,7 @@
   "Title": "How to Attach/Detach SQL Server Databases with PowerShell",
   "Summary": "",
   "PublishDate": "2022-10-11T00:00:00Z",
-  "Tags": [
-   "Microsoft",
-   "SQL Server"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/auto-on-safemodetm-now-available-in-purity-6-4-10/": {
   "PostLink": {
@@ -2240,7 +2237,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/find-all-disconnected-volumes/",
-    "LastMod": "2022-08-31T23:21:23Z"
+    "LastMod": "2025-01-03T16:32:15Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3323,7 +3320,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/iscsi-setup-with-flasharray/",
-    "LastMod": "2024-12-19T19:08:32Z"
+    "LastMod": "2025-01-07T20:52:22Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3331,7 +3328,7 @@
   },
   "Title": "iSCSI Setup with FlashArray",
   "Summary": "",
-  "PublishDate": "2019-06-21T00:00:00Z",
+  "PublishDate": "2024-06-21T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/issue-with-consistent-lun-id-in-esxi-6-5/": {
@@ -5400,7 +5397,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/quick-start-guide-for-the-pure-storage-powershell-toolkit/",
-    "LastMod": "2024-04-26T01:57:56Z"
+    "LastMod": "2025-01-03T15:47:28Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5409,9 +5406,7 @@
   "Title": "Quick Start Guide for the Pure Storage PowerShell Toolkit",
   "Summary": "",
   "PublishDate": "2015-03-17T00:00:00Z",
-  "Tags": [
-   "Microsoft"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/ransomware-protection-with-netbackup-msdp-and-flashblade/": {
   "PostLink": {
@@ -8152,7 +8147,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/windows-server-failover-clusters-disk-signatures-snapshots/",
-    "LastMod": "2024-04-26T01:57:35Z"
+    "LastMod": "2025-01-03T15:45:17Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8161,9 +8156,7 @@
   "Title": "Windows Server Failover Clusters, Disk Signatures \u0026 Snapshots",
   "Summary": "",
   "PublishDate": "2015-03-25T00:00:00Z",
-  "Tags": [
-   "Microsoft"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/xcr4-technical/": {
   "PostLink": {
