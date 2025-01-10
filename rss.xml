@@ -114,10 +114,22 @@
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Online Resizing of Oracle Volumes on Pure FlashArray</title>
+      <link>https://blog.purestorage.com/purely-technical/online-resizing-of-oracle-volumes-on-pure-flasharray/</link>
+      <description></description>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>A New Power-up for Data Resilience: A Guide to Object-level Exclusions</title>
       <link>https://blog.purestorage.com/purely-technical/continuing-the-journey-of-data-resilience/</link>
       <description>Object-level exclusions are a powerful feature in the Pure1® Data Protection Assessment tool. They enable you to create smart exclusion rules, which filter out unnecessary data and enhance the accuracy and effectiveness of assessments.</description>
       <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploring the Pure1® REST API, Part 1</title>
+      <link>https://blog.purestorage.com/purely-technical/pure1-rest-api-part-1/</link>
+      <description></description>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Streamline Azure VMware Solution: Automating Pure Cloud Block Store Expansion</title>
@@ -130,6 +142,18 @@
       <link>https://blog.purestorage.com/purely-technical/how-snapshot-consolidation-with-fan-in-replication-can-simplify-your-life/</link>
       <description></description>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quick Start Guide for the Pure Storage PowerShell Toolkit</title>
+      <link>https://blog.purestorage.com/purely-technical/quick-start-guide-for-the-pure-storage-powershell-toolkit/</link>
+      <description></description>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Extending (root) Volume on LVM on Pure FlashArray</title>
+      <link>https://blog.purestorage.com/purely-technical/extending-root-volume-on-lvm-on-pure-flasharray/</link>
+      <description></description>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Harnessing Static and Dynamic Code Scanning in DevSecOps</title>
@@ -499,13 +523,13 @@
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
+      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
+      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
@@ -1464,12 +1488,6 @@
       <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Exploring the Pure1® REST API, Part 1</title>
-      <link>https://blog.purestorage.com/purely-technical/pure1-rest-api-part-1/</link>
-      <description></description>
-      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Exploring the Pure1® REST API, Part 2</title>
       <link>https://blog.purestorage.com/purely-technical/pure1-rest-api-part-2/</link>
       <description></description>
@@ -2203,13 +2221,13 @@
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>
@@ -2356,12 +2374,6 @@
       <link>https://blog.purestorage.com/purely-technical/in-guest-unmap-fix-in-esxi-6-5-part-ii-linux/</link>
       <description></description>
       <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Extending (root) volume on LVM on Pure FlashArray</title>
-      <link>https://blog.purestorage.com/purely-technical/extending-root-volume-on-lvm-on-pure-flasharray/</link>
-      <description></description>
-      <pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Using Protection Groups with VSS Snapshots</title>
@@ -2598,12 +2610,6 @@
       <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Online resizing of Oracle volumes on Pure FlashArray</title>
-      <link>https://blog.purestorage.com/purely-technical/online-resizing-of-oracle-volumes-on-pure-flasharray/</link>
-      <description></description>
-      <pubDate>Sun, 22 May 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Demonstration of New Microsoft Azure Integration</title>
       <link>https://blog.purestorage.com/purely-technical/demonstration-of-new-microsoft-azure-integration/</link>
       <description></description>
@@ -2836,12 +2842,6 @@
       <link>https://blog.purestorage.com/purely-technical/pure-storage-flashstack-converged-infrastructure-part-ii/</link>
       <description></description>
       <pubDate>Tue, 24 Mar 2015 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quick Start Guide for the Pure Storage PowerShell Toolkit</title>
-      <link>https://blog.purestorage.com/purely-technical/quick-start-guide-for-the-pure-storage-powershell-toolkit/</link>
-      <description></description>
-      <pubDate>Tue, 17 Mar 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Using Pure Storage PowerShell with Windows Server 2008 R2</title>

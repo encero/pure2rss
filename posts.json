@@ -2156,15 +2156,15 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/extending-root-volume-on-lvm-on-pure-flasharray/",
-    "LastMod": "2024-12-19T19:49:00Z"
+    "LastMod": "2025-01-09T18:06:44Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "extending-root-volume-on-lvm-on-pure-flasharray"
   },
-  "Title": "Extending (root) volume on LVM on Pure FlashArray",
+  "Title": "Extending (root) Volume on LVM on Pure FlashArray",
   "Summary": "",
-  "PublishDate": "2017-03-11T00:00:00Z",
+  "PublishDate": "2024-03-11T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/fast-file-and-s3-object-storage-for-azure-stack/": {
@@ -2801,7 +2801,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-enabling-disabling-remote-assist-with-the-powershell-sdk/",
-    "LastMod": "2024-04-26T01:55:30Z"
+    "LastMod": "2025-01-03T16:49:34Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2810,9 +2810,7 @@
   "Title": "How-To: Enabling/Disabling Remote Assist with the PowerShell SDK",
   "Summary": "",
   "PublishDate": "2016-01-22T00:00:00Z",
-  "Tags": [
-   "Microsoft"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/how-to-fine-tune-sap-hana-io-using-hdbparam-on-pure-storage/": {
   "PostLink": {
@@ -3432,7 +3430,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/kubernetes-using-vsphere-tanzu-deployment-with-tanzu-and-flasharray/",
-    "LastMod": "2024-02-17T00:51:59Z"
+    "LastMod": "2025-01-08T21:22:03Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3441,11 +3439,7 @@
   "Title": "Accelerate vSphere Tanzu Deployment and Kubernetes",
   "Summary": "",
   "PublishDate": "2021-02-24T00:00:00Z",
-  "Tags": [
-   "Kubernetes",
-   "Pure Validated Design",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/latency-based-psp-in-esxi-6-7-update-1-a-test-drive/": {
   "PostLink": {
@@ -4371,15 +4365,15 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/online-resizing-of-oracle-volumes-on-pure-flasharray/",
-    "LastMod": "2024-12-19T19:54:36Z"
+    "LastMod": "2025-01-09T20:57:20Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "online-resizing-of-oracle-volumes-on-pure-flasharray"
   },
-  "Title": "Online resizing of Oracle volumes on Pure FlashArray",
+  "Title": "Online Resizing of Oracle Volumes on Pure FlashArray",
   "Summary": "",
-  "PublishDate": "2016-05-22T00:00:00Z",
+  "PublishDate": "2024-05-22T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/openstack-kilo-and-pure-storage/": {
@@ -5241,7 +5235,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-rest-api-part-1/",
-    "LastMod": "2024-08-21T19:24:42Z"
+    "LastMod": "2025-01-08T19:20:43Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5249,7 +5243,7 @@
   },
   "Title": "Exploring the Pure1® REST API, Part 1",
   "Summary": "",
-  "PublishDate": "2019-04-23T00:00:00Z",
+  "PublishDate": "2024-04-23T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/pure1-rest-api-part-2/": {
@@ -5397,7 +5391,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/quick-start-guide-for-the-pure-storage-powershell-toolkit/",
-    "LastMod": "2025-01-03T15:47:28Z"
+    "LastMod": "2025-01-09T21:51:57Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5405,7 +5399,7 @@
   },
   "Title": "Quick Start Guide for the Pure Storage PowerShell Toolkit",
   "Summary": "",
-  "PublishDate": "2015-03-17T00:00:00Z",
+  "PublishDate": "2024-03-17T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/ransomware-protection-with-netbackup-msdp-and-flashblade/": {
@@ -6601,7 +6595,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/super-fast-backup-and-restore-sql-server/",
-    "LastMod": "2024-08-21T16:12:34Z"
+    "LastMod": "2025-01-03T17:06:25Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
