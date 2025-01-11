@@ -2648,7 +2648,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/harnessing-static-and-dynamic-code-scanning-in-devsecops/",
-    "LastMod": "2024-12-19T18:53:07Z"
+    "LastMod": "2025-01-10T19:34:00Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5743,7 +5743,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/rman-backups-using-mount-host-on-flasharray/",
-    "LastMod": "2024-12-19T19:07:18Z"
+    "LastMod": "2025-01-07T20:47:42Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5751,7 +5751,7 @@
   },
   "Title": "RMAN Backups Using Mount Host on Pure FlashArray",
   "Summary": "",
-  "PublishDate": "2019-08-15T00:00:00Z",
+  "PublishDate": "2024-08-15T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/rubrik-and-flasharray-integration-why-it-matters/": {
@@ -7048,15 +7048,15 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/updated-restoring-protection-group-volume-snapshots/",
-    "LastMod": "2025-01-03T14:45:54Z"
+    "LastMod": "2025-01-09T20:56:30Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "updated-restoring-protection-group-volume-snapshots"
   },
-  "Title": "Updated: Restoring Protection Group Volume Snapshots",
+  "Title": "Restoring Protection Group Volume Snapshots",
   "Summary": "",
-  "PublishDate": "2018-02-28T00:00:00Z",
+  "PublishDate": "2024-02-28T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/updating-a-volume-group-name-on-the-flasharray-for-vvols/": {
