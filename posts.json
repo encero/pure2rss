@@ -5235,7 +5235,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-rest-api-part-1/",
-    "LastMod": "2025-01-08T19:20:43Z"
+    "LastMod": "2025-01-13T17:14:51Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5250,7 +5250,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-rest-api-part-2/",
-    "LastMod": "2025-01-10T17:01:14Z"
+    "LastMod": "2025-01-13T17:15:06Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5265,7 +5265,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-rest-api-part-3/",
-    "LastMod": "2024-09-08T16:07:22Z"
+    "LastMod": "2025-01-13T17:16:23Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6648,13 +6648,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/technically-speaking-on-pure-fusion/",
-    "LastMod": "2024-12-20T16:20:16Z"
+    "LastMod": "2025-01-13T16:34:26Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "technically-speaking-on-pure-fusion"
   },
-  "Title": "Technically Speaking on Pure Fusion",
+  "Title": "Pure Fusion 101: Technical Deep Dive",
   "Summary": "",
   "PublishDate": "2024-12-18T00:00:00Z",
   "Tags": []
@@ -7750,7 +7750,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/vmware-vvols-next-gen-storage-goes-back-to-the-future/",
-    "LastMod": "2024-11-05T16:59:20Z"
+    "LastMod": "2025-01-03T22:28:41Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
