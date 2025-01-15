@@ -5313,7 +5313,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/purity-fa-comes-with-offloaded-data-transfer-odx/",
-    "LastMod": "2023-02-13T22:01:47Z"
+    "LastMod": "2025-01-03T15:08:45Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6557,6 +6557,21 @@
    "FlashArray//X NVMe"
   ]
  },
+ "https://blog.purestorage.com/purely-technical/storage-considerations-for-vmware-cloud-foundation-with-flasharray/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/storage-considerations-for-vmware-cloud-foundation-with-flasharray/",
+    "LastMod": "2025-01-14T19:35:31Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "storage-considerations-for-vmware-cloud-foundation-with-flasharray"
+  },
+  "Title": "Storage Considerations for VMware Cloud Foundation with FlashArray",
+  "Summary": "",
+  "PublishDate": "2025-01-14T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/storage-snapshots-sap/": {
   "PostLink": {
    "Link": {
@@ -6840,7 +6855,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/troubles-with-get-mpiosetting-in-windows-server/",
-    "LastMod": "2025-01-03T14:43:38Z"
+    "LastMod": "2025-01-09T18:14:43Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6848,7 +6863,7 @@
   },
   "Title": "Troubleshooting Get-MPIOSetting in Windows Server",
   "Summary": "",
-  "PublishDate": "2018-03-23T00:00:00Z",
+  "PublishDate": "2024-03-23T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/true-business-value-running-sap-pure-storage/": {
