@@ -4496,7 +4496,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/oracle-database-flash-array-xr3/",
-    "LastMod": "2024-10-03T19:01:15Z"
+    "LastMod": "2025-01-16T08:33:09Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6486,6 +6486,21 @@
   "Title": "Why to Upgrade from SQL Server 2008",
   "Summary": "",
   "PublishDate": "2018-12-20T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/sql-server-distributed-availability-groups-and-kubernetes/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/sql-server-distributed-availability-groups-and-kubernetes/",
+    "LastMod": "2025-01-16T16:28:53Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sql-server-distributed-availability-groups-and-kubernetes"
+  },
+  "Title": "SQL Server Distributed Availability Groups and Kubernetes",
+  "Summary": "",
+  "PublishDate": "2025-01-16T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/sql-server-on-pure-storage-magic-initializing-replication-subscribers-with-snapshots-in-seconds/": {
