@@ -3303,15 +3303,15 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/io-plumbing-tests-with-fio/",
-    "LastMod": "2024-12-19T19:50:00Z"
+    "LastMod": "2025-01-16T18:51:34Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "io-plumbing-tests-with-fio"
   },
-  "Title": "IO Plumbing tests with FIO",
+  "Title": "IO Plumbing Tests with FIO",
   "Summary": "",
-  "PublishDate": "2016-08-14T00:00:00Z",
+  "PublishDate": "2024-08-14T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/iscsi-setup-with-flasharray/": {
@@ -6275,7 +6275,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/setting-up-san-boot-for-an-8-node-windows-server-cluster/",
-    "LastMod": "2025-01-03T15:49:23Z"
+    "LastMod": "2025-01-15T23:00:48Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6283,7 +6283,7 @@
   },
   "Title": "Setting up SAN boot for an 8-Node Windows Server Cluster",
   "Summary": "",
-  "PublishDate": "2015-02-24T00:00:00Z",
+  "PublishDate": "2024-02-24T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/setting-up-software-iscsi-multipathing-with-distributed-vswitches-with-the-vsphere-web-client/": {

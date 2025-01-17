@@ -78,6 +78,12 @@
       <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>IO Plumbing Tests with FIO</title>
+      <link>https://blog.purestorage.com/purely-technical/io-plumbing-tests-with-fio/</link>
+      <description></description>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>12 Reasons Why AI Readiness is the New Imperative</title>
       <link>https://blog.purestorage.com/purely-technical/ai-readiness-is-not-an-option/</link>
       <description></description>
@@ -184,6 +190,12 @@
       <link>https://blog.purestorage.com/purely-technical/updated-restoring-protection-group-volume-snapshots/</link>
       <description></description>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Setting up SAN boot for an 8-Node Windows Server Cluster</title>
+      <link>https://blog.purestorage.com/purely-technical/setting-up-san-boot-for-an-8-node-windows-server-cluster/</link>
+      <description></description>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Harnessing Static and Dynamic Code Scanning in DevSecOps</title>
@@ -553,13 +565,13 @@
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
+      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
+      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
@@ -2233,13 +2245,13 @@
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>
@@ -2476,12 +2488,6 @@
       <link>https://blog.purestorage.com/purely-technical/oracle-database-cloning-on-pure-flasharray-part-1/</link>
       <description></description>
       <pubDate>Sat, 20 Aug 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IO Plumbing tests with FIO</title>
-      <link>https://blog.purestorage.com/purely-technical/io-plumbing-tests-with-fio/</link>
-      <description></description>
-      <pubDate>Sun, 14 Aug 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Best Practice: Disable Disk Fragmentation Scheduled Task</title>
@@ -2860,12 +2866,6 @@
       <link>https://blog.purestorage.com/purely-technical/using-pure-storage-powershell-with-windows-server-2008-r2/</link>
       <description></description>
       <pubDate>Fri, 13 Mar 2015 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Setting up SAN boot for an 8-Node Windows Server Cluster</title>
-      <link>https://blog.purestorage.com/purely-technical/setting-up-san-boot-for-an-8-node-windows-server-cluster/</link>
-      <description></description>
-      <pubDate>Tue, 24 Feb 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Setup Replication Connections using PowerShell</title>
