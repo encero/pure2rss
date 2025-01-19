@@ -2663,7 +2663,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/hints-on-using-cinder-manage-with-openstack-newton-and-later/",
-    "LastMod": "2024-09-16T18:30:19Z"
+    "LastMod": "2025-01-16T07:02:40Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8171,7 +8171,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/windows-server-failover-clusters-disk-signatures-snapshots/",
-    "LastMod": "2025-01-03T15:45:17Z"
+    "LastMod": "2025-01-17T15:48:39Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8179,7 +8179,7 @@
   },
   "Title": "Windows Server Failover Clusters, Disk Signatures \u0026 Snapshots",
   "Summary": "",
-  "PublishDate": "2015-03-25T00:00:00Z",
+  "PublishDate": "2024-03-25T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/xcr4-technical/": {
