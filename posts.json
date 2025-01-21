@@ -2080,6 +2080,21 @@
   "PublishDate": "2015-03-25T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/evaluation-criteria-for-storage-array-apis/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/evaluation-criteria-for-storage-array-apis/",
+    "LastMod": "2025-01-21T14:48:06Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "evaluation-criteria-for-storage-array-apis"
+  },
+  "Title": "Clouds Require Automation: Evaluation Criteria for Judging Maturity of Storage Array (and other Infrastructure) APIs",
+  "Summary": "",
+  "PublishDate": "2015-03-25T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/evolve-your-data-center-with-new-32g-mds-fibre-channel-switches-from-cisco/": {
   "PostLink": {
    "Link": {
@@ -3318,7 +3333,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/iscsi-setup-with-flasharray/",
-    "LastMod": "2025-01-07T20:52:22Z"
+    "LastMod": "2025-01-21T13:42:12Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
