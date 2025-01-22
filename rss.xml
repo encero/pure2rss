@@ -6,6 +6,12 @@
     <pubDate>Thu, 03 Oct 2024 19:45:52 +0000</pubDate>
     <lastBuildDate>Thu, 03 Oct 2024 19:45:52 +0000</lastBuildDate>
     <item>
+      <title>Oracle ASM Filter Driver Filtering and 5.15 UEK7 Kernels</title>
+      <link>https://blog.purestorage.com/purely-technical/oracle-asm-filter-driver-filtering-and-5-15-uek7-kernels/</link>
+      <description></description>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>SQL Server Distributed Availability Groups and Kubernetes</title>
       <link>https://blog.purestorage.com/purely-technical/sql-server-distributed-availability-groups-and-kubernetes/</link>
       <description></description>
@@ -208,6 +214,12 @@
       <link>https://blog.purestorage.com/purely-technical/harnessing-static-and-dynamic-code-scanning-in-devsecops/</link>
       <description></description>
       <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Visualizing Prometheus Data with Grafana Dashboards for FlashBlade™</title>
+      <link>https://blog.purestorage.com/purely-technical/prometheus-grafana-dashboard-flashblade/</link>
+      <description></description>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Why IOPS Don’t Matter</title>
@@ -1226,12 +1238,6 @@
     <item>
       <title>SaaS Platform Development with Evergreen//One</title>
       <link>https://blog.purestorage.com/purely-technical/saas-platform-development/</link>
-      <description></description>
-      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Visualizing Prometheus Data with Grafana Dashboards for FlashBlade™</title>
-      <link>https://blog.purestorage.com/purely-technical/prometheus-grafana-dashboard-flashblade/</link>
       <description></description>
       <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
     </item>

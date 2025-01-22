@@ -1059,7 +1059,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/cisco-validated-design-veeam-and-flashstack/",
-    "LastMod": "2024-10-02T19:42:04Z"
+    "LastMod": "2025-01-21T17:10:16Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4454,6 +4454,21 @@
   "PublishDate": "2019-02-19T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/oracle-asm-filter-driver-filtering-and-5-15-uek7-kernels/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/oracle-asm-filter-driver-filtering-and-5-15-uek7-kernels/",
+    "LastMod": "2025-01-21T17:54:51Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "oracle-asm-filter-driver-filtering-and-5-15-uek7-kernels"
+  },
+  "Title": "Oracle ASM Filter Driver Filtering and 5.15 UEK7 Kernels",
+  "Summary": "",
+  "PublishDate": "2025-01-21T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/oracle-database-19c-on-oracle-direct-nfs-using-fa-file/": {
   "PostLink": {
    "Link": {
@@ -4780,7 +4795,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/prometheus-grafana-dashboard-flashblade/",
-    "LastMod": "2025-01-03T20:18:19Z"
+    "LastMod": "2025-01-21T20:53:34Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4788,7 +4803,7 @@
   },
   "Title": "Visualizing Prometheus Data with Grafana Dashboards for FlashBlade™",
   "Summary": "",
-  "PublishDate": "2020-01-23T00:00:00Z",
+  "PublishDate": "2024-01-23T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/protect-microsoft-365-with-pure-and-veeam/": {
@@ -7529,7 +7544,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/vm-performance-on-flash-part-2-thin-vs-thick-provisioning-does-it-matter/",
-    "LastMod": "2024-12-01T17:48:20Z"
+    "LastMod": "2025-01-21T18:07:09Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
