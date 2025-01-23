@@ -3251,7 +3251,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/intersight-assist-deployment-configuration/",
-    "LastMod": "2023-11-15T16:17:31Z"
+    "LastMod": "2025-01-21T17:19:06Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3260,10 +3260,22 @@
   "Title": "Getting Started with Cisco Intersight Assist Deployment Configuration",
   "Summary": "",
   "PublishDate": "2019-09-26T00:00:00Z",
-  "Tags": [
-   "Cisco",
-   "FlashStack Infrastructure"
-  ]
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/introducing-sql-server-2025-enterprise-ready-ai/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/introducing-sql-server-2025-enterprise-ready-ai/",
+    "LastMod": "2025-01-22T15:18:32Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "introducing-sql-server-2025-enterprise-ready-ai"
+  },
+  "Title": "Introducing SQL Server 2025 – Enterprise-ready AI",
+  "Summary": "",
+  "PublishDate": "2025-01-22T00:00:00Z",
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/introducing-vsphere-virtual-volumes-on-the-flasharray/": {
   "PostLink": {
@@ -5920,7 +5932,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/saas-platform-development/",
-    "LastMod": "2024-02-17T01:14:31Z"
+    "LastMod": "2025-01-16T08:10:23Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5929,10 +5941,7 @@
   "Title": "SaaS Platform Development with Evergreen//One",
   "Summary": "",
   "PublishDate": "2020-01-23T00:00:00Z",
-  "Tags": [
-   "Evergreen//One",
-   "Pure1 Storage Management"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/san-mode-enabling-veeams-fastest-transport-mode-configuration-on-flasharray/": {
   "PostLink": {
