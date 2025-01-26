@@ -6941,15 +6941,15 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/try-the-rest-api-using-a-rest-client/",
-    "LastMod": "2025-01-03T15:40:12Z"
+    "LastMod": "2025-01-22T19:01:14Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "try-the-rest-api-using-a-rest-client"
   },
-  "Title": "Try the REST API using a REST client",
+  "Title": "Try the REST API Using a REST Client",
   "Summary": "",
-  "PublishDate": "2015-04-22T00:00:00Z",
+  "PublishDate": "2024-04-22T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/turbo-charging-azure-pipelines-with-flasharray/": {
