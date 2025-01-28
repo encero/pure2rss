@@ -96,6 +96,12 @@
       <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Purity//FA comes with Offloaded Data Transfer (ODX)</title>
+      <link>https://blog.purestorage.com/purely-technical/purity-fa-comes-with-offloaded-data-transfer-odx/</link>
+      <description></description>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>12 Reasons Why AI Readiness is the New Imperative</title>
       <link>https://blog.purestorage.com/purely-technical/ai-readiness-is-not-an-option/</link>
       <description></description>
@@ -2224,12 +2230,6 @@
       <link>https://blog.purestorage.com/purely-technical/in-guest-unmap-enableblockdelete-and-vmfs-6/</link>
       <description></description>
       <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Purity//FA comes with Offloaded Data Transfer (ODX)</title>
-      <link>https://blog.purestorage.com/purely-technical/purity-fa-comes-with-offloaded-data-transfer-odx/</link>
-      <description></description>
-      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ODX with FlashArray: An Engineer’s Perspective</title>
