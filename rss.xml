@@ -366,6 +366,12 @@
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Super-Fast Backup and Restore Throughput for SQL Server</title>
+      <link>https://blog.purestorage.com/purely-technical/super-fast-backup-and-restore-sql-server/</link>
+      <description></description>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Role of Data Storage in Accelerating Time to Insights</title>
       <link>https://blog.purestorage.com/purely-technical/the-role-of-data-storage-in-accelerating-time-to-insights/</link>
       <description></description>
@@ -838,12 +844,6 @@
       <link>https://blog.purestorage.com/purely-technical/tools-used-and-lessons-learned-in-pures-python-3-upgrade/</link>
       <description></description>
       <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Super-Fast Backup and Restore Throughput for SQL Server</title>
-      <link>https://blog.purestorage.com/purely-technical/super-fast-backup-and-restore-sql-server/</link>
-      <description></description>
-      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New Solutions for Cloud Migration, Disaster Recovery, and More</title>
@@ -2275,13 +2275,13 @@
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>

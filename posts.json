@@ -6664,7 +6664,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/super-fast-backup-and-restore-sql-server/",
-    "LastMod": "2025-01-03T17:06:25Z"
+    "LastMod": "2025-01-31T16:23:14Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6672,7 +6672,7 @@
   },
   "Title": "Super-Fast Backup and Restore Throughput for SQL Server",
   "Summary": "",
-  "PublishDate": "2021-10-17T00:00:00Z",
+  "PublishDate": "2023-10-17T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/supercharge-your-data-heroes-with-rapids-open-source-nvidia-pure-datahub/": {
