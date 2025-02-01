@@ -3574,7 +3574,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/listing-67-billion-objects-in-1-bucket/",
-    "LastMod": "2024-08-10T19:49:08Z"
+    "LastMod": "2025-01-31T19:24:52Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4362,7 +4362,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/on-benchmarking-database-storage/",
-    "LastMod": "2025-01-03T17:46:59Z"
+    "LastMod": "2025-01-31T20:49:55Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4370,14 +4370,14 @@
   },
   "Title": "Benchmarking Database Storage",
   "Summary": "",
-  "PublishDate": "2013-04-30T00:00:00Z",
+  "PublishDate": "2024-04-30T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/on-premises-storage-and-aws-outposts/": {
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/on-premises-storage-and-aws-outposts/",
-    "LastMod": "2025-01-03T20:11:55Z"
+    "LastMod": "2025-01-30T20:53:27Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4385,7 +4385,7 @@
   },
   "Title": "Pairing On-premises Storage with AWS Outposts for AI ",
   "Summary": "",
-  "PublishDate": "2020-10-15T00:00:00Z",
+  "PublishDate": "2023-10-15T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/online-resizing-of-oracle-volumes-on-pure-flasharray/": {
@@ -6717,7 +6717,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/technically-speaking-on-pure-fusion/",
-    "LastMod": "2025-01-13T16:34:26Z"
+    "LastMod": "2025-02-01T16:29:43Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
