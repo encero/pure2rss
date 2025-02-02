@@ -5195,7 +5195,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-smi-s-provider-overview/",
-    "LastMod": "2025-01-03T15:23:44Z"
+    "LastMod": "2025-01-31T18:06:00Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5203,7 +5203,7 @@
   },
   "Title": "Pure Storage SMI-S Provider Overview",
   "Summary": "",
-  "PublishDate": "2015-12-22T00:00:00Z",
+  "PublishDate": "2023-12-22T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/pure-storage-snapshots-with-sql-server-availability-groups/": {
