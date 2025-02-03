@@ -1420,7 +1420,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/creating-volumes-from-protection-group-sources/",
-    "LastMod": "2025-01-03T14:52:48Z"
+    "LastMod": "2025-01-31T18:25:04Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1428,7 +1428,7 @@
   },
   "Title": "Creating Volumes from Protection Group Sources",
   "Summary": "",
-  "PublishDate": "2017-10-20T00:00:00Z",
+  "PublishDate": "2023-10-20T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/csi-volume-resizing-and-elasticsearch/": {
@@ -2614,7 +2614,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/getting-started-with-the-pure-storage-python-toolkit/",
-    "LastMod": "2025-01-03T15:33:48Z"
+    "LastMod": "2025-01-31T17:22:13Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2622,7 +2622,7 @@
   },
   "Title": "Getting Started with the Pure Storage Python Toolkit",
   "Summary": "",
-  "PublishDate": "2015-07-22T00:00:00Z",
+  "PublishDate": "2024-07-22T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/getting-started-with-vrealize-orchestrator-and-vvols/": {
@@ -2678,7 +2678,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/hints-on-using-cinder-manage-with-openstack-newton-and-later/",
-    "LastMod": "2025-01-16T07:02:40Z"
+    "LastMod": "2025-02-02T16:55:09Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5163,7 +5163,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-rest-api-windows-powershell/",
-    "LastMod": "2025-01-03T15:59:34Z"
+    "LastMod": "2025-01-31T16:54:29Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5171,7 +5171,7 @@
   },
   "Title": "Pure Storage REST API + Windows PowerShell",
   "Summary": "",
-  "PublishDate": "2014-06-28T00:00:00Z",
+  "PublishDate": "2024-06-28T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/pure-storage-rest-client-and-python-library/": {

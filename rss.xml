@@ -102,6 +102,12 @@
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Getting Started with the Pure Storage Python Toolkit</title>
+      <link>https://blog.purestorage.com/purely-technical/getting-started-with-the-pure-storage-python-toolkit/</link>
+      <description></description>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>12 Reasons Why AI Readiness is the New Imperative</title>
       <link>https://blog.purestorage.com/purely-technical/ai-readiness-is-not-an-option/</link>
       <description></description>
@@ -112,6 +118,12 @@
       <link>https://blog.purestorage.com/purely-technical/top-9-considerations-for-enterprise-ai/</link>
       <description></description>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pure Storage REST API + Windows PowerShell</title>
+      <link>https://blog.purestorage.com/purely-technical/pure-storage-rest-api-windows-powershell/</link>
+      <description></description>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>iSCSI Setup with FlashArray</title>
@@ -376,6 +388,12 @@
       <link>https://blog.purestorage.com/purely-technical/how-to-build-a-langchain-chatbot-with-pure-storage/</link>
       <description></description>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Creating Volumes from Protection Group Sources</title>
+      <link>https://blog.purestorage.com/purely-technical/creating-volumes-from-protection-group-sources/</link>
+      <description></description>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Super-Fast Backup and Restore Throughput for SQL Server</title>
@@ -2166,12 +2184,6 @@
       <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Creating Volumes from Protection Group Sources</title>
-      <link>https://blog.purestorage.com/purely-technical/creating-volumes-from-protection-group-sources/</link>
-      <description></description>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Creating Volumes from Protection Group Sources (Part 1)</title>
       <link>https://blog.purestorage.com/purely-technical/creating-volumes-from-protection-group-sources-part-1/</link>
       <description></description>
@@ -2772,12 +2784,6 @@
       <pubDate>Fri, 24 Jul 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Getting Started with the Pure Storage Python Toolkit</title>
-      <link>https://blog.purestorage.com/purely-technical/getting-started-with-the-pure-storage-python-toolkit/</link>
-      <description></description>
-      <pubDate>Wed, 22 Jul 2015 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>What’s wrong with using 100% non-reducible data?</title>
       <link>https://blog.purestorage.com/purely-technical/whats-wrong-with-using-100-non-reducible-data/</link>
       <description></description>
@@ -2938,12 +2944,6 @@
       <link>https://blog.purestorage.com/purely-technical/all-flash-arrays-the-new-tier-1-in-storage/</link>
       <description></description>
       <pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pure Storage REST API + Windows PowerShell</title>
-      <link>https://blog.purestorage.com/purely-technical/pure-storage-rest-api-windows-powershell/</link>
-      <description></description>
-      <pubDate>Sat, 28 Jun 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pure Storage REST API + Windows PowerShell (Part 1)</title>
