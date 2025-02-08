@@ -84,6 +84,12 @@
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Calculating Block Size Using the Powershell SDK</title>
+      <link>https://blog.purestorage.com/purely-technical/calculating-block-size-using-the-powershell-sdk/</link>
+      <description></description>
+      <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>RMAN Backups Using Mount Host on Pure FlashArray</title>
       <link>https://blog.purestorage.com/purely-technical/rman-backups-using-mount-host-on-flasharray/</link>
       <description></description>
@@ -100,6 +106,12 @@
       <link>https://blog.purestorage.com/purely-technical/purity-fa-comes-with-offloaded-data-transfer-odx/</link>
       <description></description>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pure PowerShell SDK: Find All Disconnected Volumes</title>
+      <link>https://blog.purestorage.com/purely-technical/find-all-disconnected-volumes/</link>
+      <description></description>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Getting Started with the Pure Storage Python Toolkit</title>
@@ -2299,13 +2311,13 @@
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>
@@ -2568,12 +2580,6 @@
       <pubDate>Tue, 26 Jul 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pure PowerShell SDK: Find All Disconnected Volumes</title>
-      <link>https://blog.purestorage.com/purely-technical/find-all-disconnected-volumes/</link>
-      <description></description>
-      <pubDate>Tue, 26 Jul 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>vRealize Orchestrator, TLS 1.2, and Certificate Importing</title>
       <link>https://blog.purestorage.com/purely-technical/vrealize-orchestrator-tls-1-2-and-certificate-importing/</link>
       <description></description>
@@ -2760,12 +2766,6 @@
       <pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Calculating Block Size Using the Powershell SDK</title>
-      <link>https://blog.purestorage.com/purely-technical/calculating-block-size-using-the-powershell-sdk/</link>
-      <description></description>
-      <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Pure Storage Non-Disruptive Upgrades: A Technical Deep-dive</title>
       <link>https://blog.purestorage.com/purely-technical/ndu/</link>
       <description></description>
@@ -2869,13 +2869,13 @@
     </item>
     <item>
       <title>Clouds Require Automation: Evaluation Criteria for Judging Maturity of Storage Array (and other Infrastructure) APIs</title>
-      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-apis/</link>
+      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-storage-array-apis/</link>
       <description></description>
       <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Clouds Require Automation: Evaluation Criteria for Judging Maturity of Storage Array (and other Infrastructure) APIs</title>
-      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-storage-array-apis/</link>
+      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-apis/</link>
       <description></description>
       <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
     </item>

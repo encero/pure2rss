@@ -995,7 +995,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/calculating-block-size-using-the-powershell-sdk/",
-    "LastMod": "2025-01-03T15:28:23Z"
+    "LastMod": "2025-01-31T17:37:00Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1003,7 +1003,7 @@
   },
   "Title": "Calculating Block Size Using the Powershell SDK",
   "Summary": "",
-  "PublishDate": "2015-08-22T00:00:00Z",
+  "PublishDate": "2024-08-22T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/check-provisioning-type-of-a-windows-server-volume/": {
@@ -2252,7 +2252,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/find-all-disconnected-volumes/",
-    "LastMod": "2025-01-03T16:32:15Z"
+    "LastMod": "2025-01-31T16:38:43Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2260,7 +2260,7 @@
   },
   "Title": "Pure PowerShell SDK: Find All Disconnected Volumes",
   "Summary": "",
-  "PublishDate": "2016-07-26T00:00:00Z",
+  "PublishDate": "2024-07-26T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/fio-plumbing-test/": {
@@ -5058,7 +5058,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-powershell-ise-add-on/",
-    "LastMod": "2024-08-30T15:54:42Z"
+    "LastMod": "2025-01-03T16:24:48Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6894,7 +6894,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/transforming-to-nvme-the-evergreen-way/",
-    "LastMod": "2024-11-26T19:17:49Z"
+    "LastMod": "2025-02-03T14:47:05Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
