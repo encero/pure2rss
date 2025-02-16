@@ -4470,7 +4470,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/oracle-asm-filter-driver-filtering-and-5-15-uek7-kernels/",
-    "LastMod": "2025-01-21T17:54:51Z"
+    "LastMod": "2025-02-16T07:27:14Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6531,7 +6531,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sql-server-distributed-availability-groups-and-kubernetes/",
-    "LastMod": "2025-01-16T16:28:53Z"
+    "LastMod": "2025-02-16T07:29:37Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7343,6 +7343,21 @@
   "Title": "Using T-SQL Snapshot Backup: Are Snapshots Backups?",
   "Summary": "",
   "PublishDate": "2024-09-30T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-multi-array-database-snapshots/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-multi-array-database-snapshots/",
+    "LastMod": "2025-02-16T06:53:58Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "using-t-sql-snapshot-backup-multi-array-database-snapshots"
+  },
+  "Title": "Using T-SQL Snapshot Backup: Multi-array Database Snapshots",
+  "Summary": "",
+  "PublishDate": "2025-02-14T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-point-in-time-recovery-azure-edition/": {
