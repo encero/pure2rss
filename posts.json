@@ -1624,22 +1624,16 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/decrease-recovery-time-for-microsoft-sql-server-disasters-with-pure-cloud-block-store-in-microsoft-azure/",
-    "LastMod": "2024-04-26T01:35:27Z"
+    "LastMod": "2025-02-24T20:14:08Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "decrease-recovery-time-for-microsoft-sql-server-disasters-with-pure-cloud-block-store-in-microsoft-azure"
   },
-  "Title": "Decrease Recovery Time for Microsoft SQL Server Disasters with Pure Cloud Block Store in Microsoft Azure",
+  "Title": "Decrease Recovery Time for SQL Server Disasters with Pure Cloud Block Store in Azure",
   "Summary": "",
   "PublishDate": "2022-11-22T00:00:00Z",
-  "Tags": [
-   "Azure",
-   "Cloud Block Storage",
-   "Microsoft",
-   "Pure Cloud Block Store",
-   "SQL Server"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/deduplication-compression-and-sql-server-databases-part-1/": {
   "PostLink": {
@@ -2693,7 +2687,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-snapshot-consolidation-with-fan-in-replication-can-simplify-your-life/",
-    "LastMod": "2024-12-11T21:47:32Z"
+    "LastMod": "2025-02-24T18:55:37Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5262,7 +5256,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-data-protection-assessment-tool/",
-    "LastMod": "2024-12-12T17:48:53Z"
+    "LastMod": "2025-02-24T17:21:34Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
