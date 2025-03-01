@@ -6,6 +6,12 @@
     <pubDate>Thu, 03 Oct 2024 19:45:52 +0000</pubDate>
     <lastBuildDate>Thu, 03 Oct 2024 19:45:52 +0000</lastBuildDate>
     <item>
+      <title>Rapidly Recovering from SQL Server Data Mishaps with FlashArray Snapshots</title>
+      <link>https://blog.purestorage.com/purely-technical/rapidly-recovering-from-sql-server-data-mishaps-with-flasharray-snapshots/</link>
+      <description></description>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Hyper-V: Cluster Shared Volumes, SQL Server, and FlashArray Snapshots</title>
       <link>https://blog.purestorage.com/purely-technical/hyper-v-cluster-shared-volumes-sql-server-and-flasharray-snapshots/</link>
       <description></description>
@@ -2323,13 +2329,13 @@
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>
