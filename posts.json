@@ -2657,7 +2657,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/harnessing-static-and-dynamic-code-scanning-in-devsecops/",
-    "LastMod": "2025-01-10T19:34:00Z"
+    "LastMod": "2025-03-04T14:49:51Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3005,7 +3005,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/hyper-v-cluster-shared-volumes-sql-server-and-flasharray-snapshots/",
-    "LastMod": "2025-02-26T21:23:20Z"
+    "LastMod": "2025-03-04T14:57:49Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3275,7 +3275,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/introducing-sql-server-2025-enterprise-ready-ai/",
-    "LastMod": "2025-01-22T15:18:32Z"
+    "LastMod": "2025-03-02T20:25:38Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4479,7 +4479,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/oracle-asm-filter-driver-filtering-and-5-15-uek7-kernels/",
-    "LastMod": "2025-02-16T07:27:14Z"
+    "LastMod": "2025-03-02T20:31:37Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4494,7 +4494,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/oracle-database-19c-on-oracle-direct-nfs-using-fa-file/",
-    "LastMod": "2024-12-11T20:17:37Z"
+    "LastMod": "2025-03-04T14:44:34Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5364,7 +5364,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/purity-fa-comes-with-offloaded-data-transfer-odx/",
-    "LastMod": "2025-01-27T20:57:27Z"
+    "LastMod": "2025-03-03T17:24:47Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5509,7 +5509,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/rapidly-recovering-from-sql-server-data-mishaps-with-flasharray-snapshots/",
-    "LastMod": "2025-02-28T18:12:39Z"
+    "LastMod": "2025-03-03T04:07:10Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6673,7 +6673,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/",
-    "LastMod": "2025-03-01T16:01:37Z"
+    "LastMod": "2025-03-03T05:26:50Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7186,7 +7186,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/upgrade-your-own-flasharray-with-pure1/",
-    "LastMod": "2025-03-01T16:07:27Z"
+    "LastMod": "2025-03-03T17:25:25Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7358,7 +7358,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-are-snapshots-backups/",
-    "LastMod": "2024-12-11T17:58:48Z"
+    "LastMod": "2025-03-03T17:48:20Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7373,7 +7373,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-multi-array-database-snapshots/",
-    "LastMod": "2025-02-26T16:19:37Z"
+    "LastMod": "2025-03-03T17:48:00Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
