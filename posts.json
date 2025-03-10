@@ -1761,7 +1761,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/",
-    "LastMod": "2024-07-10T04:17:32Z"
+    "LastMod": "2025-03-07T19:59:45Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3319,6 +3319,21 @@
    "Pure Cloud Block Store",
    "VMware"
   ]
+ },
+ "https://blog.purestorage.com/purely-technical/introduction-to-pure-storage-flasharray-with-vmware-cloud-foundation/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/introduction-to-pure-storage-flasharray-with-vmware-cloud-foundation/",
+    "LastMod": "2025-03-07T18:34:34Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "introduction-to-pure-storage-flasharray-with-vmware-cloud-foundation"
+  },
+  "Title": "Introduction to Pure Storage FlashArray with VMware Cloud Foundation",
+  "Summary": "",
+  "PublishDate": "2024-11-13T00:00:00Z",
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/introductory-monitoring-stack-with-prometheus-and-grafana/": {
   "PostLink": {
