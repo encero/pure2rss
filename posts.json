@@ -1059,7 +1059,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/cisco-validated-design-veeam-and-flashstack/",
-    "LastMod": "2025-03-03T16:19:13Z"
+    "LastMod": "2025-03-11T21:31:08Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1524,7 +1524,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/data-mobility-for-hpc-and-eda-workloads-from-on-premises-to-azure-cloud/",
-    "LastMod": "2024-11-05T18:26:36Z"
+    "LastMod": "2025-03-11T12:26:41Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4174,7 +4174,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/new-solutions-for-cloud-migration-disaster-recovery-and-more/",
-    "LastMod": "2024-09-16T16:04:17Z"
+    "LastMod": "2025-03-11T18:40:53Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7602,6 +7602,21 @@
    "Virtualization",
    "VMware"
   ]
+ },
+ "https://blog.purestorage.com/purely-technical/visualising-sql-server-in-kubernetes/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/visualising-sql-server-in-kubernetes/",
+    "LastMod": "2025-03-12T15:35:58Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "visualising-sql-server-in-kubernetes"
+  },
+  "Title": "Visualising SQL Server in Kubernetes",
+  "Summary": "",
+  "PublishDate": "2025-03-10T00:00:00Z",
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/vm-performance-on-flash-part-2-thin-vs-thick-provisioning-does-it-matter/": {
   "PostLink": {
