@@ -6477,14 +6477,14 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/simplify-kafka-at-scale-with-confluent-tiered-storage/",
-    "LastMod": "2024-08-21T23:12:33Z"
+    "LastMod": "2025-03-11T18:46:47Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "simplify-kafka-at-scale-with-confluent-tiered-storage"
   },
   "Title": "How to Simplify Kafka at Scale with Confluent Tiered Storage",
-  "Summary": "Kafka provides a cornerstone functionality for any data pipeline: the ability to reliably pass data from one service or place to another. Kafka brings the advantages of microservice architectures to data engineering and data science projects. Additionally, the use cases for Kafka as a permanent data store continue to grow. But putting more data in a Kafka cluster results in operational challenges.",
+  "Summary": "",
   "PublishDate": "2023-04-22T00:00:00Z",
   "Tags": []
  },
@@ -7186,7 +7186,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/upgrade-to-purity-fa-6-5-0-yourself-through-pure1/",
-    "LastMod": "2024-12-18T15:50:47Z"
+    "LastMod": "2025-03-14T15:06:03Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
