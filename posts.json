@@ -451,7 +451,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/anomalous-drops-in-data-reduction-ratios/",
-    "LastMod": "2025-03-01T16:01:08Z"
+    "LastMod": "2025-03-24T14:32:50Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2015,7 +2015,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/enhanced-security-and-organization-management-with-single-sign-on-in-pure1/",
-    "LastMod": "2024-12-11T21:03:59Z"
+    "LastMod": "2025-03-24T14:36:20Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5301,7 +5301,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-data-protection-assessment-tool/",
-    "LastMod": "2025-03-01T16:00:54Z"
+    "LastMod": "2025-03-24T14:27:46Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6596,6 +6596,21 @@
   "PublishDate": "2025-01-16T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/sql-server-distributed-availability-groups-and-portworx/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/sql-server-distributed-availability-groups-and-portworx/",
+    "LastMod": "2025-03-24T17:59:45Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sql-server-distributed-availability-groups-and-portworx"
+  },
+  "Title": "SQL Server Distributed Availability Groups and Portworx",
+  "Summary": "",
+  "PublishDate": "2025-03-24T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/sql-server-on-pure-storage-magic-initializing-replication-subscribers-with-snapshots-in-seconds/": {
   "PostLink": {
    "Link": {
@@ -6771,7 +6786,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/technically-speaking-on-pure-fusion/",
-    "LastMod": "2025-03-03T04:51:27Z"
+    "LastMod": "2025-03-24T23:47:05Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
