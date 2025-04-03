@@ -1639,7 +1639,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/decrease-recovery-time-for-microsoft-sql-server-disasters-with-pure-cloud-block-store-in-microsoft-azure/",
-    "LastMod": "2025-02-24T20:14:08Z"
+    "LastMod": "2025-04-02T19:24:14Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5361,7 +5361,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-rest-api-part-3/",
-    "LastMod": "2025-01-13T17:16:23Z"
+    "LastMod": "2025-03-24T23:59:17Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5424,7 +5424,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/purity-migrate-s-4hana-migration-from-dellemc-powermax-to-pure-storage-flasharray-x/",
-    "LastMod": "2024-10-03T20:45:53Z"
+    "LastMod": "2025-03-26T18:15:34Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6570,7 +6570,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/speed-up-continuous-cd-pipeline/",
-    "LastMod": "2024-10-03T21:04:45Z"
+    "LastMod": "2025-03-26T17:48:46Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6733,7 +6733,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/",
-    "LastMod": "2025-03-03T05:26:50Z"
+    "LastMod": "2025-04-02T19:18:46Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7201,7 +7201,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/updated-restoring-protection-group-volume-snapshots/",
-    "LastMod": "2025-01-09T20:56:30Z"
+    "LastMod": "2025-03-26T19:15:58Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
