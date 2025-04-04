@@ -840,6 +840,12 @@
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Spark’s Missing Parallelism: Loading Large Datasets</title>
+      <link>https://blog.purestorage.com/purely-technical/sparks-missing-parallelism-loading-large-datasets/</link>
+      <description></description>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How to Improve Data Loading for Pandas on S3</title>
       <link>https://blog.purestorage.com/purely-technical/faster-data-loading-for-pandas-on-s3/</link>
       <description></description>
@@ -1710,7 +1716,7 @@
       <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Benefits of running Cassandra on FlashArray with DirectFlash Fabric</title>
+      <title>Benefits of Running Cassandra on FlashArray with DirectFlash Fabric</title>
       <link>https://blog.purestorage.com/purely-technical/benefits-of-running-cassandra-on-flasharray-with-directflash-fabric/</link>
       <description></description>
       <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>

@@ -358,7 +358,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/ai-readiness-is-not-an-option/",
-    "LastMod": "2024-09-19T16:39:20Z"
+    "LastMod": "2025-03-25T22:10:50Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -496,7 +496,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/apache-cassandra-rapid-node-replacement-using-snapshots/",
-    "LastMod": "2024-10-03T21:15:31Z"
+    "LastMod": "2025-03-26T17:23:21Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -812,13 +812,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/benefits-of-running-cassandra-on-flasharray-with-directflash-fabric/",
-    "LastMod": "2024-10-03T18:51:22Z"
+    "LastMod": "2025-03-26T16:13:52Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "benefits-of-running-cassandra-on-flasharray-with-directflash-fabric"
   },
-  "Title": "Benefits of running Cassandra on FlashArray with DirectFlash Fabric",
+  "Title": "Benefits of Running Cassandra on FlashArray with DirectFlash Fabric",
   "Summary": "",
   "PublishDate": "2019-02-19T00:00:00Z",
   "Tags": []
@@ -1341,7 +1341,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/copying-apache-vcassandra-cluster-running-on-vmfs-datastore-pure-storage-flasharray-x-snapshots/",
-    "LastMod": "2024-10-06T18:04:24Z"
+    "LastMod": "2025-03-26T17:29:05Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4913,7 +4913,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/protecting-your-vms-with-the-pure-storage-vsphere-plugin-replication-manager/",
-    "LastMod": "2025-01-08T21:17:56Z"
+    "LastMod": "2025-03-26T19:52:03Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6183,7 +6183,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sap-hana-pure-directmemory-cache/",
-    "LastMod": "2024-10-03T21:24:52Z"
+    "LastMod": "2025-03-26T17:11:36Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6564,6 +6564,21 @@
   "Title": "How to Solve One of the Biggest Data Protection Challenges",
   "Summary": "",
   "PublishDate": "2020-07-20T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/sparks-missing-parallelism-loading-large-datasets/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/sparks-missing-parallelism-loading-large-datasets/",
+    "LastMod": "2025-04-02T21:36:29Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sparks-missing-parallelism-loading-large-datasets"
+  },
+  "Title": "Spark’s Missing Parallelism: Loading Large Datasets",
+  "Summary": "",
+  "PublishDate": "2022-05-25T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/speed-up-continuous-cd-pipeline/": {
