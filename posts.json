@@ -2524,6 +2524,21 @@
   "PublishDate": "2016-06-29T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/from-storage-to-stream-a-comparison-of-leader-election-in-portworx-kafka-and-raft/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/from-storage-to-stream-a-comparison-of-leader-election-in-portworx-kafka-and-raft/",
+    "LastMod": "2025-04-16T14:33:15Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "from-storage-to-stream-a-comparison-of-leader-election-in-portworx-kafka-and-raft"
+  },
+  "Title": "From Storage to Stream: A Comparison of Leader Election in Portworx, Kafka, and Raft",
+  "Summary": "",
+  "PublishDate": "2025-04-16T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/generating-the-default-vvol-storage-container-id/": {
   "PostLink": {
    "Link": {
@@ -6570,7 +6585,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sparks-missing-parallelism-loading-large-datasets/",
-    "LastMod": "2025-04-02T21:36:29Z"
+    "LastMod": "2025-04-14T17:40:24Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
