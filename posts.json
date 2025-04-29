@@ -33,7 +33,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/4-common-issues-with-mysql-how-to-solve/",
-    "LastMod": "2024-09-30T10:44:38Z"
+    "LastMod": "2025-04-28T19:33:05Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -110,7 +110,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/accelerate-mysql-read-scale-with-directmemory-cache/",
-    "LastMod": "2024-10-03T20:32:25Z"
+    "LastMod": "2025-04-28T19:32:15Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -558,7 +558,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/application-consistent-sql-server-backup-and-recovery-with-vvols/",
-    "LastMod": "2024-02-17T00:35:33Z"
+    "LastMod": "2025-04-28T19:31:12Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -567,11 +567,7 @@
   "Title": "Application-Consistent SQL Server Backup and Recovery with vVols",
   "Summary": "",
   "PublishDate": "2022-01-14T00:00:00Z",
-  "Tags": [
-   "Data Backup and Recovery",
-   "SQL Server",
-   "vVols"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/architecting-apache-cassandra-cluster-on-cloud-block-storeaws/": {
   "PostLink": {
@@ -645,7 +641,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/attach-detach-sql-server-databases-with-powershell/",
-    "LastMod": "2025-01-03T14:33:33Z"
+    "LastMod": "2025-04-28T17:25:32Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1907,7 +1903,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/eliminate-mysql-and-mariadb-replication-time-to-availability/",
-    "LastMod": "2024-10-03T21:21:10Z"
+    "LastMod": "2025-04-28T19:32:49Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2159,7 +2155,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/extend-sql-server-resilience-with-a-pure-validated-design/",
-    "LastMod": "2024-02-17T00:51:06Z"
+    "LastMod": "2025-04-28T19:34:51Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2168,13 +2164,7 @@
   "Title": "Extend SQL Server Resilience with a Pure Validated Design",
   "Summary": "",
   "PublishDate": "2021-03-18T00:00:00Z",
-  "Tags": [
-   "FlashArray//C",
-   "FlashArray//X NVMe",
-   "Pure Cloud Block Store",
-   "Pure Validated Design",
-   "SQL Server"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/extending-root-volume-on-lvm-on-pure-flasharray/": {
   "PostLink": {
@@ -3050,7 +3040,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/hyper-v-cluster-shared-volumes-sql-server-and-flasharray-snapshots/",
-    "LastMod": "2025-03-04T14:57:49Z"
+    "LastMod": "2025-04-28T19:21:41Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3112,7 +3102,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/improve-open-source-database-operations-with-aws-outposts-by-4x/",
-    "LastMod": "2024-09-30T00:29:08Z"
+    "LastMod": "2025-04-28T17:29:53Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5294,7 +5284,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-snapshots-with-sql-server-availability-groups/",
-    "LastMod": "2024-04-26T01:49:03Z"
+    "LastMod": "2025-04-28T19:35:41Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5303,12 +5293,7 @@
   "Title": "Pure Storage Snapshots with SQL Server Availability Groups",
   "Summary": "",
   "PublishDate": "2019-07-23T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe",
-   "Microsoft",
-   "Pure1 Storage Management",
-   "SQL Server"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/pure-storages-take-on-server-flash-caching/": {
   "PostLink": {
@@ -5547,7 +5532,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/rapid-postgresql-backup-and-recovery-with-pgbackrest-and-flashblade/",
-    "LastMod": "2024-02-17T00:35:37Z"
+    "LastMod": "2025-04-28T19:31:23Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5556,10 +5541,7 @@
   "Title": "Rapid PostgreSQL Backup and Recovery with pgBackRest and FlashBlade",
   "Summary": "",
   "PublishDate": "2022-01-12T00:00:00Z",
-  "Tags": [
-   "Data Backup and Recovery",
-   "FlashBlade Object Storage"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/rapid-restore-of-vmware-with-veeam-and-flasharray-c/": {
   "PostLink": {
@@ -5781,7 +5763,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/restore-sql-server-data-faster-ssms-extension/",
-    "LastMod": "2024-04-26T01:43:27Z"
+    "LastMod": "2025-04-28T19:34:59Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5790,12 +5772,7 @@
   "Title": "Restore SQL Server Data Faster with Pure’s SSMS Extension",
   "Summary": "",
   "PublishDate": "2020-12-11T00:00:00Z",
-  "Tags": [
-   "Data Backup and Recovery",
-   "FlashArray//X NVMe",
-   "Microsoft",
-   "SQL Server"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/retrieving-lun-serial-numbers-with-windows-powershell/": {
   "PostLink": {
@@ -6630,7 +6607,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sql-server-2008-upgrade-new-years-resolutions-with-all-flash-storage/",
-    "LastMod": "2022-11-26T01:31:02Z"
+    "LastMod": "2025-04-28T19:36:07Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6675,7 +6652,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sql-server-on-pure-storage-magic-initializing-replication-subscribers-with-snapshots-in-seconds/",
-    "LastMod": "2024-02-16T19:27:21Z"
+    "LastMod": "2025-04-28T19:36:36Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6684,12 +6661,7 @@
   "Title": "SQL Server on Pure: Initializing Replication Subscribers With Snapshots… In Seconds!",
   "Summary": "",
   "PublishDate": "2015-07-24T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe",
-   "SQL Server",
-   "Virtualization",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/sqreamdb-on-flashblade-s/": {
   "PostLink": {
@@ -6793,7 +6765,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/super-fast-backup-and-restore-sql-server/",
-    "LastMod": "2025-01-31T16:23:14Z"
+    "LastMod": "2025-04-28T19:23:39Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7070,7 +7042,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/try-the-rest-api-using-a-rest-client/",
-    "LastMod": "2025-01-22T19:01:14Z"
+    "LastMod": "2025-04-29T15:20:27Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7463,7 +7435,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-are-snapshots-backups/",
-    "LastMod": "2025-03-03T17:48:20Z"
+    "LastMod": "2025-04-28T19:22:28Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7478,7 +7450,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-multi-array-database-snapshots/",
-    "LastMod": "2025-03-29T16:32:34Z"
+    "LastMod": "2025-04-28T17:22:02Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7493,7 +7465,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-point-in-time-recovery-azure-edition/",
-    "LastMod": "2024-12-11T18:12:05Z"
+    "LastMod": "2025-04-28T19:23:25Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7508,7 +7480,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-point-in-time-recovery/",
-    "LastMod": "2024-12-11T18:10:53Z"
+    "LastMod": "2025-04-28T19:23:16Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8115,7 +8087,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/vvols-a-whole-new-world-for-sql-server-virtualization/",
-    "LastMod": "2022-08-26T15:35:53Z"
+    "LastMod": "2025-04-28T19:38:35Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8124,10 +8096,7 @@
   "Title": "VVols: A Whole New World for SQL Server Virtualization",
   "Summary": "",
   "PublishDate": "2017-12-12T00:00:00Z",
-  "Tags": [
-   "Virtualization",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/wait-can-apps-benefit-nvme-today/": {
   "PostLink": {
