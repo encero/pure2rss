@@ -1254,7 +1254,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/consolidate-oracle-workloads-with-flasharray-xl/",
-    "LastMod": "2024-10-03T18:35:11Z"
+    "LastMod": "2025-04-29T16:46:12Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3310,7 +3310,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/introducing-sql-server-2025-enterprise-ready-ai/",
-    "LastMod": "2025-03-02T20:25:38Z"
+    "LastMod": "2025-04-29T15:38:39Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4076,7 +4076,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/near-zero-rpo-with-activedr-and-microsoft-sql-server/",
-    "LastMod": "2024-04-26T01:44:55Z"
+    "LastMod": "2025-04-28T19:35:09Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4085,12 +4085,7 @@
   "Title": "Near-zero RPO with ActiveDR and Microsoft SQL Server",
   "Summary": "",
   "PublishDate": "2020-10-23T00:00:00Z",
-  "Tags": [
-   "Microsoft",
-   "Purity Data Services",
-   "SQL Server",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/new-flashstack-for-microsoft-exchange-server-2013/": {
   "PostLink": {
@@ -5361,7 +5356,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-rest-api-part-2/",
-    "LastMod": "2025-03-24T23:53:40Z"
+    "LastMod": "2025-04-29T15:28:26Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5948,7 +5943,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/running-oracle-database-19c-on-kubernetes-with-portworx/",
-    "LastMod": "2024-08-30T16:26:39Z"
+    "LastMod": "2025-04-28T17:30:14Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7684,7 +7679,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/vm-performance-on-flash-part-2-thin-vs-thick-provisioning-does-it-matter/",
-    "LastMod": "2025-03-25T21:07:33Z"
+    "LastMod": "2025-04-29T16:53:52Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
