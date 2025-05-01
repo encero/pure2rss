@@ -126,7 +126,7 @@
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>SAP HANA on Pure Storage FlashArray File</title>
+      <title>How to Install SAP HANA on Pure Storage FlashArray File</title>
       <link>https://blog.purestorage.com/purely-technical/sap-hana-on-pure-storage-flasharray-file/</link>
       <description></description>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
@@ -702,7 +702,7 @@
       <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>FlashArray Delivers NVMe/TCP in Move Toward Cloud Operating Model</title>
+      <title>FlashArray with NVMe/TCP: The Performance Advantage of Pure Storage</title>
       <link>https://blog.purestorage.com/purely-technical/flasharray-extends-nvme-of-support-to-tcp/</link>
       <description></description>
       <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
@@ -721,13 +721,13 @@
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
+      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
+      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
@@ -1260,7 +1260,7 @@
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Save Time (and Sanity) with Storage Snapshots on SAP</title>
+      <title>How to Save Your Time (and Sanity) with Storage Snapshots on SAP</title>
       <link>https://blog.purestorage.com/purely-technical/storage-snapshots-sap/</link>
       <description></description>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
@@ -1464,7 +1464,7 @@
       <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Configuring NVMeoF RoCE For SUSE 15</title>
+      <title>How to Configure NVMeoF RoCE For SUSE 15</title>
       <link>https://blog.purestorage.com/purely-technical/nvmeof-roce-suse-15/</link>
       <description></description>
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
@@ -1584,7 +1584,7 @@
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>SAP S/4HANA migration (Lift/shift) from On-Prem – Public cloud(Demo Video)</title>
+      <title>How To: SAP S/4HANA Migration from On-Prem to Public Cloud</title>
       <link>https://blog.purestorage.com/purely-technical/sap-s-4hana-migration-lift-shift-from-on-prem-to-aws-using-cloud-block-store/</link>
       <description></description>
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
@@ -1686,7 +1686,7 @@
       <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Automate Storage Snapshot Data Protection for SAP HANA and FlashArray</title>
+      <title>How to Automate Storage Snapshot Data Protection for SAP HANA and FlashArray</title>
       <link>https://blog.purestorage.com/purely-technical/automating-storage-snapshot-data-protection-for-saphana-and-flasharray/</link>
       <description></description>
       <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
@@ -1716,7 +1716,7 @@
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>SAP HANA Column tables’ Paged Attributes performance simulation on Pure Storage FlashArray//X</title>
+      <title>SAP HANA Paged Attributes Performance on Pure Storage FlashArray//X</title>
       <link>https://blog.purestorage.com/purely-technical/sap-hana-column-tables-paged-attributes-performance-simulation-on-pure-storage-flasharray-x/</link>
       <description></description>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
@@ -2166,7 +2166,7 @@
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Backup of SAP HANA 2.0 MDC with Single Tenant on Pure, Part-1</title>
+      <title>Part 1: How to Backup SAP HANA 2.0 MDC with Single Tenant on Pure</title>
       <link>https://blog.purestorage.com/purely-technical/backup-of-sap-hana-2-0-mdc-with-single-tenant-on-pure-storage-part-1/</link>
       <description></description>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
@@ -2418,7 +2418,7 @@
       <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Scale Up/ Scale Out SAP HANA System Copy Using Snapshots</title>
+      <title>How to Scale Up/Scale Out SAP HANA System Copy Using Snapshots</title>
       <link>https://blog.purestorage.com/purely-technical/scale-up-scale-out-sap-hana-system-copy-using-pure-storage-snapshots/</link>
       <description></description>
       <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
@@ -2538,7 +2538,7 @@
       <pubDate>Thu, 02 Mar 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Accelerating SGEN in SAP System Copy</title>
+      <title>How to Accelerate SGEN in SAP System Copy</title>
       <link>https://blog.purestorage.com/purely-technical/accelerating-yet-an-another-long-running-activity-in-sap-homogeneous-system-copy-sgen/</link>
       <description></description>
       <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
@@ -2935,13 +2935,13 @@
     </item>
     <item>
       <title>Clouds Require Automation: Evaluation Criteria for Judging Maturity of Storage Array (and other Infrastructure) APIs</title>
-      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-apis/</link>
+      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-storage-array-apis/</link>
       <description></description>
       <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Clouds Require Automation: Evaluation Criteria for Judging Maturity of Storage Array (and other Infrastructure) APIs</title>
-      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-storage-array-apis/</link>
+      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-apis/</link>
       <description></description>
       <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
     </item>

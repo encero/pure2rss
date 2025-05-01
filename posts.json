@@ -245,18 +245,16 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/accelerating-yet-an-another-long-running-activity-in-sap-homogeneous-system-copy-sgen/",
-    "LastMod": "2022-08-29T21:42:45Z"
+    "LastMod": "2025-05-01T15:42:31Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "accelerating-yet-an-another-long-running-activity-in-sap-homogeneous-system-copy-sgen"
   },
-  "Title": "Accelerating SGEN in SAP System Copy",
+  "Title": "How to Accelerate SGEN in SAP System Copy",
   "Summary": "",
   "PublishDate": "2017-02-25T00:00:00Z",
-  "Tags": [
-   "SAP"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/access-flashblade-using-the-pure-storage-powershell-sdk/": {
   "PostLink": {
@@ -712,13 +710,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/automating-storage-snapshot-data-protection-for-saphana-and-flasharray/",
-    "LastMod": "2024-11-25T21:32:47Z"
+    "LastMod": "2025-04-30T18:10:48Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "automating-storage-snapshot-data-protection-for-saphana-and-flasharray"
   },
-  "Title": "Automate Storage Snapshot Data Protection for SAP HANA and FlashArray",
+  "Title": "How to Automate Storage Snapshot Data Protection for SAP HANA and FlashArray",
   "Summary": "",
   "PublishDate": "2019-04-13T00:00:00Z",
   "Tags": []
@@ -742,19 +740,16 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/backup-of-sap-hana-2-0-mdc-with-single-tenant-on-pure-storage-part-1/",
-    "LastMod": "2022-08-26T20:28:39Z"
+    "LastMod": "2025-05-01T14:49:02Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "backup-of-sap-hana-2-0-mdc-with-single-tenant-on-pure-storage-part-1"
   },
-  "Title": "Backup of SAP HANA 2.0 MDC with Single Tenant on Pure, Part-1",
+  "Title": "Part 1: How to Backup SAP HANA 2.0 MDC with Single Tenant on Pure",
   "Summary": "",
   "PublishDate": "2018-01-17T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe",
-   "SAP"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/benefits-effective-log-coverage-analysis/": {
   "PostLink": {
@@ -1085,7 +1080,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/cloning-oracle-database-cloud/",
-    "LastMod": "2024-11-25T21:12:42Z"
+    "LastMod": "2025-04-28T17:30:55Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1635,7 +1630,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/decrease-recovery-time-for-microsoft-sql-server-disasters-with-pure-cloud-block-store-in-microsoft-azure/",
-    "LastMod": "2025-04-02T19:24:14Z"
+    "LastMod": "2025-04-29T15:04:18Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1650,7 +1645,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/deduplication-compression-and-sql-server-databases-part-1/",
-    "LastMod": "2024-02-16T19:26:31Z"
+    "LastMod": "2025-04-28T17:31:53Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1659,10 +1654,7 @@
   "Title": "Part 1: Deduplication and Compression with SQL Server Databases",
   "Summary": "",
   "PublishDate": "2015-04-10T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe",
-   "Purity Data Services"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/deduplication-compression-and-sql-server-databases-part-2/": {
   "PostLink": {
@@ -1918,7 +1910,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/empowering-sql-server-dbas-via-snapshots-and-powershell/",
-    "LastMod": "2022-11-26T01:45:24Z"
+    "LastMod": "2025-04-28T19:39:02Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1927,11 +1919,7 @@
   "Title": "Empowering SQL Server DBAs Via FlashArray Snapshots and Powershell",
   "Summary": "",
   "PublishDate": "2018-07-26T00:00:00Z",
-  "Tags": [
-   "DevOps",
-   "FlashArray//X NVMe",
-   "SQL Server"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/enable-multicloud-solutions-with-pure-and-azure/": {
   "PostLink": {
@@ -2316,13 +2304,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/flasharray-extends-nvme-of-support-to-tcp/",
-    "LastMod": "2024-09-30T10:41:49Z"
+    "LastMod": "2025-04-30T15:07:19Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "flasharray-extends-nvme-of-support-to-tcp"
   },
-  "Title": "FlashArray Delivers NVMe/TCP in Move Toward Cloud Operating Model",
+  "Title": "FlashArray with NVMe/TCP: The Performance Advantage of Pure Storage",
   "Summary": "",
   "PublishDate": "2023-02-16T00:00:00Z",
   "Tags": []
@@ -4366,13 +4354,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/nvmeof-roce-suse-15/",
-    "LastMod": "2024-09-30T23:24:37Z"
+    "LastMod": "2025-04-30T17:54:41Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "nvmeof-roce-suse-15"
   },
-  "Title": "Configuring NVMeoF RoCE For SUSE 15",
+  "Title": "How to Configure NVMeoF RoCE For SUSE 15",
   "Summary": "",
   "PublishDate": "2019-08-20T00:00:00Z",
   "Tags": []
@@ -4637,7 +4625,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/performance-consistency-with-flasharray-nvme-of-and-sql-server-linux/",
-    "LastMod": "2024-04-26T01:49:32Z"
+    "LastMod": "2025-04-28T19:35:52Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4646,11 +4634,7 @@
   "Title": "Performance Consistency with FlashArray NVMe-oF and SQL Server Linux",
   "Summary": "",
   "PublishDate": "2019-02-19T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe",
-   "Microsoft",
-   "SQL Server"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/photon-based-srm-8-2-and-pure/": {
   "PostLink": {
@@ -4831,7 +4815,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/prestosql-and-fast-object-putting-backups-to-use-for-devops-and-machine-learning/",
-    "LastMod": "2024-08-08T06:28:56Z"
+    "LastMod": "2025-04-28T19:24:02Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5434,7 +5418,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/purity-migrate-s-4hana-migration-from-dellemc-powermax-to-pure-storage-flasharray-x/",
-    "LastMod": "2025-03-26T18:15:34Z"
+    "LastMod": "2025-04-30T17:46:45Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5561,7 +5545,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/rapidly-recovering-from-sql-server-data-mishaps-with-flasharray-snapshots/",
-    "LastMod": "2025-03-03T04:07:10Z"
+    "LastMod": "2025-04-28T19:21:05Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6085,18 +6069,16 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sap-hana-column-tables-paged-attributes-performance-simulation-on-pure-storage-flasharray-x/",
-    "LastMod": "2022-08-22T16:51:12Z"
+    "LastMod": "2025-04-30T19:07:21Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "sap-hana-column-tables-paged-attributes-performance-simulation-on-pure-storage-flasharray-x"
   },
-  "Title": "SAP HANA Column tables’ Paged Attributes performance simulation on Pure Storage FlashArray//X",
+  "Title": "SAP HANA Paged Attributes Performance on Pure Storage FlashArray//X",
   "Summary": "",
   "PublishDate": "2019-02-22T00:00:00Z",
-  "Tags": [
-   "SAP"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/sap-hana-double-protection-poc-using-both-sap-hana-system-replication-and-pure-storage-activecluster/": {
   "PostLink": {
@@ -6170,13 +6152,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sap-hana-on-pure-storage-flasharray-file/",
-    "LastMod": "2025-03-18T16:57:29Z"
+    "LastMod": "2025-04-30T15:35:42Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "sap-hana-on-pure-storage-flasharray-file"
   },
-  "Title": "SAP HANA on Pure Storage FlashArray File",
+  "Title": "How to Install SAP HANA on Pure Storage FlashArray File",
   "Summary": "",
   "PublishDate": "2024-09-18T00:00:00Z",
   "Tags": []
@@ -6200,20 +6182,16 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sap-s-4hana-migration-lift-shift-from-on-prem-to-aws-using-cloud-block-store/",
-    "LastMod": "2023-10-18T17:55:53Z"
+    "LastMod": "2025-04-30T18:00:39Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "sap-s-4hana-migration-lift-shift-from-on-prem-to-aws-using-cloud-block-store"
   },
-  "Title": "SAP S/4HANA migration (Lift/shift) from On-Prem – Public cloud(Demo Video)",
+  "Title": "How To: SAP S/4HANA Migration from On-Prem to Public Cloud",
   "Summary": "",
   "PublishDate": "2019-06-11T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe",
-   "Pure Cloud Block Store",
-   "SAP"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/say-goodbye-to-vm-alignment-issues-and-poor-performance-with-pure-storage/": {
   "PostLink": {
@@ -6251,18 +6229,16 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/scale-up-scale-out-sap-hana-system-copy-using-pure-storage-snapshots/",
-    "LastMod": "2022-08-29T20:56:28Z"
+    "LastMod": "2025-05-01T16:39:18Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "scale-up-scale-out-sap-hana-system-copy-using-pure-storage-snapshots"
   },
-  "Title": "Scale Up/ Scale Out SAP HANA System Copy Using Snapshots",
+  "Title": "How to Scale Up/Scale Out SAP HANA System Copy Using Snapshots",
   "Summary": "",
   "PublishDate": "2017-06-23T00:00:00Z",
-  "Tags": [
-   "SAP"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/scaling-prometheus-with-thanos-for-long-term-retention/": {
   "PostLink": {
@@ -6539,7 +6515,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/so-long-sqlio-hello-diskspd/",
-    "LastMod": "2024-05-15T16:23:56Z"
+    "LastMod": "2025-04-28T19:36:56Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6548,10 +6524,7 @@
   "Title": "SQLIO vs. DiskSpd",
   "Summary": "",
   "PublishDate": "2015-12-16T00:00:00Z",
-  "Tags": [
-   "Microsoft",
-   "SQL Server"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/solve-big-data-protection-challenges/": {
   "PostLink": {
@@ -6617,7 +6590,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sql-server-distributed-availability-groups-and-kubernetes/",
-    "LastMod": "2025-03-02T20:16:56Z"
+    "LastMod": "2025-04-28T19:22:10Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6726,20 +6699,16 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/storage-snapshots-sap/",
-    "LastMod": "2024-02-17T01:05:21Z"
+    "LastMod": "2025-04-30T17:22:58Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "storage-snapshots-sap"
   },
-  "Title": "Save Time (and Sanity) with Storage Snapshots on SAP",
+  "Title": "How to Save Your Time (and Sanity) with Storage Snapshots on SAP",
   "Summary": "",
   "PublishDate": "2020-06-30T00:00:00Z",
-  "Tags": [
-   "Data Backup and Recovery",
-   "FlashArray//X NVMe",
-   "SAP"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/": {
   "PostLink": {
@@ -7664,7 +7633,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/visualising-sql-server-in-kubernetes/",
-    "LastMod": "2025-03-12T15:35:58Z"
+    "LastMod": "2025-04-28T19:20:52Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
