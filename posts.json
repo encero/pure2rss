@@ -275,7 +275,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/accessing-external-data-using-flashblade-s3-object-storage-from-oracle-19c-21c/",
-    "LastMod": "2024-08-30T16:12:19Z"
+    "LastMod": "2025-05-01T21:13:31Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1080,13 +1080,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/cloning-oracle-database-cloud/",
-    "LastMod": "2025-04-28T17:30:55Z"
+    "LastMod": "2025-05-02T18:50:33Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "cloning-oracle-database-cloud"
   },
-  "Title": "Cloning Oracle Database to the Cloud",
+  "Title": "How to Clone an Oracle Database to the Cloud",
   "Summary": "",
   "PublishDate": "2019-12-11T00:00:00Z",
   "Tags": []
@@ -1249,7 +1249,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/consolidate-oracle-workloads-with-flasharray-xl/",
-    "LastMod": "2025-04-29T16:46:12Z"
+    "LastMod": "2025-05-01T21:15:44Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2304,7 +2304,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/flasharray-extends-nvme-of-support-to-tcp/",
-    "LastMod": "2025-04-30T15:07:19Z"
+    "LastMod": "2025-05-02T18:51:41Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3028,7 +3028,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/hyper-v-cluster-shared-volumes-sql-server-and-flasharray-snapshots/",
-    "LastMod": "2025-04-28T19:21:41Z"
+    "LastMod": "2025-05-02T17:57:56Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4497,13 +4497,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/oracle-18c-runs-faster-with-directflash-fabric-nvmeof-roce/",
-    "LastMod": "2024-09-30T07:12:21Z"
+    "LastMod": "2025-05-02T18:59:49Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "oracle-18c-runs-faster-with-directflash-fabric-nvmeof-roce"
   },
-  "Title": "Oracle 18c Runs Faster with DirectFlash™ Fabric – NVMe-oF RoCE",
+  "Title": "Test Results: See How Oracle 18c Runs Faster with DirectFlash™ Fabric – NVMe-oF RoCE",
   "Summary": "",
   "PublishDate": "2019-02-19T00:00:00Z",
   "Tags": []
@@ -4580,13 +4580,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/oracle-database-flash-array-xr3/",
-    "LastMod": "2025-01-16T08:33:09Z"
+    "LastMod": "2025-05-02T19:02:44Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "oracle-database-flash-array-xr3"
   },
-  "Title": "Accelerate Oracle Database with the Next-Gen FlashArray//X",
+  "Title": "Accelerate Oracle Database with FlashArray//X",
   "Summary": "",
   "PublishDate": "2020-03-17T00:00:00Z",
   "Tags": []

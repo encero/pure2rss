@@ -721,13 +721,13 @@
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
+      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
+      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
@@ -1320,7 +1320,7 @@
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Accelerate Oracle Database with the Next-Gen FlashArray//X</title>
+      <title>Accelerate Oracle Database with FlashArray//X</title>
       <link>https://blog.purestorage.com/purely-technical/oracle-database-flash-array-xr3/</link>
       <description></description>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
@@ -1386,7 +1386,7 @@
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cloning Oracle Database to the Cloud</title>
+      <title>How to Clone an Oracle Database to the Cloud</title>
       <link>https://blog.purestorage.com/purely-technical/cloning-oracle-database-cloud/</link>
       <description></description>
       <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
@@ -1746,14 +1746,14 @@
       <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Oracle 18c Runs Faster with DirectFlash™ Fabric – NVMe-oF RoCE</title>
-      <link>https://blog.purestorage.com/purely-technical/oracle-18c-runs-faster-with-directflash-fabric-nvmeof-roce/</link>
+      <title>Performance Consistency with FlashArray NVMe-oF and SQL Server Linux</title>
+      <link>https://blog.purestorage.com/purely-technical/performance-consistency-with-flasharray-nvme-of-and-sql-server-linux/</link>
       <description></description>
       <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Performance Consistency with FlashArray NVMe-oF and SQL Server Linux</title>
-      <link>https://blog.purestorage.com/purely-technical/performance-consistency-with-flasharray-nvme-of-and-sql-server-linux/</link>
+      <title>Test Results: See How Oracle 18c Runs Faster with DirectFlash™ Fabric – NVMe-oF RoCE</title>
+      <link>https://blog.purestorage.com/purely-technical/oracle-18c-runs-faster-with-directflash-fabric-nvmeof-roce/</link>
       <description></description>
       <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
     </item>
