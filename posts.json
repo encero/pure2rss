@@ -5325,7 +5325,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-rest-api-part-1/",
-    "LastMod": "2025-01-13T17:14:51Z"
+    "LastMod": "2025-05-05T20:42:59Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5370,7 +5370,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pures-holistic-approach-to-storage-subscription-management/",
-    "LastMod": "2024-02-17T00:10:20Z"
+    "LastMod": "2025-05-07T16:35:14Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5379,10 +5379,7 @@
   "Title": "Pure’s Holistic Approach to Storage Subscription Management",
   "Summary": "",
   "PublishDate": "2023-04-24T00:00:00Z",
-  "Tags": [
-   "Evergreen//One",
-   "Pure1 Storage Management"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/purest-ruby-gem-flasharray/": {
   "PostLink": {
@@ -7182,7 +7179,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/updated-restoring-protection-group-volume-snapshots/",
-    "LastMod": "2025-03-26T19:15:58Z"
+    "LastMod": "2025-05-07T21:13:12Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7929,7 +7926,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/volume-matching-via-the-api-in-purity-5-0/",
-    "LastMod": "2022-08-26T17:32:39Z"
+    "LastMod": "2025-05-05T18:21:32Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7938,11 +7935,7 @@
   "Title": "Volume matching via the API in Purity 5.0",
   "Summary": "",
   "PublishDate": "2018-02-13T00:00:00Z",
-  "Tags": [
-   "Managed Service Providers",
-   "Virtualization",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/vrealize-orchestrator-7-6-is-released-updated-web-client/": {
   "PostLink": {
