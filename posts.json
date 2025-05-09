@@ -2616,7 +2616,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/getting-started-with-the-pure-storage-python-toolkit/",
-    "LastMod": "2025-01-31T17:22:13Z"
+    "LastMod": "2025-05-09T07:21:27Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2818,7 +2818,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-deploy-a-vm-analytics-collector-with-ipv6-ip-protocol-and-static-networking/",
-    "LastMod": "2024-07-10T16:16:31Z"
+    "LastMod": "2025-05-09T07:49:57Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3058,7 +3058,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/implementation-series-part-1-cli-scripting-for-dummies-large-deployment/",
-    "LastMod": "2024-02-07T21:21:54Z"
+    "LastMod": "2025-05-09T07:12:00Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3067,9 +3067,7 @@
   "Title": "Implementation Series – Part 1:  CLI Scripting for Dummies – Large Deployment",
   "Summary": "",
   "PublishDate": "2013-09-23T00:00:00Z",
-  "Tags": [
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/importing-a-vvol-snapshot-with-powercli/": {
   "PostLink": {
@@ -5171,7 +5169,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-python-toolkit-with-bash-on-windows-10-2/",
-    "LastMod": "2022-09-14T15:40:57Z"
+    "LastMod": "2025-05-09T07:18:12Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5415,7 +5413,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/purity-migrate-s-4hana-migration-from-dellemc-powermax-to-pure-storage-flasharray-x/",
-    "LastMod": "2025-04-30T17:46:45Z"
+    "LastMod": "2025-05-05T18:18:41Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5508,7 +5506,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/rapid-postgresql-backup-and-recovery-with-pgbackrest-and-flashblade/",
-    "LastMod": "2025-04-28T19:31:23Z"
+    "LastMod": "2025-05-08T20:04:28Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6149,7 +6147,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sap-hana-on-pure-storage-flasharray-file/",
-    "LastMod": "2025-04-30T15:35:42Z"
+    "LastMod": "2025-05-08T17:58:09Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7576,7 +7574,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/veeam-10-is-compatible-with-pure-storage-plug-in-1-2-45/",
-    "LastMod": "2024-02-17T01:10:25Z"
+    "LastMod": "2025-05-09T07:28:33Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7585,10 +7583,7 @@
   "Title": "Veeam 10 is compatible with Pure Storage Plug-in 1.2.45",
   "Summary": "",
   "PublishDate": "2020-04-13T00:00:00Z",
-  "Tags": [
-   "Data Backup and Recovery",
-   "Veeam"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/veritas-netbackup-msdp-with-flashblade-nfs/": {
   "PostLink": {
