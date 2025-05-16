@@ -7091,6 +7091,21 @@
    "VMware"
   ]
  },
+ "https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray/",
+    "LastMod": "2025-05-15T18:53:37Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "understanding-vmware-esxi-queuing-and-the-flasharray"
+  },
+  "Title": "Understanding VMware ESXi Queuing and the FlashArray",
+  "Summary": "",
+  "PublishDate": "2017-02-23T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/unified-iac-in-hybrid-cloud-with-ansible/": {
   "PostLink": {
    "Link": {
