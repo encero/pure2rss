@@ -571,7 +571,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/architecting-apache-cassandra-cluster-on-cloud-block-storeaws/",
-    "LastMod": "2024-02-17T01:17:38Z"
+    "LastMod": "2025-05-14T18:00:47Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -580,10 +580,7 @@
   "Title": "Architecting Apache Cassandra on Cloud Block Store [AWS]",
   "Summary": "",
   "PublishDate": "2019-10-10T00:00:00Z",
-  "Tags": [
-   "Apache Spark",
-   "Pure Cloud Block Store"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/are-bigger-ssds-better/": {
   "PostLink": {
