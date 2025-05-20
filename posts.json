@@ -6578,6 +6578,21 @@
   "PublishDate": "2018-12-20T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/sql-server-2025-streamlining-t-sql-snapshot-backups/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/sql-server-2025-streamlining-t-sql-snapshot-backups/",
+    "LastMod": "2025-05-19T19:27:03Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sql-server-2025-streamlining-t-sql-snapshot-backups"
+  },
+  "Title": "T-SQL REST API Integration in SQL Server 2025: Streamlining T-SQL Snapshot Backups",
+  "Summary": "",
+  "PublishDate": "2025-05-19T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/sql-server-distributed-availability-groups-and-kubernetes/": {
   "PostLink": {
    "Link": {
