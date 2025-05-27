@@ -6,6 +6,12 @@
     <pubDate>Tue, 25 Mar 2025 16:23:48 +0000</pubDate>
     <lastBuildDate>Tue, 25 Mar 2025 16:23:48 +0000</lastBuildDate>
     <item>
+      <title>SQL Server 2025: Enterprise AI without the Learning Curve</title>
+      <link>https://blog.purestorage.com/purely-technical/sql-server-2025-enterprise-ai-without-the-learning-curve/</link>
+      <description></description>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>T-SQL REST API Integration in SQL Server 2025: Streamlining T-SQL Snapshot Backups</title>
       <link>https://blog.purestorage.com/purely-technical/sql-server-2025-streamlining-t-sql-snapshot-backups/</link>
       <description></description>
@@ -330,6 +336,12 @@
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Fake It ’Til You Make It: Why Synthetic Data Is on the Rise in 2025</title>
+      <link>https://blog.purestorage.com/purely-technical/fake-it-til-you-make-it-why-synthetic-data-is-on-the-rise/</link>
+      <description></description>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Harnessing Static and Dynamic Code Scanning in DevSecOps</title>
       <link>https://blog.purestorage.com/purely-technical/harnessing-static-and-dynamic-code-scanning-in-devsecops/</link>
       <description></description>
@@ -504,6 +516,12 @@
       <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>6 Ways Healthcare AI Is Saving Lives</title>
+      <link>https://blog.purestorage.com/purely-technical/6-ways-healthcare-ai-is-saving-lives/</link>
+      <description></description>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>FlashBlade S3 and ElasticSearch: The Journey to Disaggregation</title>
       <link>https://blog.purestorage.com/purely-technical/flashblade-s3-and-elasticsearch-the-journey-to-disaggregation/</link>
       <description></description>
@@ -562,6 +580,12 @@
       <link>https://blog.purestorage.com/purely-technical/boost-splunk-with-containers-pure/</link>
       <description></description>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bytecode vs. Machine Code</title>
+      <link>https://blog.purestorage.com/purely-technical/bytecode-vs-machine-code/</link>
+      <description></description>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Build an Open Data Lakehouse with Spark, Delta, and Trino on S3</title>
@@ -634,6 +658,12 @@
       <link>https://blog.purestorage.com/purely-technical/xcr4-technical/</link>
       <description></description>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your Questions About HAR Files Answered</title>
+      <link>https://blog.purestorage.com/purely-technical/har-files-questions-answered/</link>
+      <description></description>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Accommodate More Complex Networks with Purity//FA 6.4.5</title>

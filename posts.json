@@ -44,6 +44,21 @@
   "PublishDate": "2021-04-29T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/6-ways-healthcare-ai-is-saving-lives/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/6-ways-healthcare-ai-is-saving-lives/",
+    "LastMod": "2025-05-27T16:47:57Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "6-ways-healthcare-ai-is-saving-lives"
+  },
+  "Title": "6 Ways Healthcare AI Is Saving Lives",
+  "Summary": "",
+  "PublishDate": "2023-10-11T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/a-brief-history-of-time-with-powershell-and-pure-storage/": {
   "PostLink": {
    "Link": {
@@ -977,6 +992,21 @@
   "Title": "Building Your Own Web Client Plugin with vRO",
   "Summary": "",
   "PublishDate": "2017-06-01T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/bytecode-vs-machine-code/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/bytecode-vs-machine-code/",
+    "LastMod": "2025-05-27T16:52:41Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "bytecode-vs-machine-code"
+  },
+  "Title": "Bytecode vs. Machine Code",
+  "Summary": "",
+  "PublishDate": "2023-07-25T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/calculating-block-size-using-the-powershell-sdk/": {
@@ -2166,6 +2196,21 @@
   "PublishDate": "2024-03-11T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/fake-it-til-you-make-it-why-synthetic-data-is-on-the-rise/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/fake-it-til-you-make-it-why-synthetic-data-is-on-the-rise/",
+    "LastMod": "2025-05-27T16:46:50Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "fake-it-til-you-make-it-why-synthetic-data-is-on-the-rise"
+  },
+  "Title": "Fake It ’Til You Make It: Why Synthetic Data Is on the Rise in 2025",
+  "Summary": "",
+  "PublishDate": "2024-02-23T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/fast-file-and-s3-object-storage-for-azure-stack/": {
   "PostLink": {
    "Link": {
@@ -2657,6 +2702,21 @@
   "Tags": [
    "VMware"
   ]
+ },
+ "https://blog.purestorage.com/purely-technical/har-files-questions-answered/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/har-files-questions-answered/",
+    "LastMod": "2025-05-27T16:50:40Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "har-files-questions-answered"
+  },
+  "Title": "Your Questions About HAR Files Answered",
+  "Summary": "",
+  "PublishDate": "2023-06-12T00:00:00Z",
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/harnessing-static-and-dynamic-code-scanning-in-devsecops/": {
   "PostLink": {
@@ -6477,7 +6537,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/simplify-kafka-at-scale-with-confluent-tiered-storage/",
-    "LastMod": "2025-03-11T18:46:47Z"
+    "LastMod": "2025-05-27T02:47:52Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6576,6 +6636,21 @@
   "Title": "Why to Upgrade from SQL Server 2008",
   "Summary": "",
   "PublishDate": "2018-12-20T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/sql-server-2025-enterprise-ai-without-the-learning-curve/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/sql-server-2025-enterprise-ai-without-the-learning-curve/",
+    "LastMod": "2025-05-27T14:32:52Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sql-server-2025-enterprise-ai-without-the-learning-curve"
+  },
+  "Title": "SQL Server 2025: Enterprise AI without the Learning Curve",
+  "Summary": "",
+  "PublishDate": "2025-05-27T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/sql-server-2025-streamlining-t-sql-snapshot-backups/": {
