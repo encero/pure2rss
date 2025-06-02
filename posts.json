@@ -3175,7 +3175,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/in-guest-unmap-and-vmware-snapshots/",
-    "LastMod": "2022-08-29T18:41:06Z"
+    "LastMod": "2025-05-30T19:58:57Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3184,10 +3184,7 @@
   "Title": "In-Guest UNMAP and VMware Snapshots",
   "Summary": "",
   "PublishDate": "2017-08-11T00:00:00Z",
-  "Tags": [
-   "Virtualization",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/in-guest-unmap-enableblockdelete-and-vmfs-6/": {
   "PostLink": {
