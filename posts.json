@@ -2707,7 +2707,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/har-files-questions-answered/",
-    "LastMod": "2025-05-27T16:50:40Z"
+    "LastMod": "2025-06-04T17:24:12Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3085,7 +3085,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/hyper-v-cluster-shared-volumes-sql-server-and-flasharray-snapshots/",
-    "LastMod": "2025-05-02T17:57:56Z"
+    "LastMod": "2025-06-04T20:15:49Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3100,7 +3100,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/identify-the-asm-device-from-asmlib/",
-    "LastMod": "2024-12-19T18:50:04Z"
+    "LastMod": "2025-06-04T18:31:09Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5904,19 +5904,16 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/rubrik-and-flasharray-integration-why-it-matters/",
-    "LastMod": "2022-08-29T20:42:22Z"
+    "LastMod": "2025-06-04T15:15:44Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "rubrik-and-flasharray-integration-why-it-matters"
   },
-  "Title": "Rubrik and FlashArray Integration: Why it matters.",
+  "Title": "Rubrik and Pure Storage FlashArray Integration",
   "Summary": "",
   "PublishDate": "2017-07-12T00:00:00Z",
-  "Tags": [
-   "Virtualization",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/run-kafka-kubernetes-scale-portworx/": {
   "PostLink": {
@@ -6639,7 +6636,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sql-server-2025-enterprise-ai-without-the-learning-curve/",
-    "LastMod": "2025-05-27T14:32:52Z"
+    "LastMod": "2025-06-04T17:08:20Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
