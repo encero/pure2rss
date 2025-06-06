@@ -1524,7 +1524,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/data-migration-from-on-premises-to-the-cloud-with-cirrus-migrate-cloud-and-pure-cloud-block-store/",
-    "LastMod": "2025-05-09T19:44:52Z"
+    "LastMod": "2025-06-05T17:12:35Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2548,7 +2548,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/from-storage-to-stream-a-comparison-of-leader-election-in-portworx-kafka-and-raft/",
-    "LastMod": "2025-04-16T14:33:15Z"
+    "LastMod": "2025-06-05T17:12:12Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4324,7 +4324,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/non-disruptive-storage-consolidation-and-removal/",
-    "LastMod": "2024-09-24T19:32:52Z"
+    "LastMod": "2025-06-05T18:02:22Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5482,13 +5482,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/purity-operating-environment-simplified-release-lines/",
-    "LastMod": "2025-03-17T09:14:36Z"
+    "LastMod": "2025-06-05T18:32:13Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "purity-operating-environment-simplified-release-lines"
   },
-  "Title": "Choose Your Path with Simplified Release Lines",
+  "Title": "Choose Your Path with Purity Simplified Release Lines",
   "Summary": "",
   "PublishDate": "2023-09-21T00:00:00Z",
   "Tags": []
@@ -7721,7 +7721,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/visualising-sql-server-in-kubernetes/",
-    "LastMod": "2025-04-28T19:20:52Z"
+    "LastMod": "2025-06-05T17:13:31Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
