@@ -5013,7 +5013,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-cloud-block-store-with-cirrus-migrate-cloud/",
-    "LastMod": "2025-03-20T14:33:43Z"
+    "LastMod": "2025-06-05T17:12:59Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5081,7 +5081,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-101-ensuring-100-performance/",
-    "LastMod": "2024-12-12T13:45:15Z"
+    "LastMod": "2025-06-05T21:11:08Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5560,7 +5560,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/rapid-postgresql-backup-and-recovery-with-pgbackrest-and-flashblade/",
-    "LastMod": "2025-05-08T20:04:28Z"
+    "LastMod": "2025-06-05T14:25:47Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5568,7 +5568,7 @@
   },
   "Title": "Rapid PostgreSQL Backup and Recovery with pgBackRest and FlashBlade",
   "Summary": "",
-  "PublishDate": "2022-01-12T00:00:00Z",
+  "PublishDate": "2025-01-12T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/rapid-restore-of-vmware-with-veeam-and-flasharray-c/": {
@@ -6681,7 +6681,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sql-server-distributed-availability-groups-and-portworx/",
-    "LastMod": "2025-03-24T17:59:45Z"
+    "LastMod": "2025-06-06T20:32:04Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
