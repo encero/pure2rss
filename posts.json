@@ -2737,7 +2737,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/hints-on-using-cinder-manage-with-openstack-newton-and-later/",
-    "LastMod": "2025-02-02T16:55:09Z"
+    "LastMod": "2025-06-06T21:05:53Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3033,7 +3033,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-self-onboard-azure-vmware-solution-for-use-with-pure-cloud-block-store/",
-    "LastMod": "2024-12-18T14:57:31Z"
+    "LastMod": "2025-06-08T03:55:42Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6275,7 +6275,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/scale-up-scale-out-sap-hana-system-copy-using-pure-storage-snapshots/",
-    "LastMod": "2025-05-01T16:39:18Z"
+    "LastMod": "2025-06-04T20:07:48Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
