@@ -33,7 +33,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/4-common-issues-with-mysql-how-to-solve/",
-    "LastMod": "2025-04-28T19:33:05Z"
+    "LastMod": "2025-06-19T13:32:59Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1922,7 +1922,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/eliminate-mysql-and-mariadb-replication-time-to-availability/",
-    "LastMod": "2025-04-28T19:32:49Z"
+    "LastMod": "2025-06-19T13:20:46Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4549,7 +4549,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/oracle-18c-runs-faster-with-directflash-fabric-nvmeof-roce/",
-    "LastMod": "2025-05-02T18:59:49Z"
+    "LastMod": "2025-06-19T12:41:51Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
