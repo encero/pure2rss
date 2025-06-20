@@ -3044,6 +3044,21 @@
   "PublishDate": "2023-11-30T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/how-to-simulate-vsi-vdi-sql-oracle-workloads-with-oracle-vdbench/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/how-to-simulate-vsi-vdi-sql-oracle-workloads-with-oracle-vdbench/",
+    "LastMod": "2025-06-20T16:29:51Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-simulate-vsi-vdi-sql-oracle-workloads-with-oracle-vdbench"
+  },
+  "Title": "How to Simulate VSI, VDI, SQL \u0026 Oracle Workloads with Oracle vdbench",
+  "Summary": "",
+  "PublishDate": "2025-06-20T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/how-to-test-an-entire-distributed-system-in-15-seconds/": {
   "PostLink": {
    "Link": {
