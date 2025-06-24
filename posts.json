@@ -5156,6 +5156,21 @@
    "FlashStack Infrastructure"
   ]
  },
+ "https://blog.purestorage.com/purely-technical/pure-storage-optimizing-gpu-performance-utilization-for-ai-workloads/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-optimizing-gpu-performance-utilization-for-ai-workloads/",
+    "LastMod": "2025-06-23T19:39:02Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "pure-storage-optimizing-gpu-performance-utilization-for-ai-workloads"
+  },
+  "Title": "How Pure Storage Eliminates Computational Bottlenecks, Optimizing GPU Utilization for AI Workloads",
+  "Summary": "",
+  "PublishDate": "2025-06-23T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/pure-storage-plugin-v3-for-vrealize-orchestrator/": {
   "PostLink": {
    "Link": {
