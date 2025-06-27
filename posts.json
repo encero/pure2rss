@@ -722,7 +722,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/automating-storage-snapshot-data-protection-for-saphana-and-flasharray/",
-    "LastMod": "2025-04-30T18:10:48Z"
+    "LastMod": "2025-06-27T13:10:47Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7728,6 +7728,21 @@
    "Data Backup and Recovery",
    "FlashBlade Object Storage"
   ]
+ },
+ "https://blog.purestorage.com/purely-technical/vertically-scaling-sql-server-online-in-kubernetes/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/vertically-scaling-sql-server-online-in-kubernetes/",
+    "LastMod": "2025-06-26T20:32:27Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "vertically-scaling-sql-server-online-in-kubernetes"
+  },
+  "Title": "​​Vertically Scaling SQL Server Online in Kubernetes",
+  "Summary": "",
+  "PublishDate": "2025-06-26T00:00:00Z",
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/virtual-volumes-vvol-bindings-explained/": {
   "PostLink": {
