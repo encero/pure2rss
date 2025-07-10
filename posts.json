@@ -5817,6 +5817,21 @@
   "PublishDate": "2018-03-24T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/resilient-sql-server-refresh-dr-strategy-persistent-topology-tagging/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/resilient-sql-server-refresh-dr-strategy-persistent-topology-tagging/",
+    "LastMod": "2025-07-10T16:00:03Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "resilient-sql-server-refresh-dr-strategy-persistent-topology-tagging"
+  },
+  "Title": "Building a Resilient SQL Server Refresh and DR Strategy with Persistent Topology Tagging",
+  "Summary": "",
+  "PublishDate": "2025-07-10T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/restore-sql-server-data-faster-ssms-extension/": {
   "PostLink": {
    "Link": {
