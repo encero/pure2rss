@@ -6,6 +6,12 @@
     <pubDate>Tue, 25 Mar 2025 16:23:48 +0000</pubDate>
     <lastBuildDate>Tue, 25 Mar 2025 16:23:48 +0000</lastBuildDate>
     <item>
+      <title>Building and Securing Kubernetes Native Products: The Pure Storage Product Security Journey</title>
+      <link>https://blog.purestorage.com/purely-technical/building-and-securing-kubernetes-native-products-the-pure-storage-product-security-journey/</link>
+      <description></description>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Building a Resilient SQL Server Refresh and DR Strategy with Persistent Topology Tagging</title>
       <link>https://blog.purestorage.com/purely-technical/resilient-sql-server-refresh-dr-strategy-persistent-topology-tagging/</link>
       <description></description>
@@ -760,12 +766,6 @@
       <link>https://blog.purestorage.com/purely-technical/protecting-your-vms-with-the-pure-storage-vsphere-plugin-replication-manager/</link>
       <description></description>
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building and Securing Kubernetes Native Products: The Pure Storage Product Security Journey</title>
-      <link>https://blog.purestorage.com/purely-technical/building-and-securing-kubernetes-native-products-the-pure-storage-product-security-journey/</link>
-      <description></description>
-      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DirectCompress Accelerator Packs More into FlashArray//XL</title>
@@ -2611,13 +2611,13 @@
     </item>
     <item>
       <title>Understanding VMware ESXi Queuing and the FlashArray</title>
-      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray/</link>
+      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray-2/</link>
       <description></description>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Understanding VMware ESXi Queuing and the FlashArray</title>
-      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray-2/</link>
+      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray/</link>
       <description></description>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
     </item>

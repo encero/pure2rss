@@ -947,7 +947,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/building-and-securing-kubernetes-native-products-the-pure-storage-product-security-journey/",
-    "LastMod": "2024-06-07T23:03:05Z"
+    "LastMod": "2025-07-18T15:03:09Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -955,14 +955,8 @@
   },
   "Title": "Building and Securing Kubernetes Native Products: The Pure Storage Product Security Journey",
   "Summary": "",
-  "PublishDate": "2023-03-09T00:00:00Z",
-  "Tags": [
-   "Cybersecurity",
-   "Kubernetes",
-   "Portworx",
-   "Portworx Data Services",
-   "Ransomware"
-  ]
+  "PublishDate": "2025-07-17T00:00:00Z",
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/building-the-1st-gen-puretec-and-solutions-engineering-lab/": {
   "PostLink": {
@@ -2346,7 +2340,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/flasharray-extends-nvme-of-support-to-tcp/",
-    "LastMod": "2025-05-02T18:51:41Z"
+    "LastMod": "2025-07-17T18:34:03Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5821,7 +5815,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/resilient-sql-server-refresh-dr-strategy-persistent-topology-tagging/",
-    "LastMod": "2025-07-12T16:05:48Z"
+    "LastMod": "2025-07-18T14:22:02Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7378,7 +7372,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/upgrade-your-own-flasharray-with-pure1/",
-    "LastMod": "2025-03-17T09:12:33Z"
+    "LastMod": "2025-07-17T23:17:10Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
