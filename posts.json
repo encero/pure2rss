@@ -2880,6 +2880,21 @@
   "PublishDate": "2023-11-20T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/how-to-double-oltp-throughput-without-code-changes-hammerdb-on-flasharray-xl/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/how-to-double-oltp-throughput-without-code-changes-hammerdb-on-flasharray-xl/",
+    "LastMod": "2025-07-21T13:22:45Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-double-oltp-throughput-without-code-changes-hammerdb-on-flasharray-xl"
+  },
+  "Title": "How to Double OLTP Throughput without Code Changes: A HammerDB on FlashArray//XL How-To",
+  "Summary": "",
+  "PublishDate": "2025-07-21T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/how-to-enabling-disabling-remote-assist-with-the-powershell-sdk/": {
   "PostLink": {
    "Link": {
