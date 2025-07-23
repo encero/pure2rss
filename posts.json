@@ -3109,13 +3109,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/hyper-v-cluster-shared-volumes-sql-server-and-flasharray-snapshots/",
-    "LastMod": "2025-06-04T20:15:49Z"
+    "LastMod": "2025-07-22T20:38:58Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "hyper-v-cluster-shared-volumes-sql-server-and-flasharray-snapshots"
   },
-  "Title": "Hyper-V: Cluster Shared Volumes, SQL Server, and FlashArray Snapshots",
+  "Title": "Migrating from VMware to Hyper-V? Don’t Lose Your SQL Server Snapshot Benefits",
   "Summary": "",
   "PublishDate": "2025-02-26T00:00:00Z",
   "Tags": []
@@ -5037,13 +5037,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-cloud-block-store-with-cirrus-migrate-cloud/",
-    "LastMod": "2025-06-05T17:12:59Z"
+    "LastMod": "2025-07-22T20:52:14Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "pure-cloud-block-store-with-cirrus-migrate-cloud"
   },
-  "Title": "Pure Cloud Block Store with Cirrus Migrate Cloud",
+  "Title": "Part 1: Streamline Your Cloud Data Migration with Pure Cloud Block Store and Cirrus Migrate",
   "Summary": "",
   "PublishDate": "2025-03-18T00:00:00Z",
   "Tags": []
@@ -5939,6 +5939,21 @@
    "Pure1 Storage Management"
   ]
  },
+ "https://blog.purestorage.com/purely-technical/rip-asm-filter-drivers/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/rip-asm-filter-drivers/",
+    "LastMod": "2025-07-22T18:38:39Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "rip-asm-filter-drivers"
+  },
+  "Title": "RIP ASM Filter Drivers",
+  "Summary": "",
+  "PublishDate": "2025-07-22T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/rman-backups-using-mount-host-on-flasharray/": {
   "PostLink": {
    "Link": {
@@ -6814,13 +6829,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/storage-considerations-for-vmware-cloud-foundation-with-flasharray/",
-    "LastMod": "2025-03-26T14:56:58Z"
+    "LastMod": "2025-07-22T19:40:29Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "storage-considerations-for-vmware-cloud-foundation-with-flasharray"
   },
-  "Title": "Storage Considerations for VMware Cloud Foundation with FlashArray",
+  "Title": "How to Get Complete Storage Flexibility in VMware Cloud Foundation",
   "Summary": "",
   "PublishDate": "2025-01-14T00:00:00Z",
   "Tags": []
@@ -7805,13 +7820,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/visualising-sql-server-in-kubernetes/",
-    "LastMod": "2025-06-05T17:13:31Z"
+    "LastMod": "2025-07-22T20:48:15Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "visualising-sql-server-in-kubernetes"
   },
-  "Title": "Visualising SQL Server in Kubernetes",
+  "Title": "How to Auto-Generate Professional Kubernetes Architecture Diagrams for SQL Server",
   "Summary": "",
   "PublishDate": "2025-03-10T00:00:00Z",
   "Tags": []

@@ -6,6 +6,12 @@
     <pubDate>Tue, 25 Mar 2025 16:23:48 +0000</pubDate>
     <lastBuildDate>Tue, 25 Mar 2025 16:23:48 +0000</lastBuildDate>
     <item>
+      <title>RIP ASM Filter Drivers</title>
+      <link>https://blog.purestorage.com/purely-technical/rip-asm-filter-drivers/</link>
+      <description></description>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How to Double OLTP Throughput without Code Changes: A HammerDB on FlashArray//XL How-To</title>
       <link>https://blog.purestorage.com/purely-technical/how-to-double-oltp-throughput-without-code-changes-hammerdb-on-flasharray-xl/</link>
       <description></description>
@@ -78,13 +84,13 @@
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pure Cloud Block Store with Cirrus Migrate Cloud</title>
+      <title>Part 1: Streamline Your Cloud Data Migration with Pure Cloud Block Store and Cirrus Migrate</title>
       <link>https://blog.purestorage.com/purely-technical/pure-cloud-block-store-with-cirrus-migrate-cloud/</link>
       <description></description>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Visualising SQL Server in Kubernetes</title>
+      <title>How to Auto-Generate Professional Kubernetes Architecture Diagrams for SQL Server</title>
       <link>https://blog.purestorage.com/purely-technical/visualising-sql-server-in-kubernetes/</link>
       <description></description>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
@@ -96,7 +102,7 @@
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Hyper-V: Cluster Shared Volumes, SQL Server, and FlashArray Snapshots</title>
+      <title>Migrating from VMware to Hyper-V? Don’t Lose Your SQL Server Snapshot Benefits</title>
       <link>https://blog.purestorage.com/purely-technical/hyper-v-cluster-shared-volumes-sql-server-and-flasharray-snapshots/</link>
       <description></description>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
@@ -126,7 +132,7 @@
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Storage Considerations for VMware Cloud Foundation with FlashArray</title>
+      <title>How to Get Complete Storage Flexibility in VMware Cloud Foundation</title>
       <link>https://blog.purestorage.com/purely-technical/storage-considerations-for-vmware-cloud-foundation-with-flasharray/</link>
       <description></description>
       <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
@@ -2617,13 +2623,13 @@
     </item>
     <item>
       <title>Understanding VMware ESXi Queuing and the FlashArray</title>
-      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray/</link>
+      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray-2/</link>
       <description></description>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Understanding VMware ESXi Queuing and the FlashArray</title>
-      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray-2/</link>
+      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray/</link>
       <description></description>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
     </item>
