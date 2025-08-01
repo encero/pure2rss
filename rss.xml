@@ -138,6 +138,12 @@
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How to Backup SAP HANA 2.0 MDC with Single Tenant on Pure</title>
+      <link>https://blog.purestorage.com/purely-technical/backup-of-sap-hana-2-0-mdc-with-single-tenant-on-pure-storage-part-1/</link>
+      <description></description>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>SQL Server Distributed Availability Groups and Kubernetes</title>
       <link>https://blog.purestorage.com/purely-technical/sql-server-distributed-availability-groups-and-kubernetes/</link>
       <description></description>
@@ -168,6 +174,12 @@
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>MongoDB vs. MariaDB: What’s the Difference?</title>
+      <link>https://blog.purestorage.com/purely-technical/mongodb-vs-mariadb-whats-the-difference/</link>
+      <description></description>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Introduction to Pure Storage FlashArray with VMware Cloud Foundation</title>
       <link>https://blog.purestorage.com/purely-technical/introduction-to-pure-storage-flasharray-with-vmware-cloud-foundation/</link>
       <description></description>
@@ -178,6 +190,12 @@
       <link>https://blog.purestorage.com/purely-technical/unlocking-performance-insights-using-resxtop-to-monitor-your-azure-vmware-solution-environment/</link>
       <description></description>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upgrading Operating Systems and SQL Servers</title>
+      <link>https://blog.purestorage.com/purely-technical/upgrading-operating-systems-and-sql-servers/</link>
+      <description></description>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Using T-SQL Snapshot Backup: Are Snapshots Backups?</title>
@@ -2256,12 +2274,6 @@
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Part 1: How to Backup SAP HANA 2.0 MDC with Single Tenant on Pure</title>
-      <link>https://blog.purestorage.com/purely-technical/backup-of-sap-hana-2-0-mdc-with-single-tenant-on-pure-storage-part-1/</link>
-      <description></description>
-      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>What is a VVol Datastore?</title>
       <link>https://blog.purestorage.com/purely-technical/what-is-a-vvol-datastore/</link>
       <description></description>
@@ -2467,13 +2479,13 @@
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>
@@ -3031,13 +3043,13 @@
     </item>
     <item>
       <title>Clouds Require Automation: Evaluation Criteria for Judging Maturity of Storage Array (and other Infrastructure) APIs</title>
-      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-apis/</link>
+      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-storage-array-apis/</link>
       <description></description>
       <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Clouds Require Automation: Evaluation Criteria for Judging Maturity of Storage Array (and other Infrastructure) APIs</title>
-      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-storage-array-apis/</link>
+      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-apis/</link>
       <description></description>
       <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
     </item>

@@ -767,15 +767,15 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/backup-of-sap-hana-2-0-mdc-with-single-tenant-on-pure-storage-part-1/",
-    "LastMod": "2025-05-01T14:49:02Z"
+    "LastMod": "2025-07-31T18:20:06Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "backup-of-sap-hana-2-0-mdc-with-single-tenant-on-pure-storage-part-1"
   },
-  "Title": "Part 1: How to Backup SAP HANA 2.0 MDC with Single Tenant on Pure",
+  "Title": "How to Backup SAP HANA 2.0 MDC with Single Tenant on Pure",
   "Summary": "",
-  "PublishDate": "2018-01-17T00:00:00Z",
+  "PublishDate": "2025-01-17T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/benefits-effective-log-coverage-analysis/": {
@@ -3994,6 +3994,21 @@
   "Title": "MongoDB: The Power of FlashArray Snapshot",
   "Summary": "",
   "PublishDate": "2019-07-15T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/mongodb-vs-mariadb-whats-the-difference/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/mongodb-vs-mariadb-whats-the-difference/",
+    "LastMod": "2025-07-31T20:59:23Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "mongodb-vs-mariadb-whats-the-difference"
+  },
+  "Title": "MongoDB vs. MariaDB: What’s the Difference?",
+  "Summary": "",
+  "PublishDate": "2024-12-17T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/monitoring-automatic-vmfs-6-unmap-in-esxi/": {
@@ -7441,6 +7456,21 @@
   "Title": "Upgrade Your Own FlashArray with Pure1",
   "Summary": "",
   "PublishDate": "2024-05-31T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/upgrading-operating-systems-and-sql-servers/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/upgrading-operating-systems-and-sql-servers/",
+    "LastMod": "2025-07-31T18:05:44Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "upgrading-operating-systems-and-sql-servers"
+  },
+  "Title": "Upgrading Operating Systems and SQL Servers",
+  "Summary": "",
+  "PublishDate": "2024-09-30T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/using-ansible-to-manage-your-pure-infrastructure/": {
