@@ -4185,7 +4185,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/near-zero-rpo-with-activedr-and-microsoft-sql-server/",
-    "LastMod": "2025-04-28T19:35:09Z"
+    "LastMod": "2025-07-31T17:48:13Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4193,7 +4193,7 @@
   },
   "Title": "Near-zero RPO with ActiveDR and Microsoft SQL Server",
   "Summary": "",
-  "PublishDate": "2020-10-23T00:00:00Z",
+  "PublishDate": "2024-10-23T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/new-flashstack-for-microsoft-exchange-server-2013/": {
