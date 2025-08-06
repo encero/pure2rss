@@ -240,6 +240,12 @@
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Rclone vs. Rsync</title>
+      <link>https://blog.purestorage.com/purely-technical/rclone-vs-rsync/</link>
+      <description></description>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Oracle Database 19c on Oracle Direct NFS Using FA File</title>
       <link>https://blog.purestorage.com/purely-technical/oracle-database-19c-on-oracle-direct-nfs-using-fa-file/</link>
       <description></description>
@@ -720,6 +726,12 @@
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Relational vs. Non-relational Databases</title>
+      <link>https://blog.purestorage.com/purely-technical/relational-vs-non-relational-databases/</link>
+      <description></description>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>FlashBlade 4.1.5: Increased Security, Flexibility, and Coverage for All FlashBlade Customers</title>
       <link>https://blog.purestorage.com/purely-technical/flashblade-4-1-5/</link>
       <description></description>
@@ -841,13 +853,13 @@
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
+      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
+      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
@@ -862,6 +874,12 @@
       <link>https://blog.purestorage.com/purely-technical/decrease-recovery-time-for-microsoft-sql-server-disasters-with-pure-cloud-block-store-in-microsoft-azure/</link>
       <description></description>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Task vs. Process in Linux</title>
+      <link>https://blog.purestorage.com/purely-technical/task-vs-process-in-linux/</link>
+      <description></description>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Accelerate DevOps with JFrog Artifactory Direct Cloud Storage </title>
@@ -1040,6 +1058,12 @@
     <item>
       <title>Application-Consistent SQL Server Backup and Recovery with vVols</title>
       <link>https://blog.purestorage.com/purely-technical/application-consistent-sql-server-backup-and-recovery-with-vvols/</link>
+      <description></description>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MySQL vs. MongoDB: What’s the Difference?</title>
+      <link>https://blog.purestorage.com/purely-technical/mysql-vs-mongodb-whats-the-difference/</link>
       <description></description>
       <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
     </item>
@@ -2479,13 +2503,13 @@
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>

@@ -4130,6 +4130,21 @@
    "VMware"
   ]
  },
+ "https://blog.purestorage.com/purely-technical/mysql-vs-mongodb-whats-the-difference/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/mysql-vs-mongodb-whats-the-difference/",
+    "LastMod": "2025-08-05T18:01:52Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "mysql-vs-mongodb-whats-the-difference"
+  },
+  "Title": "MySQL vs. MongoDB: What’s the Difference?",
+  "Summary": "",
+  "PublishDate": "2022-01-14T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/national-coding-week-upskill-your-coding-knowledge-with-pure-storage/": {
   "PostLink": {
    "Link": {
@@ -5689,6 +5704,21 @@
   "PublishDate": "2025-02-28T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/rclone-vs-rsync/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/rclone-vs-rsync/",
+    "LastMod": "2025-08-05T16:27:05Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "rclone-vs-rsync"
+  },
+  "Title": "Rclone vs. Rsync",
+  "Summary": "",
+  "PublishDate": "2024-09-11T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/reach-your-data-resiliency-high-score/": {
   "PostLink": {
    "Link": {
@@ -5839,6 +5869,21 @@
   "Title": "Registering VASA with PowerShell",
   "Summary": "",
   "PublishDate": "2019-07-08T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/relational-vs-non-relational-databases/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/relational-vs-non-relational-databases/",
+    "LastMod": "2025-08-05T17:55:55Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "relational-vs-non-relational-databases"
+  },
+  "Title": "Relational vs. Non-relational Databases",
+  "Summary": "",
+  "PublishDate": "2023-06-29T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/remove-the-windows-features-you-dont-need-to-save-some-space/": {
@@ -6967,6 +7012,21 @@
    "Purity",
    "SafeMode Snapshots"
   ]
+ },
+ "https://blog.purestorage.com/purely-technical/task-vs-process-in-linux/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/task-vs-process-in-linux/",
+    "LastMod": "2025-08-05T17:57:38Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "task-vs-process-in-linux"
+  },
+  "Title": "Task vs. Process in Linux",
+  "Summary": "",
+  "PublishDate": "2022-11-21T00:00:00Z",
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/technically-speaking-on-pure-fusion/": {
   "PostLink": {
