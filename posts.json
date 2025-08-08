@@ -1296,6 +1296,21 @@
   "PublishDate": "2022-06-15T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/containers-vs-vms/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/containers-vs-vms/",
+    "LastMod": "2025-08-07T16:18:30Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "containers-vs-vms"
+  },
+  "Title": "Containers vs. VMs",
+  "Summary": "",
+  "PublishDate": "2023-05-15T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/continuing-the-journey-of-data-resilience/": {
   "PostLink": {
    "Link": {
@@ -2809,7 +2824,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-build-a-langchain-chatbot-with-pure-storage/",
-    "LastMod": "2024-08-10T19:37:10Z"
+    "LastMod": "2025-08-07T19:38:10Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2839,7 +2854,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-cli-scripting-by-miranda-steele-guest-blogger/",
-    "LastMod": "2025-03-17T09:12:54Z"
+    "LastMod": "2025-08-07T19:35:03Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3016,6 +3031,21 @@
    "Data Protection",
    "FlashArray//X NVMe"
   ]
+ },
+ "https://blog.purestorage.com/purely-technical/how-to-reduce-ai-power-consumption-in-the-data-center/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/how-to-reduce-ai-power-consumption-in-the-data-center/",
+    "LastMod": "2025-08-07T16:28:08Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-reduce-ai-power-consumption-in-the-data-center"
+  },
+  "Title": "How to Reduce AI Power Consumption in the Data Center",
+  "Summary": "",
+  "PublishDate": "2024-06-20T00:00:00Z",
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/how-to-replicate-flashblade-s3-objects-to-oracle-cloud-infrastructure-object-storage/": {
   "PostLink": {
@@ -3353,6 +3383,21 @@
   "PublishDate": "2019-07-13T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/integrated-vs-dedicated-gpus/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/integrated-vs-dedicated-gpus/",
+    "LastMod": "2025-08-07T16:42:33Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "integrated-vs-dedicated-gpus"
+  },
+  "Title": "Integrated vs Dedicated GPUs",
+  "Summary": "",
+  "PublishDate": "2023-12-11T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/integration-of-pure-storage-with-solarwinds/": {
   "PostLink": {
    "Link": {
@@ -3656,6 +3701,21 @@
    "FlashArray//X NVMe",
    "Microsoft"
   ]
+ },
+ "https://blog.purestorage.com/purely-technical/ldaps-port-number-tcp-636-lightweight/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/ldaps-port-number-tcp-636-lightweight/",
+    "LastMod": "2025-08-08T15:31:24Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "ldaps-port-number-tcp-636-lightweight"
+  },
+  "Title": "LDAPS Port Number: TCP 636",
+  "Summary": "",
+  "PublishDate": "2023-06-12T00:00:00Z",
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/leveraging-flasharray-continuous-integration-build-pipeline/": {
   "PostLink": {
@@ -7817,6 +7877,21 @@
   "Tags": [
    "Oracle"
   ]
+ },
+ "https://blog.purestorage.com/purely-technical/vcf-vs-vvf-which-is-right-for-your-business/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/vcf-vs-vvf-which-is-right-for-your-business/",
+    "LastMod": "2025-08-07T16:41:23Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "vcf-vs-vvf-which-is-right-for-your-business"
+  },
+  "Title": "VCF vs. VVF: Which Is Right for Your Business?",
+  "Summary": "",
+  "PublishDate": "2025-02-11T00:00:00Z",
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/vcsa-6-5-fails-to-boot/": {
   "PostLink": {

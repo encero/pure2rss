@@ -126,6 +126,12 @@
       <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>VCF vs. VVF: Which Is Right for Your Business?</title>
+      <link>https://blog.purestorage.com/purely-technical/vcf-vs-vvf-which-is-right-for-your-business/</link>
+      <description></description>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Introducing SQL Server 2025 – Enterprise-ready AI</title>
       <link>https://blog.purestorage.com/purely-technical/introducing-sql-server-2025-enterprise-ready-ai/</link>
       <description></description>
@@ -310,6 +316,12 @@
       <link>https://blog.purestorage.com/purely-technical/iscsi-setup-with-flasharray/</link>
       <description></description>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Reduce AI Power Consumption in the Data Center</title>
+      <link>https://blog.purestorage.com/purely-technical/how-to-reduce-ai-power-consumption-in-the-data-center/</link>
+      <description></description>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Enhanced Anomaly Detection in Pure1</title>
@@ -520,6 +532,12 @@
       <link>https://blog.purestorage.com/purely-technical/vmfs-management-on-azure-vmware-solution-and-pure-cloud-block-store/</link>
       <description></description>
       <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Integrated vs Dedicated GPUs</title>
+      <link>https://blog.purestorage.com/purely-technical/integrated-vs-dedicated-gpus/</link>
+      <description></description>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Build a LangChain Chatbot Pt. 2: Similarity Searching a Vectorstore from FlashBlade S3</title>
@@ -762,6 +780,12 @@
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>LDAPS Port Number: TCP 636</title>
+      <link>https://blog.purestorage.com/purely-technical/ldaps-port-number-tcp-636-lightweight/</link>
+      <description></description>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Your Questions About HAR Files Answered</title>
       <link>https://blog.purestorage.com/purely-technical/har-files-questions-answered/</link>
       <description></description>
@@ -796,6 +820,12 @@
       <link>https://blog.purestorage.com/purely-technical/improving-python-s3-client-performance-with-rust/</link>
       <description></description>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Containers vs. VMs</title>
+      <link>https://blog.purestorage.com/purely-technical/containers-vs-vms/</link>
+      <description></description>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Leverage Object Storage via Fuse Filesystems</title>
@@ -853,13 +883,13 @@
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
+      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
+      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
@@ -2671,13 +2701,13 @@
     </item>
     <item>
       <title>Understanding VMware ESXi Queuing and the FlashArray</title>
-      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray-2/</link>
+      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray/</link>
       <description></description>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Understanding VMware ESXi Queuing and the FlashArray</title>
-      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray/</link>
+      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray-2/</link>
       <description></description>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
     </item>
