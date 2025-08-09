@@ -2290,7 +2290,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/finally-truly-unified-block-and-file-a-look-at-the-details/",
-    "LastMod": "2024-10-03T20:55:49Z"
+    "LastMod": "2025-08-09T14:35:05Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2899,7 +2899,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-deploy-a-vm-analytics-collector-with-ipv6-ip-protocol-and-static-networking/",
-    "LastMod": "2025-05-09T07:49:57Z"
+    "LastMod": "2025-08-09T03:37:21Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3449,7 +3449,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/introducing-vsphere-virtual-volumes-on-the-flasharray/",
-    "LastMod": "2025-03-26T15:28:26Z"
+    "LastMod": "2025-08-08T18:18:16Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6398,7 +6398,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sap-hana-migration-from-on-premises-to-the-cloud/",
-    "LastMod": "2022-08-22T18:53:17Z"
+    "LastMod": "2025-08-08T19:32:30Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6407,11 +6407,7 @@
   "Title": "SAP HANA Migration from On-premises to the Cloud",
   "Summary": "",
   "PublishDate": "2018-11-19T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe",
-   "Pure Cloud Block Store",
-   "SAP"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/sap-hana-on-pure-storage-flasharray-file/": {
   "PostLink": {
@@ -6447,13 +6443,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sap-s-4hana-migration-lift-shift-from-on-prem-to-aws-using-cloud-block-store/",
-    "LastMod": "2025-04-30T18:00:39Z"
+    "LastMod": "2025-08-08T19:35:16Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "sap-s-4hana-migration-lift-shift-from-on-prem-to-aws-using-cloud-block-store"
   },
-  "Title": "How To: SAP S/4HANA Migration from On-Prem to Public Cloud",
+  "Title": "How to: Seamless Migration of Mission-Critical SAP S/4HANA to AWS Using Pure Storage Cloud Block Store",
   "Summary": "",
   "PublishDate": "2019-06-11T00:00:00Z",
   "Tags": []
@@ -7597,7 +7593,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-ansible-to-manage-your-pure-infrastructure/",
-    "LastMod": "2025-03-26T16:36:18Z"
+    "LastMod": "2025-08-07T19:28:50Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
