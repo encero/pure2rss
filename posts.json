@@ -2914,13 +2914,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-double-oltp-throughput-without-code-changes-hammerdb-on-flasharray-xl/",
-    "LastMod": "2025-07-21T13:22:45Z"
+    "LastMod": "2025-08-11T18:13:30Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "how-to-double-oltp-throughput-without-code-changes-hammerdb-on-flasharray-xl"
   },
-  "Title": "How to Double OLTP Throughput without Code Changes: A HammerDB on FlashArray//XL How-To",
+  "Title": "How to Double OLTP Throughput without Code Changes: HammerDB on FlashArray//XL",
   "Summary": "",
   "PublishDate": "2025-07-21T00:00:00Z",
   "Tags": []
@@ -3888,7 +3888,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/managing-vector-storage-bloat-insights-for-scalable-systems/",
-    "LastMod": "2025-07-23T19:52:35Z"
+    "LastMod": "2025-08-11T15:50:56Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4245,7 +4245,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/ndu/",
-    "LastMod": "2025-03-26T16:29:32Z"
+    "LastMod": "2025-08-12T15:41:20Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
