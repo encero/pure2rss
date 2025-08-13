@@ -48,7 +48,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/4-common-issues-with-mysql-how-to-solve/",
-    "LastMod": "2025-06-26T13:49:20Z"
+    "LastMod": "2025-08-12T18:37:32Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1116,7 +1116,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/cloning-oracle-database-cloud/",
-    "LastMod": "2025-05-02T18:50:33Z"
+    "LastMod": "2025-08-11T21:02:13Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1285,7 +1285,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/consolidate-oracle-workloads-with-flasharray-xl/",
-    "LastMod": "2025-05-01T21:15:44Z"
+    "LastMod": "2025-08-12T18:20:28Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1300,7 +1300,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/containers-vs-vms/",
-    "LastMod": "2025-08-07T16:18:30Z"
+    "LastMod": "2025-08-12T19:18:37Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2194,15 +2194,15 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/extend-sql-server-resilience-with-a-pure-validated-design/",
-    "LastMod": "2025-04-28T19:34:51Z"
+    "LastMod": "2025-08-11T20:06:21Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "extend-sql-server-resilience-with-a-pure-validated-design"
   },
-  "Title": "Extend SQL Server Resilience with a Pure Validated Design",
+  "Title": "Extend SQL Server Resilience with Pure Validated Designs",
   "Summary": "",
-  "PublishDate": "2021-03-18T00:00:00Z",
+  "PublishDate": "2025-03-18T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/extending-root-volume-on-lvm-on-pure-flasharray/": {
@@ -3214,7 +3214,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/improve-open-source-database-operations-with-aws-outposts-by-4x/",
-    "LastMod": "2025-04-28T17:29:53Z"
+    "LastMod": "2025-08-11T19:29:02Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3449,7 +3449,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/introducing-vsphere-virtual-volumes-on-the-flasharray/",
-    "LastMod": "2025-08-08T18:18:16Z"
+    "LastMod": "2025-08-12T15:20:44Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4615,7 +4615,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/on-premises-storage-and-aws-outposts/",
-    "LastMod": "2025-01-30T20:53:27Z"
+    "LastMod": "2025-08-12T19:46:45Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4678,7 +4678,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/optimize-your-cloud-storage-bill/",
-    "LastMod": "2024-09-09T16:52:41Z"
+    "LastMod": "2025-08-12T20:58:27Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5611,7 +5611,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/purity-fa-comes-with-offloaded-data-transfer-odx/",
-    "LastMod": "2025-05-05T16:21:54Z"
+    "LastMod": "2025-08-13T15:54:54Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
