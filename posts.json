@@ -1200,7 +1200,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/comparing-vvols-to-vmdks-and-rdms/",
-    "LastMod": "2024-05-11T15:15:34Z"
+    "LastMod": "2025-08-13T19:49:22Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1209,10 +1209,7 @@
   "Title": "Comparing VVols to VMDKs and RDMs",
   "Summary": "",
   "PublishDate": "2017-10-19T00:00:00Z",
-  "Tags": [
-   "Virtualization",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/concurrent-programming-case-study-comparing-python-go-and-rust/": {
   "PostLink": {
@@ -2194,7 +2191,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/extend-sql-server-resilience-with-a-pure-validated-design/",
-    "LastMod": "2025-08-11T20:06:21Z"
+    "LastMod": "2025-08-14T22:01:21Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2202,7 +2199,7 @@
   },
   "Title": "Extend SQL Server Resilience with Pure Validated Designs",
   "Summary": "",
-  "PublishDate": "2025-03-18T00:00:00Z",
+  "PublishDate": "2024-03-18T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/extending-root-volume-on-lvm-on-pure-flasharray/": {
@@ -3154,7 +3151,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/hyper-v-cluster-shared-volumes-sql-server-and-flasharray-snapshots/",
-    "LastMod": "2025-07-22T20:38:58Z"
+    "LastMod": "2025-08-14T22:02:46Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3888,7 +3885,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/managing-vector-storage-bloat-insights-for-scalable-systems/",
-    "LastMod": "2025-08-11T15:50:56Z"
+    "LastMod": "2025-08-14T14:42:40Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3897,6 +3894,21 @@
   "Title": "Managing Vector Storage Bloat: 4 Key Insights for Scalable Systems",
   "Summary": "",
   "PublishDate": "2025-07-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/maximize-the-value-of-your-vmware-environment/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/maximize-the-value-of-your-vmware-environment/",
+    "LastMod": "2025-08-14T14:51:54Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "maximize-the-value-of-your-vmware-environment"
+  },
+  "Title": "5 Things Your Data Storage Absolutely Must Deliver to Maximize the Value of Your VMware Environment",
+  "Summary": "",
+  "PublishDate": "2025-06-30T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/metadata-ai-rapidfile-toolkit/": {
@@ -3922,7 +3934,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/migration-to-microsoft-azure-made-easy-with-pure-cloud-block-store/",
-    "LastMod": "2024-04-26T01:40:36Z"
+    "LastMod": "2025-08-13T18:10:16Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3931,13 +3943,7 @@
   "Title": "How to Simplify Cloud Migration to Microsoft Azure",
   "Summary": "",
   "PublishDate": "2021-08-23T00:00:00Z",
-  "Tags": [
-   "Azure",
-   "FlashArray//X NVMe",
-   "Microsoft",
-   "Pure Cloud Block Store",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/minimize-the-impact-of-a-cyber-attack-with-commvault-and-pure-storage/": {
   "PostLink": {
@@ -4194,7 +4200,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/mysql-vs-mongodb-whats-the-difference/",
-    "LastMod": "2025-08-05T18:01:52Z"
+    "LastMod": "2025-08-14T21:56:11Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4260,7 +4266,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/near-zero-rpo-with-activedr-and-microsoft-sql-server/",
-    "LastMod": "2025-07-31T17:48:13Z"
+    "LastMod": "2025-08-14T21:36:46Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4723,7 +4729,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/oracle-database-19c-on-oracle-direct-nfs-using-fa-file/",
-    "LastMod": "2025-03-18T16:58:07Z"
+    "LastMod": "2025-08-14T14:41:35Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4791,7 +4797,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/overwriting-a-volume-in-windows-server/",
-    "LastMod": "2025-01-21T21:07:42Z"
+    "LastMod": "2025-08-14T21:52:49Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5289,7 +5295,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-optimizing-gpu-performance-utilization-for-ai-workloads/",
-    "LastMod": "2025-07-20T13:47:49Z"
+    "LastMod": "2025-08-14T14:33:21Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5671,7 +5677,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/queue-depth-limits-and-vvol-protocol-endpoints/",
-    "LastMod": "2024-05-11T15:25:22Z"
+    "LastMod": "2025-08-13T21:23:23Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5680,10 +5686,7 @@
   "Title": "Queue Depth Limits and VVol Protocol Endpoints",
   "Summary": "",
   "PublishDate": "2017-06-21T00:00:00Z",
-  "Tags": [
-   "Virtualization",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/quick-start-guide-for-the-pure-storage-powershell-toolkit/": {
   "PostLink": {
@@ -5768,7 +5771,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/rclone-vs-rsync/",
-    "LastMod": "2025-08-05T16:27:05Z"
+    "LastMod": "2025-08-13T17:24:30Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5935,7 +5938,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/relational-vs-non-relational-databases/",
-    "LastMod": "2025-08-05T17:55:55Z"
+    "LastMod": "2025-08-14T21:53:58Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5980,7 +5983,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/resilient-sql-server-refresh-dr-strategy-persistent-topology-tagging/",
-    "LastMod": "2025-07-18T14:22:02Z"
+    "LastMod": "2025-08-14T16:43:27Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6093,7 +6096,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/rip-asm-filter-drivers/",
-    "LastMod": "2025-07-22T18:38:39Z"
+    "LastMod": "2025-08-14T14:41:52Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6851,7 +6854,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sql-server-2025-enterprise-ai-without-the-learning-curve/",
-    "LastMod": "2025-06-04T17:08:20Z"
+    "LastMod": "2025-08-14T21:59:09Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6881,7 +6884,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sql-server-distributed-availability-groups-and-kubernetes/",
-    "LastMod": "2025-04-28T19:22:10Z"
+    "LastMod": "2025-08-14T22:03:08Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6896,7 +6899,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sql-server-distributed-availability-groups-and-portworx/",
-    "LastMod": "2025-06-06T20:32:04Z"
+    "LastMod": "2025-08-14T22:00:57Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7073,7 +7076,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/task-vs-process-in-linux/",
-    "LastMod": "2025-08-05T17:57:38Z"
+    "LastMod": "2025-08-14T17:44:29Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7103,7 +7106,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/terraform-vs-ansible-when-to-use-each/",
-    "LastMod": "2025-08-05T15:05:55Z"
+    "LastMod": "2025-08-13T16:16:43Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7421,7 +7424,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray/",
-    "LastMod": "2025-05-15T18:53:37Z"
+    "LastMod": "2025-08-13T21:24:31Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7453,7 +7456,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/unlocking-performance-insights-using-resxtop-to-monitor-your-azure-vmware-solution-environment/",
-    "LastMod": "2025-03-04T14:46:50Z"
+    "LastMod": "2025-08-14T14:42:20Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7750,7 +7753,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-are-snapshots-backups/",
-    "LastMod": "2025-04-28T19:22:28Z"
+    "LastMod": "2025-08-14T21:52:20Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7765,7 +7768,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-multi-array-database-snapshots/",
-    "LastMod": "2025-04-28T17:22:02Z"
+    "LastMod": "2025-08-14T14:37:21Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7878,7 +7881,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/vcf-vs-vvf-which-is-right-for-your-business/",
-    "LastMod": "2025-08-07T16:41:23Z"
+    "LastMod": "2025-08-14T14:50:30Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7993,7 +7996,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/virtual-volumes-vvol-bindings-explained/",
-    "LastMod": "2024-05-11T14:33:48Z"
+    "LastMod": "2025-08-13T21:18:25Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8002,16 +8005,13 @@
   "Title": "Virtual Volumes: VVol Bindings Explained",
   "Summary": "",
   "PublishDate": "2017-09-28T00:00:00Z",
-  "Tags": [
-   "Virtualization",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/visualising-sql-server-in-kubernetes/": {
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/visualising-sql-server-in-kubernetes/",
-    "LastMod": "2025-07-22T20:48:15Z"
+    "LastMod": "2025-08-14T22:01:41Z"
    },
    "Lang": "en",
    "Category": "purely-technical",

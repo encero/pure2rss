@@ -42,6 +42,12 @@
       <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>5 Things Your Data Storage Absolutely Must Deliver to Maximize the Value of Your VMware Environment</title>
+      <link>https://blog.purestorage.com/purely-technical/maximize-the-value-of-your-vmware-environment/</link>
+      <description></description>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>​​Vertically Scaling SQL Server Online in Kubernetes</title>
       <link>https://blog.purestorage.com/purely-technical/vertically-scaling-sql-server-online-in-kubernetes/</link>
       <description></description>
@@ -94,12 +100,6 @@
       <link>https://blog.purestorage.com/purely-technical/sql-server-distributed-availability-groups-and-portworx/</link>
       <description></description>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Extend SQL Server Resilience with Pure Validated Designs</title>
-      <link>https://blog.purestorage.com/purely-technical/extend-sql-server-resilience-with-a-pure-validated-design/</link>
-      <description></description>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Part 1: Streamline Your Cloud Data Migration with Pure Cloud Block Store and Cirrus Migrate</title>
@@ -424,6 +424,12 @@
       <link>https://blog.purestorage.com/purely-technical/troubles-with-get-mpiosetting-in-windows-server/</link>
       <description></description>
       <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Extend SQL Server Resilience with Pure Validated Designs</title>
+      <link>https://blog.purestorage.com/purely-technical/extend-sql-server-resilience-with-a-pure-validated-design/</link>
+      <description></description>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Quick Start Guide for the Pure Storage PowerShell Toolkit</title>
