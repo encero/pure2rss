@@ -464,7 +464,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/announcing-pure-storage-cloud-block-store-for-aws/",
-    "LastMod": "2024-11-25T21:25:08Z"
+    "LastMod": "2025-08-13T20:28:22Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1943,7 +1943,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/eliminate-mysql-and-mariadb-replication-time-to-availability/",
-    "LastMod": "2025-06-19T13:20:46Z"
+    "LastMod": "2025-08-12T18:41:14Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2881,7 +2881,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-create-scalable-and-reliable-kubernetes-logging/",
-    "LastMod": "2024-11-05T16:55:10Z"
+    "LastMod": "2025-08-14T20:02:02Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4200,7 +4200,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/mysql-vs-mongodb-whats-the-difference/",
-    "LastMod": "2025-08-14T21:56:11Z"
+    "LastMod": "2025-08-15T18:10:28Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5557,7 +5557,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-rest-api-part-2/",
-    "LastMod": "2025-04-29T15:28:26Z"
+    "LastMod": "2025-08-15T16:41:15Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6869,7 +6869,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sql-server-2025-streamlining-t-sql-snapshot-backups/",
-    "LastMod": "2025-06-13T02:03:33Z"
+    "LastMod": "2025-08-14T21:59:41Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8204,19 +8204,16 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/vmware-storage-capacity-reporting-part-i-vmfs-and-thin-virtual-disks/",
-    "LastMod": "2024-05-18T12:08:06Z"
+    "LastMod": "2025-08-13T20:54:00Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "vmware-storage-capacity-reporting-part-i-vmfs-and-thin-virtual-disks"
   },
-  "Title": "VMware Storage Capacity Reporting Part I: VMFS and Thin Virtual Disks",
+  "Title": "VMFS and Thin Virtual Disks",
   "Summary": "",
   "PublishDate": "2018-02-20T00:00:00Z",
-  "Tags": [
-   "Virtualization",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/vmware-storage-capacity-reporting-part-ii-vmfs-and-thick-virtual-disks/": {
   "PostLink": {
@@ -8490,7 +8487,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/what-is-a-vvol-datastore/",
-    "LastMod": "2024-05-11T15:42:17Z"
+    "LastMod": "2025-08-13T20:59:43Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8499,11 +8496,7 @@
   "Title": "What is a VVol Datastore?",
   "Summary": "",
   "PublishDate": "2018-01-16T00:00:00Z",
-  "Tags": [
-   "Virtualization",
-   "VMware",
-   "vVols"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/what-is-new-with-cbs-terraform-provider-0-9-0/": {
   "PostLink": {
