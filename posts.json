@@ -5737,7 +5737,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/rapid-restore-of-vmware-with-veeam-and-flasharray-c/",
-    "LastMod": "2024-02-17T01:03:32Z"
+    "LastMod": "2025-08-15T18:25:59Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5746,17 +5746,13 @@
   "Title": "Rapid Restore of VMware with Veeam and FlashArray//C",
   "Summary": "",
   "PublishDate": "2020-08-14T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe",
-   "Veeam",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/rapidly-recovering-from-sql-server-data-mishaps-with-flasharray-snapshots/": {
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/rapidly-recovering-from-sql-server-data-mishaps-with-flasharray-snapshots/",
-    "LastMod": "2025-04-28T19:21:05Z"
+    "LastMod": "2025-08-14T22:02:00Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
