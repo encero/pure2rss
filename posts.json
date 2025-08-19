@@ -1812,7 +1812,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/",
-    "LastMod": "2025-03-07T19:59:45Z"
+    "LastMod": "2025-08-18T17:07:31Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6754,6 +6754,21 @@
   "Title": "How to Simplify Kafka at Scale with Confluent Tiered Storage",
   "Summary": "",
   "PublishDate": "2023-04-22T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/smb-a-fresh-spin-on-a-classic/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/smb-a-fresh-spin-on-a-classic/",
+    "LastMod": "2025-08-15T19:49:46Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "smb-a-fresh-spin-on-a-classic"
+  },
+  "Title": "SMB: A Fresh Spin on a Classic  ",
+  "Summary": "",
+  "PublishDate": "2021-03-10T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/sneak-peek-managing-a-flasharray-m-with-the-new-pure-storage-powershell-sdk-1-0/": {
