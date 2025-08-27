@@ -6468,6 +6468,21 @@
   "PublishDate": "2012-01-17T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/scale-ai-cloud-architecture-portworx/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/scale-ai-cloud-architecture-portworx/",
+    "LastMod": "2025-08-27T14:47:56Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "scale-ai-cloud-architecture-portworx"
+  },
+  "Title": "Cloud-first, Never Cloud-stuck: Scaling AI without Regret",
+  "Summary": "",
+  "PublishDate": "2025-08-26T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/scale-eda-workloads-linearly-with-flashblade-all-flash-storage/": {
   "PostLink": {
    "Link": {
