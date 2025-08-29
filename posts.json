@@ -18,7 +18,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/20x-faster-inference-first-kv-cache-for-s3-and-nfs/",
-    "LastMod": "2025-08-04T15:36:17Z"
+    "LastMod": "2025-08-28T23:36:57Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4452,6 +4452,21 @@
    "Purity//FA Releases"
   ]
  },
+ "https://blog.purestorage.com/purely-technical/nfs-basics-on-flasharray/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/nfs-basics-on-flasharray/",
+    "LastMod": "2025-08-28T19:31:52Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "nfs-basics-on-flasharray"
+  },
+  "Title": "‘Did We Just Become Best Friends?!’: NFS Basics on FlashArray",
+  "Summary": "",
+  "PublishDate": "2025-08-28T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/nmp-multipathing-rules-for-the-flasharray-are-now-default-2/": {
   "PostLink": {
    "Link": {
@@ -5527,7 +5542,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-data-protection-assessment-tool/",
-    "LastMod": "2025-03-26T19:17:17Z"
+    "LastMod": "2025-08-28T21:48:50Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8680,7 +8695,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/why-iops-dont-matter/",
-    "LastMod": "2024-10-30T17:12:02Z"
+    "LastMod": "2025-08-28T21:50:12Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
