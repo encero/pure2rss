@@ -114,10 +114,22 @@
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How Hospitals Use Diagnostic Analytics &amp; AI in Healthcare</title>
+      <link>https://blog.purestorage.com/purely-technical/how-hospitals-use-diagnostic-analytics-ai-in-healthcare/</link>
+      <description></description>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Part 1: Streamline Your Cloud Data Migration with Pure Cloud Block Store and Cirrus Migrate</title>
       <link>https://blog.purestorage.com/purely-technical/pure-cloud-block-store-with-cirrus-migrate-cloud/</link>
       <description></description>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Greenfield vs. Brownfield Data Centers: The Strategic Decision Defining The Next Decade</title>
+      <link>https://blog.purestorage.com/purely-technical/greenfield-vs-brownfield-data-centers/</link>
+      <description></description>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Auto-Generate Professional Kubernetes Architecture Diagrams for SQL Server</title>
@@ -136,6 +148,12 @@
       <link>https://blog.purestorage.com/purely-technical/hyper-v-cluster-shared-volumes-sql-server-and-flasharray-snapshots/</link>
       <description></description>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CPU vs. GPU for Machine Learning</title>
+      <link>https://blog.purestorage.com/purely-technical/cpu-vs-gpu-for-machine-learning/</link>
+      <description></description>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Using T-SQL Snapshot Backup: Multi-array Database Snapshots</title>
@@ -186,6 +204,18 @@
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>SQL UPDATE vs. INSERT vs. UPSERT</title>
+      <link>https://blog.purestorage.com/purely-technical/sql-update-vs-insert-vs-upsert/</link>
+      <description></description>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is MTU Size and How Do You Calculate It?</title>
+      <link>https://blog.purestorage.com/purely-technical/what-is-mtu-size-and-how-do-you-calculate-it/</link>
+      <description></description>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Enhancing Pure Cloud Block Store with Multi-tenant Capabilities</title>
       <link>https://blog.purestorage.com/purely-technical/enhancing-pure-cloud-block-store-with-multi-tenant-capabilities/</link>
       <description></description>
@@ -204,6 +234,24 @@
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How to Benchmark MySQL Performance</title>
+      <link>https://blog.purestorage.com/purely-technical/how-to-benchmark-mysql-performance/</link>
+      <description></description>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top 8 VMware Alternatives</title>
+      <link>https://blog.purestorage.com/purely-technical/top-8-vmware-alternatives/</link>
+      <description></description>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Create Tables with MariaDB</title>
+      <link>https://blog.purestorage.com/purely-technical/how-to-create-tables-with-mariadb/</link>
+      <description></description>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Introduction to Pure Storage FlashArray with VMware Cloud Foundation</title>
       <link>https://blog.purestorage.com/purely-technical/introduction-to-pure-storage-flasharray-with-vmware-cloud-foundation/</link>
       <description></description>
@@ -214,6 +262,12 @@
       <link>https://blog.purestorage.com/purely-technical/near-zero-rpo-with-activedr-and-microsoft-sql-server/</link>
       <description></description>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data Mesh vs. Data Fabric: What’s the Difference?</title>
+      <link>https://blog.purestorage.com/purely-technical/data-mesh-vs-data-fabric-whats-the-difference/</link>
+      <description></description>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Unlocking Performance Insights: Using resxtop to Monitor Your Azure VMware Solution Environment</title>
@@ -426,6 +480,12 @@
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>SQL vs NoSQL: Storage Architecture as the Performance Foundation</title>
+      <link>https://blog.purestorage.com/purely-technical/sql-vs-nosql-databases/</link>
+      <description></description>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Windows Server Failover Clusters, Disk Signatures &amp; Snapshots</title>
       <link>https://blog.purestorage.com/purely-technical/windows-server-failover-clusters-disk-signatures-snapshots/</link>
       <description></description>
@@ -474,6 +534,18 @@
       <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Blurred Lines of Data Sovereignty: Do You Really Own Your Data?</title>
+      <link>https://blog.purestorage.com/purely-technical/the-blurred-lines-of-data-sovereignty-do-you-really-own-your-data/</link>
+      <description></description>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Denormalized vs. Normalized Data</title>
+      <link>https://blog.purestorage.com/purely-technical/denormalized-vs-normalized-data/</link>
+      <description></description>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Harnessing Static and Dynamic Code Scanning in DevSecOps</title>
       <link>https://blog.purestorage.com/purely-technical/harnessing-static-and-dynamic-code-scanning-in-devsecops/</link>
       <description></description>
@@ -514,6 +586,12 @@
       <link>https://blog.purestorage.com/purely-technical/pure-e-family-technical/</link>
       <description></description>
       <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ETL vs. ELT: The Complete 2025 Guide to Modern Data Pipeline Architecture</title>
+      <link>https://blog.purestorage.com/purely-technical/etl-vs-elt/</link>
+      <description></description>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Monitoring Automatic VMFS-6 UNMAP in ESXi</title>
@@ -660,6 +738,12 @@
       <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>SLA vs. SLO vs. SLI: What’s the Difference and Why They Matter</title>
+      <link>https://blog.purestorage.com/purely-technical/sla-vs-slo-vs-sli-whats-the-difference-and-why-they-matter/</link>
+      <description></description>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>FlashBlade S3 and ElasticSearch: The Journey to Disaggregation</title>
       <link>https://blog.purestorage.com/purely-technical/flashblade-s3-and-elasticsearch-the-journey-to-disaggregation/</link>
       <description></description>
@@ -702,6 +786,12 @@
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Types of NoSQL Databases</title>
+      <link>https://blog.purestorage.com/purely-technical/types-of-nosql-databases/</link>
+      <description></description>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How to Implement Threat Modeling in Your DevSecOps Process</title>
       <link>https://blog.purestorage.com/purely-technical/how-to-implement-threat-modeling-in-your-devsecops-process/</link>
       <description></description>
@@ -724,6 +814,12 @@
       <link>https://blog.purestorage.com/purely-technical/bytecode-vs-machine-code/</link>
       <description></description>
       <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data Fabric vs. Data Lake vs. Data Warehouse</title>
+      <link>https://blog.purestorage.com/purely-technical/data-fabric-vs-data-lake-vs-data-warehouse/</link>
+      <description></description>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Build an Open Data Lakehouse with Spark, Delta, and Trino on S3</title>
@@ -794,6 +890,12 @@
     <item>
       <title>How to Deploy A Monitoring Stack in Kubernetes with Prometheus and Grafana</title>
       <link>https://blog.purestorage.com/purely-technical/introductory-monitoring-stack-with-prometheus-and-grafana/</link>
+      <description></description>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is the /etc/hosts File in Linux?</title>
+      <link>https://blog.purestorage.com/purely-technical/what-is-the-etc-hosts-file-in-linux/</link>
       <description></description>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
     </item>
@@ -882,16 +984,40 @@
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How to Diagram a Data Warehouse</title>
+      <link>https://blog.purestorage.com/purely-technical/how-to-diagram-a-data-warehouse/</link>
+      <description></description>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>DirectCompress Accelerator Packs More into FlashArray//XL</title>
       <link>https://blog.purestorage.com/purely-technical/directcompress-accelerator-packs-more-data-into-flasharray-xl/</link>
       <description></description>
       <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Data Warehouse vs. Data Lake: Which to Use</title>
+      <link>https://blog.purestorage.com/purely-technical/data-warehouse-vs-data-lake-which-to-use/</link>
+      <description></description>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>FlashArray with NVMe/TCP: The Performance Advantage of Pure Storage</title>
       <link>https://blog.purestorage.com/purely-technical/flasharray-extends-nvme-of-support-to-tcp/</link>
       <description></description>
       <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Migrate to Kubernetes?</title>
+      <link>https://blog.purestorage.com/purely-technical/why-migrate-to-kubernetes/</link>
+      <description></description>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Create an S3 Bucket with Terraform</title>
+      <link>https://blog.purestorage.com/purely-technical/how-to-create-an-s3-bucket-with-terraform/</link>
+      <description></description>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Configure the VM Analytics Collector for the Pure1 VM Analytics Feature</title>
@@ -907,13 +1033,13 @@
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
+      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
+      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
@@ -954,6 +1080,12 @@
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Docker Images vs. Docker Containers: Understanding the Foundation of Modern Cloud-Native Architecture</title>
+      <link>https://blog.purestorage.com/purely-technical/docker-images-vs-docker-containers-are-they-the-same/</link>
+      <description></description>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How to Attach/Detach SQL Server Databases with PowerShell</title>
       <link>https://blog.purestorage.com/purely-technical/attach-detach-sql-server-databases-with-powershell/</link>
       <description></description>
@@ -972,10 +1104,28 @@
       <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How to Use AWS IAM with Terraform</title>
+      <link>https://blog.purestorage.com/purely-technical/how-to-use-aws-iam-with-terraform/</link>
+      <description></description>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Docker Compose vs. Dockerfile with Code Examples</title>
+      <link>https://blog.purestorage.com/purely-technical/docker-compose-vs-dockerfile-with-code-examples/</link>
+      <description></description>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How to Create A Presto Data Pipeline with S3</title>
       <link>https://blog.purestorage.com/purely-technical/a-presto-data-pipeline-with-s3/</link>
       <description></description>
       <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Does Serializability Mean in a DBMS?</title>
+      <link>https://blog.purestorage.com/purely-technical/what-does-serializability-mean-in-a-dbms/</link>
+      <description></description>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Compare Data Formats for Log Analytics</title>
@@ -1098,10 +1248,34 @@
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>What Do Quantum Computers Look Like?</title>
+      <link>https://blog.purestorage.com/purely-technical/what-do-quantum-computers-look-like/</link>
+      <description></description>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How to Replicate FlashBlade S3 Objects to Oracle Cloud Infrastructure Object Storage</title>
       <link>https://blog.purestorage.com/purely-technical/how-to-replicate-flashblade-s3-objects-to-oracle-cloud-infrastructure-object-storage/</link>
       <description></description>
       <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MySQL vs. PostgreSQL</title>
+      <link>https://blog.purestorage.com/purely-technical/mysql-vs-postgresql/</link>
+      <description></description>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Are Quantum Computers Real?</title>
+      <link>https://blog.purestorage.com/purely-technical/are-quantum-computers-real/</link>
+      <description></description>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Run Docker on a VM</title>
+      <link>https://blog.purestorage.com/purely-technical/how-to-run-docker-on-a-vm/</link>
+      <description></description>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Run Oracle 19c on Kubernetes with NFS Storage</title>
@@ -1120,6 +1294,12 @@
       <link>https://blog.purestorage.com/purely-technical/mysql-vs-mongodb-whats-the-difference/</link>
       <description></description>
       <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Use the Terminal to Check the MySQL Version</title>
+      <link>https://blog.purestorage.com/purely-technical/how-to-use-the-terminal-to-check-the-mysql-version/</link>
+      <description></description>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Realizing True Hybrid Cloud with Equinix Metal, VMware Cloud Foundation, and Pure Storage FlashArray</title>
@@ -3121,13 +3301,13 @@
     </item>
     <item>
       <title>Clouds Require Automation: Evaluation Criteria for Judging Maturity of Storage Array (and other Infrastructure) APIs</title>
-      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-storage-array-apis/</link>
+      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-apis/</link>
       <description></description>
       <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Clouds Require Automation: Evaluation Criteria for Judging Maturity of Storage Array (and other Infrastructure) APIs</title>
-      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-apis/</link>
+      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-storage-array-apis/</link>
       <description></description>
       <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
     </item>

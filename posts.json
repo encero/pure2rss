@@ -629,6 +629,21 @@
    "FlashArray//X NVMe"
   ]
  },
+ "https://blog.purestorage.com/purely-technical/are-quantum-computers-real/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/are-quantum-computers-real/",
+    "LastMod": "2025-09-03T20:56:29Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "are-quantum-computers-real"
+  },
+  "Title": "Are Quantum Computers Real?",
+  "Summary": "",
+  "PublishDate": "2022-03-22T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/asm-migration-with-external-redundancy/": {
   "PostLink": {
    "Link": {
@@ -947,7 +962,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/building-a-secure-multi-cloud-storage-backbone-with-portworx-by-pure-storage/",
-    "LastMod": "2025-01-02T23:11:48Z"
+    "LastMod": "2025-09-03T18:55:36Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1423,6 +1438,21 @@
    "Microsoft"
   ]
  },
+ "https://blog.purestorage.com/purely-technical/cpu-vs-gpu-for-machine-learning/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/cpu-vs-gpu-for-machine-learning/",
+    "LastMod": "2025-09-03T20:55:36Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "cpu-vs-gpu-for-machine-learning"
+  },
+  "Title": "CPU vs. GPU for Machine Learning",
+  "Summary": "",
+  "PublishDate": "2025-02-22T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/creating-volumes-from-protection-group-sources-part-1/": {
   "PostLink": {
    "Link": {
@@ -1521,6 +1551,21 @@
    "Kubernetes"
   ]
  },
+ "https://blog.purestorage.com/purely-technical/data-fabric-vs-data-lake-vs-data-warehouse/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/data-fabric-vs-data-lake-vs-data-warehouse/",
+    "LastMod": "2025-09-03T21:00:26Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "data-fabric-vs-data-lake-vs-data-warehouse"
+  },
+  "Title": "Data Fabric vs. Data Lake vs. Data Warehouse",
+  "Summary": "",
+  "PublishDate": "2023-07-21T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/data-kubernetes-pure-storage-orchestrator/": {
   "PostLink": {
    "Link": {
@@ -1541,11 +1586,26 @@
    "Pure Service Orchestrator"
   ]
  },
+ "https://blog.purestorage.com/purely-technical/data-mesh-vs-data-fabric-whats-the-difference/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/data-mesh-vs-data-fabric-whats-the-difference/",
+    "LastMod": "2025-09-03T20:53:35Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "data-mesh-vs-data-fabric-whats-the-difference"
+  },
+  "Title": "Data Mesh vs. Data Fabric: What’s the Difference?",
+  "Summary": "",
+  "PublishDate": "2024-10-19T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/data-migration-from-on-premises-to-the-cloud-with-cirrus-migrate-cloud-and-pure-cloud-block-store/": {
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/data-migration-from-on-premises-to-the-cloud-with-cirrus-migrate-cloud-and-pure-cloud-block-store/",
-    "LastMod": "2025-06-05T17:12:35Z"
+    "LastMod": "2025-09-03T17:24:00Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1640,6 +1700,21 @@
   "Tags": [
    "AI and Machine Learning"
   ]
+ },
+ "https://blog.purestorage.com/purely-technical/data-warehouse-vs-data-lake-which-to-use/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/data-warehouse-vs-data-lake-which-to-use/",
+    "LastMod": "2025-09-03T20:58:10Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "data-warehouse-vs-data-lake-which-to-use"
+  },
+  "Title": "Data Warehouse vs. Data Lake: Which to Use",
+  "Summary": "",
+  "PublishDate": "2023-02-16T00:00:00Z",
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/database-cloning-with-zfs-part-i/": {
   "PostLink": {
@@ -1788,6 +1863,21 @@
   "PublishDate": "2019-07-31T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/denormalized-vs-normalized-data/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/denormalized-vs-normalized-data/",
+    "LastMod": "2025-09-03T20:41:51Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "denormalized-vs-normalized-data"
+  },
+  "Title": "Denormalized vs. Normalized Data",
+  "Summary": "",
+  "PublishDate": "2024-02-13T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/deploy-compute-on-demand-with-pure-and-equinix-metal/": {
   "PostLink": {
    "Link": {
@@ -1872,6 +1962,36 @@
   "Title": "Disruptive Technology: Business Analytics on Flash",
   "Summary": "",
   "PublishDate": "2013-10-02T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/docker-compose-vs-dockerfile-with-code-examples/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/docker-compose-vs-dockerfile-with-code-examples/",
+    "LastMod": "2025-09-03T21:03:15Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "docker-compose-vs-dockerfile-with-code-examples"
+  },
+  "Title": "Docker Compose vs. Dockerfile with Code Examples",
+  "Summary": "",
+  "PublishDate": "2022-08-11T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/docker-images-vs-docker-containers-are-they-the-same/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/docker-images-vs-docker-containers-are-they-the-same/",
+    "LastMod": "2025-09-03T20:35:12Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "docker-images-vs-docker-containers-are-they-the-same"
+  },
+  "Title": "Docker Images vs. Docker Containers: Understanding the Foundation of Modern Cloud-Native Architecture",
+  "Summary": "",
+  "PublishDate": "2022-10-12T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/docker-oracle-12c-and-persistent-storage/": {
@@ -2105,6 +2225,21 @@
    "Virtualization",
    "VMware"
   ]
+ },
+ "https://blog.purestorage.com/purely-technical/etl-vs-elt/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/etl-vs-elt/",
+    "LastMod": "2025-09-03T20:41:14Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "etl-vs-elt"
+  },
+  "Title": "ETL vs. ELT: The Complete 2025 Guide to Modern Data Pipeline Architecture",
+  "Summary": "",
+  "PublishDate": "2024-01-12T00:00:00Z",
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/evaluation-criteria-for-apis/": {
   "PostLink": {
@@ -2707,6 +2842,21 @@
    "vVols"
   ]
  },
+ "https://blog.purestorage.com/purely-technical/greenfield-vs-brownfield-data-centers/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/greenfield-vs-brownfield-data-centers/",
+    "LastMod": "2025-09-03T20:50:22Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "greenfield-vs-brownfield-data-centers"
+  },
+  "Title": "Greenfield vs. Brownfield Data Centers: The Strategic Decision Defining The Next Decade",
+  "Summary": "",
+  "PublishDate": "2025-03-11T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/growing-a-vmfs-datastore-with-powercli/": {
   "PostLink": {
    "Link": {
@@ -2769,6 +2919,21 @@
   "PublishDate": "2017-08-17T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/how-hospitals-use-diagnostic-analytics-ai-in-healthcare/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/how-hospitals-use-diagnostic-analytics-ai-in-healthcare/",
+    "LastMod": "2025-09-03T20:55:56Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-hospitals-use-diagnostic-analytics-ai-in-healthcare"
+  },
+  "Title": "How Hospitals Use Diagnostic Analytics \u0026 AI in Healthcare",
+  "Summary": "",
+  "PublishDate": "2025-03-22T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/how-snapshot-consolidation-with-fan-in-replication-can-simplify-your-life/": {
   "PostLink": {
    "Link": {
@@ -2782,6 +2947,21 @@
   "Title": "Taming the Storage Sprawl: Simplify Your Life with Fan-in Replication for Snapshot Consolidation",
   "Summary": "",
   "PublishDate": "2024-04-10T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/how-to-benchmark-mysql-performance/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/how-to-benchmark-mysql-performance/",
+    "LastMod": "2025-09-03T20:53:17Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-benchmark-mysql-performance"
+  },
+  "Title": "How to Benchmark MySQL Performance",
+  "Summary": "",
+  "PublishDate": "2024-12-14T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/how-to-boot-linux-successfully-when-a-reboot-fails-due-to-missing-filesystems/": {
@@ -2862,6 +3042,21 @@
   "PublishDate": "2023-12-15T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/how-to-create-an-s3-bucket-with-terraform/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/how-to-create-an-s3-bucket-with-terraform/",
+    "LastMod": "2025-09-03T20:51:55Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-create-an-s3-bucket-with-terraform"
+  },
+  "Title": "How to Create an S3 Bucket with Terraform",
+  "Summary": "",
+  "PublishDate": "2022-12-13T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/how-to-create-customised-billing-reports-for-it-departments-and-msps-with-pure-fusion-and-ai-devops/": {
   "PostLink": {
    "Link": {
@@ -2892,6 +3087,21 @@
   "PublishDate": "2023-07-20T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/how-to-create-tables-with-mariadb/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/how-to-create-tables-with-mariadb/",
+    "LastMod": "2025-09-03T20:35:42Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-create-tables-with-mariadb"
+  },
+  "Title": "How to Create Tables with MariaDB",
+  "Summary": "",
+  "PublishDate": "2024-12-13T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/how-to-deploy-a-vm-analytics-collector-with-ipv6-ip-protocol-and-static-networking/": {
   "PostLink": {
    "Link": {
@@ -2905,6 +3115,21 @@
   "Title": "How to Deploy a VM Analytics Collector with IPv6 IP Protocol and Static Networking",
   "Summary": "",
   "PublishDate": "2023-11-20T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/how-to-diagram-a-data-warehouse/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/how-to-diagram-a-data-warehouse/",
+    "LastMod": "2025-09-03T21:01:59Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-diagram-a-data-warehouse"
+  },
+  "Title": "How to Diagram a Data Warehouse",
+  "Summary": "",
+  "PublishDate": "2023-03-10T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/how-to-double-oltp-throughput-without-code-changes-hammerdb-on-flasharray-xl/": {
@@ -3063,6 +3288,21 @@
    "Oracle"
   ]
  },
+ "https://blog.purestorage.com/purely-technical/how-to-run-docker-on-a-vm/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/how-to-run-docker-on-a-vm/",
+    "LastMod": "2025-09-03T20:51:15Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-run-docker-on-a-vm"
+  },
+  "Title": "How to Run Docker on a VM",
+  "Summary": "",
+  "PublishDate": "2022-03-22T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/how-to-run-hadoop-on-flashblade/": {
   "PostLink": {
    "Link": {
@@ -3099,7 +3339,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-simulate-vsi-vdi-sql-oracle-workloads-with-oracle-vdbench/",
-    "LastMod": "2025-06-20T16:29:51Z"
+    "LastMod": "2025-09-03T16:56:31Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3128,6 +3368,36 @@
    "FlashBlade Object Storage",
    "Kubernetes"
   ]
+ },
+ "https://blog.purestorage.com/purely-technical/how-to-use-aws-iam-with-terraform/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/how-to-use-aws-iam-with-terraform/",
+    "LastMod": "2025-09-03T20:52:33Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-use-aws-iam-with-terraform"
+  },
+  "Title": "How to Use AWS IAM with Terraform",
+  "Summary": "",
+  "PublishDate": "2022-08-25T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/how-to-use-the-terminal-to-check-the-mysql-version/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/how-to-use-the-terminal-to-check-the-mysql-version/",
+    "LastMod": "2025-09-03T20:46:58Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-use-the-terminal-to-check-the-mysql-version"
+  },
+  "Title": "How to Use the Terminal to Check the MySQL Version",
+  "Summary": "",
+  "PublishDate": "2021-12-14T00:00:00Z",
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/hybrid-cicd-with-cloud-block-store/": {
   "PostLink": {
@@ -3480,7 +3750,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/introduction-to-pure-storage-flasharray-with-vmware-cloud-foundation/",
-    "LastMod": "2025-03-18T17:12:58Z"
+    "LastMod": "2025-09-03T18:52:10Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3495,7 +3765,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/introductory-monitoring-stack-with-prometheus-and-grafana/",
-    "LastMod": "2024-07-22T14:21:29Z"
+    "LastMod": "2025-09-03T18:55:36Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3900,7 +4170,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/maximize-the-value-of-your-vmware-environment/",
-    "LastMod": "2025-08-14T14:51:54Z"
+    "LastMod": "2025-09-03T16:59:53Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4209,6 +4479,21 @@
   "Title": "MySQL vs. MongoDB: What’s the Difference?",
   "Summary": "",
   "PublishDate": "2022-01-14T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/mysql-vs-postgresql/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/mysql-vs-postgresql/",
+    "LastMod": "2025-09-03T20:48:55Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "mysql-vs-postgresql"
+  },
+  "Title": "MySQL vs. PostgreSQL",
+  "Summary": "",
+  "PublishDate": "2022-03-31T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/national-coding-week-upskill-your-coding-knowledge-with-pure-storage/": {
@@ -5062,7 +5347,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/prometheus-grafana-dashboard-flashblade/",
-    "LastMod": "2025-01-21T20:53:34Z"
+    "LastMod": "2025-09-03T18:59:34Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6786,6 +7071,21 @@
   "PublishDate": "2023-04-22T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/sla-vs-slo-vs-sli-whats-the-difference-and-why-they-matter/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/sla-vs-slo-vs-sli-whats-the-difference-and-why-they-matter/",
+    "LastMod": "2025-09-03T17:38:48Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sla-vs-slo-vs-sli-whats-the-difference-and-why-they-matter"
+  },
+  "Title": "SLA vs. SLO vs. SLI: What’s the Difference and Why They Matter",
+  "Summary": "",
+  "PublishDate": "2023-10-10T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/smb-a-fresh-spin-on-a-classic/": {
   "PostLink": {
    "Link": {
@@ -6925,7 +7225,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sql-server-distributed-availability-groups-and-kubernetes/",
-    "LastMod": "2025-08-14T22:03:08Z"
+    "LastMod": "2025-09-03T16:52:19Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6964,6 +7264,36 @@
   "Title": "SQL Server on Pure: Initializing Replication Subscribers With Snapshots… In Seconds!",
   "Summary": "",
   "PublishDate": "2015-07-24T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/sql-update-vs-insert-vs-upsert/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/sql-update-vs-insert-vs-upsert/",
+    "LastMod": "2025-09-03T20:54:20Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sql-update-vs-insert-vs-upsert"
+  },
+  "Title": "SQL UPDATE vs. INSERT vs. UPSERT",
+  "Summary": "",
+  "PublishDate": "2024-12-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/sql-vs-nosql-databases/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/sql-vs-nosql-databases/",
+    "LastMod": "2025-09-03T20:46:45Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sql-vs-nosql-databases"
+  },
+  "Title": "SQL vs NoSQL: Storage Architecture as the Performance Foundation",
+  "Summary": "",
+  "PublishDate": "2024-03-26T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/sqreamdb-on-flashblade-s/": {
@@ -7158,6 +7488,21 @@
   "PublishDate": "2024-09-27T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/the-blurred-lines-of-data-sovereignty-do-you-really-own-your-data/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/the-blurred-lines-of-data-sovereignty-do-you-really-own-your-data/",
+    "LastMod": "2025-09-03T20:33:55Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "the-blurred-lines-of-data-sovereignty-do-you-really-own-your-data"
+  },
+  "Title": "The Blurred Lines of Data Sovereignty: Do You Really Own Your Data?",
+  "Summary": "",
+  "PublishDate": "2024-02-21T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/the-case-for-on-premise-hadoop-with-flashblade/": {
   "PostLink": {
    "Link": {
@@ -7305,6 +7650,21 @@
   "PublishDate": "2021-10-21T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/top-8-vmware-alternatives/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/top-8-vmware-alternatives/",
+    "LastMod": "2025-09-03T20:30:42Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "top-8-vmware-alternatives"
+  },
+  "Title": "Top 8 VMware Alternatives",
+  "Summary": "",
+  "PublishDate": "2024-12-14T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/top-9-considerations-for-enterprise-ai/": {
   "PostLink": {
    "Link": {
@@ -7410,6 +7770,21 @@
   "Title": "Two Engineers: Two Different Job Experiences",
   "Summary": "",
   "PublishDate": "2021-08-09T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/types-of-nosql-databases/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/types-of-nosql-databases/",
+    "LastMod": "2025-09-03T20:46:59Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "types-of-nosql-databases"
+  },
+  "Title": "Types of NoSQL Databases",
+  "Summary": "",
+  "PublishDate": "2023-08-23T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/understanding-deduplication-ratios/": {
@@ -7794,7 +8169,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-are-snapshots-backups/",
-    "LastMod": "2025-08-14T21:52:20Z"
+    "LastMod": "2025-09-03T17:37:49Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7922,7 +8297,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/vcf-vs-vvf-which-is-right-for-your-business/",
-    "LastMod": "2025-09-02T19:31:38Z"
+    "LastMod": "2025-09-03T20:43:18Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8506,6 +8881,36 @@
    "FlashBlade Object Storage"
   ]
  },
+ "https://blog.purestorage.com/purely-technical/what-do-quantum-computers-look-like/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/what-do-quantum-computers-look-like/",
+    "LastMod": "2025-09-03T20:57:28Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "what-do-quantum-computers-look-like"
+  },
+  "Title": "What Do Quantum Computers Look Like?",
+  "Summary": "",
+  "PublishDate": "2022-04-11T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/what-does-serializability-mean-in-a-dbms/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/what-does-serializability-mean-in-a-dbms/",
+    "LastMod": "2025-09-03T20:40:58Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "what-does-serializability-mean-in-a-dbms"
+  },
+  "Title": "What Does Serializability Mean in a DBMS?",
+  "Summary": "",
+  "PublishDate": "2022-07-18T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/what-is-a-config-vvol-anyways/": {
   "PostLink": {
    "Link": {
@@ -8537,6 +8942,21 @@
   "Title": "What is a VVol Datastore?",
   "Summary": "",
   "PublishDate": "2018-01-16T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/what-is-mtu-size-and-how-do-you-calculate-it/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/what-is-mtu-size-and-how-do-you-calculate-it/",
+    "LastMod": "2025-09-03T20:34:23Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "what-is-mtu-size-and-how-do-you-calculate-it"
+  },
+  "Title": "What Is MTU Size and How Do You Calculate It?",
+  "Summary": "",
+  "PublishDate": "2024-12-19T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/what-is-new-with-cbs-terraform-provider-0-9-0/": {
@@ -8571,6 +8991,21 @@
    "Microsoft",
    "SQL Server"
   ]
+ },
+ "https://blog.purestorage.com/purely-technical/what-is-the-etc-hosts-file-in-linux/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/what-is-the-etc-hosts-file-in-linux/",
+    "LastMod": "2025-09-03T20:59:23Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "what-is-the-etc-hosts-file-in-linux"
+  },
+  "Title": "What Is the /etc/hosts File in Linux?",
+  "Summary": "",
+  "PublishDate": "2023-06-15T00:00:00Z",
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/what-is-the-latency-stat-qavg/": {
   "PostLink": {
@@ -8704,6 +9139,21 @@
   "Title": "Why IOPS Don’t Matter",
   "Summary": "",
   "PublishDate": "2024-01-20T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/why-migrate-to-kubernetes/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/why-migrate-to-kubernetes/",
+    "LastMod": "2025-09-03T20:32:46Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "why-migrate-to-kubernetes"
+  },
+  "Title": "Why Migrate to Kubernetes?",
+  "Summary": "",
+  "PublishDate": "2023-01-11T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/windows-server-failover-clusters-disk-signatures-snapshots/": {
