@@ -3199,6 +3199,21 @@
    "Ransomware"
   ]
  },
+ "https://blog.purestorage.com/purely-technical/how-to-manage-enterprise-storage-with-pure-fusion-in-powershell/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/how-to-manage-enterprise-storage-with-pure-fusion-in-powershell/",
+    "LastMod": "2025-09-12T20:52:00Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-manage-enterprise-storage-with-pure-fusion-in-powershell"
+  },
+  "Title": "Managing Enterprise Storage with Pure Fusion in PowerShell",
+  "Summary": "",
+  "PublishDate": "2025-09-12T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/how-to-optimize-deep-learning-workflows-with-fast-s3/": {
   "PostLink": {
    "Link": {
