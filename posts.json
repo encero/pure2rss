@@ -2286,6 +2286,21 @@
   "PublishDate": "2018-04-28T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/expanded-capacity-pure-cloud-block-store-on-azure-6-10-0/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/expanded-capacity-pure-cloud-block-store-on-azure-6-10-0/",
+    "LastMod": "2025-09-18T16:20:42Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "expanded-capacity-pure-cloud-block-store-on-azure-6-10-0"
+  },
+  "Title": "Pure Cloud Block Store 6.10.0 on Azure: NVMe Backend, 308TiB Arrays, and More Regions",
+  "Summary": "",
+  "PublishDate": "2025-09-18T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/expedite-cloud-migrations-with-pure-storage-and-aws/": {
   "PostLink": {
    "Link": {
