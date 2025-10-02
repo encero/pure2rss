@@ -6,7 +6,19 @@
     <pubDate>Sun, 07 Sep 2025 18:27:27 +0000</pubDate>
     <lastBuildDate>Sun, 07 Sep 2025 18:27:27 +0000</lastBuildDate>
     <item>
-      <title>Pure Cloud Block Store 6.10.0 on Azure: NVMe Backend, 308TiB Arrays, and More Regions</title>
+      <title>Building a Hybrid Data Lakehouse with SQL Server PolyBase, FlashArray, and FlashBlade: Part 1</title>
+      <link>https://blog.purestorage.com/purely-technical/building-a-hybrid-data-lakehouse-with-sql-server-polybase-flasharray-flashblade/</link>
+      <description></description>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bytecode vs. Machine Code</title>
+      <link>https://blog.purestorage.com/purely-technical/bytecode-vs-machine-code/</link>
+      <description></description>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pure Storage Cloud 6.10.0 on Azure: NVMe Backend, 308TiB Arrays, and More Regions</title>
       <link>https://blog.purestorage.com/purely-technical/expanded-capacity-pure-cloud-block-store-on-azure-6-10-0/</link>
       <description></description>
       <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
@@ -132,7 +144,7 @@
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Part 1: Streamline Your Cloud Data Migration with Pure Cloud Block Store and Cirrus Migrate</title>
+      <title>Part 1: Streamline Your Cloud Data Migration with Pure Storage Cloud and Cirrus Migrate</title>
       <link>https://blog.purestorage.com/purely-technical/pure-cloud-block-store-with-cirrus-migrate-cloud/</link>
       <description></description>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
@@ -486,7 +498,7 @@
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Streamline Azure VMware Solution: Automating Pure Cloud Block Store Expansion</title>
+      <title>How to Streamline Azure VMware Solution: Automating Pure Storage Cloud Expansion</title>
       <link>https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/</link>
       <description></description>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
@@ -642,7 +654,7 @@
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>VMFS Management on Azure VMware Solution and Pure Cloud Block Store</title>
+      <title>VMFS Management on Azure VMware Solution and Pure Storage Cloud</title>
       <link>https://blog.purestorage.com/purely-technical/vmfs-management-on-azure-vmware-solution-and-pure-cloud-block-store/</link>
       <description></description>
       <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
@@ -666,7 +678,7 @@
       <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lifecycle Management of Azure VMware Solution with Pure Cloud Block Store</title>
+      <title>Lifecycle Management of Azure VMware Solution with Pure Storage Cloud</title>
       <link>https://blog.purestorage.com/purely-technical/lifecycle-management-of-azure-vmware-solution-with-pure-cloud-block-store/</link>
       <description></description>
       <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
@@ -820,12 +832,6 @@
       <link>https://blog.purestorage.com/purely-technical/boost-splunk-with-containers-pure/</link>
       <description></description>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bytecode vs. Machine Code</title>
-      <link>https://blog.purestorage.com/purely-technical/bytecode-vs-machine-code/</link>
-      <description></description>
-      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Data Fabric vs. Data Lake vs. Data Warehouse</title>
@@ -1045,13 +1051,13 @@
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
+      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
+      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
@@ -1062,7 +1068,7 @@
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Decrease Recovery Time for SQL Server Disasters with Pure Cloud Block Store in Azure</title>
+      <title>Decrease Recovery Time for SQL Server Disasters with Pure Storage Cloud in Azure</title>
       <link>https://blog.purestorage.com/purely-technical/decrease-recovery-time-for-microsoft-sql-server-disasters-with-pure-cloud-block-store-in-microsoft-azure/</link>
       <description></description>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
@@ -1482,7 +1488,7 @@
       <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Pure Cloud Block Store Terraform Provider for AWS</title>
+      <title>The Pure Storage Cloud Terraform Provider for AWS</title>
       <link>https://blog.purestorage.com/purely-technical/the-pure-cloud-block-store-terraform-provider-for-aws/</link>
       <description></description>
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
@@ -1788,7 +1794,7 @@
       <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Architecting Apache Cassandra on Cloud Block Store [AWS]</title>
+      <title>Architecting Apache Cassandra on Pure Storage Cloud [AWS]</title>
       <link>https://blog.purestorage.com/purely-technical/architecting-apache-cassandra-cluster-on-cloud-block-storeaws/</link>
       <description></description>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
@@ -2238,7 +2244,7 @@
       <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Say Hello to Hybrid CI/CD with Cloud Block Store</title>
+      <title>Say Hello to Hybrid CI/CD with Pure Storage Cloud</title>
       <link>https://blog.purestorage.com/purely-technical/hybrid-cicd-with-cloud-block-store/</link>
       <description></description>
       <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
@@ -2749,13 +2755,13 @@
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>
@@ -2917,13 +2923,13 @@
     </item>
     <item>
       <title>Understanding VMware ESXi Queuing and the FlashArray</title>
-      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray/</link>
+      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray-2/</link>
       <description></description>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Understanding VMware ESXi Queuing and the FlashArray</title>
-      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray-2/</link>
+      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray/</link>
       <description></description>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
     </item>
@@ -3313,13 +3319,13 @@
     </item>
     <item>
       <title>Clouds Require Automation: Evaluation Criteria for Judging Maturity of Storage Array (and other Infrastructure) APIs</title>
-      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-storage-array-apis/</link>
+      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-apis/</link>
       <description></description>
       <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Clouds Require Automation: Evaluation Criteria for Judging Maturity of Storage Array (and other Infrastructure) APIs</title>
-      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-apis/</link>
+      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-storage-array-apis/</link>
       <description></description>
       <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
     </item>
