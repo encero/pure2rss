@@ -464,13 +464,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/announcing-pure-storage-cloud-block-store-for-aws/",
-    "LastMod": "2025-08-13T20:28:22Z"
+    "LastMod": "2025-10-01T17:27:37Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "announcing-pure-storage-cloud-block-store-for-aws"
   },
-  "Title": "Pure Storage Cloud Block Store for AWS",
+  "Title": "Pure Storage Cloud for AWS",
   "Summary": "",
   "PublishDate": "2018-11-19T00:00:00Z",
   "Tags": []
@@ -827,19 +827,16 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/benefits-of-running-apache-cassandra-on-pure-storage-cloud-block-store/",
-    "LastMod": "2023-12-05T19:51:42Z"
+    "LastMod": "2025-10-01T17:26:00Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "benefits-of-running-apache-cassandra-on-pure-storage-cloud-block-store"
   },
-  "Title": "Benefits of Running Apache Cassandra on Pure Storage Cloud Block Store",
+  "Title": "Benefits of Running Apache Cassandra on Pure Storage Cloud",
   "Summary": "",
   "PublishDate": "2018-12-19T00:00:00Z",
-  "Tags": [
-   "AWS",
-   "Pure Cloud Block Store"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/benefits-of-running-cassandra-on-flasharray-with-directflash-fabric/": {
   "PostLink": {
@@ -1536,13 +1533,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/customer-driven-capacity-upgrade-for-pure-cloud-block-store/",
-    "LastMod": "2024-09-09T17:32:34Z"
+    "LastMod": "2025-10-01T16:17:01Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "customer-driven-capacity-upgrade-for-pure-cloud-block-store"
   },
-  "Title": "Customer-driven Capacity Upgrade for Pure Cloud Block Store",
+  "Title": "Customer-driven Capacity Upgrade for Pure Storage Cloud",
   "Summary": "",
   "PublishDate": "2023-12-20T00:00:00Z",
   "Tags": []
@@ -1620,13 +1617,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/data-migration-from-on-premises-to-the-cloud-with-cirrus-migrate-cloud-and-pure-cloud-block-store/",
-    "LastMod": "2025-09-03T17:24:00Z"
+    "LastMod": "2025-10-01T15:50:01Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "data-migration-from-on-premises-to-the-cloud-with-cirrus-migrate-cloud-and-pure-cloud-block-store"
   },
-  "Title": "Data Migration from on Premises to the Cloud with Cirrus Migrate Cloud and Pure Cloud Block Store",
+  "Title": "Data Migration from on Premises to the Cloud with Cirrus Migrate Cloud and Pure Storage Cloud",
   "Summary": "",
   "PublishDate": "2025-03-27T00:00:00Z",
   "Tags": []
@@ -2108,7 +2105,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/enable-multicloud-solutions-with-pure-and-azure/",
-    "LastMod": "2024-02-17T00:51:10Z"
+    "LastMod": "2025-10-01T18:24:00Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2117,13 +2114,7 @@
   "Title": "How to Enable Multicloud Solutions with Azure and Pure",
   "Summary": "",
   "PublishDate": "2021-03-16T00:00:00Z",
-  "Tags": [
-   "Azure",
-   "Evergreen//One",
-   "FlashArray//X NVMe",
-   "Multicloud",
-   "Pure Cloud Block Store"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/enabling-scsi_id-on-vmware/": {
   "PostLink": {
@@ -2212,13 +2203,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/enhancing-pure-cloud-block-store-with-multi-tenant-capabilities/",
-    "LastMod": "2025-03-18T17:40:05Z"
+    "LastMod": "2025-10-01T16:06:16Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "enhancing-pure-cloud-block-store-with-multi-tenant-capabilities"
   },
-  "Title": "Enhancing Pure Cloud Block Store with Multi-tenant Capabilities",
+  "Title": "Enhancing Pure Storage Cloud with Multi-tenant Capabilities",
   "Summary": "",
   "PublishDate": "2024-12-18T00:00:00Z",
   "Tags": []
@@ -3085,7 +3076,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-create-customised-billing-reports-for-it-departments-and-msps-with-pure-fusion-and-ai-devops/",
-    "LastMod": "2025-04-19T15:57:19Z"
+    "LastMod": "2025-10-01T17:39:19Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3423,6 +3414,21 @@
   "PublishDate": "2022-08-25T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/how-to-use-ssh-public-key-authentication/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/how-to-use-ssh-public-key-authentication/",
+    "LastMod": "2025-09-30T15:06:59Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-use-ssh-public-key-authentication"
+  },
+  "Title": "How To Use SSH Public Key Authentication",
+  "Summary": "",
+  "PublishDate": "2023-08-23T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/how-to-use-the-terminal-to-check-the-mysql-version/": {
   "PostLink": {
    "Link": {
@@ -3660,13 +3666,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/initializing-azure-vmware-solution-for-use-with-pure-cloud-block-store/",
-    "LastMod": "2025-09-06T16:31:23Z"
+    "LastMod": "2025-10-01T16:52:44Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "initializing-azure-vmware-solution-for-use-with-pure-cloud-block-store"
   },
-  "Title": "Initializing Azure VMware Solution for Use with Pure Cloud Block Store",
+  "Title": "Initializing Azure VMware Solution for Use with Pure Storage Cloud",
   "Summary": "",
   "PublishDate": "2023-11-15T00:00:00Z",
   "Tags": []
@@ -6778,13 +6784,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sap-s-4hana-migration-lift-shift-from-on-prem-to-aws-using-cloud-block-store/",
-    "LastMod": "2025-08-08T19:35:16Z"
+    "LastMod": "2025-10-01T18:27:49Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "sap-s-4hana-migration-lift-shift-from-on-prem-to-aws-using-cloud-block-store"
   },
-  "Title": "How to: Seamless Migration of Mission-Critical SAP S/4HANA to AWS Using Pure Storage Cloud Block Store",
+  "Title": "How to: Seamless Migration of Mission-Critical SAP S/4HANA to AWS Using Pure Storage Cloud",
   "Summary": "",
   "PublishDate": "2019-06-11T00:00:00Z",
   "Tags": []
@@ -7528,7 +7534,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/the-blurred-lines-of-data-sovereignty-do-you-really-own-your-data/",
-    "LastMod": "2025-09-03T20:33:55Z"
+    "LastMod": "2025-10-02T16:27:28Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8232,7 +8238,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-point-in-time-recovery-azure-edition/",
-    "LastMod": "2025-04-28T19:23:25Z"
+    "LastMod": "2025-10-01T18:01:14Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8412,7 +8418,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/veritas-netbackup-msdp-with-flashblade-nfs/",
-    "LastMod": "2024-02-17T01:05:13Z"
+    "LastMod": "2025-09-30T15:29:49Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8420,11 +8426,8 @@
   },
   "Title": "Veritas NetBackup MSDP Integration with FlashBlade NFS",
   "Summary": "",
-  "PublishDate": "2020-07-10T00:00:00Z",
-  "Tags": [
-   "Data Backup and Recovery",
-   "FlashBlade Object Storage"
-  ]
+  "PublishDate": "2025-09-10T00:00:00Z",
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/vertically-scaling-sql-server-online-in-kubernetes/": {
   "PostLink": {
@@ -8996,13 +8999,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/what-is-new-with-cbs-terraform-provider-0-9-0/",
-    "LastMod": "2024-09-09T15:58:16Z"
+    "LastMod": "2025-10-01T16:59:05Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "what-is-new-with-cbs-terraform-provider-0-9-0"
   },
-  "Title": "What Is New with Pure Cloud Block Store Terraform Provider 0.9.0?",
+  "Title": "What Is New with Pure Storage Cloud Terraform Provider 0.9.0?",
   "Summary": "",
   "PublishDate": "2023-07-12T00:00:00Z",
   "Tags": []

@@ -30,6 +30,12 @@
       <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Veritas NetBackup MSDP Integration with FlashBlade NFS</title>
+      <link>https://blog.purestorage.com/purely-technical/veritas-netbackup-msdp-with-flashblade-nfs/</link>
+      <description></description>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>‘Did We Just Become Best Friends?!’: NFS Basics on FlashArray</title>
       <link>https://blog.purestorage.com/purely-technical/nfs-basics-on-flasharray/</link>
       <description></description>
@@ -126,7 +132,7 @@
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Data Migration from on Premises to the Cloud with Cirrus Migrate Cloud and Pure Cloud Block Store</title>
+      <title>Data Migration from on Premises to the Cloud with Cirrus Migrate Cloud and Pure Storage Cloud</title>
       <link>https://blog.purestorage.com/purely-technical/data-migration-from-on-premises-to-the-cloud-with-cirrus-migrate-cloud-and-pure-cloud-block-store/</link>
       <description></description>
       <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
@@ -246,7 +252,7 @@
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Enhancing Pure Cloud Block Store with Multi-tenant Capabilities</title>
+      <title>Enhancing Pure Storage Cloud with Multi-tenant Capabilities</title>
       <link>https://blog.purestorage.com/purely-technical/enhancing-pure-cloud-block-store-with-multi-tenant-capabilities/</link>
       <description></description>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
@@ -642,7 +648,7 @@
       <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Customer-driven Capacity Upgrade for Pure Cloud Block Store</title>
+      <title>Customer-driven Capacity Upgrade for Pure Storage Cloud</title>
       <link>https://blog.purestorage.com/purely-technical/customer-driven-capacity-upgrade-for-pure-cloud-block-store/</link>
       <description></description>
       <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
@@ -690,7 +696,7 @@
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Initializing Azure VMware Solution for Use with Pure Cloud Block Store</title>
+      <title>Initializing Azure VMware Solution for Use with Pure Storage Cloud</title>
       <link>https://blog.purestorage.com/purely-technical/initializing-azure-vmware-solution-for-use-with-pure-cloud-block-store/</link>
       <description></description>
       <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
@@ -810,6 +816,12 @@
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How To Use SSH Public Key Authentication</title>
+      <link>https://blog.purestorage.com/purely-technical/how-to-use-ssh-public-key-authentication/</link>
+      <description></description>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Types of NoSQL Databases</title>
       <link>https://blog.purestorage.com/purely-technical/types-of-nosql-databases/</link>
       <description></description>
@@ -876,7 +888,7 @@
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>What Is New with Pure Cloud Block Store Terraform Provider 0.9.0?</title>
+      <title>What Is New with Pure Storage Cloud Terraform Provider 0.9.0?</title>
       <link>https://blog.purestorage.com/purely-technical/what-is-new-with-cbs-terraform-provider-0-9-0/</link>
       <description></description>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
@@ -1051,13 +1063,13 @@
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
+      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
+      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
@@ -1638,12 +1650,6 @@
       <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Veritas NetBackup MSDP Integration with FlashBlade NFS</title>
-      <link>https://blog.purestorage.com/purely-technical/veritas-netbackup-msdp-with-flashblade-nfs/</link>
-      <description></description>
-      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How to Save Your Time (and Sanity) with Storage Snapshots on SAP</title>
       <link>https://blog.purestorage.com/purely-technical/storage-snapshots-sap/</link>
       <description></description>
@@ -1968,7 +1974,7 @@
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to: Seamless Migration of Mission-Critical SAP S/4HANA to AWS Using Pure Storage Cloud Block Store</title>
+      <title>How to: Seamless Migration of Mission-Critical SAP S/4HANA to AWS Using Pure Storage Cloud</title>
       <link>https://blog.purestorage.com/purely-technical/sap-s-4hana-migration-lift-shift-from-on-prem-to-aws-using-cloud-block-store/</link>
       <description></description>
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
@@ -2190,7 +2196,7 @@
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Benefits of Running Apache Cassandra on Pure Storage Cloud Block Store</title>
+      <title>Benefits of Running Apache Cassandra on Pure Storage Cloud</title>
       <link>https://blog.purestorage.com/purely-technical/benefits-of-running-apache-cassandra-on-pure-storage-cloud-block-store/</link>
       <description></description>
       <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
@@ -2232,7 +2238,7 @@
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pure Storage Cloud Block Store for AWS</title>
+      <title>Pure Storage Cloud for AWS</title>
       <link>https://blog.purestorage.com/purely-technical/announcing-pure-storage-cloud-block-store-for-aws/</link>
       <description></description>
       <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
