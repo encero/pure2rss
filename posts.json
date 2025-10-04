@@ -3354,13 +3354,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-self-onboard-azure-vmware-solution-for-use-with-pure-cloud-block-store/",
-    "LastMod": "2025-06-08T03:55:42Z"
+    "LastMod": "2025-10-01T16:22:03Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "how-to-self-onboard-azure-vmware-solution-for-use-with-pure-cloud-block-store"
   },
-  "Title": "How to Self-onboard Azure VMware Solution for Use with Pure Cloud Block Store",
+  "Title": "How to Self-onboard Azure VMware Solution for Use with Pure Storage Cloud",
   "Summary": "",
   "PublishDate": "2023-11-30T00:00:00Z",
   "Tags": []
