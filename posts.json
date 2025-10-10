@@ -2923,13 +2923,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/hints-on-using-cinder-manage-with-openstack-newton-and-later/",
-    "LastMod": "2025-06-06T21:05:53Z"
+    "LastMod": "2025-10-08T16:28:48Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "hints-on-using-cinder-manage-with-openstack-newton-and-later"
   },
-  "Title": "How to Use Cinder Manage with OpenStack Newton",
+  "Title": "How to Use Cinder Manage in Modern OpenStack Environments",
   "Summary": "",
   "PublishDate": "2017-08-17T00:00:00Z",
   "Tags": []
