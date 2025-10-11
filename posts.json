@@ -2517,7 +2517,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/flasharray-extends-nvme-of-support-to-tcp/",
-    "LastMod": "2025-07-17T18:34:03Z"
+    "LastMod": "2025-10-10T20:38:02Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8021,13 +8021,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/upgrade-your-own-flasharray-with-pure1/",
-    "LastMod": "2025-07-17T23:17:10Z"
+    "LastMod": "2025-10-10T21:03:00Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "upgrade-your-own-flasharray-with-pure1"
   },
-  "Title": "Upgrade Your Own FlashArray with Pure1",
+  "Title": "How to Upgrade Your Own FlashArray with Pure1",
   "Summary": "",
   "PublishDate": "2024-05-31T00:00:00Z",
   "Tags": []
