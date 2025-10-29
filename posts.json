@@ -29,6 +29,21 @@
   "PublishDate": "2025-07-31T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/2x-oltp-performance-aks-portworx-benchmarking-sql-server-azure/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/2x-oltp-performance-aks-portworx-benchmarking-sql-server-azure/",
+    "LastMod": "2025-10-29T15:00:22Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "2x-oltp-performance-aks-portworx-benchmarking-sql-server-azure"
+  },
+  "Title": "2X OLTP Performance with AKS and Portworx: Benchmarking SQL Server in Azure",
+  "Summary": "",
+  "PublishDate": "2025-10-29T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/3rd-party-isv-integration/": {
   "PostLink": {
    "Link": {
@@ -1823,6 +1838,21 @@
    "FlashArray//X NVMe",
    "SQL Server"
   ]
+ },
+ "https://blog.purestorage.com/purely-technical/deep-learning-vs-machine-learning-vs-neural-networks/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/deep-learning-vs-machine-learning-vs-neural-networks/",
+    "LastMod": "2025-08-07T16:44:29Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "deep-learning-vs-machine-learning-vs-neural-networks"
+  },
+  "Title": "Deep Learning vs Machine Learning vs Neural Networks: What’s the Difference and Why It Matters for Your Business",
+  "Summary": "",
+  "PublishDate": "2025-10-29T00:00:00Z",
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/deeper-detail-on-using-parameters-with-the-flasharray-python-toolkit/": {
   "PostLink": {
@@ -3743,7 +3773,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/intersight-assist-deployment-configuration/",
-    "LastMod": "2025-03-11T21:39:03Z"
+    "LastMod": "2025-10-27T20:23:11Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4030,7 +4060,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/ldaps-port-number-tcp-636-lightweight/",
-    "LastMod": "2025-08-08T15:31:24Z"
+    "LastMod": "2025-10-28T13:54:16Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7008,7 +7038,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/setting-up-software-iscsi-multipathing-with-distributed-vswitches-with-the-vsphere-web-client/",
-    "LastMod": "2024-07-22T15:13:10Z"
+    "LastMod": "2025-10-27T20:45:13Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8433,7 +8463,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/veritas-netbackup-msdp-with-flashblade-nfs/",
-    "LastMod": "2025-09-30T15:29:49Z"
+    "LastMod": "2025-10-27T16:31:40Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
