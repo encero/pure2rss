@@ -524,7 +524,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/ansible-collection-migration/",
-    "LastMod": "2024-11-25T21:51:53Z"
+    "LastMod": "2025-10-30T04:11:37Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1843,7 +1843,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/deep-learning-vs-machine-learning-vs-neural-networks/",
-    "LastMod": "2025-08-07T16:44:29Z"
+    "LastMod": "2025-10-29T16:16:53Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8268,7 +8268,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-multi-array-database-snapshots/",
-    "LastMod": "2025-08-14T14:37:21Z"
+    "LastMod": "2025-10-30T16:02:08Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8276,7 +8276,7 @@
   },
   "Title": "Using T-SQL Snapshot Backup: Multi-array Database Snapshots",
   "Summary": "",
-  "PublishDate": "2025-02-14T00:00:00Z",
+  "PublishDate": "2025-10-29T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-point-in-time-recovery-azure-edition/": {
