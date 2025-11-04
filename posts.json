@@ -123,7 +123,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/a-presto-data-pipeline-with-s3/",
-    "LastMod": "2024-08-21T16:24:42Z"
+    "LastMod": "2025-11-02T15:13:28Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2040,7 +2040,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/docker-images-vs-docker-containers-are-they-the-same/",
-    "LastMod": "2025-09-03T20:35:12Z"
+    "LastMod": "2025-11-02T15:06:32Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3867,7 +3867,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/io-plumbing-tests-with-fio/",
-    "LastMod": "2025-01-16T18:51:34Z"
+    "LastMod": "2025-11-04T14:43:51Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7738,13 +7738,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/top-8-vmware-alternatives/",
-    "LastMod": "2025-09-03T20:30:42Z"
+    "LastMod": "2025-11-03T20:45:23Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "top-8-vmware-alternatives"
   },
-  "Title": "Top 8 VMware Alternatives",
+  "Title": "Top 9 VMware Alternatives",
   "Summary": "",
   "PublishDate": "2024-12-14T00:00:00Z",
   "Tags": []
@@ -8066,7 +8066,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/upgrade-your-own-flasharray-with-pure1/",
-    "LastMod": "2025-10-10T21:03:00Z"
+    "LastMod": "2025-11-03T21:58:50Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8253,7 +8253,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-are-snapshots-backups/",
-    "LastMod": "2025-09-03T17:37:49Z"
+    "LastMod": "2025-11-02T15:12:13Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -9226,7 +9226,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/why-migrate-to-kubernetes/",
-    "LastMod": "2025-09-03T20:32:46Z"
+    "LastMod": "2025-11-03T17:43:10Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
