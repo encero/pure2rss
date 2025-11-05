@@ -4075,7 +4075,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/leveraging-flasharray-continuous-integration-build-pipeline/",
-    "LastMod": "2024-04-26T01:50:50Z"
+    "LastMod": "2025-11-02T15:31:35Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4084,10 +4084,7 @@
   "Title": "Leveraging FlashArray in a Continuous Integration Build Pipeline",
   "Summary": "",
   "PublishDate": "2018-02-25T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe",
-   "Microsoft"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/lifecycle-management-of-azure-vmware-solution-with-pure-cloud-block-store/": {
   "PostLink": {
