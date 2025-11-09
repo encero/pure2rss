@@ -401,7 +401,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/ai-readiness-is-not-an-option/",
-    "LastMod": "2025-03-25T22:10:50Z"
+    "LastMod": "2025-11-09T16:10:57Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1019,7 +1019,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/building-and-securing-kubernetes-native-products-the-pure-storage-product-security-journey/",
-    "LastMod": "2025-07-18T15:03:09Z"
+    "LastMod": "2025-11-08T15:50:23Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1484,7 +1484,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/cpu-vs-gpu-for-machine-learning/",
-    "LastMod": "2025-09-03T20:55:36Z"
+    "LastMod": "2025-11-08T20:08:08Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1632,7 +1632,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/data-mesh-vs-data-fabric-whats-the-difference/",
-    "LastMod": "2025-09-03T20:53:35Z"
+    "LastMod": "2025-11-09T13:44:08Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2416,7 +2416,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/fake-it-til-you-make-it-why-synthetic-data-is-on-the-rise/",
-    "LastMod": "2025-09-09T14:18:16Z"
+    "LastMod": "2025-11-08T20:11:12Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2906,7 +2906,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/greenfield-vs-brownfield-data-centers/",
-    "LastMod": "2025-09-03T20:50:22Z"
+    "LastMod": "2025-11-08T20:06:19Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3013,7 +3013,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-benchmark-mysql-performance/",
-    "LastMod": "2025-09-03T20:53:17Z"
+    "LastMod": "2025-11-09T13:43:31Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7354,7 +7354,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sql-update-vs-insert-vs-upsert/",
-    "LastMod": "2025-09-03T20:54:20Z"
+    "LastMod": "2025-11-08T20:08:57Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -9026,7 +9026,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/what-is-mtu-size-and-how-do-you-calculate-it/",
-    "LastMod": "2025-09-03T20:34:23Z"
+    "LastMod": "2025-11-09T13:42:12Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
