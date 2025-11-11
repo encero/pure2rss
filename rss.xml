@@ -156,6 +156,12 @@
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How to Set Up a Secure Isolated Recovery Environment (SIRE)</title>
+      <link>https://blog.purestorage.com/purely-technical/how-to-set-up-a-secure-isolated-recovery-environment-sire/</link>
+      <description></description>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Data Migration from on Premises to the Cloud with Cirrus Migrate Cloud and Pure Storage Cloud</title>
       <link>https://blog.purestorage.com/purely-technical/data-migration-from-on-premises-to-the-cloud-with-cirrus-migrate-cloud-and-pure-cloud-block-store/</link>
       <description></description>
@@ -1081,13 +1087,13 @@
     </item>
     <item>
       <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
+      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/configuring-pure1-vm-analytics/</link>
+      <title>How to Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
+      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
@@ -3343,13 +3349,13 @@
     </item>
     <item>
       <title>Clouds Require Automation: Evaluation Criteria for Judging Maturity of Storage Array (and other Infrastructure) APIs</title>
-      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-storage-array-apis/</link>
+      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-apis/</link>
       <description></description>
       <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Clouds Require Automation: Evaluation Criteria for Judging Maturity of Storage Array (and other Infrastructure) APIs</title>
-      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-apis/</link>
+      <link>https://blog.purestorage.com/purely-technical/evaluation-criteria-for-storage-array-apis/</link>
       <description></description>
       <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
     </item>

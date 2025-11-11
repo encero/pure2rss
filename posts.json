@@ -33,7 +33,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/2x-oltp-performance-aks-portworx-benchmarking-sql-server-azure/",
-    "LastMod": "2025-10-29T15:00:22Z"
+    "LastMod": "2025-11-10T20:58:51Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -494,7 +494,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/announcing-secure-application-workspaces-with-pure-storage/",
-    "LastMod": "2025-11-06T20:42:32Z"
+    "LastMod": "2025-11-10T21:02:25Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1924,7 +1924,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/denormalized-vs-normalized-data/",
-    "LastMod": "2025-09-03T20:41:51Z"
+    "LastMod": "2025-11-11T07:51:32Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1959,13 +1959,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/",
-    "LastMod": "2025-08-18T17:07:31Z"
+    "LastMod": "2025-11-10T18:46:37Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance"
   },
-  "Title": "Deploy VM Analytics Collector on the Pure Storage Virtual Appliance",
+  "Title": "How to Deploy VM Analytics Collector on the Pure Storage Virtual Appliance",
   "Summary": "",
   "PublishDate": "2022-11-29T00:00:00Z",
   "Tags": []
@@ -2233,7 +2233,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/enhanced-security-and-organization-management-with-single-sign-on-in-pure1/",
-    "LastMod": "2025-03-26T19:58:00Z"
+    "LastMod": "2025-11-09T19:34:47Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2953,7 +2953,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/harnessing-static-and-dynamic-code-scanning-in-devsecops/",
-    "LastMod": "2025-03-04T14:49:51Z"
+    "LastMod": "2025-11-11T07:52:50Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2998,7 +2998,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-snapshot-consolidation-with-fan-in-replication-can-simplify-your-life/",
-    "LastMod": "2025-03-28T16:27:41Z"
+    "LastMod": "2025-11-11T07:38:44Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3091,7 +3091,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-cli-scripting-by-miranda-steele-guest-blogger/",
-    "LastMod": "2025-08-07T19:35:03Z"
+    "LastMod": "2025-11-11T14:45:03Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3410,6 +3410,21 @@
   "PublishDate": "2023-11-30T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/how-to-set-up-a-secure-isolated-recovery-environment-sire/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/how-to-set-up-a-secure-isolated-recovery-environment-sire/",
+    "LastMod": "2025-11-10T20:23:44Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-set-up-a-secure-isolated-recovery-environment-sire"
+  },
+  "Title": "How to Set Up a Secure Isolated Recovery Environment (SIRE)",
+  "Summary": "",
+  "PublishDate": "2025-03-31T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/how-to-simulate-vsi-vdi-sql-oracle-workloads-with-oracle-vdbench/": {
   "PostLink": {
    "Link": {
@@ -3523,7 +3538,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/identify-the-asm-device-from-asmlib/",
-    "LastMod": "2025-06-04T18:31:09Z"
+    "LastMod": "2025-11-11T14:42:52Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4435,7 +4450,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/monitoring-automatic-vmfs-6-unmap-in-esxi/",
-    "LastMod": "2024-07-22T20:56:15Z"
+    "LastMod": "2025-11-11T08:31:06Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4858,7 +4873,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/non-disruptive-storage-consolidation-and-removal/",
-    "LastMod": "2025-06-05T18:02:22Z"
+    "LastMod": "2025-11-11T08:22:30Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4907,7 +4922,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/notes-from-a-hackathon-how-to-cut-down-web-requests-by-70/",
-    "LastMod": "2025-09-03T18:59:45Z"
+    "LastMod": "2025-11-11T08:20:42Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5068,7 +5083,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/optimize-your-cloud-storage-bill/",
-    "LastMod": "2025-08-12T20:58:27Z"
+    "LastMod": "2025-11-11T08:21:03Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5562,7 +5577,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-e-family-technical/",
-    "LastMod": "2024-11-05T17:11:31Z"
+    "LastMod": "2025-11-11T08:23:21Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5679,7 +5694,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-optimizing-gpu-performance-utilization-for-ai-workloads/",
-    "LastMod": "2025-08-14T14:33:21Z"
+    "LastMod": "2025-11-10T20:54:39Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8063,7 +8078,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/upgrade-your-own-flasharray-with-pure1/",
-    "LastMod": "2025-11-03T21:58:50Z"
+    "LastMod": "2025-11-11T03:13:04Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8535,7 +8550,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/vmfs-management-on-azure-vmware-solution-and-pure-cloud-block-store/",
-    "LastMod": "2025-10-01T16:19:39Z"
+    "LastMod": "2025-11-11T14:57:35Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -9208,7 +9223,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/why-iops-dont-matter/",
-    "LastMod": "2025-08-28T21:50:12Z"
+    "LastMod": "2025-11-11T08:20:19Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -9223,7 +9238,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/why-migrate-to-kubernetes/",
-    "LastMod": "2025-11-03T17:43:10Z"
+    "LastMod": "2025-11-11T14:20:15Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
