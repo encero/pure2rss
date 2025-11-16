@@ -123,7 +123,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/a-presto-data-pipeline-with-s3/",
-    "LastMod": "2025-11-02T15:13:28Z"
+    "LastMod": "2025-11-16T14:25:20Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -711,7 +711,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/attach-detach-sql-server-databases-with-powershell/",
-    "LastMod": "2025-04-28T17:25:32Z"
+    "LastMod": "2025-11-16T14:58:35Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -921,7 +921,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/billion-dollar-backup-industry-flawed-heres-fixes/",
-    "LastMod": "2024-08-21T23:39:55Z"
+    "LastMod": "2025-11-16T13:50:31Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -956,7 +956,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/bringing-data-analytics-into-the-hardware-design-story/",
-    "LastMod": "2024-12-18T15:30:47Z"
+    "LastMod": "2025-11-13T21:39:34Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1004,7 +1004,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/building-a-secure-multi-cloud-storage-backbone-with-portworx-by-pure-storage/",
-    "LastMod": "2025-09-03T18:55:36Z"
+    "LastMod": "2025-11-16T12:28:02Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1272,7 +1272,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/concurrent-programming-case-study-comparing-python-go-and-rust/",
-    "LastMod": "2024-08-10T19:24:23Z"
+    "LastMod": "2025-11-16T13:21:56Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1354,7 +1354,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/containers-vs-vms/",
-    "LastMod": "2025-08-12T19:18:37Z"
+    "LastMod": "2025-11-16T12:48:29Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1680,7 +1680,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/data-mobility-for-hpc-and-eda-workloads-from-on-premises-to-azure-cloud/",
-    "LastMod": "2025-03-11T12:26:41Z"
+    "LastMod": "2025-11-16T13:31:35Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1959,7 +1959,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/",
-    "LastMod": "2025-11-10T18:46:37Z"
+    "LastMod": "2025-11-16T13:05:05Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2105,7 +2105,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/elasticsearch-snapshots-on-s3/",
-    "LastMod": "2024-09-29T11:44:16Z"
+    "LastMod": "2025-11-16T13:18:49Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2183,7 +2183,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/enabling-tanzu-support-in-portworx-using-csi/",
-    "LastMod": "2024-09-19T13:51:05Z"
+    "LastMod": "2025-11-16T13:40:04Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3076,7 +3076,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-build-an-open-data-lakehouse-with-spark-delta-and-trino-on-s3/",
-    "LastMod": "2024-08-05T15:32:52Z"
+    "LastMod": "2025-11-16T12:43:16Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3867,7 +3867,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/introductory-monitoring-stack-with-prometheus-and-grafana/",
-    "LastMod": "2025-09-03T18:55:36Z"
+    "LastMod": "2025-11-16T12:46:52Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4153,7 +4153,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/log-analytics-pipelines-as-a-service/",
-    "LastMod": "2024-08-21T23:59:49Z"
+    "LastMod": "2025-11-16T12:33:20Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5645,7 +5645,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-and-portworx/",
-    "LastMod": "2024-10-03T21:06:56Z"
+    "LastMod": "2025-11-16T13:59:16Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6575,7 +6575,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/running-apache-spark-on-kubernetes-approaches-and-workflow/",
-    "LastMod": "2024-08-05T15:28:07Z"
+    "LastMod": "2025-11-16T12:44:19Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6590,7 +6590,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/running-oracle-database-19c-on-kubernetes-with-portworx/",
-    "LastMod": "2025-07-02T18:51:24Z"
+    "LastMod": "2025-11-16T13:36:56Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7050,7 +7050,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/setting-up-software-iscsi-multipathing-with-distributed-vswitches-with-the-vsphere-web-client/",
-    "LastMod": "2025-10-27T20:45:13Z"
+    "LastMod": "2025-11-16T13:50:11Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7546,7 +7546,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/task-vs-process-in-linux/",
-    "LastMod": "2025-08-14T17:44:29Z"
+    "LastMod": "2025-11-16T13:05:45Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -9089,7 +9089,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/what-is-the-etc-hosts-file-in-linux/",
-    "LastMod": "2025-09-03T20:59:23Z"
+    "LastMod": "2025-11-16T12:34:23Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
