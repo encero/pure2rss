@@ -6,6 +6,12 @@
     <pubDate>Sun, 07 Sep 2025 18:27:27 +0000</pubDate>
     <lastBuildDate>Sun, 07 Sep 2025 18:27:27 +0000</lastBuildDate>
     <item>
+      <title>SQL Server 2025 Now GA: Enterprise AI without the Learning Curve</title>
+      <link>https://blog.purestorage.com/purely-technical/sql-server-2025-enterprise-ai-without-the-learning-curve/</link>
+      <description></description>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>2X OLTP Performance with AKS and Portworx: Benchmarking SQL Server in Azure</title>
       <link>https://blog.purestorage.com/purely-technical/2x-oltp-performance-aks-portworx-benchmarking-sql-server-azure/</link>
       <description></description>
@@ -130,12 +136,6 @@
       <link>https://blog.purestorage.com/purely-technical/how-to-simulate-vsi-vdi-sql-oracle-workloads-with-oracle-vdbench/</link>
       <description></description>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SQL Server 2025: Enterprise AI without the Learning Curve</title>
-      <link>https://blog.purestorage.com/purely-technical/sql-server-2025-enterprise-ai-without-the-learning-curve/</link>
-      <description></description>
-      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>T-SQL REST API Integration in SQL Server 2025: Streamlining T-SQL Snapshot Backups</title>
@@ -2953,13 +2953,13 @@
     </item>
     <item>
       <title>Understanding VMware ESXi Queuing and the FlashArray</title>
-      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray/</link>
+      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray-2/</link>
       <description></description>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Understanding VMware ESXi Queuing and the FlashArray</title>
-      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray-2/</link>
+      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray/</link>
       <description></description>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
     </item>

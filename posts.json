@@ -3106,7 +3106,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-create-an-s3-bucket-with-terraform/",
-    "LastMod": "2025-09-03T20:51:55Z"
+    "LastMod": "2025-11-16T12:54:40Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7294,15 +7294,15 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sql-server-2025-enterprise-ai-without-the-learning-curve/",
-    "LastMod": "2025-10-07T14:18:49Z"
+    "LastMod": "2025-11-18T16:39:35Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "sql-server-2025-enterprise-ai-without-the-learning-curve"
   },
-  "Title": "SQL Server 2025: Enterprise AI without the Learning Curve",
+  "Title": "SQL Server 2025 Now GA: Enterprise AI without the Learning Curve",
   "Summary": "",
-  "PublishDate": "2025-05-27T00:00:00Z",
+  "PublishDate": "2025-11-18T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/sql-server-2025-streamlining-t-sql-snapshot-backups/": {
