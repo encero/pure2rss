@@ -2953,7 +2953,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/harnessing-static-and-dynamic-code-scanning-in-devsecops/",
-    "LastMod": "2025-11-11T07:52:50Z"
+    "LastMod": "2025-11-25T15:40:22Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2961,7 +2961,7 @@
   },
   "Title": "Harnessing Static and Dynamic Code Scanning in DevSecOps",
   "Summary": "",
-  "PublishDate": "2024-02-12T00:00:00Z",
+  "PublishDate": "2025-11-25T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/hints-on-using-cinder-manage-with-openstack-newton-and-later/": {
