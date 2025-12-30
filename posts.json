@@ -2311,7 +2311,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/evaluation-criteria-for-storage-array-apis/",
-    "LastMod": "2025-01-21T14:48:06Z"
+    "LastMod": "2025-12-30T16:04:18Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2589,6 +2589,21 @@
   "Tags": [
    "VMware"
   ]
+ },
+ "https://blog.purestorage.com/purely-technical/flasharray-file-services-nfsv4-1-with-kerberos-krb5-security/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/flasharray-file-services-nfsv4-1-with-kerberos-krb5-security/",
+    "LastMod": "2025-12-29T17:25:45Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "flasharray-file-services-nfsv4-1-with-kerberos-krb5-security"
+  },
+  "Title": "FlashArray File Services: NFSv4.1 with Kerberos (krb5) Security",
+  "Summary": "",
+  "PublishDate": "2025-12-29T00:00:00Z",
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/flasharray-html-5-vsphere-client-plugin-vvol-support/": {
   "PostLink": {
@@ -5832,7 +5847,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-rest-api-windows-powershell/",
-    "LastMod": "2025-01-31T16:54:29Z"
+    "LastMod": "2025-12-30T15:58:22Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5909,7 +5924,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-api-integration-use-cases/",
-    "LastMod": "2024-02-17T01:14:23Z"
+    "LastMod": "2025-12-30T15:59:51Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5918,9 +5933,7 @@
   "Title": "Unleash the Power of Integrations with the Pure1 API",
   "Summary": "",
   "PublishDate": "2020-01-30T00:00:00Z",
-  "Tags": [
-   "Pure1 Storage Management"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/pure1-data-protection-assessment-tool/": {
   "PostLink": {
@@ -5941,7 +5954,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-rest-api-part-1/",
-    "LastMod": "2025-05-05T20:42:59Z"
+    "LastMod": "2025-12-30T15:58:40Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5956,7 +5969,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-rest-api-part-2/",
-    "LastMod": "2025-08-15T16:41:15Z"
+    "LastMod": "2025-12-30T16:00:38Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5971,7 +5984,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-rest-api-part-3/",
-    "LastMod": "2025-03-24T23:59:17Z"
+    "LastMod": "2025-12-30T16:00:17Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6001,7 +6014,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/purest-ruby-gem-flasharray/",
-    "LastMod": "2022-08-22T17:25:50Z"
+    "LastMod": "2025-12-30T16:01:36Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7309,7 +7322,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sql-server-2025-streamlining-t-sql-snapshot-backups/",
-    "LastMod": "2025-08-14T21:59:41Z"
+    "LastMod": "2025-12-30T15:57:17Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7857,7 +7870,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/try-the-rest-api-using-a-rest-client/",
-    "LastMod": "2025-04-29T15:20:27Z"
+    "LastMod": "2025-12-30T15:59:06Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8185,7 +8198,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-postman-with-the-flasharray-rest-api/",
-    "LastMod": "2022-08-24T21:47:26Z"
+    "LastMod": "2025-12-30T16:03:16Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8194,9 +8207,7 @@
   "Title": "Using Postman with the FlashArray REST API",
   "Summary": "",
   "PublishDate": "2018-02-10T00:00:00Z",
-  "Tags": [
-   "FlashArray//X NVMe"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/using-prometheus-and-grafana-with-pure/": {
   "PostLink": {
@@ -8388,7 +8399,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-the-pure1-rest-api-part-i-powershell/",
-    "LastMod": "2023-08-31T14:41:55Z"
+    "LastMod": "2025-12-30T16:01:10Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8397,10 +8408,7 @@
   "Title": "Using the Pure1® REST API Part I: PowerShell",
   "Summary": "",
   "PublishDate": "2019-01-12T00:00:00Z",
-  "Tags": [
-   "Virtualization",
-   "VMware"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/using-vdbench-to-create-a-5-51-reducible-dataset-on-a-pure-storage-flasharray/": {
   "PostLink": {
@@ -8843,7 +8851,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/volume-matching-via-the-api-in-purity-5-0/",
-    "LastMod": "2025-05-05T18:21:32Z"
+    "LastMod": "2025-12-30T16:02:01Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
