@@ -4970,7 +4970,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/nvmeof-roce-suse-15/",
-    "LastMod": "2025-04-30T17:54:41Z"
+    "LastMod": "2025-12-31T16:31:03Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6179,7 +6179,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/rclone-vs-rsync/",
-    "LastMod": "2025-08-13T17:24:30Z"
+    "LastMod": "2025-12-30T16:58:20Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -9315,6 +9315,21 @@
   "Title": "Meet the World’s Most Powerful AND Efficient Storage",
   "Summary": "",
   "PublishDate": "2023-06-14T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/xfs-vs-ext4-which-linux-file-system-is-better/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/xfs-vs-ext4-which-linux-file-system-is-better/",
+    "LastMod": "2025-12-31T15:05:45Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "xfs-vs-ext4-which-linux-file-system-is-better"
+  },
+  "Title": "XFS vs. Ext4: Which Linux File System is Better?",
+  "Summary": "",
+  "PublishDate": "2024-01-24T00:00:00Z",
   "Tags": []
  }
 }
