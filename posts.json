@@ -584,7 +584,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/apache-spark-on-flashblade/",
-    "LastMod": "2024-08-22T04:30:05Z"
+    "LastMod": "2026-01-01T15:50:51Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3166,7 +3166,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-create-tables-with-mariadb/",
-    "LastMod": "2025-09-03T20:35:42Z"
+    "LastMod": "2025-12-31T17:27:33Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4614,7 +4614,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/national-coding-week-upskill-your-coding-knowledge-with-pure-storage/",
-    "LastMod": "2024-02-16T23:57:33Z"
+    "LastMod": "2025-12-31T17:30:50Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4623,11 +4623,7 @@
   "Title": "National Coding Week: Upskill Your Coding Knowledge with Pure Storage",
   "Summary": "",
   "PublishDate": "2023-09-18T00:00:00Z",
-  "Tags": [
-   "Apache Spark",
-   "Python",
-   "SQL"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/native-pci-express-back-end-interconnect-in-flasharraym/": {
   "PostLink": {
@@ -7559,7 +7555,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/task-vs-process-in-linux/",
-    "LastMod": "2025-11-16T13:05:45Z"
+    "LastMod": "2025-12-31T17:39:33Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -9127,7 +9123,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/what-is-the-etc-hosts-file-in-linux/",
-    "LastMod": "2025-12-09T18:23:38Z"
+    "LastMod": "2025-12-31T17:39:25Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -9321,7 +9317,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/xfs-vs-ext4-which-linux-file-system-is-better/",
-    "LastMod": "2025-12-31T15:05:45Z"
+    "LastMod": "2025-12-31T17:40:19Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
