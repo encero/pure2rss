@@ -14,6 +14,21 @@
   "PublishDate": "0001-01-01T00:00:00Z",
   "Tags": null
  },
+ "https://blog.purestorage.com/purely-technical/10-ways-to-improve-data-management-with-automation/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/10-ways-to-improve-data-management-with-automation/",
+    "LastMod": "2026-02-09T19:11:50Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "10-ways-to-improve-data-management-with-automation"
+  },
+  "Title": "10 Ways to Improve Data Management with Automation",
+  "Summary": "",
+  "PublishDate": "2023-08-25T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/20x-faster-inference-first-kv-cache-for-s3-and-nfs/": {
   "PostLink": {
    "Link": {
@@ -1572,6 +1587,21 @@
   "Title": "Customer-driven Capacity Upgrade for Pure Storage Cloud",
   "Summary": "",
   "PublishDate": "2023-12-20T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/cut-llm-inference-costs-with-kv-caching/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/cut-llm-inference-costs-with-kv-caching/",
+    "LastMod": "2026-02-09T18:04:51Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "cut-llm-inference-costs-with-kv-caching"
+  },
+  "Title": "Architecting for Reuse: A Deep Journey into the Heart of KV Caching",
+  "Summary": "",
+  "PublishDate": "2026-01-22T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/data-applications-kubernetes-cluster/": {
@@ -3455,6 +3485,21 @@
   "PublishDate": "2025-06-20T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/how-to-successfully-manage-a-file-migration/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/how-to-successfully-manage-a-file-migration/",
+    "LastMod": "2026-02-09T19:06:12Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-successfully-manage-a-file-migration"
+  },
+  "Title": "How to Successfully Manage a File Migration",
+  "Summary": "",
+  "PublishDate": "2023-12-14T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/how-to-test-an-entire-distributed-system-in-15-seconds/": {
   "PostLink": {
    "Link": {
@@ -5203,6 +5248,21 @@
   "PublishDate": "2020-03-17T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/oracle-database-troubleshooting-and-problem-resolution-with-storage-snapshots/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/oracle-database-troubleshooting-and-problem-resolution-with-storage-snapshots/",
+    "LastMod": "2026-02-09T19:36:26Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "oracle-database-troubleshooting-and-problem-resolution-with-storage-snapshots"
+  },
+  "Title": "How to Troubleshoot Oracle Databases with Storage Snapshots",
+  "Summary": "",
+  "PublishDate": "2022-05-18T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/overwriting-a-volume-in-windows-server/": {
   "PostLink": {
    "Link": {
@@ -6323,6 +6383,21 @@
   "PublishDate": "2018-02-17T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/reduce-stress-with-highly-effective-yet-simple-solutions/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/reduce-stress-with-highly-effective-yet-simple-solutions/",
+    "LastMod": "2026-02-09T19:16:30Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "reduce-stress-with-highly-effective-yet-simple-solutions"
+  },
+  "Title": "Reduce Stress with Highly Effective Yet Simple Solutions",
+  "Summary": "",
+  "PublishDate": "2023-04-20T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/registering-vasa-with-powershell/": {
   "PostLink": {
    "Link": {
@@ -6959,7 +7034,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/scaling-synopsys-vcs-workloads-in-hybrid-cloud-with-azure-and-flashblade/",
-    "LastMod": "2024-08-22T00:17:55Z"
+    "LastMod": "2026-02-09T19:35:56Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
