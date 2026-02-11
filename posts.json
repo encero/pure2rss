@@ -7453,7 +7453,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sql-update-vs-insert-vs-upsert/",
-    "LastMod": "2026-02-05T16:06:54Z"
+    "LastMod": "2026-02-11T17:05:38Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7879,7 +7879,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/top-8-vmware-alternatives/",
-    "LastMod": "2026-01-16T21:35:15Z"
+    "LastMod": "2026-02-11T16:48:40Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8817,6 +8817,21 @@
    "Virtualization",
    "VMware"
   ]
+ },
+ "https://blog.purestorage.com/purely-technical/vmware-licensing-changes-demystified/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/vmware-licensing-changes-demystified/",
+    "LastMod": "2026-02-10T22:21:19Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "vmware-licensing-changes-demystified"
+  },
+  "Title": "VMware Licensing Changes Demystified",
+  "Summary": "",
+  "PublishDate": "2025-12-30T00:00:00Z",
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/vmware-pure-integration-training-videos/": {
   "PostLink": {
