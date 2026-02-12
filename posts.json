@@ -1034,7 +1034,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/building-and-securing-kubernetes-native-products-the-pure-storage-product-security-journey/",
-    "LastMod": "2025-11-08T15:50:23Z"
+    "LastMod": "2026-02-09T18:22:42Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3518,6 +3518,21 @@
    "FlashBlade Object Storage",
    "Kubernetes"
   ]
+ },
+ "https://blog.purestorage.com/purely-technical/how-to-unlock-the-power-of-iot-and-unstructured-data/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/how-to-unlock-the-power-of-iot-and-unstructured-data/",
+    "LastMod": "2026-02-09T19:14:38Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-unlock-the-power-of-iot-and-unstructured-data"
+  },
+  "Title": "How to Unlock the Power of IoT and Unstructured Data",
+  "Summary": "",
+  "PublishDate": "2023-05-18T00:00:00Z",
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/how-to-use-aws-iam-with-terraform/": {
   "PostLink": {
