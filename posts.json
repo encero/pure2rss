@@ -138,7 +138,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/a-presto-data-pipeline-with-s3/",
-    "LastMod": "2025-11-16T14:25:20Z"
+    "LastMod": "2026-02-14T17:19:44Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -599,7 +599,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/apache-spark-on-flashblade/",
-    "LastMod": "2026-01-01T15:50:51Z"
+    "LastMod": "2026-02-14T18:42:31Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1094,7 +1094,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/calculating-block-size-using-the-powershell-sdk/",
-    "LastMod": "2025-01-31T17:37:00Z"
+    "LastMod": "2026-02-14T18:35:54Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1662,7 +1662,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/data-mesh-vs-data-fabric-whats-the-difference/",
-    "LastMod": "2026-01-23T21:03:07Z"
+    "LastMod": "2026-02-14T17:19:07Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1954,7 +1954,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/denormalized-vs-normalized-data/",
-    "LastMod": "2025-11-11T07:51:32Z"
+    "LastMod": "2026-02-14T18:13:02Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2055,7 +2055,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/docker-compose-vs-dockerfile-with-code-examples/",
-    "LastMod": "2025-09-03T21:03:15Z"
+    "LastMod": "2026-02-14T17:50:06Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3378,7 +3378,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-reduce-ai-power-consumption-in-the-data-center/",
-    "LastMod": "2025-11-09T18:59:44Z"
+    "LastMod": "2026-02-14T17:38:55Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3459,7 +3459,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/how-to-set-up-a-secure-isolated-recovery-environment-sire/",
-    "LastMod": "2026-01-07T17:57:25Z"
+    "LastMod": "2026-02-14T17:43:56Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4706,7 +4706,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/ndu/",
-    "LastMod": "2025-08-12T15:41:20Z"
+    "LastMod": "2026-02-14T18:24:29Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5117,6 +5117,21 @@
   "PublishDate": "2024-05-22T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/openstack-is-back-not-that-it-ever-left/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/openstack-is-back-not-that-it-ever-left/",
+    "LastMod": "2026-02-14T17:37:13Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "openstack-is-back-not-that-it-ever-left"
+  },
+  "Title": "OpenStack Is Back! Not That It Ever Left ",
+  "Summary": "",
+  "PublishDate": "2025-02-12T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/openstack-kilo-and-pure-storage/": {
   "PostLink": {
    "Link": {
@@ -5282,7 +5297,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/overwriting-a-volume-in-windows-server/",
-    "LastMod": "2025-08-14T21:52:49Z"
+    "LastMod": "2026-02-14T18:36:05Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5306,6 +5321,21 @@
   "Title": "All-Flash Platform-as-a-Service: Pure Storage and Red Hat OpenShift Reference Architecture",
   "Summary": "",
   "PublishDate": "2018-05-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/people-of-pure-falko-banaszak-cyber-resilience/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/people-of-pure-falko-banaszak-cyber-resilience/",
+    "LastMod": "2026-02-14T17:43:06Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "people-of-pure-falko-banaszak-cyber-resilience"
+  },
+  "Title": "Redefining Resilience: A Field Architect’s Guide to Securing the Data Layer",
+  "Summary": "",
+  "PublishDate": "2025-10-20T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/performance-consistency-with-flasharray-nvme-of-and-sql-server-linux/": {
@@ -7592,7 +7622,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/storage-snapshots-sap/",
-    "LastMod": "2025-06-26T13:47:53Z"
+    "LastMod": "2026-02-14T18:34:09Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7622,7 +7652,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/super-fast-backup-and-restore-sql-server/",
-    "LastMod": "2025-04-28T19:23:39Z"
+    "LastMod": "2026-02-14T17:47:48Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7924,7 +7954,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/top-9-considerations-for-enterprise-ai/",
-    "LastMod": "2025-11-09T16:18:40Z"
+    "LastMod": "2026-02-14T17:19:12Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8031,7 +8061,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/types-of-nosql-databases/",
-    "LastMod": "2025-09-03T20:46:59Z"
+    "LastMod": "2026-02-14T18:14:06Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -9461,6 +9491,21 @@
   "Title": "XFS vs. Ext4: Which Linux File System is Better?",
   "Summary": "",
   "PublishDate": "2024-01-24T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/your-cyber-resilience-wish-list-for-2025-and-how-to-achieve-it/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/your-cyber-resilience-wish-list-for-2025-and-how-to-achieve-it/",
+    "LastMod": "2026-02-14T17:26:24Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "your-cyber-resilience-wish-list-for-2025-and-how-to-achieve-it"
+  },
+  "Title": "7 Tried and True Ways to Achieve Cyber Resilience in 2025",
+  "Summary": "",
+  "PublishDate": "2025-08-28T00:00:00Z",
   "Tags": []
  }
 }
