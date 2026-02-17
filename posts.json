@@ -1623,6 +1623,21 @@
    "Kubernetes"
   ]
  },
+ "https://blog.purestorage.com/purely-technical/data-architectures-and-their-economics/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/data-architectures-and-their-economics/",
+    "LastMod": "2026-02-17T15:06:10Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "data-architectures-and-their-economics"
+  },
+  "Title": "Data Architectures and Their Economics",
+  "Summary": "",
+  "PublishDate": "2026-02-17T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/data-fabric-vs-data-lake-vs-data-warehouse/": {
   "PostLink": {
    "Link": {
@@ -3957,7 +3972,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/io-plumbing-tests-with-fio/",
-    "LastMod": "2025-11-04T14:43:51Z"
+    "LastMod": "2026-02-17T15:55:54Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
