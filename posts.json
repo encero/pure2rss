@@ -3972,7 +3972,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/io-plumbing-tests-with-fio/",
-    "LastMod": "2026-02-17T15:55:54Z"
+    "LastMod": "2026-02-17T18:20:02Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4237,6 +4237,21 @@
   "Title": "How to List 67 Billion Objects in 1 Bucket in Golang",
   "Summary": "",
   "PublishDate": "2022-05-27T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/llm-efficiency-granular-prompt-caching-pure-kva/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/llm-efficiency-granular-prompt-caching-pure-kva/",
+    "LastMod": "2026-02-18T15:22:33Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "llm-efficiency-granular-prompt-caching-pure-kva"
+  },
+  "Title": "Maximizing LLM Efficiency: Granular-Prompt Caching with Pure KVA",
+  "Summary": "",
+  "PublishDate": "2026-02-18T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/log-analytics-pipelines-as-a-service/": {
