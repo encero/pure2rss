@@ -1627,7 +1627,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/data-architectures-and-their-economics/",
-    "LastMod": "2026-02-17T15:06:10Z"
+    "LastMod": "2026-02-19T20:01:02Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1734,6 +1734,21 @@
   "Title": "Data Mobility for HPC and EDA Workloads from On-premises to Azure Cloud",
   "Summary": "",
   "PublishDate": "2021-11-17T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/data-platform-oracle-ai-database-26ai/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/data-platform-oracle-ai-database-26ai/",
+    "LastMod": "2026-02-19T17:35:17Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "data-platform-oracle-ai-database-26ai"
+  },
+  "Title": "Is Your Platform Ready for Oracle AI Database 26ai?",
+  "Summary": "",
+  "PublishDate": "2026-01-27T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/data-protection-for-aws-outposts/": {
@@ -8282,7 +8297,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/upgrade-to-purity-fa-6-5-0-yourself-through-pure1/",
-    "LastMod": "2025-03-17T09:12:59Z"
+    "LastMod": "2026-02-19T21:18:00Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
