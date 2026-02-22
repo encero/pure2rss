@@ -2371,7 +2371,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/evaluation-criteria-for-storage-array-apis/",
-    "LastMod": "2025-12-30T16:04:18Z"
+    "LastMod": "2026-02-19T18:53:00Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -2572,7 +2572,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/fio-plumbing-test/",
-    "LastMod": "2024-05-15T15:13:10Z"
+    "LastMod": "2026-02-17T15:57:47Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6070,7 +6070,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure1-api-integration-use-cases/",
-    "LastMod": "2025-12-30T15:59:51Z"
+    "LastMod": "2026-02-19T18:56:46Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6160,7 +6160,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/purest-ruby-gem-flasharray/",
-    "LastMod": "2025-12-30T16:01:36Z"
+    "LastMod": "2026-02-19T19:42:34Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7378,7 +7378,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/smb-a-fresh-spin-on-a-classic/",
-    "LastMod": "2025-08-21T14:34:37Z"
+    "LastMod": "2026-02-19T18:15:59Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8389,7 +8389,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-postman-with-the-flasharray-rest-api/",
-    "LastMod": "2025-12-30T16:03:16Z"
+    "LastMod": "2026-02-19T19:43:15Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8590,7 +8590,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/using-the-pure1-rest-api-part-i-powershell/",
-    "LastMod": "2025-12-30T16:01:10Z"
+    "LastMod": "2026-02-19T18:58:38Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -9057,7 +9057,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/volume-matching-via-the-api-in-purity-5-0/",
-    "LastMod": "2025-12-30T16:02:01Z"
+    "LastMod": "2026-02-19T19:58:53Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
