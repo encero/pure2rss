@@ -8198,6 +8198,21 @@
    "hybrid cloud optimization"
   ]
  },
+ "https://blog.purestorage.com/purely-technical/unlocking-on-premises-storage-agentics-via-the-model-context-protocol-mcp/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/unlocking-on-premises-storage-agentics-via-the-model-context-protocol-mcp/",
+    "LastMod": "2026-02-23T19:53:17Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "unlocking-on-premises-storage-agentics-via-the-model-context-protocol-mcp"
+  },
+  "Title": "How to Build a Model Context Protocol (MCP) Server: Agentic AI Meets On-premises Storage Management",
+  "Summary": "",
+  "PublishDate": "2026-02-22T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/unlocking-performance-insights-using-resxtop-to-monitor-your-azure-vmware-solution-environment/": {
   "PostLink": {
    "Link": {
