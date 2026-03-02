@@ -1105,6 +1105,21 @@
   "PublishDate": "2024-08-22T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/case-study-ai-purchase-requisition-reviews/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/case-study-ai-purchase-requisition-reviews/",
+    "LastMod": "2026-02-27T22:28:22Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "case-study-ai-purchase-requisition-reviews"
+  },
+  "Title": "A Case Study in Applying AI to Speed Up Purchase Requisition Reviews",
+  "Summary": "",
+  "PublishDate": "2025-11-25T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/check-provisioning-type-of-a-windows-server-volume/": {
   "PostLink": {
    "Link": {
@@ -1593,7 +1608,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/cut-llm-inference-costs-with-kv-caching/",
-    "LastMod": "2026-02-27T22:33:33Z"
+    "LastMod": "2026-03-02T01:28:48Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5851,6 +5866,21 @@
    "FlashStack Infrastructure"
   ]
  },
+ "https://blog.purestorage.com/purely-technical/pure-storage-nvidia-certification-dgx-gb200-gb300-superpods/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-nvidia-certification-dgx-gb200-gb300-superpods/",
+    "LastMod": "2026-02-27T22:33:10Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "pure-storage-nvidia-certification-dgx-gb200-gb300-superpods"
+  },
+  "Title": "Pure Storage Earns NVIDIA Certification for NVIDIA DGX SuperPOD with DGX GB200 or GB300 Systems",
+  "Summary": "",
+  "PublishDate": "2025-11-17T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/pure-storage-optimizing-gpu-performance-utilization-for-ai-workloads/": {
   "PostLink": {
    "Link": {
@@ -8366,6 +8396,21 @@
   "Title": "Using Ansible to Manage your Pure Infrastructure",
   "Summary": "",
   "PublishDate": "2019-05-17T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/using-apache-polaris-with-flashblade/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/using-apache-polaris-with-flashblade/",
+    "LastMod": "2026-02-27T19:56:14Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "using-apache-polaris-with-flashblade"
+  },
+  "Title": "Using Apache Polaris with FlashBlade",
+  "Summary": "",
+  "PublishDate": "2026-02-27T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/using-autofs-with-oracle-rman-and-dnfs-on-pure-flashblade/": {
