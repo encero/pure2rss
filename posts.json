@@ -6306,6 +6306,21 @@
   "PublishDate": "2024-03-17T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/rag-to-cag-improving-inference-accuracy-and-speed/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/rag-to-cag-improving-inference-accuracy-and-speed/",
+    "LastMod": "2026-03-25T13:00:00Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "rag-to-cag-improving-inference-accuracy-and-speed"
+  },
+  "Title": "From RAG to CAG, Improving Inference Accuracy and Speed",
+  "Summary": "",
+  "PublishDate": "2026-03-25T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/ransomware-protection-with-netbackup-msdp-and-flashblade/": {
   "PostLink": {
    "Link": {
@@ -7537,6 +7552,21 @@
   "Title": "SQL Server 2025 Now GA: Enterprise AI without the Learning Curve",
   "Summary": "",
   "PublishDate": "2025-11-18T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/sql-server-2025-mission-critical-workloads/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/sql-server-2025-mission-critical-workloads/",
+    "LastMod": "2026-03-24T19:14:18Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sql-server-2025-mission-critical-workloads"
+  },
+  "Title": "SQL Server 2025: A Last-minute Playbook for Mission-critical Workloads",
+  "Summary": "",
+  "PublishDate": "2026-02-12T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/sql-server-2025-streamlining-t-sql-snapshot-backups/": {
