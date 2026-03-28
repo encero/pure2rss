@@ -9613,6 +9613,21 @@
   "PublishDate": "2024-03-25T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/world-backup-day-four-data-protection-best-practices-to-know/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/world-backup-day-four-data-protection-best-practices-to-know/",
+    "LastMod": "2026-03-28T15:33:38Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "world-backup-day-four-data-protection-best-practices-to-know"
+  },
+  "Title": "World Backup Day Needs an Upgrade: Recovery Is the New Backup",
+  "Summary": "",
+  "PublishDate": "2025-03-30T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/xcr4-technical/": {
   "PostLink": {
    "Link": {
