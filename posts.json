@@ -9043,6 +9043,21 @@
   "PublishDate": "2025-12-30T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/vmware-nfs-unmap/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/vmware-nfs-unmap/",
+    "LastMod": "2026-03-30T15:30:58Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "vmware-nfs-unmap"
+  },
+  "Title": "Offset VMware Licensing Costs by Turning Stranded NFS Space into Usable Capacity",
+  "Summary": "",
+  "PublishDate": "2026-03-30T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/vmware-pure-integration-training-videos/": {
   "PostLink": {
    "Link": {
