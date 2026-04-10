@@ -2996,7 +2996,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/greenfield-vs-brownfield-data-centers/",
-    "LastMod": "2026-02-06T22:07:53Z"
+    "LastMod": "2026-04-09T19:21:06Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4273,7 +4273,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/llm-efficiency-granular-prompt-caching-pure-kva/",
-    "LastMod": "2026-03-04T17:30:27Z"
+    "LastMod": "2026-04-08T21:14:23Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6651,6 +6651,21 @@
   "Title": "Restore SQL Server Data Faster with Pure’s SSMS Extension",
   "Summary": "",
   "PublishDate": "2020-12-11T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/rethinking-enterprise-data-reduction-for-the-ai-era/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/rethinking-enterprise-data-reduction-for-the-ai-era/",
+    "LastMod": "2026-04-10T13:51:20Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "rethinking-enterprise-data-reduction-for-the-ai-era"
+  },
+  "Title": "Rethinking Enterprise Data Reduction for the AI Era",
+  "Summary": "",
+  "PublishDate": "2026-04-10T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/retrieving-lun-serial-numbers-with-windows-powershell/": {
