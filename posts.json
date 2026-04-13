@@ -3084,6 +3084,21 @@
   "PublishDate": "2025-03-22T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/how-psirt-uses-ai-to-help-everpure-customers-improve-their-security-posture/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/how-psirt-uses-ai-to-help-everpure-customers-improve-their-security-posture/",
+    "LastMod": "2026-04-13T16:58:32Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-psirt-uses-ai-to-help-everpure-customers-improve-their-security-posture"
+  },
+  "Title": "How PSIRT Uses AI to Help Everpure Customers Improve Their Security Posture",
+  "Summary": "",
+  "PublishDate": "2026-04-10T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/how-snapshot-consolidation-with-fan-in-replication-can-simplify-your-life/": {
   "PostLink": {
    "Link": {
