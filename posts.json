@@ -89,6 +89,21 @@
   "PublishDate": "2021-04-29T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/6-steps-to-ai-ready-data-sets/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/6-steps-to-ai-ready-data-sets/",
+    "LastMod": "2026-04-14T17:29:52Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "6-steps-to-ai-ready-data-sets"
+  },
+  "Title": "6 Steps to AI-Ready Data Sets",
+  "Summary": "",
+  "PublishDate": "2026-04-13T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/6-ways-healthcare-ai-is-saving-lives/": {
   "PostLink": {
    "Link": {
@@ -2395,6 +2410,21 @@
   "Title": "Clouds Require Automation: Evaluation Criteria for Judging Maturity of Storage Array (and other Infrastructure) APIs",
   "Summary": "",
   "PublishDate": "2015-03-25T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/everpure-cloud-azure-native-technical-overview-and-avs-integration/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/everpure-cloud-azure-native-technical-overview-and-avs-integration/",
+    "LastMod": "2026-04-14T16:51:17Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "everpure-cloud-azure-native-technical-overview-and-avs-integration"
+  },
+  "Title": "Everpure Cloud Azure Native: Technical Overview and AVS Integration",
+  "Summary": "",
+  "PublishDate": "2026-04-14T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/evolve-your-data-center-with-new-32g-mds-fibre-channel-switches-from-cisco/": {
@@ -6672,7 +6702,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/rethinking-enterprise-data-reduction-for-the-ai-era/",
-    "LastMod": "2026-04-10T13:51:20Z"
+    "LastMod": "2026-04-13T18:01:29Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
