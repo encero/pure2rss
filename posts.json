@@ -1591,7 +1591,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/csi-volume-resizing-and-elasticsearch/",
-    "LastMod": "2024-05-11T15:09:54Z"
+    "LastMod": "2026-04-14T22:53:45Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1600,9 +1600,7 @@
   "Title": "How to Use Kubernetes CSI Volume Resizing and Elasticsearch",
   "Summary": "",
   "PublishDate": "2022-06-17T00:00:00Z",
-  "Tags": [
-   "FlashBlade Object Storage"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/customer-driven-capacity-upgrade-for-pure-cloud-block-store/": {
   "PostLink": {
@@ -2416,7 +2414,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/everpure-cloud-azure-native-technical-overview-and-avs-integration/",
-    "LastMod": "2026-04-14T16:51:17Z"
+    "LastMod": "2026-04-14T19:15:58Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4255,7 +4253,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/leveraging-flasharray-continuous-integration-build-pipeline/",
-    "LastMod": "2025-11-02T15:31:35Z"
+    "LastMod": "2026-04-14T22:47:34Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
