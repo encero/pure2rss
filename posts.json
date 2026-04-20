@@ -741,7 +741,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/attach-detach-sql-server-databases-with-powershell/",
-    "LastMod": "2025-11-16T14:58:35Z"
+    "LastMod": "2026-04-20T01:30:54Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1384,7 +1384,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/consolidate-oracle-workloads-with-flasharray-xl/",
-    "LastMod": "2025-08-12T18:20:28Z"
+    "LastMod": "2026-04-20T02:47:37Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1529,7 +1529,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/cpu-vs-gpu-for-machine-learning/",
-    "LastMod": "2026-02-06T21:40:49Z"
+    "LastMod": "2026-04-20T01:27:47Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4447,7 +4447,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/managing-vector-storage-bloat-insights-for-scalable-systems/",
-    "LastMod": "2026-01-15T15:43:23Z"
+    "LastMod": "2026-04-20T01:14:21Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6113,7 +6113,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/pure-storage-smi-s-provider-overview/",
-    "LastMod": "2025-01-31T18:06:00Z"
+    "LastMod": "2026-04-20T01:00:09Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -7691,7 +7691,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/sql-update-vs-insert-vs-upsert/",
-    "LastMod": "2026-02-11T17:05:38Z"
+    "LastMod": "2026-04-20T01:33:13Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8132,7 +8132,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/top-9-considerations-for-enterprise-ai/",
-    "LastMod": "2026-02-14T17:19:12Z"
+    "LastMod": "2026-04-20T01:28:17Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -9400,7 +9400,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/what-do-quantum-computers-look-like/",
-    "LastMod": "2025-09-03T20:57:28Z"
+    "LastMod": "2026-04-20T00:11:38Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
