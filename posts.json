@@ -2519,7 +2519,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/fake-it-til-you-make-it-why-synthetic-data-is-on-the-rise/",
-    "LastMod": "2025-11-08T20:11:12Z"
+    "LastMod": "2026-04-21T14:00:18Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4093,7 +4093,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/jfrog-artifactory-fast-object/",
-    "LastMod": "2024-08-21T04:22:07Z"
+    "LastMod": "2026-04-20T00:01:02Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4153,7 +4153,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/kubernetes-cluster-networking-components/",
-    "LastMod": "2024-02-17T01:13:58Z"
+    "LastMod": "2026-04-20T00:27:13Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4162,11 +4162,7 @@
   "Title": "Investigating the On-prem Kubernetes Network Stack",
   "Summary": "",
   "PublishDate": "2020-02-24T00:00:00Z",
-  "Tags": [
-   "Containers",
-   "FlashBlade Object Storage",
-   "Kubernetes"
-  ]
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/kubernetes-using-vsphere-tanzu-deployment-with-tanzu-and-flasharray/": {
   "PostLink": {
@@ -5139,6 +5135,21 @@
    "Virtualization",
    "VMware"
   ]
+ },
+ "https://blog.purestorage.com/purely-technical/nvme-over-fabrics-nvme-of-with-windows-server-initiator-and-everpure/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/nvme-over-fabrics-nvme-of-with-windows-server-initiator-and-everpure/",
+    "LastMod": "2026-04-21T16:38:17Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "nvme-over-fabrics-nvme-of-with-windows-server-initiator-and-everpure"
+  },
+  "Title": "NVMe-over-Fabrics (NVMe-oF) with Windows Server Initiator and Everpure",
+  "Summary": "",
+  "PublishDate": "2026-04-21T00:00:00Z",
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/nvmeof-roce-suse-15/": {
   "PostLink": {

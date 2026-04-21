@@ -6,6 +6,12 @@
     <pubDate>Sun, 07 Sep 2025 18:27:27 +0000</pubDate>
     <lastBuildDate>Sun, 07 Sep 2025 18:27:27 +0000</lastBuildDate>
     <item>
+      <title>NVMe-over-Fabrics (NVMe-oF) with Windows Server Initiator and Everpure</title>
+      <link>https://blog.purestorage.com/purely-technical/nvme-over-fabrics-nvme-of-with-windows-server-initiator-and-everpure/</link>
+      <description></description>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Everpure Cloud Azure Native: Technical Overview and AVS Integration</title>
       <link>https://blog.purestorage.com/purely-technical/everpure-cloud-azure-native-technical-overview-and-avs-integration/</link>
       <description></description>
@@ -2977,13 +2983,13 @@
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>VMware and FlashArray PowerShell GUI tool v2.7</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmware-and-flasharray-powershell-gui-tool-v2-7-2/</link>
       <description></description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
     </item>
@@ -3145,13 +3151,13 @@
     </item>
     <item>
       <title>Understanding VMware ESXi Queuing and the FlashArray</title>
-      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray/</link>
+      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray-2/</link>
       <description></description>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Understanding VMware ESXi Queuing and the FlashArray</title>
-      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray-2/</link>
+      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray/</link>
       <description></description>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
     </item>
