@@ -2425,6 +2425,21 @@
   "PublishDate": "2026-04-14T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/everpure-kva-meets-flashblade-exa-enterprise-kv-caching-at-neocloud-scale/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/everpure-kva-meets-flashblade-exa-enterprise-kv-caching-at-neocloud-scale/",
+    "LastMod": "2026-04-22T16:25:57Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "everpure-kva-meets-flashblade-exa-enterprise-kv-caching-at-neocloud-scale"
+  },
+  "Title": "Everpure KVA Meets FlashBlade//EXA: Enterprise KV Caching at Neocloud Scale",
+  "Summary": "",
+  "PublishDate": "2026-04-21T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/evolve-your-data-center-with-new-32g-mds-fibre-channel-switches-from-cisco/": {
   "PostLink": {
    "Link": {
@@ -5456,7 +5471,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/people-of-pure-falko-banaszak-cyber-resilience/",
-    "LastMod": "2026-02-14T17:43:06Z"
+    "LastMod": "2026-04-21T19:21:58Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6711,7 +6726,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/rethinking-enterprise-data-reduction-for-the-ai-era/",
-    "LastMod": "2026-04-13T18:01:29Z"
+    "LastMod": "2026-04-22T03:23:55Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
