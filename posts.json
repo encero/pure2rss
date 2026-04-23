@@ -2429,7 +2429,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/everpure-kva-meets-flashblade-exa-enterprise-kv-caching-at-neocloud-scale/",
-    "LastMod": "2026-04-22T16:25:57Z"
+    "LastMod": "2026-04-22T19:14:14Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -6726,7 +6726,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/rethinking-enterprise-data-reduction-for-the-ai-era/",
-    "LastMod": "2026-04-22T03:23:55Z"
+    "LastMod": "2026-04-23T15:22:22Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -9695,6 +9695,21 @@
   "Title": "Why Migrate to Kubernetes?",
   "Summary": "",
   "PublishDate": "2023-01-11T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.purestorage.com/purely-technical/why-modern-data-needs-a-new-reduction-model/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/why-modern-data-needs-a-new-reduction-model/",
+    "LastMod": "2026-04-23T13:31:28Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "why-modern-data-needs-a-new-reduction-model"
+  },
+  "Title": "Why Modern Data Needs a New Reduction Model",
+  "Summary": "",
+  "PublishDate": "2026-04-23T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/windows-server-failover-clusters-disk-signatures-snapshots/": {
