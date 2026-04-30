@@ -5545,6 +5545,21 @@
   "PublishDate": "2020-09-18T00:00:00Z",
   "Tags": []
  },
+ "https://blog.purestorage.com/purely-technical/portworx-helps-mitigate-rising-storage/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/portworx-helps-mitigate-rising-storage/",
+    "LastMod": "2026-04-30T16:00:00Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "portworx-helps-mitigate-rising-storage"
+  },
+  "Title": "6 Ways Portworx Helps Mitigate Rising Storage and Memory Costs",
+  "Summary": "",
+  "PublishDate": "2026-04-30T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/postgresql-12-flasharray-x-r3-sas-das/": {
   "PostLink": {
    "Link": {
@@ -6696,7 +6711,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.purestorage.com/purely-technical/resilient-sql-server-refresh-dr-strategy-persistent-topology-tagging/",
-    "LastMod": "2025-08-14T16:43:27Z"
+    "LastMod": "2026-04-30T02:39:39Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -8356,6 +8371,21 @@
   "Tags": [
    "hybrid cloud optimization"
   ]
+ },
+ "https://blog.purestorage.com/purely-technical/unlock-fleet-wide-storage-management/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.purestorage.com/purely-technical/unlock-fleet-wide-storage-management/",
+    "LastMod": "2026-04-29T17:09:33Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "unlock-fleet-wide-storage-management"
+  },
+  "Title": "Unlock Fleet-Wide Storage Management with ‘Just Enough’ LDAP",
+  "Summary": "",
+  "PublishDate": "2026-04-29T00:00:00Z",
+  "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/unlocking-on-premises-storage-agentics-via-the-model-context-protocol-mcp/": {
   "PostLink": {
