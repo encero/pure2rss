@@ -14,6 +14,5061 @@
   "PublishDate": "0001-01-01T00:00:00Z",
   "Tags": null
  },
+ "https://blog.everpuredata.com/purely-technical/10-ways-to-improve-data-management-with-automation/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/10-ways-to-improve-data-management-with-automation/",
+    "LastMod": "2026-02-09T19:11:50Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "10-ways-to-improve-data-management-with-automation"
+  },
+  "Title": "10 Ways to Improve Data Management with Automation",
+  "Summary": "",
+  "PublishDate": "2023-08-25T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/20x-faster-inference-first-kv-cache-for-s3-and-nfs/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/20x-faster-inference-first-kv-cache-for-s3-and-nfs/",
+    "LastMod": "2026-04-08T21:14:11Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "20x-faster-inference-first-kv-cache-for-s3-and-nfs"
+  },
+  "Title": "Breaking Enterprise AI Bottlenecks: 20X Faster Inference with the First KV Cache for S3 and NFS",
+  "Summary": "",
+  "PublishDate": "2025-07-31T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/2x-oltp-performance-aks-portworx-benchmarking-sql-server-azure/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/2x-oltp-performance-aks-portworx-benchmarking-sql-server-azure/",
+    "LastMod": "2025-11-10T20:58:51Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "2x-oltp-performance-aks-portworx-benchmarking-sql-server-azure"
+  },
+  "Title": "2X OLTP Performance with AKS and Portworx: Benchmarking SQL Server in Azure",
+  "Summary": "",
+  "PublishDate": "2025-10-29T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/4-common-issues-with-mysql-how-to-solve/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/4-common-issues-with-mysql-how-to-solve/",
+    "LastMod": "2025-08-12T18:37:32Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "4-common-issues-with-mysql-how-to-solve"
+  },
+  "Title": "4 Common MySQL Issues and How to Solve Them",
+  "Summary": "",
+  "PublishDate": "2021-04-29T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/6-steps-to-ai-ready-data-sets/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/6-steps-to-ai-ready-data-sets/",
+    "LastMod": "2026-04-14T17:29:52Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "6-steps-to-ai-ready-data-sets"
+  },
+  "Title": "6 Steps to AI-Ready Data Sets",
+  "Summary": "",
+  "PublishDate": "2026-04-13T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/a-guide-to-elasticsearch-snapshots/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/a-guide-to-elasticsearch-snapshots/",
+    "LastMod": "2024-09-29T11:44:36Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "a-guide-to-elasticsearch-snapshots"
+  },
+  "Title": "A Guide to Elasticsearch Snapshots",
+  "Summary": "",
+  "PublishDate": "2022-04-22T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/a-presto-data-pipeline-with-s3/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/a-presto-data-pipeline-with-s3/",
+    "LastMod": "2026-02-14T17:19:44Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "a-presto-data-pipeline-with-s3"
+  },
+  "Title": "How to Create A Presto Data Pipeline with S3",
+  "Summary": "",
+  "PublishDate": "2022-07-27T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/accelerate-software-development-with-github-enterprise/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/accelerate-software-development-with-github-enterprise/",
+    "LastMod": "2024-02-17T00:23:03Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "accelerate-software-development-with-github-enterprise"
+  },
+  "Title": "How Does GitHub Enterprise Accelerate Software Development?",
+  "Summary": "",
+  "PublishDate": "2022-08-25T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/accelerating-apache-spark-with-rapids-on-gpu/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/accelerating-apache-spark-with-rapids-on-gpu/",
+    "LastMod": "2024-09-08T04:56:56Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "accelerating-apache-spark-with-rapids-on-gpu"
+  },
+  "Title": "How to Accelerate Apache Spark with RAPIDS on GPU",
+  "Summary": "",
+  "PublishDate": "2023-07-19T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/accelerating-yet-an-another-long-running-activity-in-sap-homogeneous-system-copy-sgen/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/accelerating-yet-an-another-long-running-activity-in-sap-homogeneous-system-copy-sgen/",
+    "LastMod": "2026-01-30T16:03:48Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "accelerating-yet-an-another-long-running-activity-in-sap-homogeneous-system-copy-sgen"
+  },
+  "Title": "How to Accelerate SGEN in SAP System Copy",
+  "Summary": "",
+  "PublishDate": "2017-02-25T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/accessing-external-data-using-flashblade-s3-object-storage-from-oracle-19c-21c/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/accessing-external-data-using-flashblade-s3-object-storage-from-oracle-19c-21c/",
+    "LastMod": "2025-05-01T21:13:31Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "accessing-external-data-using-flashblade-s3-object-storage-from-oracle-19c-21c"
+  },
+  "Title": "How to Access External Data Using FlashBlade S3 Object Storage from Oracle 19c/21c",
+  "Summary": "",
+  "PublishDate": "2022-10-18T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/activedr-and-mongodb-reduce-downtime-and-cost/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/activedr-and-mongodb-reduce-downtime-and-cost/",
+    "LastMod": "2024-11-25T21:22:16Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "activedr-and-mongodb-reduce-downtime-and-cost"
+  },
+  "Title": "Combining ActiveDR™ with MongoDB to Reduce Downtime and Costs",
+  "Summary": "",
+  "PublishDate": "2020-07-22T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/ai-developers-6-reasons-to-care-about-storage/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/ai-developers-6-reasons-to-care-about-storage/",
+    "LastMod": "2024-02-17T00:19:52Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "ai-developers-6-reasons-to-care-about-storage"
+  },
+  "Title": "AI Developers: 6 Reasons You Should Care about Better Data Storage",
+  "Summary": "",
+  "PublishDate": "2022-10-24T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/ai-readiness-is-not-an-option/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/ai-readiness-is-not-an-option/",
+    "LastMod": "2025-11-09T16:10:57Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "ai-readiness-is-not-an-option"
+  },
+  "Title": "12 Reasons Why AI Readiness is the New Imperative",
+  "Summary": "",
+  "PublishDate": "2024-07-16T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/an-inside-look-at-big-data-predictive-analytics-with-pure1-part-2/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/an-inside-look-at-big-data-predictive-analytics-with-pure1-part-2/",
+    "LastMod": "2022-08-30T21:09:44Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "an-inside-look-at-big-data-predictive-analytics-with-pure1-part-2"
+  },
+  "Title": "An Inside Look At Big Data Predictive Analytics With Pure1 – Part 2",
+  "Summary": "",
+  "PublishDate": "2016-10-31T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/analyzing-the-possibilities-of-mariadb-and-directflash-fabric/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/analyzing-the-possibilities-of-mariadb-and-directflash-fabric/",
+    "LastMod": "2024-10-06T17:46:19Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "analyzing-the-possibilities-of-mariadb-and-directflash-fabric"
+  },
+  "Title": "Analyzing the Possibilities of MariaDB and DirectFlash Fabric",
+  "Summary": "",
+  "PublishDate": "2019-02-19T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/announcing-pure-storage-cloud-block-store-for-aws/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/announcing-pure-storage-cloud-block-store-for-aws/",
+    "LastMod": "2025-10-01T17:27:37Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "announcing-pure-storage-cloud-block-store-for-aws"
+  },
+  "Title": "Pure Storage Cloud for AWS",
+  "Summary": "",
+  "PublishDate": "2018-11-19T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/announcing-secure-application-workspaces-with-pure-storage/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/announcing-secure-application-workspaces-with-pure-storage/",
+    "LastMod": "2026-03-02T22:56:19Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "announcing-secure-application-workspaces-with-pure-storage"
+  },
+  "Title": "Announcing Secure Multi-tenancy for Purity—the First Step to Secure Application Workspaces with Pure Storage",
+  "Summary": "",
+  "PublishDate": "2025-10-24T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/anomalous-drops-in-data-reduction-ratios/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/anomalous-drops-in-data-reduction-ratios/",
+    "LastMod": "2025-11-09T19:00:16Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "anomalous-drops-in-data-reduction-ratios"
+  },
+  "Title": "Enhanced Anomaly Detection in Pure1",
+  "Summary": "",
+  "PublishDate": "2024-06-19T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/ansible-collection-migration/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/ansible-collection-migration/",
+    "LastMod": "2025-10-30T04:11:37Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "ansible-collection-migration"
+  },
+  "Title": "Migrating Ansible Content Collections",
+  "Summary": "",
+  "PublishDate": "2020-03-27T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/ansible-collections-pure-storage/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/ansible-collections-pure-storage/",
+    "LastMod": "2024-10-03T21:16:15Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "ansible-collections-pure-storage"
+  },
+  "Title": "Ansible Content Collections for Pure Storage",
+  "Summary": "",
+  "PublishDate": "2020-03-20T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/apache-cassandra-rapid-node-replacement-using-snapshots/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/apache-cassandra-rapid-node-replacement-using-snapshots/",
+    "LastMod": "2025-03-26T17:23:21Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "apache-cassandra-rapid-node-replacement-using-snapshots"
+  },
+  "Title": "Apache Cassandra Rapid Node Replacement Using Snapshots",
+  "Summary": "",
+  "PublishDate": "2019-07-30T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/apache-spark-on-flashblade-part-2/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/apache-spark-on-flashblade-part-2/",
+    "LastMod": "2024-09-03T03:17:58Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "apache-spark-on-flashblade-part-2"
+  },
+  "Title": "How to Configure Apache Spark on FlashBlade, Part 2",
+  "Summary": "",
+  "PublishDate": "2022-06-14T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/apache-spark-on-flashblade/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/apache-spark-on-flashblade/",
+    "LastMod": "2026-02-14T18:42:31Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "apache-spark-on-flashblade"
+  },
+  "Title": "How to Configure Apache Spark on FlashBlade, Part 1",
+  "Summary": "",
+  "PublishDate": "2022-04-26T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/architecting-apache-cassandra-cluster-on-cloud-block-storeaws/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/architecting-apache-cassandra-cluster-on-cloud-block-storeaws/",
+    "LastMod": "2025-10-01T17:21:06Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "architecting-apache-cassandra-cluster-on-cloud-block-storeaws"
+  },
+  "Title": "Architecting Apache Cassandra on Pure Storage Cloud [AWS]",
+  "Summary": "",
+  "PublishDate": "2019-10-10T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/are-quantum-computers-real/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/are-quantum-computers-real/",
+    "LastMod": "2025-09-03T20:56:29Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "are-quantum-computers-real"
+  },
+  "Title": "Are Quantum Computers Real?",
+  "Summary": "",
+  "PublishDate": "2022-03-22T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/attach-detach-sql-server-databases-with-powershell/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/attach-detach-sql-server-databases-with-powershell/",
+    "LastMod": "2026-04-20T01:30:54Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "attach-detach-sql-server-databases-with-powershell"
+  },
+  "Title": "How to Attach/Detach SQL Server Databases with PowerShell",
+  "Summary": "",
+  "PublishDate": "2022-10-11T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/automating-storage-snapshot-data-protection-for-saphana-and-flasharray/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/automating-storage-snapshot-data-protection-for-saphana-and-flasharray/",
+    "LastMod": "2026-01-30T16:15:13Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "automating-storage-snapshot-data-protection-for-saphana-and-flasharray"
+  },
+  "Title": "How to Automate Storage Snapshot Data Protection for SAP HANA and FlashArray",
+  "Summary": "",
+  "PublishDate": "2019-04-13T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/backup-and-recovery-of-sap-s-4hana-on-vvols-flasharraydemo-video/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/backup-and-recovery-of-sap-s-4hana-on-vvols-flasharraydemo-video/",
+    "LastMod": "2024-11-25T21:17:24Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "backup-and-recovery-of-sap-s-4hana-on-vvols-flasharraydemo-video"
+  },
+  "Title": "Backup and Recovery of SAP S/4HANA on VVols/FlashArray(Demo Video)",
+  "Summary": "",
+  "PublishDate": "2019-06-28T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/backup-of-sap-hana-2-0-mdc-with-single-tenant-on-pure-storage-part-1/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/backup-of-sap-hana-2-0-mdc-with-single-tenant-on-pure-storage-part-1/",
+    "LastMod": "2026-01-30T16:17:38Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "backup-of-sap-hana-2-0-mdc-with-single-tenant-on-pure-storage-part-1"
+  },
+  "Title": "How to Backup SAP HANA 2.0 MDC with Single Tenant on Pure",
+  "Summary": "",
+  "PublishDate": "2025-01-17T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/benefits-effective-log-coverage-analysis/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/benefits-effective-log-coverage-analysis/",
+    "LastMod": "2025-05-30T19:21:35Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "benefits-effective-log-coverage-analysis"
+  },
+  "Title": "Benefits of Effective Log Coverage and Analysis",
+  "Summary": "",
+  "PublishDate": "2019-05-21T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/benefits-of-running-apache-cassandra-on-pure-storage-cloud-block-store/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/benefits-of-running-apache-cassandra-on-pure-storage-cloud-block-store/",
+    "LastMod": "2025-10-01T17:26:00Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "benefits-of-running-apache-cassandra-on-pure-storage-cloud-block-store"
+  },
+  "Title": "Benefits of Running Apache Cassandra on Pure Storage Cloud",
+  "Summary": "",
+  "PublishDate": "2018-12-19T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/benefits-of-running-cassandra-on-flasharray-with-directflash-fabric/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/benefits-of-running-cassandra-on-flasharray-with-directflash-fabric/",
+    "LastMod": "2025-03-26T16:13:52Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "benefits-of-running-cassandra-on-flasharray-with-directflash-fabric"
+  },
+  "Title": "Benefits of Running Cassandra on FlashArray with DirectFlash Fabric",
+  "Summary": "",
+  "PublishDate": "2019-02-19T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/billion-dollar-backup-industry-flawed-heres-fixes/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/billion-dollar-backup-industry-flawed-heres-fixes/",
+    "LastMod": "2025-11-16T13:50:31Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "billion-dollar-backup-industry-flawed-heres-fixes"
+  },
+  "Title": "The Billion-Dollar Backup Industry is Flawed. Here’s How We’re Fixing It.",
+  "Summary": "",
+  "PublishDate": "2017-11-14T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/bringing-data-analytics-into-the-hardware-design-story/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/bringing-data-analytics-into-the-hardware-design-story/",
+    "LastMod": "2025-11-13T21:39:34Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "bringing-data-analytics-into-the-hardware-design-story"
+  },
+  "Title": "Bringing Data Analytics into the Hardware Design Story",
+  "Summary": "",
+  "PublishDate": "2023-09-14T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/building-a-hybrid-data-lakehouse-with-sql-server-polybase-flasharray-flashblade/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/building-a-hybrid-data-lakehouse-with-sql-server-polybase-flasharray-flashblade/",
+    "LastMod": "2025-09-30T19:42:04Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "building-a-hybrid-data-lakehouse-with-sql-server-polybase-flasharray-flashblade"
+  },
+  "Title": "Building a Hybrid Data Lakehouse with SQL Server PolyBase, FlashArray, and FlashBlade: Part 1",
+  "Summary": "",
+  "PublishDate": "2025-09-30T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/building-a-secure-multi-cloud-storage-backbone-with-portworx-by-pure-storage/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/building-a-secure-multi-cloud-storage-backbone-with-portworx-by-pure-storage/",
+    "LastMod": "2025-11-16T12:28:02Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "building-a-secure-multi-cloud-storage-backbone-with-portworx-by-pure-storage"
+  },
+  "Title": "Building a Secure Multi-cloud Storage Backbone with Portworx by Pure Storage",
+  "Summary": "",
+  "PublishDate": "2023-07-31T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/building-and-securing-kubernetes-native-products-the-pure-storage-product-security-journey/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/building-and-securing-kubernetes-native-products-the-pure-storage-product-security-journey/",
+    "LastMod": "2026-02-09T18:22:42Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "building-and-securing-kubernetes-native-products-the-pure-storage-product-security-journey"
+  },
+  "Title": "Building and Securing Kubernetes Native Products: The Pure Storage Product Security Journey",
+  "Summary": "",
+  "PublishDate": "2025-07-17T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/calculating-block-size-using-the-powershell-sdk/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/calculating-block-size-using-the-powershell-sdk/",
+    "LastMod": "2026-02-14T18:35:54Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "calculating-block-size-using-the-powershell-sdk"
+  },
+  "Title": "Calculating Block Size Using the Powershell SDK",
+  "Summary": "",
+  "PublishDate": "2024-08-22T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/cisco-validated-design-veeam-and-flashstack/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/cisco-validated-design-veeam-and-flashstack/",
+    "LastMod": "2025-03-11T21:31:08Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "cisco-validated-design-veeam-and-flashstack"
+  },
+  "Title": "A Cisco Validated Design for Veeam and FlashStack",
+  "Summary": "",
+  "PublishDate": "2021-05-19T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/cisco-validated-designs-reference-architectures-ucs-director-automation-oh-my/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/cisco-validated-designs-reference-architectures-ucs-director-automation-oh-my/",
+    "LastMod": "2022-08-26T14:53:46Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "cisco-validated-designs-reference-architectures-ucs-director-automation-oh-my"
+  },
+  "Title": "Cisco Validated Designs, Reference Architectures, and UCS Director Automation",
+  "Summary": "",
+  "PublishDate": "2017-02-10T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/comparing-vvols-to-vmdks-and-rdms/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/comparing-vvols-to-vmdks-and-rdms/",
+    "LastMod": "2025-08-13T19:49:22Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "comparing-vvols-to-vmdks-and-rdms"
+  },
+  "Title": "Comparing VVols to VMDKs and RDMs",
+  "Summary": "",
+  "PublishDate": "2017-10-19T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/concurrent-programming-case-study-comparing-python-go-and-rust/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/concurrent-programming-case-study-comparing-python-go-and-rust/",
+    "LastMod": "2025-11-16T13:21:56Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "concurrent-programming-case-study-comparing-python-go-and-rust"
+  },
+  "Title": "Concurrent Programming Case Study: Comparing Python, Go, and Rust",
+  "Summary": "",
+  "PublishDate": "2022-05-31T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/configuring-an-esxi-cluster-for-storage-provisioning-for-a-flasharray-via-powershell/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/configuring-an-esxi-cluster-for-storage-provisioning-for-a-flasharray-via-powershell/",
+    "LastMod": "2024-11-26T19:12:44Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "configuring-an-esxi-cluster-for-storage-provisioning-for-a-flasharray-via-powershell"
+  },
+  "Title": "Configuring an ESXi Cluster for Storage Provisioning for a FlashArray via PowerShell",
+  "Summary": "",
+  "PublishDate": "2019-07-24T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/configuring-pure1-vm-analytics/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/configuring-pure1-vm-analytics/",
+    "LastMod": "2024-07-06T17:35:43Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "configuring-pure1-vm-analytics"
+  },
+  "Title": "How to Deploy VM Analytics Collector on the Pure Storage Virtual Appliance",
+  "Summary": "",
+  "PublishDate": "2022-11-29T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/consolidate-oracle-workloads-with-flasharray-xl/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/consolidate-oracle-workloads-with-flasharray-xl/",
+    "LastMod": "2026-04-20T02:47:37Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "consolidate-oracle-workloads-with-flasharray-xl"
+  },
+  "Title": "How to Consolidate Oracle Workloads with FlashArray//XL",
+  "Summary": "",
+  "PublishDate": "2022-06-15T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/containers-vs-vms/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/containers-vs-vms/",
+    "LastMod": "2025-11-16T12:48:29Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "containers-vs-vms"
+  },
+  "Title": "Containers vs. VMs",
+  "Summary": "",
+  "PublishDate": "2023-05-15T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/continuous-integration-ci-on-a-data-platform-of-least-resistance/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/continuous-integration-ci-on-a-data-platform-of-least-resistance/",
+    "LastMod": "2023-10-18T19:11:51Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "continuous-integration-ci-on-a-data-platform-of-least-resistance"
+  },
+  "Title": "Continuous Integration (CI) on a Data Platform of Least Resistance",
+  "Summary": "",
+  "PublishDate": "2019-07-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/cpu-vs-gpu-for-machine-learning/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/cpu-vs-gpu-for-machine-learning/",
+    "LastMod": "2026-04-20T01:27:47Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "cpu-vs-gpu-for-machine-learning"
+  },
+  "Title": "CPU vs. GPU for Machine Learning",
+  "Summary": "",
+  "PublishDate": "2025-02-22T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/creating-volumes-from-protection-group-sources/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/creating-volumes-from-protection-group-sources/",
+    "LastMod": "2025-01-31T18:25:04Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "creating-volumes-from-protection-group-sources"
+  },
+  "Title": "Creating Volumes from Protection Group Sources",
+  "Summary": "",
+  "PublishDate": "2023-10-20T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/csi-volume-resizing-and-elasticsearch/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/csi-volume-resizing-and-elasticsearch/",
+    "LastMod": "2026-04-14T22:53:45Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "csi-volume-resizing-and-elasticsearch"
+  },
+  "Title": "How to Use Kubernetes CSI Volume Resizing and Elasticsearch",
+  "Summary": "",
+  "PublishDate": "2022-06-17T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/customer-driven-capacity-upgrade-for-pure-cloud-block-store/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/customer-driven-capacity-upgrade-for-pure-cloud-block-store/",
+    "LastMod": "2025-10-01T16:17:01Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "customer-driven-capacity-upgrade-for-pure-cloud-block-store"
+  },
+  "Title": "Customer-driven Capacity Upgrade for Pure Storage Cloud",
+  "Summary": "",
+  "PublishDate": "2023-12-20T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/cut-llm-inference-costs-with-kv-caching/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/cut-llm-inference-costs-with-kv-caching/",
+    "LastMod": "2026-03-02T01:28:48Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "cut-llm-inference-costs-with-kv-caching"
+  },
+  "Title": "Architecting for Reuse: A Deep Journey into the Heart of KV Caching",
+  "Summary": "",
+  "PublishDate": "2026-01-22T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/data-fabric-vs-data-lake-vs-data-warehouse/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/data-fabric-vs-data-lake-vs-data-warehouse/",
+    "LastMod": "2026-04-03T15:23:24Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "data-fabric-vs-data-lake-vs-data-warehouse"
+  },
+  "Title": "Data Fabric vs. Data Lake vs. Data Warehouse",
+  "Summary": "",
+  "PublishDate": "2023-07-21T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/data-mesh-vs-data-fabric-whats-the-difference/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/data-mesh-vs-data-fabric-whats-the-difference/",
+    "LastMod": "2026-02-14T17:19:07Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "data-mesh-vs-data-fabric-whats-the-difference"
+  },
+  "Title": "Data Mesh vs. Data Fabric: What’s the Difference?",
+  "Summary": "",
+  "PublishDate": "2024-10-19T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/data-migration-from-on-premises-to-the-cloud-with-cirrus-migrate-cloud-and-pure-cloud-block-store/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/data-migration-from-on-premises-to-the-cloud-with-cirrus-migrate-cloud-and-pure-cloud-block-store/",
+    "LastMod": "2025-10-14T16:00:30Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "data-migration-from-on-premises-to-the-cloud-with-cirrus-migrate-cloud-and-pure-cloud-block-store"
+  },
+  "Title": "Data Migration from on Premises to the Cloud with Cirrus Migrate Cloud and Pure Storage Cloud",
+  "Summary": "",
+  "PublishDate": "2025-03-27T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/data-mobility-for-hpc-and-eda-workloads-from-on-premises-to-azure-cloud/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/data-mobility-for-hpc-and-eda-workloads-from-on-premises-to-azure-cloud/",
+    "LastMod": "2025-11-16T13:31:35Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "data-mobility-for-hpc-and-eda-workloads-from-on-premises-to-azure-cloud"
+  },
+  "Title": "Data Mobility for HPC and EDA Workloads from On-premises to Azure Cloud",
+  "Summary": "",
+  "PublishDate": "2021-11-17T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/data-reduction-deep-dive-is-thin-provisioning-data-reduction/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/data-reduction-deep-dive-is-thin-provisioning-data-reduction/",
+    "LastMod": "2024-09-29T14:52:12Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "data-reduction-deep-dive-is-thin-provisioning-data-reduction"
+  },
+  "Title": "Is Thin Provisioning Data Reduction?",
+  "Summary": "",
+  "PublishDate": "2015-10-21T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/data-warehouse-vs-data-lake-which-to-use/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/data-warehouse-vs-data-lake-which-to-use/",
+    "LastMod": "2025-09-03T20:58:10Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "data-warehouse-vs-data-lake-which-to-use"
+  },
+  "Title": "Data Warehouse vs. Data Lake: Which to Use",
+  "Summary": "",
+  "PublishDate": "2023-02-16T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/decrease-recovery-time-for-microsoft-sql-server-disasters-with-pure-cloud-block-store-in-microsoft-azure/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/decrease-recovery-time-for-microsoft-sql-server-disasters-with-pure-cloud-block-store-in-microsoft-azure/",
+    "LastMod": "2025-10-01T17:02:40Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "decrease-recovery-time-for-microsoft-sql-server-disasters-with-pure-cloud-block-store-in-microsoft-azure"
+  },
+  "Title": "Decrease Recovery Time for SQL Server Disasters with Pure Storage Cloud in Azure",
+  "Summary": "",
+  "PublishDate": "2022-11-22T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/deduplication-compression-and-sql-server-databases-part-1/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/deduplication-compression-and-sql-server-databases-part-1/",
+    "LastMod": "2025-09-11T15:04:43Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "deduplication-compression-and-sql-server-databases-part-1"
+  },
+  "Title": "Part 1: Deduplication and Compression with SQL Server Databases",
+  "Summary": "",
+  "PublishDate": "2015-04-10T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/deliver-business-continuity-with-pure-storage-and-vmware/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/deliver-business-continuity-with-pure-storage-and-vmware/",
+    "LastMod": "2022-08-23T21:42:22Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "deliver-business-continuity-with-pure-storage-and-vmware"
+  },
+  "Title": "Deliver Business Continuity with Pure Storage and VMware",
+  "Summary": "",
+  "PublishDate": "2018-08-16T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/demystifying-io-operation-readouts-in-esxi/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/demystifying-io-operation-readouts-in-esxi/",
+    "LastMod": "2023-10-18T17:51:56Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "demystifying-io-operation-readouts-in-esxi"
+  },
+  "Title": "Demystifying IO Operation Readouts in ESXi",
+  "Summary": "",
+  "PublishDate": "2019-07-31T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/denormalized-vs-normalized-data/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/denormalized-vs-normalized-data/",
+    "LastMod": "2026-02-27T22:41:01Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "denormalized-vs-normalized-data"
+  },
+  "Title": "Denormalized vs. Normalized Data",
+  "Summary": "",
+  "PublishDate": "2024-02-13T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/",
+    "LastMod": "2025-12-21T02:37:40Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance"
+  },
+  "Title": "How to Deploy VM Analytics Collector on the Pure Storage Virtual Appliance",
+  "Summary": "",
+  "PublishDate": "2022-11-29T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/docker-compose-vs-dockerfile-with-code-examples/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/docker-compose-vs-dockerfile-with-code-examples/",
+    "LastMod": "2026-02-14T17:50:06Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "docker-compose-vs-dockerfile-with-code-examples"
+  },
+  "Title": "Docker Compose vs. Dockerfile with Code Examples",
+  "Summary": "",
+  "PublishDate": "2022-08-11T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/docker-images-vs-docker-containers-are-they-the-same/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/docker-images-vs-docker-containers-are-they-the-same/",
+    "LastMod": "2025-11-02T15:06:32Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "docker-images-vs-docker-containers-are-they-the-same"
+  },
+  "Title": "Docker Images vs. Docker Containers: Understanding the Foundation of Modern Cloud-Native Architecture",
+  "Summary": "",
+  "PublishDate": "2022-10-12T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/does-vmware-vaai-integration-matters-on-a-flasharray/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/does-vmware-vaai-integration-matters-on-a-flasharray/",
+    "LastMod": "2024-12-09T14:50:08Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "does-vmware-vaai-integration-matters-on-a-flasharray"
+  },
+  "Title": "The Goodness of Pure Storage FlashArray and VMware VAAI integration",
+  "Summary": "",
+  "PublishDate": "2014-03-18T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/elasticsearch-snapshots-on-s3/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/elasticsearch-snapshots-on-s3/",
+    "LastMod": "2025-11-16T13:18:49Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "elasticsearch-snapshots-on-s3"
+  },
+  "Title": "How to Configure ElasticSearch Snapshots on S3",
+  "Summary": "",
+  "PublishDate": "2022-06-15T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/eliminate-mysql-and-mariadb-replication-time-to-availability/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/eliminate-mysql-and-mariadb-replication-time-to-availability/",
+    "LastMod": "2025-08-12T18:41:14Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "eliminate-mysql-and-mariadb-replication-time-to-availability"
+  },
+  "Title": "Eliminate MySQL and MariaDB Replication Time to Availability",
+  "Summary": "",
+  "PublishDate": "2021-07-16T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/enable-multicloud-solutions-with-pure-and-azure/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/enable-multicloud-solutions-with-pure-and-azure/",
+    "LastMod": "2025-10-01T18:24:00Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "enable-multicloud-solutions-with-pure-and-azure"
+  },
+  "Title": "How to Enable Multicloud Solutions with Azure and Pure",
+  "Summary": "",
+  "PublishDate": "2021-03-16T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/enabling-tanzu-support-in-portworx-using-csi/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/enabling-tanzu-support-in-portworx-using-csi/",
+    "LastMod": "2025-11-16T13:40:04Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "enabling-tanzu-support-in-portworx-using-csi"
+  },
+  "Title": "Enabling Tanzu Support in Portworx Using CSI",
+  "Summary": "",
+  "PublishDate": "2021-04-28T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/enhanced-security-and-organization-management-with-single-sign-on-in-pure1/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/enhanced-security-and-organization-management-with-single-sign-on-in-pure1/",
+    "LastMod": "2025-11-09T19:34:47Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "enhanced-security-and-organization-management-with-single-sign-on-in-pure1"
+  },
+  "Title": "Enhanced Security and Organization Management with Single Sign-On in Pure1",
+  "Summary": "",
+  "PublishDate": "2024-06-13T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/enhancing-pure-cloud-block-store-with-multi-tenant-capabilities/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/enhancing-pure-cloud-block-store-with-multi-tenant-capabilities/",
+    "LastMod": "2025-10-14T16:03:57Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "enhancing-pure-cloud-block-store-with-multi-tenant-capabilities"
+  },
+  "Title": "Enhancing Pure Storage Cloud with Multi-tenant Capabilities",
+  "Summary": "",
+  "PublishDate": "2024-12-18T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/esxi-and-the-missing-luns-256-or-higher/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/esxi-and-the-missing-luns-256-or-higher/",
+    "LastMod": "2024-05-11T14:26:06Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "esxi-and-the-missing-luns-256-or-higher"
+  },
+  "Title": "ESXi and the Missing LUN IDs: 256 or Higher",
+  "Summary": "",
+  "PublishDate": "2017-04-18T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/etl-vs-elt/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/etl-vs-elt/",
+    "LastMod": "2025-09-03T20:41:14Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "etl-vs-elt"
+  },
+  "Title": "ETL vs. ELT: The Complete 2025 Guide to Modern Data Pipeline Architecture",
+  "Summary": "",
+  "PublishDate": "2024-01-12T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/evaluation-criteria-for-storage-array-apis/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/evaluation-criteria-for-storage-array-apis/",
+    "LastMod": "2026-02-19T18:53:00Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "evaluation-criteria-for-storage-array-apis"
+  },
+  "Title": "Clouds Require Automation: Evaluation Criteria for Judging Maturity of Storage Array (and other Infrastructure) APIs",
+  "Summary": "",
+  "PublishDate": "2015-03-25T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/everpure-cloud-azure-native-technical-overview-and-avs-integration/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/everpure-cloud-azure-native-technical-overview-and-avs-integration/",
+    "LastMod": "2026-04-14T19:15:58Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "everpure-cloud-azure-native-technical-overview-and-avs-integration"
+  },
+  "Title": "Everpure Cloud Azure Native: Technical Overview and AVS Integration",
+  "Summary": "",
+  "PublishDate": "2026-04-14T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/everpure-kva-meets-flashblade-exa-enterprise-kv-caching-at-neocloud-scale/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/everpure-kva-meets-flashblade-exa-enterprise-kv-caching-at-neocloud-scale/",
+    "LastMod": "2026-04-22T19:14:14Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "everpure-kva-meets-flashblade-exa-enterprise-kv-caching-at-neocloud-scale"
+  },
+  "Title": "Everpure KVA Meets FlashBlade//EXA: Enterprise KV Caching at Neocloud Scale",
+  "Summary": "",
+  "PublishDate": "2026-04-21T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/expedite-cloud-migrations-with-pure-storage-and-aws/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/expedite-cloud-migrations-with-pure-storage-and-aws/",
+    "LastMod": "2025-10-01T18:17:14Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "expedite-cloud-migrations-with-pure-storage-and-aws"
+  },
+  "Title": "Expedite Cloud Migrations with Pure Storage and AWS",
+  "Summary": "",
+  "PublishDate": "2021-08-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/exploring-the-value-of-convergence-and-hyper-convergence/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/exploring-the-value-of-convergence-and-hyper-convergence/",
+    "LastMod": "2022-08-26T13:54:59Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "exploring-the-value-of-convergence-and-hyper-convergence"
+  },
+  "Title": "The Value of Convergence and Hyper-convergence",
+  "Summary": "",
+  "PublishDate": "2017-07-25T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/extend-sql-server-resilience-with-a-pure-validated-design/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/extend-sql-server-resilience-with-a-pure-validated-design/",
+    "LastMod": "2025-08-14T22:01:21Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "extend-sql-server-resilience-with-a-pure-validated-design"
+  },
+  "Title": "Extend SQL Server Resilience with Pure Validated Designs",
+  "Summary": "",
+  "PublishDate": "2024-03-18T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/extending-root-volume-on-lvm-on-pure-flasharray/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/extending-root-volume-on-lvm-on-pure-flasharray/",
+    "LastMod": "2025-01-09T18:06:44Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "extending-root-volume-on-lvm-on-pure-flasharray"
+  },
+  "Title": "Extending (root) Volume on LVM on Pure FlashArray",
+  "Summary": "",
+  "PublishDate": "2024-03-11T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/fake-it-til-you-make-it-why-synthetic-data-is-on-the-rise/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/fake-it-til-you-make-it-why-synthetic-data-is-on-the-rise/",
+    "LastMod": "2026-04-21T14:00:18Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "fake-it-til-you-make-it-why-synthetic-data-is-on-the-rise"
+  },
+  "Title": "Fake It ’Til You Make It: Why Synthetic Data Is on the Rise in 2025",
+  "Summary": "",
+  "PublishDate": "2025-02-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/faster-data-loading-for-pandas-on-s3/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/faster-data-loading-for-pandas-on-s3/",
+    "LastMod": "2024-09-29T11:20:10Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "faster-data-loading-for-pandas-on-s3"
+  },
+  "Title": "How to Improve Data Loading for Pandas on S3",
+  "Summary": "",
+  "PublishDate": "2022-05-24T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/file-object-replication-pure1/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/file-object-replication-pure1/",
+    "LastMod": "2024-08-21T16:19:17Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "file-object-replication-pure1"
+  },
+  "Title": "Control File and Object Replication with Pure1 Storage Management",
+  "Summary": "",
+  "PublishDate": "2020-05-14T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/find-all-disconnected-volumes/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/find-all-disconnected-volumes/",
+    "LastMod": "2025-01-31T16:38:43Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "find-all-disconnected-volumes"
+  },
+  "Title": "Pure PowerShell SDK: Find All Disconnected Volumes",
+  "Summary": "",
+  "PublishDate": "2024-07-26T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/fio-plumbing-test/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/fio-plumbing-test/",
+    "LastMod": "2026-02-17T15:57:47Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "fio-plumbing-test"
+  },
+  "Title": "How to Perform a Plumbing Test Using fio",
+  "Summary": "",
+  "PublishDate": "2018-05-20T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/first-class-disks-and-vvols/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/first-class-disks-and-vvols/",
+    "LastMod": "2022-08-19T15:15:55Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "first-class-disks-and-vvols"
+  },
+  "Title": "First Class Disks and VVols",
+  "Summary": "",
+  "PublishDate": "2019-06-12T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/flasharray-extends-nvme-of-support-to-tcp/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/flasharray-extends-nvme-of-support-to-tcp/",
+    "LastMod": "2025-10-10T20:38:02Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "flasharray-extends-nvme-of-support-to-tcp"
+  },
+  "Title": "FlashArray with NVMe/TCP: The Performance Advantage of Pure Storage",
+  "Summary": "",
+  "PublishDate": "2023-02-16T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/flasharray-fibre-channel-vmware-cloud-foundation/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/flasharray-fibre-channel-vmware-cloud-foundation/",
+    "LastMod": "2024-05-11T14:40:28Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "flasharray-fibre-channel-vmware-cloud-foundation"
+  },
+  "Title": "FlashArray and Fibre Channel with VMware Cloud Foundation",
+  "Summary": "",
+  "PublishDate": "2019-10-31T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/flasharray-scom-management-upgrade-pack-1-1/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/flasharray-scom-management-upgrade-pack-1-1/",
+    "LastMod": "2024-09-30T21:32:44Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "flasharray-scom-management-upgrade-pack-1-1"
+  },
+  "Title": "Pure FlashArray SCOM Management Pack 1.1 Released",
+  "Summary": "",
+  "PublishDate": "2020-04-16T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/flashblade-4-1-5/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/flashblade-4-1-5/",
+    "LastMod": "2025-03-17T09:16:10Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "flashblade-4-1-5"
+  },
+  "Title": "FlashBlade 4.1.5: Increased Security, Flexibility, and Coverage for All FlashBlade Customers",
+  "Summary": "",
+  "PublishDate": "2023-06-22T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/flashblade-s3-and-elasticsearch-the-journey-to-disaggregation/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/flashblade-s3-and-elasticsearch-the-journey-to-disaggregation/",
+    "LastMod": "2024-09-06T19:48:23Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "flashblade-s3-and-elasticsearch-the-journey-to-disaggregation"
+  },
+  "Title": "FlashBlade S3 and ElasticSearch: The Journey to Disaggregation",
+  "Summary": "",
+  "PublishDate": "2023-09-26T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/flashy-fast-apache-kafka-5-million-messages-per-second-writes-three-producers-on-pure-storage-flasharray-x-with-directflash-fabric/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/flashy-fast-apache-kafka-5-million-messages-per-second-writes-three-producers-on-pure-storage-flasharray-x-with-directflash-fabric/",
+    "LastMod": "2025-03-26T16:24:56Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "flashy-fast-apache-kafka-5-million-messages-per-second-writes-three-producers-on-pure-storage-flasharray-x-with-directflash-fabric"
+  },
+  "Title": "Apache Kafka: 5 Million Messages/sec Writes on FlashArray",
+  "Summary": "",
+  "PublishDate": "2019-05-15T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/from-storage-to-stream-a-comparison-of-leader-election-in-portworx-kafka-and-raft/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/from-storage-to-stream-a-comparison-of-leader-election-in-portworx-kafka-and-raft/",
+    "LastMod": "2025-06-05T17:12:12Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "from-storage-to-stream-a-comparison-of-leader-election-in-portworx-kafka-and-raft"
+  },
+  "Title": "From Storage to Stream: A Comparison of Leader Election in Portworx, Kafka, and Raft",
+  "Summary": "",
+  "PublishDate": "2025-04-16T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/generative-ai-rag-and-data-infrastructure/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/generative-ai-rag-and-data-infrastructure/",
+    "LastMod": "2025-11-09T19:46:33Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "generative-ai-rag-and-data-infrastructure"
+  },
+  "Title": "Generative AI, RAG, and Data Infrastructure",
+  "Summary": "",
+  "PublishDate": "2024-06-11T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/getting-started-with-the-pure-storage-python-toolkit/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/getting-started-with-the-pure-storage-python-toolkit/",
+    "LastMod": "2025-05-09T07:21:27Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "getting-started-with-the-pure-storage-python-toolkit"
+  },
+  "Title": "Getting Started with the Pure Storage Python Toolkit",
+  "Summary": "",
+  "PublishDate": "2024-07-22T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/greenfield-vs-brownfield-data-centers/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/greenfield-vs-brownfield-data-centers/",
+    "LastMod": "2026-04-09T19:21:06Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "greenfield-vs-brownfield-data-centers"
+  },
+  "Title": "Greenfield vs. Brownfield Data Centers: The Strategic Decision Defining The Next Decade",
+  "Summary": "",
+  "PublishDate": "2025-03-11T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/growing-a-vmfs-datastore-with-powercli/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/growing-a-vmfs-datastore-with-powercli/",
+    "LastMod": "2023-10-18T19:44:20Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "growing-a-vmfs-datastore-with-powercli"
+  },
+  "Title": "Growing a VMFS datastore with PowerCLI",
+  "Summary": "",
+  "PublishDate": "2018-09-12T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/har-files-questions-answered/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/har-files-questions-answered/",
+    "LastMod": "2026-02-23T05:09:39Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "har-files-questions-answered"
+  },
+  "Title": "Your Questions About HAR Files Answered",
+  "Summary": "",
+  "PublishDate": "2023-06-12T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/harnessing-static-and-dynamic-code-scanning-in-devsecops/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/harnessing-static-and-dynamic-code-scanning-in-devsecops/",
+    "LastMod": "2026-03-09T15:58:47Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "harnessing-static-and-dynamic-code-scanning-in-devsecops"
+  },
+  "Title": "Harnessing Static and Dynamic Code Scanning in DevSecOps",
+  "Summary": "",
+  "PublishDate": "2025-11-25T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/hints-on-using-cinder-manage-with-openstack-newton-and-later/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/hints-on-using-cinder-manage-with-openstack-newton-and-later/",
+    "LastMod": "2025-10-08T16:28:48Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "hints-on-using-cinder-manage-with-openstack-newton-and-later"
+  },
+  "Title": "How to Use Cinder Manage in Modern OpenStack Environments",
+  "Summary": "",
+  "PublishDate": "2017-08-17T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-hospitals-use-diagnostic-analytics-ai-in-healthcare/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-hospitals-use-diagnostic-analytics-ai-in-healthcare/",
+    "LastMod": "2025-10-13T20:29:37Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-hospitals-use-diagnostic-analytics-ai-in-healthcare"
+  },
+  "Title": "How Hospitals Use Diagnostic Analytics \u0026 AI in Healthcare",
+  "Summary": "",
+  "PublishDate": "2025-03-22T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-psirt-uses-ai-to-help-everpure-customers-improve-their-security-posture/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-psirt-uses-ai-to-help-everpure-customers-improve-their-security-posture/",
+    "LastMod": "2026-04-13T16:58:32Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-psirt-uses-ai-to-help-everpure-customers-improve-their-security-posture"
+  },
+  "Title": "How PSIRT Uses AI to Help Everpure Customers Improve Their Security Posture",
+  "Summary": "",
+  "PublishDate": "2026-04-10T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-snapshot-consolidation-with-fan-in-replication-can-simplify-your-life/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-snapshot-consolidation-with-fan-in-replication-can-simplify-your-life/",
+    "LastMod": "2025-11-11T07:38:44Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-snapshot-consolidation-with-fan-in-replication-can-simplify-your-life"
+  },
+  "Title": "Taming the Storage Sprawl: Simplify Your Life with Fan-in Replication for Snapshot Consolidation",
+  "Summary": "",
+  "PublishDate": "2024-04-10T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-to-benchmark-mysql-performance/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-to-benchmark-mysql-performance/",
+    "LastMod": "2025-11-09T13:43:31Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-benchmark-mysql-performance"
+  },
+  "Title": "How to Benchmark MySQL Performance",
+  "Summary": "",
+  "PublishDate": "2024-12-14T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-to-build-a-langchain-chatbot-with-pure-storage/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-to-build-a-langchain-chatbot-with-pure-storage/",
+    "LastMod": "2025-11-11T19:47:54Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-build-a-langchain-chatbot-with-pure-storage"
+  },
+  "Title": "How to Build a LangChain Chatbot Pt. 1: Using LangChain’s S3DirectoryLoader with FlashBlade",
+  "Summary": "",
+  "PublishDate": "2023-10-30T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-to-build-an-open-data-lakehouse-with-spark-delta-and-trino-on-s3/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-to-build-an-open-data-lakehouse-with-spark-delta-and-trino-on-s3/",
+    "LastMod": "2025-11-16T12:43:16Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-build-an-open-data-lakehouse-with-spark-delta-and-trino-on-s3"
+  },
+  "Title": "How to Build an Open Data Lakehouse with Spark, Delta, and Trino on S3",
+  "Summary": "",
+  "PublishDate": "2023-07-20T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-to-cli-scripting-by-miranda-steele-guest-blogger/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-to-cli-scripting-by-miranda-steele-guest-blogger/",
+    "LastMod": "2025-11-11T14:45:03Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-cli-scripting-by-miranda-steele-guest-blogger"
+  },
+  "Title": "How to Best Utilize Purity CLI Scripting",
+  "Summary": "",
+  "PublishDate": "2023-12-15T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-to-create-an-s3-bucket-with-terraform/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-to-create-an-s3-bucket-with-terraform/",
+    "LastMod": "2025-11-16T12:54:40Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-create-an-s3-bucket-with-terraform"
+  },
+  "Title": "How to Create an S3 Bucket with Terraform",
+  "Summary": "",
+  "PublishDate": "2022-12-13T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-to-create-customised-billing-reports-for-it-departments-and-msps-with-pure-fusion-and-ai-devops/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-to-create-customised-billing-reports-for-it-departments-and-msps-with-pure-fusion-and-ai-devops/",
+    "LastMod": "2025-10-01T17:39:19Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-create-customised-billing-reports-for-it-departments-and-msps-with-pure-fusion-and-ai-devops"
+  },
+  "Title": "How to Create Customised Billing Reports for IT Departments and MSPs with Pure Fusion and AI DevOps ",
+  "Summary": "",
+  "PublishDate": "2025-04-18T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-to-create-scalable-and-reliable-kubernetes-logging/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-to-create-scalable-and-reliable-kubernetes-logging/",
+    "LastMod": "2025-08-14T20:02:02Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-create-scalable-and-reliable-kubernetes-logging"
+  },
+  "Title": "How to Create Scalable and Reliable Kubernetes Logging",
+  "Summary": "",
+  "PublishDate": "2023-07-20T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-to-create-tables-with-mariadb/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-to-create-tables-with-mariadb/",
+    "LastMod": "2025-12-31T17:27:33Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-create-tables-with-mariadb"
+  },
+  "Title": "How to Create Tables with MariaDB",
+  "Summary": "",
+  "PublishDate": "2024-12-13T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-to-deploy-a-vm-analytics-collector-with-ipv6-ip-protocol-and-static-networking/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-to-deploy-a-vm-analytics-collector-with-ipv6-ip-protocol-and-static-networking/",
+    "LastMod": "2025-08-31T17:40:14Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-deploy-a-vm-analytics-collector-with-ipv6-ip-protocol-and-static-networking"
+  },
+  "Title": "How to Deploy a VM Analytics Collector with IPv6 IP Protocol and Static Networking",
+  "Summary": "",
+  "PublishDate": "2023-11-20T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-to-diagram-a-data-warehouse/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-to-diagram-a-data-warehouse/",
+    "LastMod": "2026-02-06T22:00:51Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-diagram-a-data-warehouse"
+  },
+  "Title": "How to Diagram a Data Warehouse",
+  "Summary": "",
+  "PublishDate": "2023-03-10T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-to-double-oltp-throughput-without-code-changes-hammerdb-on-flasharray-xl/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-to-double-oltp-throughput-without-code-changes-hammerdb-on-flasharray-xl/",
+    "LastMod": "2025-10-06T19:20:35Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-double-oltp-throughput-without-code-changes-hammerdb-on-flasharray-xl"
+  },
+  "Title": "How to Double OLTP Throughput without Code Changes: HammerDB on FlashArray//XL",
+  "Summary": "",
+  "PublishDate": "2025-07-21T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-to-enabling-disabling-remote-assist-with-the-powershell-sdk/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-to-enabling-disabling-remote-assist-with-the-powershell-sdk/",
+    "LastMod": "2025-01-03T16:49:34Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-enabling-disabling-remote-assist-with-the-powershell-sdk"
+  },
+  "Title": "How-To: Enabling/Disabling Remote Assist with the PowerShell SDK",
+  "Summary": "",
+  "PublishDate": "2016-01-22T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-to-fine-tune-sap-hana-io-using-hdbparam-on-pure-storage/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-to-fine-tune-sap-hana-io-using-hdbparam-on-pure-storage/",
+    "LastMod": "2022-08-30T20:50:14Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-fine-tune-sap-hana-io-using-hdbparam-on-pure-storage"
+  },
+  "Title": "How to fine tune SAP HANA IO using hdbparam on Pure Storage",
+  "Summary": "",
+  "PublishDate": "2017-01-31T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-to-optimize-deep-learning-workflows-with-fast-s3/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-to-optimize-deep-learning-workflows-with-fast-s3/",
+    "LastMod": "2025-07-28T17:38:33Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-optimize-deep-learning-workflows-with-fast-s3"
+  },
+  "Title": "How to Optimize Deep Learning Workflows with Fast S3",
+  "Summary": "",
+  "PublishDate": "2023-07-19T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-to-run-docker-on-a-vm/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-to-run-docker-on-a-vm/",
+    "LastMod": "2025-09-03T20:51:15Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-run-docker-on-a-vm"
+  },
+  "Title": "How to Run Docker on a VM",
+  "Summary": "",
+  "PublishDate": "2022-03-22T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-to-self-onboard-azure-vmware-solution-for-use-with-pure-cloud-block-store/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-to-self-onboard-azure-vmware-solution-for-use-with-pure-cloud-block-store/",
+    "LastMod": "2025-10-01T16:22:03Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-self-onboard-azure-vmware-solution-for-use-with-pure-cloud-block-store"
+  },
+  "Title": "How to Self-onboard Azure VMware Solution for Use with Pure Storage Cloud",
+  "Summary": "",
+  "PublishDate": "2023-11-30T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-to-set-up-a-secure-isolated-recovery-environment-sire/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-to-set-up-a-secure-isolated-recovery-environment-sire/",
+    "LastMod": "2026-02-14T17:43:56Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-set-up-a-secure-isolated-recovery-environment-sire"
+  },
+  "Title": "How to Set Up a Secure Isolated Recovery Environment (SIRE)",
+  "Summary": "",
+  "PublishDate": "2025-03-31T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-to-simulate-vsi-vdi-sql-oracle-workloads-with-oracle-vdbench/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-to-simulate-vsi-vdi-sql-oracle-workloads-with-oracle-vdbench/",
+    "LastMod": "2025-09-03T16:56:31Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-simulate-vsi-vdi-sql-oracle-workloads-with-oracle-vdbench"
+  },
+  "Title": "How to Simulate VSI, VDI, SQL \u0026 Oracle Workloads with Oracle vdbench",
+  "Summary": "",
+  "PublishDate": "2025-06-20T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-to-successfully-manage-a-file-migration/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-to-successfully-manage-a-file-migration/",
+    "LastMod": "2026-02-09T19:06:12Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-successfully-manage-a-file-migration"
+  },
+  "Title": "How to Successfully Manage a File Migration",
+  "Summary": "",
+  "PublishDate": "2023-12-14T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-to-unlock-the-power-of-iot-and-unstructured-data/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-to-unlock-the-power-of-iot-and-unstructured-data/",
+    "LastMod": "2026-02-09T19:14:38Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-unlock-the-power-of-iot-and-unstructured-data"
+  },
+  "Title": "How to Unlock the Power of IoT and Unstructured Data",
+  "Summary": "",
+  "PublishDate": "2023-05-18T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-to-use-aws-iam-with-terraform/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-to-use-aws-iam-with-terraform/",
+    "LastMod": "2025-09-03T20:52:33Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-use-aws-iam-with-terraform"
+  },
+  "Title": "How to Use AWS IAM with Terraform",
+  "Summary": "",
+  "PublishDate": "2022-08-25T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-to-use-ssh-public-key-authentication/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-to-use-ssh-public-key-authentication/",
+    "LastMod": "2025-09-30T15:06:59Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-use-ssh-public-key-authentication"
+  },
+  "Title": "How To Use SSH Public Key Authentication",
+  "Summary": "",
+  "PublishDate": "2023-08-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/how-to-use-the-terminal-to-check-the-mysql-version/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/how-to-use-the-terminal-to-check-the-mysql-version/",
+    "LastMod": "2025-09-03T20:46:58Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "how-to-use-the-terminal-to-check-the-mysql-version"
+  },
+  "Title": "How to Use the Terminal to Check the MySQL Version",
+  "Summary": "",
+  "PublishDate": "2021-12-14T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/hybrid-cicd-with-cloud-block-store/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/hybrid-cicd-with-cloud-block-store/",
+    "LastMod": "2025-10-01T17:30:51Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "hybrid-cicd-with-cloud-block-store"
+  },
+  "Title": "Say Hello to Hybrid CI/CD with Pure Storage Cloud",
+  "Summary": "",
+  "PublishDate": "2018-11-19T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/hyper-v-cluster-shared-volumes-sql-server-and-flasharray-snapshots/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/hyper-v-cluster-shared-volumes-sql-server-and-flasharray-snapshots/",
+    "LastMod": "2025-08-14T22:02:46Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "hyper-v-cluster-shared-volumes-sql-server-and-flasharray-snapshots"
+  },
+  "Title": "Migrating from VMware to Hyper-V? Don’t Lose Your SQL Server Snapshot Benefits",
+  "Summary": "",
+  "PublishDate": "2025-02-26T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/identify-the-asm-device-from-asmlib/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/identify-the-asm-device-from-asmlib/",
+    "LastMod": "2026-01-09T21:27:28Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "identify-the-asm-device-from-asmlib"
+  },
+  "Title": "How to Identify the ASM Device from ASMLib",
+  "Summary": "",
+  "PublishDate": "2023-12-26T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/implementation-series-part-1-cli-scripting-for-dummies-large-deployment/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/implementation-series-part-1-cli-scripting-for-dummies-large-deployment/",
+    "LastMod": "2025-05-09T07:12:00Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "implementation-series-part-1-cli-scripting-for-dummies-large-deployment"
+  },
+  "Title": "Implementation Series – Part 1:  CLI Scripting for Dummies – Large Deployment",
+  "Summary": "",
+  "PublishDate": "2013-09-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/in-guest-unmap-and-vmware-snapshots/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/in-guest-unmap-and-vmware-snapshots/",
+    "LastMod": "2025-05-30T19:58:57Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "in-guest-unmap-and-vmware-snapshots"
+  },
+  "Title": "In-Guest UNMAP and VMware Snapshots",
+  "Summary": "",
+  "PublishDate": "2017-08-11T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/in-guest-unmap-enableblockdelete-and-vmfs-6/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/in-guest-unmap-enableblockdelete-and-vmfs-6/",
+    "LastMod": "2024-07-06T19:54:25Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "in-guest-unmap-enableblockdelete-and-vmfs-6"
+  },
+  "Title": "In-Guest UNMAP, EnableBlockDelete and VMFS-6",
+  "Summary": "",
+  "PublishDate": "2017-08-11T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/in-guest-unmap-fix-in-esxi-6-5-part-i-windows/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/in-guest-unmap-fix-in-esxi-6-5-part-i-windows/",
+    "LastMod": "2024-02-17T01:27:02Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "in-guest-unmap-fix-in-esxi-6-5-part-i-windows"
+  },
+  "Title": "In-Guest UNMAP Fix in ESXi 6.5 Part I: Windows",
+  "Summary": "",
+  "PublishDate": "2017-03-15T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/in-guest-unmap-fix-in-esxi-6-5-part-ii-linux/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/in-guest-unmap-fix-in-esxi-6-5-part-ii-linux/",
+    "LastMod": "2024-02-17T01:27:00Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "in-guest-unmap-fix-in-esxi-6-5-part-ii-linux"
+  },
+  "Title": "In-Guest UNMAP Fix in ESXi 6.5 Part II: Linux",
+  "Summary": "",
+  "PublishDate": "2017-03-15T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/initializing-azure-vmware-solution-for-use-with-pure-cloud-block-store/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/initializing-azure-vmware-solution-for-use-with-pure-cloud-block-store/",
+    "LastMod": "2025-10-01T16:52:44Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "initializing-azure-vmware-solution-for-use-with-pure-cloud-block-store"
+  },
+  "Title": "Initializing Azure VMware Solution for Use with Pure Storage Cloud",
+  "Summary": "",
+  "PublishDate": "2023-11-15T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/installing-the-pure-storage-vsphere-plugin-with-powershell/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/installing-the-pure-storage-vsphere-plugin-with-powershell/",
+    "LastMod": "2024-08-30T15:53:51Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "installing-the-pure-storage-vsphere-plugin-with-powershell"
+  },
+  "Title": "Installing the Pure Storage vSphere Plugin with PowerShell",
+  "Summary": "",
+  "PublishDate": "2019-07-13T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/integrated-vs-dedicated-gpus/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/integrated-vs-dedicated-gpus/",
+    "LastMod": "2025-09-27T17:37:51Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "integrated-vs-dedicated-gpus"
+  },
+  "Title": "Integrated vs Dedicated GPUs",
+  "Summary": "",
+  "PublishDate": "2023-12-11T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/intersight-assist-deployment-configuration/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/intersight-assist-deployment-configuration/",
+    "LastMod": "2025-10-27T20:23:11Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "intersight-assist-deployment-configuration"
+  },
+  "Title": "Getting Started with Cisco Intersight Assist Deployment Configuration",
+  "Summary": "",
+  "PublishDate": "2019-09-26T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/introducing-vsphere-virtual-volumes-on-the-flasharray/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/introducing-vsphere-virtual-volumes-on-the-flasharray/",
+    "LastMod": "2025-08-12T15:20:44Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "introducing-vsphere-virtual-volumes-on-the-flasharray"
+  },
+  "Title": "Introducing vSphere Virtual Volumes on the FlashArray",
+  "Summary": "",
+  "PublishDate": "2017-06-13T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/introduction-to-pure-storage-flasharray-with-vmware-cloud-foundation/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/introduction-to-pure-storage-flasharray-with-vmware-cloud-foundation/",
+    "LastMod": "2025-09-03T18:52:10Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "introduction-to-pure-storage-flasharray-with-vmware-cloud-foundation"
+  },
+  "Title": "Introduction to Pure Storage FlashArray with VMware Cloud Foundation",
+  "Summary": "",
+  "PublishDate": "2024-11-13T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/io-plumbing-tests-with-fio/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/io-plumbing-tests-with-fio/",
+    "LastMod": "2026-03-20T21:06:08Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "io-plumbing-tests-with-fio"
+  },
+  "Title": "IO Plumbing Tests with FIO",
+  "Summary": "",
+  "PublishDate": "2024-08-14T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/iscsi-setup-with-flasharray/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/iscsi-setup-with-flasharray/",
+    "LastMod": "2026-03-20T21:28:44Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "iscsi-setup-with-flasharray"
+  },
+  "Title": "iSCSI Setup with FlashArray",
+  "Summary": "",
+  "PublishDate": "2024-06-21T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/issue-with-consistent-lun-id-in-esxi-6-5/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/issue-with-consistent-lun-id-in-esxi-6-5/",
+    "LastMod": "2022-08-26T20:30:46Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "issue-with-consistent-lun-id-in-esxi-6-5"
+  },
+  "Title": "Issue with Consistent LUN ID in ESXi 6.5",
+  "Summary": "",
+  "PublishDate": "2018-01-13T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/jfrog-artifactory-fast-object/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/jfrog-artifactory-fast-object/",
+    "LastMod": "2026-04-20T00:01:02Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "jfrog-artifactory-fast-object"
+  },
+  "Title": "Modernizing JFrog Artifactory on Fast Object",
+  "Summary": "",
+  "PublishDate": "2020-05-14T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/jupyter-flash-kubernetes/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/jupyter-flash-kubernetes/",
+    "LastMod": "2024-08-21T04:39:52Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "jupyter-flash-kubernetes"
+  },
+  "Title": "Jupyter-as-a-Service on Flash: Sewing Up Data Pipelines on Kubernetes",
+  "Summary": "",
+  "PublishDate": "2019-08-22T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/kubernetes-cluster-networking-components/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/kubernetes-cluster-networking-components/",
+    "LastMod": "2026-04-20T00:27:13Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "kubernetes-cluster-networking-components"
+  },
+  "Title": "Investigating the On-prem Kubernetes Network Stack",
+  "Summary": "",
+  "PublishDate": "2020-02-24T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/kubernetes-using-vsphere-tanzu-deployment-with-tanzu-and-flasharray/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/kubernetes-using-vsphere-tanzu-deployment-with-tanzu-and-flasharray/",
+    "LastMod": "2025-01-08T21:22:03Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "kubernetes-using-vsphere-tanzu-deployment-with-tanzu-and-flasharray"
+  },
+  "Title": "Accelerate vSphere Tanzu Deployment and Kubernetes",
+  "Summary": "",
+  "PublishDate": "2021-02-24T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/latency-based-psp-in-esxi-6-7-update-1-a-test-drive/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/latency-based-psp-in-esxi-6-7-update-1-a-test-drive/",
+    "LastMod": "2022-08-23T20:35:05Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "latency-based-psp-in-esxi-6-7-update-1-a-test-drive"
+  },
+  "Title": "Latency-based PSP in ESXi 6.7 Update 1: A test drive",
+  "Summary": "",
+  "PublishDate": "2018-10-19T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/latency-round-robin-psp-in-esxi-6-7-update-1/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/latency-round-robin-psp-in-esxi-6-7-update-1/",
+    "LastMod": "2024-05-11T15:48:08Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "latency-round-robin-psp-in-esxi-6-7-update-1"
+  },
+  "Title": "Latency Round Robin PSP in ESXi 6.7 Update 1",
+  "Summary": "",
+  "PublishDate": "2018-10-18T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/ldaps-port-number-tcp-636-lightweight/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/ldaps-port-number-tcp-636-lightweight/",
+    "LastMod": "2025-10-28T13:54:16Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "ldaps-port-number-tcp-636-lightweight"
+  },
+  "Title": "LDAPS Port Number: TCP 636",
+  "Summary": "",
+  "PublishDate": "2023-06-12T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/leveraging-flasharray-continuous-integration-build-pipeline/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/leveraging-flasharray-continuous-integration-build-pipeline/",
+    "LastMod": "2026-04-14T22:47:34Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "leveraging-flasharray-continuous-integration-build-pipeline"
+  },
+  "Title": "Leveraging FlashArray in a Continuous Integration Build Pipeline",
+  "Summary": "",
+  "PublishDate": "2018-02-25T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/lifecycle-management-of-azure-vmware-solution-with-pure-cloud-block-store/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/lifecycle-management-of-azure-vmware-solution-with-pure-cloud-block-store/",
+    "LastMod": "2025-10-01T16:33:32Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "lifecycle-management-of-azure-vmware-solution-with-pure-cloud-block-store"
+  },
+  "Title": "Lifecycle Management of Azure VMware Solution with Pure Storage Cloud",
+  "Summary": "",
+  "PublishDate": "2023-11-27T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/listing-67-billion-objects-in-1-bucket/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/listing-67-billion-objects-in-1-bucket/",
+    "LastMod": "2025-01-31T19:24:52Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "listing-67-billion-objects-in-1-bucket"
+  },
+  "Title": "How to List 67 Billion Objects in 1 Bucket in Golang",
+  "Summary": "",
+  "PublishDate": "2022-05-27T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/llm-efficiency-granular-prompt-caching-pure-kva/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/llm-efficiency-granular-prompt-caching-pure-kva/",
+    "LastMod": "2026-04-08T21:14:23Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "llm-efficiency-granular-prompt-caching-pure-kva"
+  },
+  "Title": "Maximizing LLM Efficiency: Granular-Prompt Caching with Pure KVA",
+  "Summary": "",
+  "PublishDate": "2026-02-18T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/making-llm-agents-think-once-then-act-fast/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/making-llm-agents-think-once-then-act-fast/",
+    "LastMod": "2026-04-24T21:44:00Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "making-llm-agents-think-once-then-act-fast"
+  },
+  "Title": "Making LLM Agents Think Once, Then Act Fast",
+  "Summary": "",
+  "PublishDate": "2026-03-24T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/managing-vector-storage-bloat-insights-for-scalable-systems/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/managing-vector-storage-bloat-insights-for-scalable-systems/",
+    "LastMod": "2026-04-20T01:14:21Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "managing-vector-storage-bloat-insights-for-scalable-systems"
+  },
+  "Title": "Managing Vector Storage Bloat: 4 Key Insights for Scalable Systems",
+  "Summary": "",
+  "PublishDate": "2025-07-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/migration-to-microsoft-azure-made-easy-with-pure-cloud-block-store/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/migration-to-microsoft-azure-made-easy-with-pure-cloud-block-store/",
+    "LastMod": "2025-08-13T18:10:16Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "migration-to-microsoft-azure-made-easy-with-pure-cloud-block-store"
+  },
+  "Title": "How to Simplify Cloud Migration to Microsoft Azure",
+  "Summary": "",
+  "PublishDate": "2021-08-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/minimize-the-impact-of-a-cyber-attack-with-commvault-and-pure-storage/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/minimize-the-impact-of-a-cyber-attack-with-commvault-and-pure-storage/",
+    "LastMod": "2024-08-10T19:31:43Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "minimize-the-impact-of-a-cyber-attack-with-commvault-and-pure-storage"
+  },
+  "Title": "Minimize the Impact of a Cyberattack with Commvault and Pure Storage",
+  "Summary": "",
+  "PublishDate": "2023-10-12T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/mongodb-on-flasharray-with-nvme-of-roce/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/mongodb-on-flasharray-with-nvme-of-roce/",
+    "LastMod": "2024-10-02T15:59:28Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "mongodb-on-flasharray-with-nvme-of-roce"
+  },
+  "Title": "Beyond DAS: MongoDB on FlashArray with NVMe-oF RoCE",
+  "Summary": "",
+  "PublishDate": "2019-02-19T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/mongodb-the-power-of-flasharray-snapshot/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/mongodb-the-power-of-flasharray-snapshot/",
+    "LastMod": "2024-10-03T19:10:12Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "mongodb-the-power-of-flasharray-snapshot"
+  },
+  "Title": "MongoDB: The Power of FlashArray Snapshot",
+  "Summary": "",
+  "PublishDate": "2019-07-15T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/mongodb-vs-mariadb-whats-the-difference/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/mongodb-vs-mariadb-whats-the-difference/",
+    "LastMod": "2025-07-31T20:59:23Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "mongodb-vs-mariadb-whats-the-difference"
+  },
+  "Title": "MongoDB vs. MariaDB: What’s the Difference?",
+  "Summary": "",
+  "PublishDate": "2024-12-17T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/monitoring-automatic-vmfs-6-unmap-in-esxi/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/monitoring-automatic-vmfs-6-unmap-in-esxi/",
+    "LastMod": "2025-11-11T08:31:06Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "monitoring-automatic-vmfs-6-unmap-in-esxi"
+  },
+  "Title": "Monitoring Automatic VMFS-6 UNMAP in ESXi",
+  "Summary": "",
+  "PublishDate": "2023-12-29T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/multi-site-flasharray-configuration-with-site-recovery-manager/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/multi-site-flasharray-configuration-with-site-recovery-manager/",
+    "LastMod": "2024-05-11T15:45:58Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "multi-site-flasharray-configuration-with-site-recovery-manager"
+  },
+  "Title": "Multi-site FlashArray Configuration with Site Recovery Manager",
+  "Summary": "",
+  "PublishDate": "2017-04-10T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/mysql-vs-mongodb-whats-the-difference/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/mysql-vs-mongodb-whats-the-difference/",
+    "LastMod": "2025-08-15T18:10:28Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "mysql-vs-mongodb-whats-the-difference"
+  },
+  "Title": "MySQL vs. MongoDB: What’s the Difference?",
+  "Summary": "",
+  "PublishDate": "2022-01-14T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/mysql-vs-postgresql/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/mysql-vs-postgresql/",
+    "LastMod": "2025-09-03T20:48:55Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "mysql-vs-postgresql"
+  },
+  "Title": "MySQL vs. PostgreSQL",
+  "Summary": "",
+  "PublishDate": "2022-03-31T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/national-coding-week-upskill-your-coding-knowledge-with-pure-storage/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/national-coding-week-upskill-your-coding-knowledge-with-pure-storage/",
+    "LastMod": "2025-12-31T17:30:50Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "national-coding-week-upskill-your-coding-knowledge-with-pure-storage"
+  },
+  "Title": "National Coding Week: Upskill Your Coding Knowledge with Pure Storage",
+  "Summary": "",
+  "PublishDate": "2023-09-18T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/ndu/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/ndu/",
+    "LastMod": "2026-02-14T18:24:29Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "ndu"
+  },
+  "Title": "Pure Storage Non-Disruptive Upgrades: A Technical Deep-dive",
+  "Summary": "",
+  "PublishDate": "2015-08-21T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/near-zero-rpo-with-activedr-and-microsoft-sql-server/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/near-zero-rpo-with-activedr-and-microsoft-sql-server/",
+    "LastMod": "2025-08-14T21:36:46Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "near-zero-rpo-with-activedr-and-microsoft-sql-server"
+  },
+  "Title": "Near-zero RPO with ActiveDR and Microsoft SQL Server",
+  "Summary": "",
+  "PublishDate": "2024-10-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/nfs-basics-on-flasharray/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/nfs-basics-on-flasharray/",
+    "LastMod": "2026-03-06T20:19:44Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "nfs-basics-on-flasharray"
+  },
+  "Title": "‘Did We Just Become Best Friends?!’: NFS Basics on FlashArray",
+  "Summary": "",
+  "PublishDate": "2025-08-28T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/nmp-multipathing-rules-for-the-flasharray-are-now-default-2/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/nmp-multipathing-rules-for-the-flasharray-are-now-default-2/",
+    "LastMod": "2022-08-29T19:01:22Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "nmp-multipathing-rules-for-the-flasharray-are-now-default-2"
+  },
+  "Title": "NMP Multipathing rules for the FlashArray are now default",
+  "Summary": "",
+  "PublishDate": "2017-07-28T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/non-disruptive-storage-consolidation-and-removal/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/non-disruptive-storage-consolidation-and-removal/",
+    "LastMod": "2025-11-11T08:22:30Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "non-disruptive-storage-consolidation-and-removal"
+  },
+  "Title": "Non-Disruptive Storage Consolidation and Removal",
+  "Summary": "",
+  "PublishDate": "2024-01-15T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/non-disruptive-upgrade-to-flasharray-xl-2/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/non-disruptive-upgrade-to-flasharray-xl-2/",
+    "LastMod": "2024-10-29T21:41:33Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "non-disruptive-upgrade-to-flasharray-xl-2"
+  },
+  "Title": "How to Perform Non-disruptive Upgrades between FlashArray//X and //XL",
+  "Summary": "",
+  "PublishDate": "2022-11-29T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/notes-from-a-hackathon-how-to-cut-down-web-requests-by-70/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/notes-from-a-hackathon-how-to-cut-down-web-requests-by-70/",
+    "LastMod": "2025-11-11T08:20:42Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "notes-from-a-hackathon-how-to-cut-down-web-requests-by-70"
+  },
+  "Title": "Notes from a Hackathon: How to Cut Down Web Requests by 70%",
+  "Summary": "",
+  "PublishDate": "2024-01-17T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/nvme-over-fabrics-nvme-of-with-windows-server-initiator-and-everpure/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/nvme-over-fabrics-nvme-of-with-windows-server-initiator-and-everpure/",
+    "LastMod": "2026-04-21T16:38:17Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "nvme-over-fabrics-nvme-of-with-windows-server-initiator-and-everpure"
+  },
+  "Title": "NVMe-over-Fabrics (NVMe-oF) with Windows Server Initiator and Everpure",
+  "Summary": "",
+  "PublishDate": "2026-04-21T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/nvmeof-roce-suse-15/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/nvmeof-roce-suse-15/",
+    "LastMod": "2025-12-31T16:31:03Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "nvmeof-roce-suse-15"
+  },
+  "Title": "How to Configure NVMeoF RoCE For SUSE 15",
+  "Summary": "",
+  "PublishDate": "2019-08-20T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/on-benchmarking-database-storage/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/on-benchmarking-database-storage/",
+    "LastMod": "2025-01-31T20:49:55Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "on-benchmarking-database-storage"
+  },
+  "Title": "Benchmarking Database Storage",
+  "Summary": "",
+  "PublishDate": "2024-04-30T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/on-premises-storage-and-aws-outposts/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/on-premises-storage-and-aws-outposts/",
+    "LastMod": "2025-08-12T19:46:45Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "on-premises-storage-and-aws-outposts"
+  },
+  "Title": "Pairing On-premises Storage with AWS Outposts for AI ",
+  "Summary": "",
+  "PublishDate": "2023-10-15T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/online-resizing-of-oracle-volumes-on-pure-flasharray/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/online-resizing-of-oracle-volumes-on-pure-flasharray/",
+    "LastMod": "2025-01-09T20:57:20Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "online-resizing-of-oracle-volumes-on-pure-flasharray"
+  },
+  "Title": "Online Resizing of Oracle Volumes on Pure FlashArray",
+  "Summary": "",
+  "PublishDate": "2024-05-22T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/openstack-is-back-not-that-it-ever-left/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/openstack-is-back-not-that-it-ever-left/",
+    "LastMod": "2026-02-14T17:37:13Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "openstack-is-back-not-that-it-ever-left"
+  },
+  "Title": "OpenStack Is Back! Not That It Ever Left ",
+  "Summary": "",
+  "PublishDate": "2025-02-12T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/optimize-your-cloud-storage-bill/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/optimize-your-cloud-storage-bill/",
+    "LastMod": "2025-11-11T08:21:03Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "optimize-your-cloud-storage-bill"
+  },
+  "Title": "How to Optimize Your Cloud Storage Bill",
+  "Summary": "",
+  "PublishDate": "2024-01-16T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/oracle-18c-runs-faster-with-directflash-fabric-nvmeof-roce/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/oracle-18c-runs-faster-with-directflash-fabric-nvmeof-roce/",
+    "LastMod": "2025-06-19T12:41:51Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "oracle-18c-runs-faster-with-directflash-fabric-nvmeof-roce"
+  },
+  "Title": "Test Results: See How Oracle 18c Runs Faster with DirectFlash™ Fabric – NVMe-oF RoCE",
+  "Summary": "",
+  "PublishDate": "2019-02-19T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/oracle-asm-filter-driver-filtering-and-5-15-uek7-kernels/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/oracle-asm-filter-driver-filtering-and-5-15-uek7-kernels/",
+    "LastMod": "2025-03-18T17:47:06Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "oracle-asm-filter-driver-filtering-and-5-15-uek7-kernels"
+  },
+  "Title": "Oracle ASM Filter Driver Filtering and 5.15 UEK7 Kernels",
+  "Summary": "",
+  "PublishDate": "2025-01-21T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/oracle-database-19c-on-oracle-direct-nfs-using-fa-file/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/oracle-database-19c-on-oracle-direct-nfs-using-fa-file/",
+    "LastMod": "2025-08-14T14:41:35Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "oracle-database-19c-on-oracle-direct-nfs-using-fa-file"
+  },
+  "Title": "Oracle Database 19c on Oracle Direct NFS Using FA File",
+  "Summary": "",
+  "PublishDate": "2024-09-10T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/oracle-database-troubleshooting-and-problem-resolution-with-storage-snapshots/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/oracle-database-troubleshooting-and-problem-resolution-with-storage-snapshots/",
+    "LastMod": "2026-02-09T19:36:26Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "oracle-database-troubleshooting-and-problem-resolution-with-storage-snapshots"
+  },
+  "Title": "How to Troubleshoot Oracle Databases with Storage Snapshots",
+  "Summary": "",
+  "PublishDate": "2022-05-18T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/overwriting-a-volume-in-windows-server/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/overwriting-a-volume-in-windows-server/",
+    "LastMod": "2026-02-14T18:36:05Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "overwriting-a-volume-in-windows-server"
+  },
+  "Title": "Overwriting a Volume in Windows Server",
+  "Summary": "",
+  "PublishDate": "2024-05-13T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/people-of-pure-falko-banaszak-cyber-resilience/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/people-of-pure-falko-banaszak-cyber-resilience/",
+    "LastMod": "2026-04-21T19:21:58Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "people-of-pure-falko-banaszak-cyber-resilience"
+  },
+  "Title": "Redefining Resilience: A Field Architect’s Guide to Securing the Data Layer",
+  "Summary": "",
+  "PublishDate": "2025-10-20T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/photon-based-srm-8-2-and-pure/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/photon-based-srm-8-2-and-pure/",
+    "LastMod": "2022-08-22T20:48:33Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "photon-based-srm-8-2-and-pure"
+  },
+  "Title": "Photon-based SRM 8.2 and Pure",
+  "Summary": "",
+  "PublishDate": "2019-05-11T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/portworx-helps-mitigate-rising-storage/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/portworx-helps-mitigate-rising-storage/",
+    "LastMod": "2026-04-30T16:00:00Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "portworx-helps-mitigate-rising-storage"
+  },
+  "Title": "6 Ways Portworx Helps Mitigate Rising Storage and Memory Costs",
+  "Summary": "",
+  "PublishDate": "2026-04-30T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/powercli-and-vvols-part-v-array-snapshots-and-vvols/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/powercli-and-vvols-part-v-array-snapshots-and-vvols/",
+    "LastMod": "2024-11-26T19:24:54Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "powercli-and-vvols-part-v-array-snapshots-and-vvols"
+  },
+  "Title": "PowerCLI and VVols Part V: Array Snapshots and VVols",
+  "Summary": "",
+  "PublishDate": "2018-10-30T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/powercli-and-vvols-part-vii-synchronizing-a-replication-group/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/powercli-and-vvols-part-vii-synchronizing-a-replication-group/",
+    "LastMod": "2022-08-23T17:11:27Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "powercli-and-vvols-part-vii-synchronizing-a-replication-group"
+  },
+  "Title": "PowerCLI and VVols Part VII: Synchronizing a Replication Group",
+  "Summary": "",
+  "PublishDate": "2019-02-12T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/powercli-and-vvols-part-viii-running-a-failover-planned-migration/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/powercli-and-vvols-part-viii-running-a-failover-planned-migration/",
+    "LastMod": "2024-05-11T15:52:48Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "powercli-and-vvols-part-viii-running-a-failover-planned-migration"
+  },
+  "Title": "PowerCLI and VVols Part VIII: Running a Failover–Planned Migration",
+  "Summary": "",
+  "PublishDate": "2019-02-14T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/presto-on-flashblade-s3/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/presto-on-flashblade-s3/",
+    "LastMod": "2024-08-22T00:43:37Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "presto-on-flashblade-s3"
+  },
+  "Title": "How to Configure Presto on FlashBlade S3",
+  "Summary": "",
+  "PublishDate": "2022-04-26T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/prometheus-grafana-dashboard-flashblade/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/prometheus-grafana-dashboard-flashblade/",
+    "LastMod": "2025-09-03T18:59:34Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "prometheus-grafana-dashboard-flashblade"
+  },
+  "Title": "Visualizing Prometheus Data with Grafana Dashboards for FlashBlade™",
+  "Summary": "",
+  "PublishDate": "2024-01-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/protect-microsoft-365-with-pure-and-veeam/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/protect-microsoft-365-with-pure-and-veeam/",
+    "LastMod": "2024-12-20T20:33:43Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "protect-microsoft-365-with-pure-and-veeam"
+  },
+  "Title": "Protect Microsoft 365 with Pure and Veeam",
+  "Summary": "",
+  "PublishDate": "2022-04-27T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/protecting-your-vms-with-the-pure-storage-vsphere-plugin-replication-manager/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/protecting-your-vms-with-the-pure-storage-vsphere-plugin-replication-manager/",
+    "LastMod": "2025-03-26T19:52:03Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "protecting-your-vms-with-the-pure-storage-vsphere-plugin-replication-manager"
+  },
+  "Title": "Protecting Your VMs with the Pure Storage vSphere Plugin Replication Manager",
+  "Summary": "",
+  "PublishDate": "2023-03-16T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/pulling-performance-statistics-from-pure1-with-powershell/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/pulling-performance-statistics-from-pure1-with-powershell/",
+    "LastMod": "2022-08-23T15:18:35Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "pulling-performance-statistics-from-pure1-with-powershell"
+  },
+  "Title": "Pulling Performance Statistics from Pure1® with PowerShell",
+  "Summary": "",
+  "PublishDate": "2019-01-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/pure-cloud-block-store-with-cirrus-migrate-cloud/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/pure-cloud-block-store-with-cirrus-migrate-cloud/",
+    "LastMod": "2025-10-01T15:57:31Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "pure-cloud-block-store-with-cirrus-migrate-cloud"
+  },
+  "Title": "Part 1: Streamline Your Cloud Data Migration with Pure Storage Cloud and Cirrus Migrate",
+  "Summary": "",
+  "PublishDate": "2025-03-18T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/pure-e-family-technical/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/pure-e-family-technical/",
+    "LastMod": "2025-11-11T08:23:21Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "pure-e-family-technical"
+  },
+  "Title": "FlashArray//E Extends the Pure//E Family",
+  "Summary": "",
+  "PublishDate": "2024-01-14T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/pure-storage-and-portworx/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/pure-storage-and-portworx/",
+    "LastMod": "2025-11-16T13:59:16Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "pure-storage-and-portworx"
+  },
+  "Title": "Pure Storage® and Portworx®: Better Together",
+  "Summary": "",
+  "PublishDate": "2020-09-18T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/pure-storage-and-vmware-powershell-module/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/pure-storage-and-vmware-powershell-module/",
+    "LastMod": "2022-08-23T17:12:52Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "pure-storage-and-vmware-powershell-module"
+  },
+  "Title": "Pure Storage and VMware PowerShell Module",
+  "Summary": "",
+  "PublishDate": "2018-09-12T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/pure-storage-nvidia-certification-dgx-gb200-gb300-superpods/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/pure-storage-nvidia-certification-dgx-gb200-gb300-superpods/",
+    "LastMod": "2026-02-27T22:33:10Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "pure-storage-nvidia-certification-dgx-gb200-gb300-superpods"
+  },
+  "Title": "Pure Storage Earns NVIDIA Certification for NVIDIA DGX SuperPOD with DGX GB200 or GB300 Systems",
+  "Summary": "",
+  "PublishDate": "2025-11-17T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/pure-storage-optimizing-gpu-performance-utilization-for-ai-workloads/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/pure-storage-optimizing-gpu-performance-utilization-for-ai-workloads/",
+    "LastMod": "2025-11-10T20:54:39Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "pure-storage-optimizing-gpu-performance-utilization-for-ai-workloads"
+  },
+  "Title": "How Pure Storage Eliminates Computational Bottlenecks, Optimizing GPU Utilization for AI Workloads",
+  "Summary": "",
+  "PublishDate": "2025-06-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/pure-storage-rest-api-windows-powershell/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/pure-storage-rest-api-windows-powershell/",
+    "LastMod": "2025-12-30T15:58:22Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "pure-storage-rest-api-windows-powershell"
+  },
+  "Title": "Pure Storage REST API + Windows PowerShell",
+  "Summary": "",
+  "PublishDate": "2024-06-28T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/pure-storage-rest-client-and-python-library/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/pure-storage-rest-client-and-python-library/",
+    "LastMod": "2024-02-17T01:31:21Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "pure-storage-rest-client-and-python-library"
+  },
+  "Title": "Pure Storage REST Client and Python Library",
+  "Summary": "",
+  "PublishDate": "2015-04-14T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/pure-storage-smi-s-provider-overview/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/pure-storage-smi-s-provider-overview/",
+    "LastMod": "2026-04-20T01:00:09Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "pure-storage-smi-s-provider-overview"
+  },
+  "Title": "Pure Storage SMI-S Provider Overview",
+  "Summary": "",
+  "PublishDate": "2023-12-22T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/pure-storage-snapshots-with-sql-server-availability-groups/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/pure-storage-snapshots-with-sql-server-availability-groups/",
+    "LastMod": "2025-04-28T19:35:41Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "pure-storage-snapshots-with-sql-server-availability-groups"
+  },
+  "Title": "Pure Storage Snapshots with SQL Server Availability Groups",
+  "Summary": "",
+  "PublishDate": "2019-07-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/pure1-api-integration-use-cases/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/pure1-api-integration-use-cases/",
+    "LastMod": "2026-02-19T18:56:46Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "pure1-api-integration-use-cases"
+  },
+  "Title": "Unleash the Power of Integrations with the Pure1 API",
+  "Summary": "",
+  "PublishDate": "2020-01-30T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/pure1-data-protection-assessment-tool/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/pure1-data-protection-assessment-tool/",
+    "LastMod": "2026-02-03T21:18:55Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "pure1-data-protection-assessment-tool"
+  },
+  "Title": "Try the Pure1 Security Assessment",
+  "Summary": "",
+  "PublishDate": "2024-06-19T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/pure1-rest-api-part-1/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/pure1-rest-api-part-1/",
+    "LastMod": "2025-12-30T15:58:40Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "pure1-rest-api-part-1"
+  },
+  "Title": "Exploring the Pure1® REST API, Part 1",
+  "Summary": "",
+  "PublishDate": "2024-04-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/pure1-rest-api-part-2/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/pure1-rest-api-part-2/",
+    "LastMod": "2025-12-30T16:00:38Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "pure1-rest-api-part-2"
+  },
+  "Title": "Exploring the Pure1® REST API, Part 2",
+  "Summary": "",
+  "PublishDate": "2019-04-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/pure1-rest-api-part-3/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/pure1-rest-api-part-3/",
+    "LastMod": "2025-12-30T16:00:17Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "pure1-rest-api-part-3"
+  },
+  "Title": "Exploring the Pure1® REST API – Part 3",
+  "Summary": "",
+  "PublishDate": "2019-04-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/pures-holistic-approach-to-storage-subscription-management/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/pures-holistic-approach-to-storage-subscription-management/",
+    "LastMod": "2025-05-07T16:35:14Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "pures-holistic-approach-to-storage-subscription-management"
+  },
+  "Title": "Pure’s Holistic Approach to Storage Subscription Management",
+  "Summary": "",
+  "PublishDate": "2023-04-24T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/purest-ruby-gem-flasharray/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/purest-ruby-gem-flasharray/",
+    "LastMod": "2026-02-19T19:42:34Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "purest-ruby-gem-flasharray"
+  },
+  "Title": "Purest: A Ruby Library for Pure Storage’s FlashArray REST API",
+  "Summary": "",
+  "PublishDate": "2018-11-30T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/purity-fa-comes-with-offloaded-data-transfer-odx/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/purity-fa-comes-with-offloaded-data-transfer-odx/",
+    "LastMod": "2025-08-13T15:54:54Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "purity-fa-comes-with-offloaded-data-transfer-odx"
+  },
+  "Title": "Purity//FA comes with Offloaded Data Transfer (ODX)",
+  "Summary": "",
+  "PublishDate": "2024-08-10T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/purity-operating-environment-simplified-release-lines/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/purity-operating-environment-simplified-release-lines/",
+    "LastMod": "2025-11-13T21:36:40Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "purity-operating-environment-simplified-release-lines"
+  },
+  "Title": "Choose Your Path with Purity Simplified Release Lines",
+  "Summary": "",
+  "PublishDate": "2023-09-21T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/queue-depth-limits-and-vvol-protocol-endpoints/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/queue-depth-limits-and-vvol-protocol-endpoints/",
+    "LastMod": "2025-08-13T21:23:23Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "queue-depth-limits-and-vvol-protocol-endpoints"
+  },
+  "Title": "Queue Depth Limits and VVol Protocol Endpoints",
+  "Summary": "",
+  "PublishDate": "2017-06-21T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/quick-start-guide-for-the-pure-storage-powershell-toolkit/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/quick-start-guide-for-the-pure-storage-powershell-toolkit/",
+    "LastMod": "2025-01-09T21:51:57Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "quick-start-guide-for-the-pure-storage-powershell-toolkit"
+  },
+  "Title": "Quick Start Guide for the Pure Storage PowerShell Toolkit",
+  "Summary": "",
+  "PublishDate": "2024-03-17T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/rag-to-cag-improving-inference-accuracy-and-speed/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/rag-to-cag-improving-inference-accuracy-and-speed/",
+    "LastMod": "2026-03-25T13:00:00Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "rag-to-cag-improving-inference-accuracy-and-speed"
+  },
+  "Title": "From RAG to CAG, Improving Inference Accuracy and Speed",
+  "Summary": "",
+  "PublishDate": "2026-03-25T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/ransomware-protection-with-netbackup-msdp-and-flashblade/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/ransomware-protection-with-netbackup-msdp-and-flashblade/",
+    "LastMod": "2024-08-22T00:45:59Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "ransomware-protection-with-netbackup-msdp-and-flashblade"
+  },
+  "Title": "Ransomware Protection with NetBackup MSDP and FlashBlade",
+  "Summary": "",
+  "PublishDate": "2020-07-30T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/rapid-postgresql-backup-and-recovery-with-pgbackrest-and-flashblade/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/rapid-postgresql-backup-and-recovery-with-pgbackrest-and-flashblade/",
+    "LastMod": "2025-06-05T14:25:47Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "rapid-postgresql-backup-and-recovery-with-pgbackrest-and-flashblade"
+  },
+  "Title": "Rapid PostgreSQL Backup and Recovery with pgBackRest and FlashBlade",
+  "Summary": "",
+  "PublishDate": "2025-01-12T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/rapid-restore-of-vmware-with-veeam-and-flasharray-c/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/rapid-restore-of-vmware-with-veeam-and-flasharray-c/",
+    "LastMod": "2025-08-15T18:25:59Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "rapid-restore-of-vmware-with-veeam-and-flasharray-c"
+  },
+  "Title": "Rapid Restore of VMware with Veeam and FlashArray//C",
+  "Summary": "",
+  "PublishDate": "2020-08-14T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/rapidly-recovering-from-sql-server-data-mishaps-with-flasharray-snapshots/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/rapidly-recovering-from-sql-server-data-mishaps-with-flasharray-snapshots/",
+    "LastMod": "2025-08-14T22:02:00Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "rapidly-recovering-from-sql-server-data-mishaps-with-flasharray-snapshots"
+  },
+  "Title": "Rapidly Recovering from SQL Server Data Mishaps with FlashArray Snapshots",
+  "Summary": "",
+  "PublishDate": "2025-02-28T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/reduce-stress-with-highly-effective-yet-simple-solutions/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/reduce-stress-with-highly-effective-yet-simple-solutions/",
+    "LastMod": "2026-02-09T19:16:30Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "reduce-stress-with-highly-effective-yet-simple-solutions"
+  },
+  "Title": "Reduce Stress with Highly Effective Yet Simple Solutions",
+  "Summary": "",
+  "PublishDate": "2023-04-20T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/regulatory-machine-learning-building-auditable-compliant-ai-agents/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/regulatory-machine-learning-building-auditable-compliant-ai-agents/",
+    "LastMod": "2026-03-04T17:33:20Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "regulatory-machine-learning-building-auditable-compliant-ai-agents"
+  },
+  "Title": "Regulatory Machine Learning: Building Auditable, Compliant AI Agents",
+  "Summary": "",
+  "PublishDate": "2026-02-11T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/relational-vs-non-relational-databases/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/relational-vs-non-relational-databases/",
+    "LastMod": "2025-08-14T21:53:58Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "relational-vs-non-relational-databases"
+  },
+  "Title": "Relational vs. Non-relational Databases",
+  "Summary": "",
+  "PublishDate": "2023-06-29T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/restore-sql-server-data-faster-ssms-extension/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/restore-sql-server-data-faster-ssms-extension/",
+    "LastMod": "2025-04-28T19:34:59Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "restore-sql-server-data-faster-ssms-extension"
+  },
+  "Title": "Restore SQL Server Data Faster with Pure’s SSMS Extension",
+  "Summary": "",
+  "PublishDate": "2020-12-11T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/rethinking-enterprise-data-reduction-for-the-ai-era/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/rethinking-enterprise-data-reduction-for-the-ai-era/",
+    "LastMod": "2026-04-23T15:22:22Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "rethinking-enterprise-data-reduction-for-the-ai-era"
+  },
+  "Title": "Rethinking Enterprise Data Reduction for the AI Era",
+  "Summary": "",
+  "PublishDate": "2026-04-10T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/retrieving-storage-policy-of-a-vm-with-vro/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/retrieving-storage-policy-of-a-vm-with-vro/",
+    "LastMod": "2024-04-25T05:28:37Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "retrieving-storage-policy-of-a-vm-with-vro"
+  },
+  "Title": "Retrieving Storage Policy of a VM with vRO",
+  "Summary": "",
+  "PublishDate": "2019-07-21T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/rip-asm-filter-drivers/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/rip-asm-filter-drivers/",
+    "LastMod": "2026-01-30T21:32:12Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "rip-asm-filter-drivers"
+  },
+  "Title": "RIP ASM Filter Drivers",
+  "Summary": "",
+  "PublishDate": "2025-07-22T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/rman-backups-using-mount-host-on-flasharray/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/rman-backups-using-mount-host-on-flasharray/",
+    "LastMod": "2025-01-07T20:47:42Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "rman-backups-using-mount-host-on-flasharray"
+  },
+  "Title": "RMAN Backups Using Mount Host on Pure FlashArray",
+  "Summary": "",
+  "PublishDate": "2024-08-15T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/rubrik-and-flasharray-integration-why-it-matters/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/rubrik-and-flasharray-integration-why-it-matters/",
+    "LastMod": "2025-06-04T15:15:44Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "rubrik-and-flasharray-integration-why-it-matters"
+  },
+  "Title": "Rubrik and Pure Storage FlashArray Integration",
+  "Summary": "",
+  "PublishDate": "2017-07-12T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/running-apache-spark-on-kubernetes-approaches-and-workflow/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/running-apache-spark-on-kubernetes-approaches-and-workflow/",
+    "LastMod": "2025-11-16T12:44:19Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "running-apache-spark-on-kubernetes-approaches-and-workflow"
+  },
+  "Title": "How to Run Apache Spark on Kubernetes: Approaches and Workflow",
+  "Summary": "",
+  "PublishDate": "2023-07-19T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/running-oracle-database-19c-on-kubernetes-with-portworx/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/running-oracle-database-19c-on-kubernetes-with-portworx/",
+    "LastMod": "2025-11-16T13:36:56Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "running-oracle-database-19c-on-kubernetes-with-portworx"
+  },
+  "Title": "How to Run Oracle Database 19c on Kubernetes with Portworx",
+  "Summary": "",
+  "PublishDate": "2021-06-24T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/s5cmd-for-high-performance-object-storage/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/s5cmd-for-high-performance-object-storage/",
+    "LastMod": "2025-07-03T17:47:19Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "s5cmd-for-high-performance-object-storage"
+  },
+  "Title": "How to Use S5cmd for High-performance Object Storage",
+  "Summary": "",
+  "PublishDate": "2022-09-30T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/s5cmd-hits-v1-0-and-intro-to-advanced-usage/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/s5cmd-hits-v1-0-and-intro-to-advanced-usage/",
+    "LastMod": "2024-09-08T15:04:24Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "s5cmd-hits-v1-0-and-intro-to-advanced-usage"
+  },
+  "Title": "S5cmd Hits v1.0 and Intro to Advanced Usage",
+  "Summary": "",
+  "PublishDate": "2022-06-27T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/saas-platform-development/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/saas-platform-development/",
+    "LastMod": "2025-01-16T08:10:23Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "saas-platform-development"
+  },
+  "Title": "SaaS Platform Development with Evergreen//One",
+  "Summary": "",
+  "PublishDate": "2020-01-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/san-mode-enabling-veeams-fastest-transport-mode-configuration-on-flasharray/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/san-mode-enabling-veeams-fastest-transport-mode-configuration-on-flasharray/",
+    "LastMod": "2024-09-16T19:22:14Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "san-mode-enabling-veeams-fastest-transport-mode-configuration-on-flasharray"
+  },
+  "Title": "SAN Mode: Enabling Veeam’s Fastest Transport Mode Configuration on FlashArray",
+  "Summary": "",
+  "PublishDate": "2020-01-17T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/sap-hana-column-tables-paged-attributes-performance-simulation-on-pure-storage-flasharray-x/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/sap-hana-column-tables-paged-attributes-performance-simulation-on-pure-storage-flasharray-x/",
+    "LastMod": "2025-07-16T18:32:33Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sap-hana-column-tables-paged-attributes-performance-simulation-on-pure-storage-flasharray-x"
+  },
+  "Title": "SAP HANA Paged Attributes Performance on Pure Storage FlashArray//X",
+  "Summary": "",
+  "PublishDate": "2019-02-22T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/sap-hana-migration-from-on-premises-to-the-cloud/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/sap-hana-migration-from-on-premises-to-the-cloud/",
+    "LastMod": "2025-08-08T19:32:30Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sap-hana-migration-from-on-premises-to-the-cloud"
+  },
+  "Title": "SAP HANA Migration from On-premises to the Cloud",
+  "Summary": "",
+  "PublishDate": "2018-11-19T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/sap-hana-on-pure-storage-flasharray-file/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/sap-hana-on-pure-storage-flasharray-file/",
+    "LastMod": "2025-05-08T17:58:09Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sap-hana-on-pure-storage-flasharray-file"
+  },
+  "Title": "How to Install SAP HANA on Pure Storage FlashArray File",
+  "Summary": "",
+  "PublishDate": "2024-09-18T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/sap-s-4hana-migration-lift-shift-from-on-prem-to-aws-using-cloud-block-store/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/sap-s-4hana-migration-lift-shift-from-on-prem-to-aws-using-cloud-block-store/",
+    "LastMod": "2025-10-01T18:27:49Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sap-s-4hana-migration-lift-shift-from-on-prem-to-aws-using-cloud-block-store"
+  },
+  "Title": "How to: Seamless Migration of Mission-Critical SAP S/4HANA to AWS Using Pure Storage Cloud",
+  "Summary": "",
+  "PublishDate": "2019-06-11T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/say-goodbye-to-vm-alignment-issues-and-poor-performance-with-pure-storage/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/say-goodbye-to-vm-alignment-issues-and-poor-performance-with-pure-storage/",
+    "LastMod": "2025-09-07T18:27:27Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "say-goodbye-to-vm-alignment-issues-and-poor-performance-with-pure-storage"
+  },
+  "Title": "VM Performance on Flash Storage, Part 1: Alignment",
+  "Summary": "",
+  "PublishDate": "2012-01-17T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/scale-ai-cloud-architecture-portworx/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/scale-ai-cloud-architecture-portworx/",
+    "LastMod": "2026-03-02T23:01:36Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "scale-ai-cloud-architecture-portworx"
+  },
+  "Title": "Cloud-first, Never Cloud-stuck: Scaling AI without Regret",
+  "Summary": "",
+  "PublishDate": "2025-08-26T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/scale-up-scale-out-sap-hana-system-copy-using-pure-storage-snapshots/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/scale-up-scale-out-sap-hana-system-copy-using-pure-storage-snapshots/",
+    "LastMod": "2025-06-04T20:07:48Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "scale-up-scale-out-sap-hana-system-copy-using-pure-storage-snapshots"
+  },
+  "Title": "How to Scale Up/Scale Out SAP HANA System Copy Using Snapshots",
+  "Summary": "",
+  "PublishDate": "2017-06-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/scaling-synopsys-vcs-workloads-in-hybrid-cloud-with-azure-and-flashblade/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/scaling-synopsys-vcs-workloads-in-hybrid-cloud-with-azure-and-flashblade/",
+    "LastMod": "2026-02-09T19:35:56Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "scaling-synopsys-vcs-workloads-in-hybrid-cloud-with-azure-and-flashblade"
+  },
+  "Title": "Scaling Synopsys VCS Workloads in Hybrid Cloud with Azure and FlashBlade",
+  "Summary": "",
+  "PublishDate": "2022-05-24T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/scom-management-pack-1-2-for-flasharray/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/scom-management-pack-1-2-for-flasharray/",
+    "LastMod": "2024-04-26T01:42:54Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "scom-management-pack-1-2-for-flasharray"
+  },
+  "Title": "SCOM Management Pack 1.2 for FlashArray Is Here",
+  "Summary": "",
+  "PublishDate": "2020-12-22T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/setting-up-san-boot-for-an-8-node-windows-server-cluster/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/setting-up-san-boot-for-an-8-node-windows-server-cluster/",
+    "LastMod": "2025-01-15T23:00:48Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "setting-up-san-boot-for-an-8-node-windows-server-cluster"
+  },
+  "Title": "Setting up SAN boot for an 8-Node Windows Server Cluster",
+  "Summary": "",
+  "PublishDate": "2024-02-24T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/setting-up-software-iscsi-multipathing-with-distributed-vswitches-with-the-vsphere-web-client/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/setting-up-software-iscsi-multipathing-with-distributed-vswitches-with-the-vsphere-web-client/",
+    "LastMod": "2025-11-16T13:50:11Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "setting-up-software-iscsi-multipathing-with-distributed-vswitches-with-the-vsphere-web-client"
+  },
+  "Title": "Setting up Software iSCSI Multipathing with Distributed vSwitches with the vSphere Web Client",
+  "Summary": "",
+  "PublishDate": "2017-07-25T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/simplify-deployment-with-pure-validated-designs/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/simplify-deployment-with-pure-validated-designs/",
+    "LastMod": "2024-09-30T21:43:41Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "simplify-deployment-with-pure-validated-designs"
+  },
+  "Title": "Simplify Deployment with Pure Validated Designs",
+  "Summary": "",
+  "PublishDate": "2020-11-18T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/simplify-elastic-operations-without-compromising-data-searchability-using-flashblade/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/simplify-elastic-operations-without-compromising-data-searchability-using-flashblade/",
+    "LastMod": "2024-02-17T00:29:30Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "simplify-elastic-operations-without-compromising-data-searchability-using-flashblade"
+  },
+  "Title": "Simplify Elastic Operations without Compromising Data Searchability Using FlashBlade",
+  "Summary": "",
+  "PublishDate": "2022-04-20T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/simplify-kafka-at-scale-with-confluent-tiered-storage/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/simplify-kafka-at-scale-with-confluent-tiered-storage/",
+    "LastMod": "2025-05-27T02:47:52Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "simplify-kafka-at-scale-with-confluent-tiered-storage"
+  },
+  "Title": "How to Simplify Kafka at Scale with Confluent Tiered Storage",
+  "Summary": "",
+  "PublishDate": "2023-04-22T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/sla-vs-slo-vs-sli-whats-the-difference-and-why-they-matter/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/sla-vs-slo-vs-sli-whats-the-difference-and-why-they-matter/",
+    "LastMod": "2025-09-03T17:38:48Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sla-vs-slo-vs-sli-whats-the-difference-and-why-they-matter"
+  },
+  "Title": "SLA vs. SLO vs. SLI: What’s the Difference and Why They Matter",
+  "Summary": "",
+  "PublishDate": "2023-10-10T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/smb-a-fresh-spin-on-a-classic/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/smb-a-fresh-spin-on-a-classic/",
+    "LastMod": "2026-02-19T18:15:59Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "smb-a-fresh-spin-on-a-classic"
+  },
+  "Title": "Classic Doesn’t Mean Obsolete: The Enduring Power of the SMB Protocol",
+  "Summary": "",
+  "PublishDate": "2021-03-10T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/so-long-sqlio-hello-diskspd/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/so-long-sqlio-hello-diskspd/",
+    "LastMod": "2026-01-30T16:19:41Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "so-long-sqlio-hello-diskspd"
+  },
+  "Title": "SQLIO vs. DiskSpd",
+  "Summary": "",
+  "PublishDate": "2015-12-16T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/solve-big-data-protection-challenges/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/solve-big-data-protection-challenges/",
+    "LastMod": "2025-02-24T19:04:56Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "solve-big-data-protection-challenges"
+  },
+  "Title": "How to Solve One of the Biggest Data Protection Challenges",
+  "Summary": "",
+  "PublishDate": "2020-07-20T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/sparks-missing-parallelism-loading-large-datasets/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/sparks-missing-parallelism-loading-large-datasets/",
+    "LastMod": "2025-04-14T17:40:24Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sparks-missing-parallelism-loading-large-datasets"
+  },
+  "Title": "Spark’s Missing Parallelism: Loading Large Datasets",
+  "Summary": "",
+  "PublishDate": "2022-05-25T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/sql-server-2025-mission-critical-workloads/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/sql-server-2025-mission-critical-workloads/",
+    "LastMod": "2026-03-24T19:14:18Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sql-server-2025-mission-critical-workloads"
+  },
+  "Title": "SQL Server 2025: A Last-minute Playbook for Mission-critical Workloads",
+  "Summary": "",
+  "PublishDate": "2026-02-12T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/sql-server-2025-streamlining-t-sql-snapshot-backups/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/sql-server-2025-streamlining-t-sql-snapshot-backups/",
+    "LastMod": "2025-12-30T15:57:17Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sql-server-2025-streamlining-t-sql-snapshot-backups"
+  },
+  "Title": "T-SQL REST API Integration in SQL Server 2025: Streamlining T-SQL Snapshot Backups",
+  "Summary": "",
+  "PublishDate": "2025-05-19T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/sql-server-distributed-availability-groups-and-kubernetes/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/sql-server-distributed-availability-groups-and-kubernetes/",
+    "LastMod": "2025-09-03T16:52:19Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sql-server-distributed-availability-groups-and-kubernetes"
+  },
+  "Title": "SQL Server Distributed Availability Groups and Kubernetes",
+  "Summary": "",
+  "PublishDate": "2025-01-16T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/sql-server-distributed-availability-groups-and-portworx/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/sql-server-distributed-availability-groups-and-portworx/",
+    "LastMod": "2025-10-07T21:42:23Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sql-server-distributed-availability-groups-and-portworx"
+  },
+  "Title": "SQL Server Distributed Availability Groups and Portworx",
+  "Summary": "",
+  "PublishDate": "2025-03-24T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/sql-update-vs-insert-vs-upsert/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/sql-update-vs-insert-vs-upsert/",
+    "LastMod": "2026-04-20T01:33:13Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sql-update-vs-insert-vs-upsert"
+  },
+  "Title": "SQL UPDATE vs. INSERT vs. UPSERT",
+  "Summary": "",
+  "PublishDate": "2024-12-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/sql-vs-nosql-databases/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/sql-vs-nosql-databases/",
+    "LastMod": "2025-09-03T20:46:45Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sql-vs-nosql-databases"
+  },
+  "Title": "SQL vs NoSQL: Storage Architecture as the Performance Foundation",
+  "Summary": "",
+  "PublishDate": "2024-03-26T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/sqreamdb-on-flashblade-s/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/sqreamdb-on-flashblade-s/",
+    "LastMod": "2025-09-07T18:59:06Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sqreamdb-on-flashblade-s"
+  },
+  "Title": "Parallel Processing; Scaling to Reduce Time-to-insight with SQreamDB",
+  "Summary": "",
+  "PublishDate": "2023-12-28T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/stateful-kubernetes-pure-service-orchestrator-kontena-pharos/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/stateful-kubernetes-pure-service-orchestrator-kontena-pharos/",
+    "LastMod": "2024-09-08T16:10:28Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "stateful-kubernetes-pure-service-orchestrator-kontena-pharos"
+  },
+  "Title": "Stateful Kubernetes-In-a-Box with Kontena Pharos",
+  "Summary": "",
+  "PublishDate": "2019-05-21T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/storage-considerations-for-vmware-cloud-foundation-with-flasharray/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/storage-considerations-for-vmware-cloud-foundation-with-flasharray/",
+    "LastMod": "2025-07-22T19:40:29Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "storage-considerations-for-vmware-cloud-foundation-with-flasharray"
+  },
+  "Title": "How to Get Complete Storage Flexibility in VMware Cloud Foundation",
+  "Summary": "",
+  "PublishDate": "2025-01-14T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/storage-security-ai-guardrails/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/storage-security-ai-guardrails/",
+    "LastMod": "2026-01-16T16:57:59Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "storage-security-ai-guardrails"
+  },
+  "Title": "Defense in Depth for AI: Combining Storage Security with Runtime Guardrails",
+  "Summary": "",
+  "PublishDate": "2026-01-15T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/storage-snapshots-sap/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/storage-snapshots-sap/",
+    "LastMod": "2026-02-14T18:34:09Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "storage-snapshots-sap"
+  },
+  "Title": "How to Save Your Time (and Sanity) with Storage Snapshots on SAP",
+  "Summary": "",
+  "PublishDate": "2020-06-30T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/",
+    "LastMod": "2026-04-16T15:15:29Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion"
+  },
+  "Title": "How to Streamline Azure VMware Solution: Automating Pure Storage Cloud Expansion",
+  "Summary": "",
+  "PublishDate": "2024-04-16T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/super-fast-backup-and-restore-sql-server/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/super-fast-backup-and-restore-sql-server/",
+    "LastMod": "2026-02-14T17:47:48Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "super-fast-backup-and-restore-sql-server"
+  },
+  "Title": "Super-Fast Backup and Restore Throughput for SQL Server",
+  "Summary": "",
+  "PublishDate": "2023-10-17T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/task-vs-process-in-linux/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/task-vs-process-in-linux/",
+    "LastMod": "2025-12-31T17:39:33Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "task-vs-process-in-linux"
+  },
+  "Title": "Task vs. Process in Linux",
+  "Summary": "",
+  "PublishDate": "2022-11-21T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/technically-speaking-on-pure-fusion/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/technically-speaking-on-pure-fusion/",
+    "LastMod": "2026-02-23T05:09:23Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "technically-speaking-on-pure-fusion"
+  },
+  "Title": "Pure Fusion 101: Technical Deep Dive",
+  "Summary": "",
+  "PublishDate": "2024-12-18T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/terraform-vs-ansible-when-to-use-each/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/terraform-vs-ansible-when-to-use-each/",
+    "LastMod": "2025-10-01T18:02:36Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "terraform-vs-ansible-when-to-use-each"
+  },
+  "Title": "Terraform vs. Ansible: When to Use Each",
+  "Summary": "",
+  "PublishDate": "2024-09-27T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/the-blurred-lines-of-data-sovereignty-do-you-really-own-your-data/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/the-blurred-lines-of-data-sovereignty-do-you-really-own-your-data/",
+    "LastMod": "2026-02-03T21:22:47Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "the-blurred-lines-of-data-sovereignty-do-you-really-own-your-data"
+  },
+  "Title": "The Blurred Lines of Data Sovereignty: Do You Really Own Your Data?",
+  "Summary": "",
+  "PublishDate": "2024-02-21T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/the-case-for-on-premise-hadoop-with-flashblade/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/the-case-for-on-premise-hadoop-with-flashblade/",
+    "LastMod": "2024-08-22T06:40:48Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "the-case-for-on-premise-hadoop-with-flashblade"
+  },
+  "Title": "The Case for On-Premises Hadoop with FlashBlade",
+  "Summary": "",
+  "PublishDate": "2017-04-27T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/the-dnf-empty-row-issue-explained/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/the-dnf-empty-row-issue-explained/",
+    "LastMod": "2025-12-16T18:14:11Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "the-dnf-empty-row-issue-explained"
+  },
+  "Title": "The DNF Empty Row Issue Explained",
+  "Summary": "",
+  "PublishDate": "2025-12-16T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/the-economics-of-data-gravity/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/the-economics-of-data-gravity/",
+    "LastMod": "2026-03-20T21:11:08Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "the-economics-of-data-gravity"
+  },
+  "Title": "The Economics of Data Gravity",
+  "Summary": "",
+  "PublishDate": "2025-12-12T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/the-pure-cloud-block-store-terraform-provider-for-aws/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/the-pure-cloud-block-store-terraform-provider-for-aws/",
+    "LastMod": "2025-10-01T17:14:09Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "the-pure-cloud-block-store-terraform-provider-for-aws"
+  },
+  "Title": "The Pure Storage Cloud Terraform Provider for AWS",
+  "Summary": "",
+  "PublishDate": "2021-02-17T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/tools-used-and-lessons-learned-in-pures-python-3-upgrade/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/tools-used-and-lessons-learned-in-pures-python-3-upgrade/",
+    "LastMod": "2025-01-02T22:49:01Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "tools-used-and-lessons-learned-in-pures-python-3-upgrade"
+  },
+  "Title": "Tools Used (and Lessons Learned) in Pure’s Python 3 Upgrade",
+  "Summary": "",
+  "PublishDate": "2021-10-21T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/top-8-vmware-alternatives/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/top-8-vmware-alternatives/",
+    "LastMod": "2026-03-20T20:40:21Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "top-8-vmware-alternatives"
+  },
+  "Title": "Top 9 VMware Alternatives",
+  "Summary": "",
+  "PublishDate": "2024-12-14T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/top-9-considerations-for-enterprise-ai/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/top-9-considerations-for-enterprise-ai/",
+    "LastMod": "2026-04-20T01:28:17Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "top-9-considerations-for-enterprise-ai"
+  },
+  "Title": "Top 9 Considerations for Enterprise AI",
+  "Summary": "",
+  "PublishDate": "2024-07-16T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/transforming-to-nvme-the-evergreen-way/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/transforming-to-nvme-the-evergreen-way/",
+    "LastMod": "2025-02-03T14:47:05Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "transforming-to-nvme-the-evergreen-way"
+  },
+  "Title": "Transform to NVMe the Evergreen Way",
+  "Summary": "",
+  "PublishDate": "2017-04-11T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/troubles-with-get-mpiosetting-in-windows-server/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/troubles-with-get-mpiosetting-in-windows-server/",
+    "LastMod": "2025-01-09T18:14:43Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "troubles-with-get-mpiosetting-in-windows-server"
+  },
+  "Title": "Troubleshooting Get-MPIOSetting in Windows Server",
+  "Summary": "",
+  "PublishDate": "2024-03-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/try-the-rest-api-using-a-rest-client/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/try-the-rest-api-using-a-rest-client/",
+    "LastMod": "2025-12-30T15:59:06Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "try-the-rest-api-using-a-rest-client"
+  },
+  "Title": "Try the REST API Using a REST Client",
+  "Summary": "",
+  "PublishDate": "2024-04-22T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/types-of-nosql-databases/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/types-of-nosql-databases/",
+    "LastMod": "2026-02-14T18:14:06Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "types-of-nosql-databases"
+  },
+  "Title": "Types of NoSQL Databases",
+  "Summary": "",
+  "PublishDate": "2023-08-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/understanding-deduplication-ratios/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/understanding-deduplication-ratios/",
+    "LastMod": "2025-03-25T21:48:29Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "understanding-deduplication-ratios"
+  },
+  "Title": "Understanding Deduplication Ratios",
+  "Summary": "",
+  "PublishDate": "2024-09-18T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/understanding-thin-provisioning-does-it-reduce-storage-capacity/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/understanding-thin-provisioning-does-it-reduce-storage-capacity/",
+    "LastMod": "2025-01-03T22:31:08Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "understanding-thin-provisioning-does-it-reduce-storage-capacity"
+  },
+  "Title": "Does Thin Provisioning Reduce Storage Capacity?",
+  "Summary": "",
+  "PublishDate": "2013-12-13T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray/",
+    "LastMod": "2025-08-13T21:24:31Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "understanding-vmware-esxi-queuing-and-the-flasharray"
+  },
+  "Title": "Understanding VMware ESXi Queuing and the FlashArray",
+  "Summary": "",
+  "PublishDate": "2017-02-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/unlock-fleet-wide-storage-management/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/unlock-fleet-wide-storage-management/",
+    "LastMod": "2026-04-29T17:09:33Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "unlock-fleet-wide-storage-management"
+  },
+  "Title": "Unlock Fleet-Wide Storage Management with ‘Just Enough’ LDAP",
+  "Summary": "",
+  "PublishDate": "2026-04-29T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/unlocking-on-premises-storage-agentics-via-the-model-context-protocol-mcp/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/unlocking-on-premises-storage-agentics-via-the-model-context-protocol-mcp/",
+    "LastMod": "2026-04-17T05:46:20Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "unlocking-on-premises-storage-agentics-via-the-model-context-protocol-mcp"
+  },
+  "Title": "How to Build a Model Context Protocol (MCP) Server: Agentic AI Meets On-premises Storage Management",
+  "Summary": "",
+  "PublishDate": "2026-02-22T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/unlocking-performance-insights-using-resxtop-to-monitor-your-azure-vmware-solution-environment/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/unlocking-performance-insights-using-resxtop-to-monitor-your-azure-vmware-solution-environment/",
+    "LastMod": "2025-08-14T14:42:20Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "unlocking-performance-insights-using-resxtop-to-monitor-your-azure-vmware-solution-environment"
+  },
+  "Title": "Unlocking Performance Insights: Using resxtop to Monitor Your Azure VMware Solution Environment",
+  "Summary": "",
+  "PublishDate": "2024-10-14T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/updated-powercli-best-practices-scripts-check-set/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/updated-powercli-best-practices-scripts-check-set/",
+    "LastMod": "2023-10-26T16:34:31Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "updated-powercli-best-practices-scripts-check-set"
+  },
+  "Title": "Pure and VMware: Updated PowerCLI Scripts",
+  "Summary": "",
+  "PublishDate": "2018-04-17T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/updated-restoring-protection-group-volume-snapshots/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/updated-restoring-protection-group-volume-snapshots/",
+    "LastMod": "2025-05-07T21:13:12Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "updated-restoring-protection-group-volume-snapshots"
+  },
+  "Title": "Restoring Protection Group Volume Snapshots",
+  "Summary": "",
+  "PublishDate": "2024-02-28T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/updating-a-volume-group-name-on-the-flasharray-for-vvols/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/updating-a-volume-group-name-on-the-flasharray-for-vvols/",
+    "LastMod": "2025-03-26T17:55:45Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "updating-a-volume-group-name-on-the-flasharray-for-vvols"
+  },
+  "Title": "Updating a Volume Group Name on FlashArray for vVols",
+  "Summary": "",
+  "PublishDate": "2018-12-11T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/upgrade-to-purity-fa-6-5-0-yourself-through-pure1/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/upgrade-to-purity-fa-6-5-0-yourself-through-pure1/",
+    "LastMod": "2026-02-19T21:18:00Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "upgrade-to-purity-fa-6-5-0-yourself-through-pure1"
+  },
+  "Title": "Upgrade to Purity//FA 6.5.0 Yourself through Pure1",
+  "Summary": "",
+  "PublishDate": "2023-10-12T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/upgrade-your-own-flasharray-with-pure1/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/upgrade-your-own-flasharray-with-pure1/",
+    "LastMod": "2026-02-27T22:02:37Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "upgrade-your-own-flasharray-with-pure1"
+  },
+  "Title": "How to Upgrade Your Own FlashArray with Pure1",
+  "Summary": "",
+  "PublishDate": "2024-05-31T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/upgrading-operating-systems-and-sql-servers/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/upgrading-operating-systems-and-sql-servers/",
+    "LastMod": "2025-07-31T18:05:44Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "upgrading-operating-systems-and-sql-servers"
+  },
+  "Title": "Upgrading Operating Systems and SQL Servers",
+  "Summary": "",
+  "PublishDate": "2024-09-30T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/using-apache-polaris-with-flashblade/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/using-apache-polaris-with-flashblade/",
+    "LastMod": "2026-02-27T19:56:14Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "using-apache-polaris-with-flashblade"
+  },
+  "Title": "Using Apache Polaris with FlashBlade",
+  "Summary": "",
+  "PublishDate": "2026-02-27T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/using-autofs-with-oracle-rman-and-dnfs-on-pure-flashblade/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/using-autofs-with-oracle-rman-and-dnfs-on-pure-flashblade/",
+    "LastMod": "2025-05-01T21:31:40Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "using-autofs-with-oracle-rman-and-dnfs-on-pure-flashblade"
+  },
+  "Title": "How to Use Autofs with Oracle RMAN and dNFS on Pure FlashBlade",
+  "Summary": "",
+  "PublishDate": "2021-06-11T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/using-postman-with-the-flasharray-rest-api/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/using-postman-with-the-flasharray-rest-api/",
+    "LastMod": "2026-02-19T19:43:15Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "using-postman-with-the-flasharray-rest-api"
+  },
+  "Title": "Using Postman with the FlashArray REST API",
+  "Summary": "",
+  "PublishDate": "2018-02-10T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/using-prometheus-and-grafana-with-pure/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/using-prometheus-and-grafana-with-pure/",
+    "LastMod": "2024-02-17T00:52:15Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "using-prometheus-and-grafana-with-pure"
+  },
+  "Title": "Using Prometheus and Grafana with Pure Storage ",
+  "Summary": "",
+  "PublishDate": "2021-02-12T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/using-t-sql-snapshot-backup-are-snapshots-backups/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/using-t-sql-snapshot-backup-are-snapshots-backups/",
+    "LastMod": "2025-11-02T15:12:13Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "using-t-sql-snapshot-backup-are-snapshots-backups"
+  },
+  "Title": "Using T-SQL Snapshot Backup: Are Snapshots Backups?",
+  "Summary": "",
+  "PublishDate": "2024-09-30T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/using-t-sql-snapshot-backup-multi-array-database-snapshots/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/using-t-sql-snapshot-backup-multi-array-database-snapshots/",
+    "LastMod": "2025-10-30T16:16:49Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "using-t-sql-snapshot-backup-multi-array-database-snapshots"
+  },
+  "Title": "Using T-SQL Snapshot Backup: Multi-array Database Snapshots",
+  "Summary": "",
+  "PublishDate": "2025-10-29T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/using-t-sql-snapshot-backup-point-in-time-recovery-azure-edition/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/using-t-sql-snapshot-backup-point-in-time-recovery-azure-edition/",
+    "LastMod": "2025-10-01T18:01:14Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "using-t-sql-snapshot-backup-point-in-time-recovery-azure-edition"
+  },
+  "Title": "Using T-SQL Snapshot Backup: Point-in-time Recovery – Azure Edition",
+  "Summary": "",
+  "PublishDate": "2024-09-30T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/using-t-sql-snapshot-backup-point-in-time-recovery/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/using-t-sql-snapshot-backup-point-in-time-recovery/",
+    "LastMod": "2025-04-28T19:23:16Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "using-t-sql-snapshot-backup-point-in-time-recovery"
+  },
+  "Title": "Using T-SQL Snapshot Backup: Point-in-time Recovery",
+  "Summary": "",
+  "PublishDate": "2024-09-30T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/using-the-pure1-powershell-module/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/using-the-pure1-powershell-module/",
+    "LastMod": "2022-08-19T23:14:56Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "using-the-pure1-powershell-module"
+  },
+  "Title": "Using the Pure1® PowerShell Module",
+  "Summary": "",
+  "PublishDate": "2019-01-13T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/using-the-pure1-rest-api-part-i-powershell/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/using-the-pure1-rest-api-part-i-powershell/",
+    "LastMod": "2026-02-19T18:58:38Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "using-the-pure1-rest-api-part-i-powershell"
+  },
+  "Title": "Using the Pure1® REST API Part I: PowerShell",
+  "Summary": "",
+  "PublishDate": "2019-01-12T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/vcf-vs-vvf-which-is-right-for-your-business/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/vcf-vs-vvf-which-is-right-for-your-business/",
+    "LastMod": "2026-03-20T20:33:22Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "vcf-vs-vvf-which-is-right-for-your-business"
+  },
+  "Title": "VCF vs. VVF: Which Is Right for Your Business?",
+  "Summary": "",
+  "PublishDate": "2025-02-11T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/vcsa-6-5-fails-to-boot/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/vcsa-6-5-fails-to-boot/",
+    "LastMod": "2022-11-26T01:49:13Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "vcsa-6-5-fails-to-boot"
+  },
+  "Title": "VCSA 6.5 Fails to Boot",
+  "Summary": "",
+  "PublishDate": "2018-01-21T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/veeam-10-is-compatible-with-pure-storage-plug-in-1-2-45/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/veeam-10-is-compatible-with-pure-storage-plug-in-1-2-45/",
+    "LastMod": "2025-05-09T07:28:33Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "veeam-10-is-compatible-with-pure-storage-plug-in-1-2-45"
+  },
+  "Title": "Veeam 10 is compatible with Pure Storage Plug-in 1.2.45",
+  "Summary": "",
+  "PublishDate": "2020-04-13T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/veritas-netbackup-msdp-with-flashblade-nfs/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/veritas-netbackup-msdp-with-flashblade-nfs/",
+    "LastMod": "2025-10-27T16:31:40Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "veritas-netbackup-msdp-with-flashblade-nfs"
+  },
+  "Title": "Veritas NetBackup MSDP Integration with FlashBlade NFS",
+  "Summary": "",
+  "PublishDate": "2025-09-10T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/vertically-scaling-sql-server-online-in-kubernetes/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/vertically-scaling-sql-server-online-in-kubernetes/",
+    "LastMod": "2025-06-30T18:07:39Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "vertically-scaling-sql-server-online-in-kubernetes"
+  },
+  "Title": "​​Vertically Scaling SQL Server Online in Kubernetes",
+  "Summary": "",
+  "PublishDate": "2025-06-26T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/virtual-volumes-vvol-bindings-explained/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/virtual-volumes-vvol-bindings-explained/",
+    "LastMod": "2025-08-13T21:18:25Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "virtual-volumes-vvol-bindings-explained"
+  },
+  "Title": "Virtual Volumes: VVol Bindings Explained",
+  "Summary": "",
+  "PublishDate": "2017-09-28T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/visualising-sql-server-in-kubernetes/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/visualising-sql-server-in-kubernetes/",
+    "LastMod": "2025-09-03T16:52:08Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "visualising-sql-server-in-kubernetes"
+  },
+  "Title": "How to Auto-Generate Professional Kubernetes Architecture Diagrams for SQL Server",
+  "Summary": "",
+  "PublishDate": "2025-03-10T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/vm-performance-on-flash-part-2-thin-vs-thick-provisioning-does-it-matter/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/vm-performance-on-flash-part-2-thin-vs-thick-provisioning-does-it-matter/",
+    "LastMod": "2025-04-29T16:53:52Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "vm-performance-on-flash-part-2-thin-vs-thick-provisioning-does-it-matter"
+  },
+  "Title": "VM Performance on Flash Storage, Part 2: Thin vs. Thick Provisioning",
+  "Summary": "",
+  "PublishDate": "2012-02-14T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/vmfs-management-on-azure-vmware-solution-and-pure-cloud-block-store/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/vmfs-management-on-azure-vmware-solution-and-pure-cloud-block-store/",
+    "LastMod": "2025-11-11T14:57:35Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "vmfs-management-on-azure-vmware-solution-and-pure-cloud-block-store"
+  },
+  "Title": "VMFS Management on Azure VMware Solution and Pure Storage Cloud",
+  "Summary": "",
+  "PublishDate": "2023-12-12T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/vmware-nfs-unmap/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/vmware-nfs-unmap/",
+    "LastMod": "2026-03-31T12:39:05Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "vmware-nfs-unmap"
+  },
+  "Title": "Offset VMware Licensing Costs by Turning Stranded NFS Space into Usable Capacity",
+  "Summary": "",
+  "PublishDate": "2026-03-30T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/vmware-storage-capacity-reporting-part-i-vmfs-and-thin-virtual-disks/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/vmware-storage-capacity-reporting-part-i-vmfs-and-thin-virtual-disks/",
+    "LastMod": "2025-08-13T20:54:00Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "vmware-storage-capacity-reporting-part-i-vmfs-and-thin-virtual-disks"
+  },
+  "Title": "VMFS and Thin Virtual Disks",
+  "Summary": "",
+  "PublishDate": "2018-02-20T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/vmware-velero-and-pure-service-orchestrator/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/vmware-velero-and-pure-service-orchestrator/",
+    "LastMod": "2024-02-17T01:05:03Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "vmware-velero-and-pure-service-orchestrator"
+  },
+  "Title": "Pure Service Orchestrator and VMware Velero Sneak Peek",
+  "Summary": "",
+  "PublishDate": "2020-07-16T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/volume-matching-via-the-api-in-purity-5-0/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/volume-matching-via-the-api-in-purity-5-0/",
+    "LastMod": "2026-02-19T19:58:53Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "volume-matching-via-the-api-in-purity-5-0"
+  },
+  "Title": "Volume matching via the API in Purity 5.0",
+  "Summary": "",
+  "PublishDate": "2018-02-13T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/vrealize-orchestrator-7-6-is-released-updated-web-client/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/vrealize-orchestrator-7-6-is-released-updated-web-client/",
+    "LastMod": "2022-08-22T21:36:58Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "vrealize-orchestrator-7-6-is-released-updated-web-client"
+  },
+  "Title": "vRealize Orchestrator 7.6 is released! Updated Web Client",
+  "Summary": "",
+  "PublishDate": "2019-04-12T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/wait-can-apps-benefit-nvme-today/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/wait-can-apps-benefit-nvme-today/",
+    "LastMod": "2024-09-30T07:47:40Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "wait-can-apps-benefit-nvme-today"
+  },
+  "Title": "Wait, Can My Apps Benefit From NVMe Today?",
+  "Summary": "",
+  "PublishDate": "2017-08-14T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/what-do-quantum-computers-look-like/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/what-do-quantum-computers-look-like/",
+    "LastMod": "2026-04-20T00:11:38Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "what-do-quantum-computers-look-like"
+  },
+  "Title": "What Do Quantum Computers Look Like?",
+  "Summary": "",
+  "PublishDate": "2022-04-11T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/what-does-serializability-mean-in-a-dbms/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/what-does-serializability-mean-in-a-dbms/",
+    "LastMod": "2025-09-03T20:40:58Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "what-does-serializability-mean-in-a-dbms"
+  },
+  "Title": "What Does Serializability Mean in a DBMS?",
+  "Summary": "",
+  "PublishDate": "2022-07-18T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/what-is-a-vvol-datastore/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/what-is-a-vvol-datastore/",
+    "LastMod": "2025-08-13T20:59:43Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "what-is-a-vvol-datastore"
+  },
+  "Title": "What is a VVol Datastore?",
+  "Summary": "",
+  "PublishDate": "2018-01-16T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/what-is-mtu-size-and-how-do-you-calculate-it/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/what-is-mtu-size-and-how-do-you-calculate-it/",
+    "LastMod": "2026-02-26T16:36:04Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "what-is-mtu-size-and-how-do-you-calculate-it"
+  },
+  "Title": "What Is MTU Size and How Do You Calculate It?",
+  "Summary": "",
+  "PublishDate": "2024-12-19T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/what-is-new-with-cbs-terraform-provider-0-9-0/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/what-is-new-with-cbs-terraform-provider-0-9-0/",
+    "LastMod": "2025-10-01T16:59:05Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "what-is-new-with-cbs-terraform-provider-0-9-0"
+  },
+  "Title": "What Is New with Pure Storage Cloud Terraform Provider 0.9.0?",
+  "Summary": "",
+  "PublishDate": "2023-07-12T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/what-is-the-latency-stat-qavg/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/what-is-the-latency-stat-qavg/",
+    "LastMod": "2024-05-01T00:35:12Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "what-is-the-latency-stat-qavg"
+  },
+  "Title": "What is the latency stat QAVG?",
+  "Summary": "",
+  "PublishDate": "2018-03-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/where-are-the-pure-storage-sdks-and-toolkits-2/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/where-are-the-pure-storage-sdks-and-toolkits-2/",
+    "LastMod": "2022-09-06T15:33:37Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "where-are-the-pure-storage-sdks-and-toolkits-2"
+  },
+  "Title": "Where are the Pure Storage SDKs and Toolkits?",
+  "Summary": "",
+  "PublishDate": "2016-04-11T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/why-iops-dont-matter/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/why-iops-dont-matter/",
+    "LastMod": "2026-02-26T23:26:41Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "why-iops-dont-matter"
+  },
+  "Title": "Why IOPS Don’t Matter",
+  "Summary": "",
+  "PublishDate": "2024-01-20T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/why-migrate-to-kubernetes/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/why-migrate-to-kubernetes/",
+    "LastMod": "2026-03-24T13:00:17Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "why-migrate-to-kubernetes"
+  },
+  "Title": "Why Migrate to Kubernetes?",
+  "Summary": "",
+  "PublishDate": "2023-01-11T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/why-modern-data-needs-a-new-reduction-model/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/why-modern-data-needs-a-new-reduction-model/",
+    "LastMod": "2026-04-23T13:31:28Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "why-modern-data-needs-a-new-reduction-model"
+  },
+  "Title": "Why Modern Data Needs a New Reduction Model",
+  "Summary": "",
+  "PublishDate": "2026-04-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/windows-server-failover-clusters-disk-signatures-snapshots/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/windows-server-failover-clusters-disk-signatures-snapshots/",
+    "LastMod": "2025-01-17T15:48:39Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "windows-server-failover-clusters-disk-signatures-snapshots"
+  },
+  "Title": "Windows Server Failover Clusters, Disk Signatures \u0026 Snapshots",
+  "Summary": "",
+  "PublishDate": "2024-03-25T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/xcr4-technical/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/xcr4-technical/",
+    "LastMod": "2025-03-26T16:06:11Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "xcr4-technical"
+  },
+  "Title": "Meet the World’s Most Powerful AND Efficient Storage",
+  "Summary": "",
+  "PublishDate": "2023-06-14T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/xfs-vs-ext4-which-linux-file-system-is-better/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/xfs-vs-ext4-which-linux-file-system-is-better/",
+    "LastMod": "2026-03-20T20:34:13Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "xfs-vs-ext4-which-linux-file-system-is-better"
+  },
+  "Title": "XFS vs. Ext4: Which Linux File System is Better?",
+  "Summary": "",
+  "PublishDate": "2024-01-24T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.purestorage.com/purely-technical/10-ways-to-improve-data-management-with-automation/": {
   "PostLink": {
    "Link": {
