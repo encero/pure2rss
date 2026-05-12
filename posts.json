@@ -209,6 +209,21 @@
   "PublishDate": "2022-10-24T00:00:00Z",
   "Tags": []
  },
+ "https://blog.everpuredata.com/purely-technical/ai-infrastructure-costs-ai-factory/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/ai-infrastructure-costs-ai-factory/",
+    "LastMod": "2026-05-12T15:19:01Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "ai-infrastructure-costs-ai-factory"
+  },
+  "Title": "Optimize AI Infrastructure Costs with a Hybrid Cloud AI Factory",
+  "Summary": "",
+  "PublishDate": "2026-05-12T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.everpuredata.com/purely-technical/ai-readiness-is-not-an-option/": {
   "PostLink": {
    "Link": {
