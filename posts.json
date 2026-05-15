@@ -614,6 +614,21 @@
   "PublishDate": "2024-08-22T00:00:00Z",
   "Tags": []
  },
+ "https://blog.everpuredata.com/purely-technical/case-study-ai-purchase-requisition-reviews/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/case-study-ai-purchase-requisition-reviews/",
+    "LastMod": "2026-02-27T22:28:22Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "case-study-ai-purchase-requisition-reviews"
+  },
+  "Title": "A Case Study in Applying AI to Speed Up Purchase Requisition Reviews",
+  "Summary": "",
+  "PublishDate": "2025-11-25T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.everpuredata.com/purely-technical/cisco-validated-design-veeam-and-flashstack/": {
   "PostLink": {
    "Link": {
