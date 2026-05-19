@@ -479,6 +479,21 @@
   "PublishDate": "2025-01-17T00:00:00Z",
   "Tags": []
  },
+ "https://blog.everpuredata.com/purely-technical/benchmarking-rust-coreutils/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/benchmarking-rust-coreutils/",
+    "LastMod": "2026-05-18T13:58:45Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "benchmarking-rust-coreutils"
+  },
+  "Title": "Benchmarking Rust Coreutils and the RapidFile Toolkit",
+  "Summary": "",
+  "PublishDate": "2026-05-18T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.everpuredata.com/purely-technical/benefits-effective-log-coverage-analysis/": {
   "PostLink": {
    "Link": {
@@ -3807,6 +3822,21 @@
   "Title": "Cloud-first, Never Cloud-stuck: Scaling AI without Regret",
   "Summary": "",
   "PublishDate": "2025-08-26T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/scale-bigger-run-faster/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/scale-bigger-run-faster/",
+    "LastMod": "2026-05-18T15:55:58Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "scale-bigger-run-faster"
+  },
+  "Title": "Scale Bigger, Run Faster: Introducing Everpure Cloud Dedicated V50 for AWS",
+  "Summary": "",
+  "PublishDate": "2026-05-18T00:00:00Z",
   "Tags": []
  },
  "https://blog.everpuredata.com/purely-technical/scale-up-scale-out-sap-hana-system-copy-using-pure-storage-snapshots/": {
