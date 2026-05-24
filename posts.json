@@ -404,6 +404,21 @@
   "PublishDate": "2019-10-10T00:00:00Z",
   "Tags": []
  },
+ "https://blog.everpuredata.com/purely-technical/architecturally-different-for-modern-data/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/architecturally-different-for-modern-data/",
+    "LastMod": "2026-05-21T17:00:11Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "architecturally-different-for-modern-data"
+  },
+  "Title": "Why Purity DeepReduce Is Architecturally Different for Modern Data",
+  "Summary": "",
+  "PublishDate": "2026-05-21T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.everpuredata.com/purely-technical/are-quantum-computers-real/": {
   "PostLink": {
    "Link": {
@@ -5217,6 +5232,21 @@
   "Title": "XFS vs. Ext4: Which Linux File System is Better?",
   "Summary": "",
   "PublishDate": "2024-01-24T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/zero-copy-migrations/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/zero-copy-migrations/",
+    "LastMod": "2026-05-22T21:30:13Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "zero-copy-migrations"
+  },
+  "Title": "Zero-Copy Migrations with Nutanix Move and Everpure FlashArray",
+  "Summary": "",
+  "PublishDate": "2026-05-22T00:00:00Z",
   "Tags": []
  },
  "https://blog.purestorage.com/purely-technical/10-ways-to-improve-data-management-with-automation/": {
