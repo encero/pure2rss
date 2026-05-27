@@ -408,13 +408,13 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.everpuredata.com/purely-technical/architecturally-different-for-modern-data/",
-    "LastMod": "2026-05-21T17:00:11Z"
+    "LastMod": "2026-05-27T14:11:11Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
    "Slug": "architecturally-different-for-modern-data"
   },
-  "Title": "Why Purity DeepReduce Is Architecturally Different for Modern Data",
+  "Title": "Why Purity DeepReduce is Architecturally Different for Modern Data",
   "Summary": "",
   "PublishDate": "2026-05-21T00:00:00Z",
   "Tags": []
