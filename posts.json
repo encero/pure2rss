@@ -4079,6 +4079,21 @@
   "PublishDate": "2025-05-19T00:00:00Z",
   "Tags": []
  },
+ "https://blog.everpuredata.com/purely-technical/sql-server-cyber-resilience-economics/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/sql-server-cyber-resilience-economics/",
+    "LastMod": "2026-06-11T16:24:46Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "sql-server-cyber-resilience-economics"
+  },
+  "Title": "Changing SQL Server Cyber Resilience Economics with Purity DeepReduce",
+  "Summary": "",
+  "PublishDate": "2026-06-11T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.everpuredata.com/purely-technical/sql-server-distributed-availability-groups-and-kubernetes/": {
   "PostLink": {
    "Link": {
@@ -5238,7 +5253,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.everpuredata.com/purely-technical/zero-copy-migrations/",
-    "LastMod": "2026-05-22T21:30:13Z"
+    "LastMod": "2026-06-10T18:46:26Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
