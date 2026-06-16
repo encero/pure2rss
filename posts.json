@@ -48,7 +48,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.everpuredata.com/purely-technical/2x-oltp-performance-aks-portworx-benchmarking-sql-server-azure/",
-    "LastMod": "2025-11-10T20:58:51Z"
+    "LastMod": "2026-06-15T20:19:32Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -213,7 +213,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.everpuredata.com/purely-technical/ai-infrastructure-costs-ai-factory/",
-    "LastMod": "2026-05-12T15:19:01Z"
+    "LastMod": "2026-06-15T20:17:25Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -618,7 +618,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.everpuredata.com/purely-technical/building-and-securing-kubernetes-native-products-the-pure-storage-product-security-journey/",
-    "LastMod": "2026-02-09T18:22:42Z"
+    "LastMod": "2026-06-15T20:47:03Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -888,7 +888,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.everpuredata.com/purely-technical/data-architectures-and-their-economics/",
-    "LastMod": "2026-02-24T21:44:16Z"
+    "LastMod": "2026-06-15T22:32:10Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -933,7 +933,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.everpuredata.com/purely-technical/data-migration-from-on-premises-to-the-cloud-with-cirrus-migrate-cloud-and-pure-cloud-block-store/",
-    "LastMod": "2025-10-14T16:00:30Z"
+    "LastMod": "2026-06-15T22:48:42Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -1683,7 +1683,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.everpuredata.com/purely-technical/how-psirt-uses-ai-to-help-everpure-customers-improve-their-security-posture/",
-    "LastMod": "2026-04-13T16:58:32Z"
+    "LastMod": "2026-06-15T20:44:16Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -3183,7 +3183,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.everpuredata.com/purely-technical/pure-storage-nvidia-certification-dgx-gb200-gb300-superpods/",
-    "LastMod": "2026-05-08T18:36:08Z"
+    "LastMod": "2026-06-15T23:19:43Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4083,7 +4083,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.everpuredata.com/purely-technical/sql-server-cyber-resilience-economics/",
-    "LastMod": "2026-06-11T16:24:46Z"
+    "LastMod": "2026-06-15T20:34:06Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4533,7 +4533,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.everpuredata.com/purely-technical/unlock-fleet-wide-storage-management/",
-    "LastMod": "2026-04-29T17:09:33Z"
+    "LastMod": "2026-06-15T21:56:49Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -4953,7 +4953,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.everpuredata.com/purely-technical/vmware-nfs-unmap/",
-    "LastMod": "2026-03-31T12:39:05Z"
+    "LastMod": "2026-06-15T21:02:19Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5193,7 +5193,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.everpuredata.com/purely-technical/why-modern-data-needs-a-new-reduction-model/",
-    "LastMod": "2026-06-01T17:37:47Z"
+    "LastMod": "2026-06-15T21:55:54Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
