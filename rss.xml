@@ -67,21 +67,15 @@
     </item>
     <item>
       <title>Unlock Fleet-Wide Storage Management with ‘Just Enough’ LDAP</title>
-      <link>https://blog.everpuredata.com/purely-technical/unlock-fleet-wide-storage-management/</link>
-      <description></description>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unlock Fleet-Wide Storage Management with ‘Just Enough’ LDAP</title>
       <link>https://blog.purestorage.com/purely-technical/unlock-fleet-wide-storage-management/</link>
       <description></description>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Why Modern Data Needs a New Reduction Model</title>
-      <link>https://blog.purestorage.com/purely-technical/why-modern-data-needs-a-new-reduction-model/</link>
+      <title>Unlock Fleet-Wide Storage Management with ‘Just Enough’ LDAP</title>
+      <link>https://blog.everpuredata.com/purely-technical/unlock-fleet-wide-storage-management/</link>
       <description></description>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Why Modern Data Needs a New Reduction Model</title>
@@ -90,10 +84,10 @@
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Everpure KVA Meets FlashBlade//EXA: Enterprise KV Caching at Neocloud Scale</title>
-      <link>https://blog.everpuredata.com/purely-technical/everpure-kva-meets-flashblade-exa-enterprise-kv-caching-at-neocloud-scale/</link>
+      <title>Why Modern Data Needs a New Reduction Model</title>
+      <link>https://blog.purestorage.com/purely-technical/why-modern-data-needs-a-new-reduction-model/</link>
       <description></description>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Everpure KVA Meets FlashBlade//EXA: Enterprise KV Caching at Neocloud Scale</title>
@@ -102,14 +96,20 @@
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>NVMe-over-Fabrics (NVMe-oF) with Windows Server Initiator and Everpure</title>
-      <link>https://blog.everpuredata.com/purely-technical/nvme-over-fabrics-nvme-of-with-windows-server-initiator-and-everpure/</link>
+      <title>Everpure KVA Meets FlashBlade//EXA: Enterprise KV Caching at Neocloud Scale</title>
+      <link>https://blog.everpuredata.com/purely-technical/everpure-kva-meets-flashblade-exa-enterprise-kv-caching-at-neocloud-scale/</link>
       <description></description>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>NVMe-over-Fabrics (NVMe-oF) with Windows Server Initiator and Everpure</title>
       <link>https://blog.purestorage.com/purely-technical/nvme-over-fabrics-nvme-of-with-windows-server-initiator-and-everpure/</link>
+      <description></description>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVMe-over-Fabrics (NVMe-oF) with Windows Server Initiator and Everpure</title>
+      <link>https://blog.everpuredata.com/purely-technical/nvme-over-fabrics-nvme-of-with-windows-server-initiator-and-everpure/</link>
       <description></description>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
     </item>
@@ -127,25 +127,25 @@
     </item>
     <item>
       <title>6 Steps to AI-Ready Data Sets</title>
-      <link>https://blog.purestorage.com/purely-technical/6-steps-to-ai-ready-data-sets/</link>
-      <description></description>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>6 Steps to AI-Ready Data Sets</title>
       <link>https://blog.everpuredata.com/purely-technical/6-steps-to-ai-ready-data-sets/</link>
       <description></description>
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>6 Steps to AI-Ready Data Sets</title>
+      <link>https://blog.purestorage.com/purely-technical/6-steps-to-ai-ready-data-sets/</link>
+      <description></description>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How PSIRT Uses AI to Help Everpure Customers Improve Their Security Posture</title>
-      <link>https://blog.purestorage.com/purely-technical/how-psirt-uses-ai-to-help-everpure-customers-improve-their-security-posture/</link>
+      <link>https://blog.everpuredata.com/purely-technical/how-psirt-uses-ai-to-help-everpure-customers-improve-their-security-posture/</link>
       <description></description>
       <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How PSIRT Uses AI to Help Everpure Customers Improve Their Security Posture</title>
-      <link>https://blog.everpuredata.com/purely-technical/how-psirt-uses-ai-to-help-everpure-customers-improve-their-security-posture/</link>
+      <link>https://blog.purestorage.com/purely-technical/how-psirt-uses-ai-to-help-everpure-customers-improve-their-security-posture/</link>
       <description></description>
       <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
     </item>
@@ -187,13 +187,13 @@
     </item>
     <item>
       <title>Making LLM Agents Think Once, Then Act Fast</title>
-      <link>https://blog.everpuredata.com/purely-technical/making-llm-agents-think-once-then-act-fast/</link>
+      <link>https://blog.purestorage.com/purely-technical/making-llm-agents-think-once-then-act-fast/</link>
       <description></description>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Making LLM Agents Think Once, Then Act Fast</title>
-      <link>https://blog.purestorage.com/purely-technical/making-llm-agents-think-once-then-act-fast/</link>
+      <link>https://blog.everpuredata.com/purely-technical/making-llm-agents-think-once-then-act-fast/</link>
       <description></description>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
     </item>
@@ -211,13 +211,13 @@
     </item>
     <item>
       <title>How to Build a Model Context Protocol (MCP) Server: Agentic AI Meets On-premises Storage Management</title>
-      <link>https://blog.purestorage.com/purely-technical/unlocking-on-premises-storage-agentics-via-the-model-context-protocol-mcp/</link>
+      <link>https://blog.everpuredata.com/purely-technical/unlocking-on-premises-storage-agentics-via-the-model-context-protocol-mcp/</link>
       <description></description>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Build a Model Context Protocol (MCP) Server: Agentic AI Meets On-premises Storage Management</title>
-      <link>https://blog.everpuredata.com/purely-technical/unlocking-on-premises-storage-agentics-via-the-model-context-protocol-mcp/</link>
+      <link>https://blog.purestorage.com/purely-technical/unlocking-on-premises-storage-agentics-via-the-model-context-protocol-mcp/</link>
       <description></description>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
     </item>
@@ -247,13 +247,13 @@
     </item>
     <item>
       <title>SQL Server 2025: A Last-minute Playbook for Mission-critical Workloads</title>
-      <link>https://blog.everpuredata.com/purely-technical/sql-server-2025-mission-critical-workloads/</link>
+      <link>https://blog.purestorage.com/purely-technical/sql-server-2025-mission-critical-workloads/</link>
       <description></description>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SQL Server 2025: A Last-minute Playbook for Mission-critical Workloads</title>
-      <link>https://blog.purestorage.com/purely-technical/sql-server-2025-mission-critical-workloads/</link>
+      <link>https://blog.everpuredata.com/purely-technical/sql-server-2025-mission-critical-workloads/</link>
       <description></description>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
     </item>
@@ -277,25 +277,25 @@
     </item>
     <item>
       <title>Architecting for Reuse: A Deep Journey into the Heart of KV Caching</title>
-      <link>https://blog.everpuredata.com/purely-technical/cut-llm-inference-costs-with-kv-caching/</link>
-      <description></description>
-      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Architecting for Reuse: A Deep Journey into the Heart of KV Caching</title>
       <link>https://blog.purestorage.com/purely-technical/cut-llm-inference-costs-with-kv-caching/</link>
       <description></description>
       <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Architecting for Reuse: A Deep Journey into the Heart of KV Caching</title>
+      <link>https://blog.everpuredata.com/purely-technical/cut-llm-inference-costs-with-kv-caching/</link>
+      <description></description>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Defense in Depth for AI: Combining Storage Security with Runtime Guardrails</title>
-      <link>https://blog.everpuredata.com/purely-technical/storage-security-ai-guardrails/</link>
+      <link>https://blog.purestorage.com/purely-technical/storage-security-ai-guardrails/</link>
       <description></description>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Defense in Depth for AI: Combining Storage Security with Runtime Guardrails</title>
-      <link>https://blog.purestorage.com/purely-technical/storage-security-ai-guardrails/</link>
+      <link>https://blog.everpuredata.com/purely-technical/storage-security-ai-guardrails/</link>
       <description></description>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
@@ -313,13 +313,13 @@
     </item>
     <item>
       <title>The DNF Empty Row Issue Explained</title>
-      <link>https://blog.purestorage.com/purely-technical/the-dnf-empty-row-issue-explained/</link>
+      <link>https://blog.everpuredata.com/purely-technical/the-dnf-empty-row-issue-explained/</link>
       <description></description>
       <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The DNF Empty Row Issue Explained</title>
-      <link>https://blog.everpuredata.com/purely-technical/the-dnf-empty-row-issue-explained/</link>
+      <link>https://blog.purestorage.com/purely-technical/the-dnf-empty-row-issue-explained/</link>
       <description></description>
       <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
     </item>
@@ -337,13 +337,13 @@
     </item>
     <item>
       <title>A Case Study in Applying AI to Speed Up Purchase Requisition Reviews</title>
-      <link>https://blog.purestorage.com/purely-technical/case-study-ai-purchase-requisition-reviews/</link>
+      <link>https://blog.everpuredata.com/purely-technical/case-study-ai-purchase-requisition-reviews/</link>
       <description></description>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Case Study in Applying AI to Speed Up Purchase Requisition Reviews</title>
-      <link>https://blog.everpuredata.com/purely-technical/case-study-ai-purchase-requisition-reviews/</link>
+      <link>https://blog.purestorage.com/purely-technical/case-study-ai-purchase-requisition-reviews/</link>
       <description></description>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
     </item>
@@ -397,25 +397,25 @@
     </item>
     <item>
       <title>Using T-SQL Snapshot Backup: Multi-array Database Snapshots</title>
-      <link>https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-multi-array-database-snapshots/</link>
-      <description></description>
-      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Using T-SQL Snapshot Backup: Multi-array Database Snapshots</title>
       <link>https://blog.everpuredata.com/purely-technical/using-t-sql-snapshot-backup-multi-array-database-snapshots/</link>
       <description></description>
       <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Using T-SQL Snapshot Backup: Multi-array Database Snapshots</title>
+      <link>https://blog.purestorage.com/purely-technical/using-t-sql-snapshot-backup-multi-array-database-snapshots/</link>
+      <description></description>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Announcing Secure Multi-tenancy for Purity—the First Step to Secure Application Workspaces with Pure Storage</title>
-      <link>https://blog.purestorage.com/purely-technical/announcing-secure-application-workspaces-with-pure-storage/</link>
+      <link>https://blog.everpuredata.com/purely-technical/announcing-secure-application-workspaces-with-pure-storage/</link>
       <description></description>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Announcing Secure Multi-tenancy for Purity—the First Step to Secure Application Workspaces with Pure Storage</title>
-      <link>https://blog.everpuredata.com/purely-technical/announcing-secure-application-workspaces-with-pure-storage/</link>
+      <link>https://blog.purestorage.com/purely-technical/announcing-secure-application-workspaces-with-pure-storage/</link>
       <description></description>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
     </item>
@@ -427,13 +427,13 @@
     </item>
     <item>
       <title>Redefining Resilience: A Field Architect’s Guide to Securing the Data Layer</title>
-      <link>https://blog.everpuredata.com/purely-technical/people-of-pure-falko-banaszak-cyber-resilience/</link>
+      <link>https://blog.purestorage.com/purely-technical/people-of-pure-falko-banaszak-cyber-resilience/</link>
       <description></description>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Redefining Resilience: A Field Architect’s Guide to Securing the Data Layer</title>
-      <link>https://blog.purestorage.com/purely-technical/people-of-pure-falko-banaszak-cyber-resilience/</link>
+      <link>https://blog.everpuredata.com/purely-technical/people-of-pure-falko-banaszak-cyber-resilience/</link>
       <description></description>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
     </item>
@@ -445,13 +445,13 @@
     </item>
     <item>
       <title>Building a Hybrid Data Lakehouse with SQL Server PolyBase, FlashArray, and FlashBlade: Part 1</title>
-      <link>https://blog.everpuredata.com/purely-technical/building-a-hybrid-data-lakehouse-with-sql-server-polybase-flasharray-flashblade/</link>
+      <link>https://blog.purestorage.com/purely-technical/building-a-hybrid-data-lakehouse-with-sql-server-polybase-flasharray-flashblade/</link>
       <description></description>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Building a Hybrid Data Lakehouse with SQL Server PolyBase, FlashArray, and FlashBlade: Part 1</title>
-      <link>https://blog.purestorage.com/purely-technical/building-a-hybrid-data-lakehouse-with-sql-server-polybase-flasharray-flashblade/</link>
+      <link>https://blog.everpuredata.com/purely-technical/building-a-hybrid-data-lakehouse-with-sql-server-polybase-flasharray-flashblade/</link>
       <description></description>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
     </item>
@@ -481,13 +481,13 @@
     </item>
     <item>
       <title>‘Did We Just Become Best Friends?!’: NFS Basics on FlashArray</title>
-      <link>https://blog.purestorage.com/purely-technical/nfs-basics-on-flasharray/</link>
+      <link>https://blog.everpuredata.com/purely-technical/nfs-basics-on-flasharray/</link>
       <description></description>
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>‘Did We Just Become Best Friends?!’: NFS Basics on FlashArray</title>
-      <link>https://blog.everpuredata.com/purely-technical/nfs-basics-on-flasharray/</link>
+      <link>https://blog.purestorage.com/purely-technical/nfs-basics-on-flasharray/</link>
       <description></description>
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
     </item>
@@ -505,21 +505,15 @@
     </item>
     <item>
       <title>Breaking Enterprise AI Bottlenecks: 20X Faster Inference with the First KV Cache for S3 and NFS</title>
-      <link>https://blog.everpuredata.com/purely-technical/20x-faster-inference-first-kv-cache-for-s3-and-nfs/</link>
-      <description></description>
-      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Breaking Enterprise AI Bottlenecks: 20X Faster Inference with the First KV Cache for S3 and NFS</title>
       <link>https://blog.purestorage.com/purely-technical/20x-faster-inference-first-kv-cache-for-s3-and-nfs/</link>
       <description></description>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Managing Vector Storage Bloat: 4 Key Insights for Scalable Systems</title>
-      <link>https://blog.everpuredata.com/purely-technical/managing-vector-storage-bloat-insights-for-scalable-systems/</link>
+      <title>Breaking Enterprise AI Bottlenecks: 20X Faster Inference with the First KV Cache for S3 and NFS</title>
+      <link>https://blog.everpuredata.com/purely-technical/20x-faster-inference-first-kv-cache-for-s3-and-nfs/</link>
       <description></description>
-      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Managing Vector Storage Bloat: 4 Key Insights for Scalable Systems</title>
@@ -528,14 +522,20 @@
       <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Managing Vector Storage Bloat: 4 Key Insights for Scalable Systems</title>
+      <link>https://blog.everpuredata.com/purely-technical/managing-vector-storage-bloat-insights-for-scalable-systems/</link>
+      <description></description>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>RIP ASM Filter Drivers</title>
-      <link>https://blog.everpuredata.com/purely-technical/rip-asm-filter-drivers/</link>
+      <link>https://blog.purestorage.com/purely-technical/rip-asm-filter-drivers/</link>
       <description></description>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>RIP ASM Filter Drivers</title>
-      <link>https://blog.purestorage.com/purely-technical/rip-asm-filter-drivers/</link>
+      <link>https://blog.everpuredata.com/purely-technical/rip-asm-filter-drivers/</link>
       <description></description>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
     </item>
@@ -553,25 +553,25 @@
     </item>
     <item>
       <title>Building and Securing Kubernetes Native Products: The Pure Storage Product Security Journey</title>
-      <link>https://blog.purestorage.com/purely-technical/building-and-securing-kubernetes-native-products-the-pure-storage-product-security-journey/</link>
-      <description></description>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building and Securing Kubernetes Native Products: The Pure Storage Product Security Journey</title>
       <link>https://blog.everpuredata.com/purely-technical/building-and-securing-kubernetes-native-products-the-pure-storage-product-security-journey/</link>
       <description></description>
       <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Building and Securing Kubernetes Native Products: The Pure Storage Product Security Journey</title>
+      <link>https://blog.purestorage.com/purely-technical/building-and-securing-kubernetes-native-products-the-pure-storage-product-security-journey/</link>
+      <description></description>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Building a Resilient SQL Server Refresh and DR Strategy with Persistent Topology Tagging</title>
-      <link>https://blog.everpuredata.com/purely-technical/resilient-sql-server-refresh-dr-strategy-persistent-topology-tagging/</link>
+      <link>https://blog.purestorage.com/purely-technical/resilient-sql-server-refresh-dr-strategy-persistent-topology-tagging/</link>
       <description></description>
       <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Building a Resilient SQL Server Refresh and DR Strategy with Persistent Topology Tagging</title>
-      <link>https://blog.purestorage.com/purely-technical/resilient-sql-server-refresh-dr-strategy-persistent-topology-tagging/</link>
+      <link>https://blog.everpuredata.com/purely-technical/resilient-sql-server-refresh-dr-strategy-persistent-topology-tagging/</link>
       <description></description>
       <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
     </item>
@@ -607,21 +607,15 @@
     </item>
     <item>
       <title>How to Simulate VSI, VDI, SQL &amp; Oracle Workloads with Oracle vdbench</title>
-      <link>https://blog.everpuredata.com/purely-technical/how-to-simulate-vsi-vdi-sql-oracle-workloads-with-oracle-vdbench/</link>
-      <description></description>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Simulate VSI, VDI, SQL &amp; Oracle Workloads with Oracle vdbench</title>
       <link>https://blog.purestorage.com/purely-technical/how-to-simulate-vsi-vdi-sql-oracle-workloads-with-oracle-vdbench/</link>
       <description></description>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>T-SQL REST API Integration in SQL Server 2025: Streamlining T-SQL Snapshot Backups</title>
-      <link>https://blog.purestorage.com/purely-technical/sql-server-2025-streamlining-t-sql-snapshot-backups/</link>
+      <title>How to Simulate VSI, VDI, SQL &amp; Oracle Workloads with Oracle vdbench</title>
+      <link>https://blog.everpuredata.com/purely-technical/how-to-simulate-vsi-vdi-sql-oracle-workloads-with-oracle-vdbench/</link>
       <description></description>
-      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>T-SQL REST API Integration in SQL Server 2025: Streamlining T-SQL Snapshot Backups</title>
@@ -630,10 +624,10 @@
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Create Customised Billing Reports for IT Departments and MSPs with Pure Fusion and AI DevOps </title>
-      <link>https://blog.purestorage.com/purely-technical/how-to-create-customised-billing-reports-for-it-departments-and-msps-with-pure-fusion-and-ai-devops/</link>
+      <title>T-SQL REST API Integration in SQL Server 2025: Streamlining T-SQL Snapshot Backups</title>
+      <link>https://blog.purestorage.com/purely-technical/sql-server-2025-streamlining-t-sql-snapshot-backups/</link>
       <description></description>
-      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Create Customised Billing Reports for IT Departments and MSPs with Pure Fusion and AI DevOps </title>
@@ -642,10 +636,10 @@
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>From Storage to Stream: A Comparison of Leader Election in Portworx, Kafka, and Raft</title>
-      <link>https://blog.everpuredata.com/purely-technical/from-storage-to-stream-a-comparison-of-leader-election-in-portworx-kafka-and-raft/</link>
+      <title>How to Create Customised Billing Reports for IT Departments and MSPs with Pure Fusion and AI DevOps </title>
+      <link>https://blog.purestorage.com/purely-technical/how-to-create-customised-billing-reports-for-it-departments-and-msps-with-pure-fusion-and-ai-devops/</link>
       <description></description>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>From Storage to Stream: A Comparison of Leader Election in Portworx, Kafka, and Raft</title>
@@ -654,14 +648,20 @@
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>From Storage to Stream: A Comparison of Leader Election in Portworx, Kafka, and Raft</title>
+      <link>https://blog.everpuredata.com/purely-technical/from-storage-to-stream-a-comparison-of-leader-election-in-portworx-kafka-and-raft/</link>
+      <description></description>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How to Set Up a Secure Isolated Recovery Environment (SIRE)</title>
-      <link>https://blog.everpuredata.com/purely-technical/how-to-set-up-a-secure-isolated-recovery-environment-sire/</link>
+      <link>https://blog.purestorage.com/purely-technical/how-to-set-up-a-secure-isolated-recovery-environment-sire/</link>
       <description></description>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Set Up a Secure Isolated Recovery Environment (SIRE)</title>
-      <link>https://blog.purestorage.com/purely-technical/how-to-set-up-a-secure-isolated-recovery-environment-sire/</link>
+      <link>https://blog.everpuredata.com/purely-technical/how-to-set-up-a-secure-isolated-recovery-environment-sire/</link>
       <description></description>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
     </item>
@@ -673,13 +673,13 @@
     </item>
     <item>
       <title>Data Migration from on Premises to the Cloud with Cirrus Migrate Cloud and Pure Storage Cloud</title>
-      <link>https://blog.everpuredata.com/purely-technical/data-migration-from-on-premises-to-the-cloud-with-cirrus-migrate-cloud-and-pure-cloud-block-store/</link>
+      <link>https://blog.purestorage.com/purely-technical/data-migration-from-on-premises-to-the-cloud-with-cirrus-migrate-cloud-and-pure-cloud-block-store/</link>
       <description></description>
       <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Data Migration from on Premises to the Cloud with Cirrus Migrate Cloud and Pure Storage Cloud</title>
-      <link>https://blog.purestorage.com/purely-technical/data-migration-from-on-premises-to-the-cloud-with-cirrus-migrate-cloud-and-pure-cloud-block-store/</link>
+      <link>https://blog.everpuredata.com/purely-technical/data-migration-from-on-premises-to-the-cloud-with-cirrus-migrate-cloud-and-pure-cloud-block-store/</link>
       <description></description>
       <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
     </item>
@@ -697,13 +697,13 @@
     </item>
     <item>
       <title>How Hospitals Use Diagnostic Analytics &amp; AI in Healthcare</title>
-      <link>https://blog.purestorage.com/purely-technical/how-hospitals-use-diagnostic-analytics-ai-in-healthcare/</link>
+      <link>https://blog.everpuredata.com/purely-technical/how-hospitals-use-diagnostic-analytics-ai-in-healthcare/</link>
       <description></description>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How Hospitals Use Diagnostic Analytics &amp; AI in Healthcare</title>
-      <link>https://blog.everpuredata.com/purely-technical/how-hospitals-use-diagnostic-analytics-ai-in-healthcare/</link>
+      <link>https://blog.purestorage.com/purely-technical/how-hospitals-use-diagnostic-analytics-ai-in-healthcare/</link>
       <description></description>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
     </item>
@@ -721,25 +721,25 @@
     </item>
     <item>
       <title>Greenfield vs. Brownfield Data Centers: The Strategic Decision Defining The Next Decade</title>
-      <link>https://blog.everpuredata.com/purely-technical/greenfield-vs-brownfield-data-centers/</link>
-      <description></description>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Greenfield vs. Brownfield Data Centers: The Strategic Decision Defining The Next Decade</title>
       <link>https://blog.purestorage.com/purely-technical/greenfield-vs-brownfield-data-centers/</link>
       <description></description>
       <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Greenfield vs. Brownfield Data Centers: The Strategic Decision Defining The Next Decade</title>
+      <link>https://blog.everpuredata.com/purely-technical/greenfield-vs-brownfield-data-centers/</link>
+      <description></description>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How to Auto-Generate Professional Kubernetes Architecture Diagrams for SQL Server</title>
-      <link>https://blog.purestorage.com/purely-technical/visualising-sql-server-in-kubernetes/</link>
+      <link>https://blog.everpuredata.com/purely-technical/visualising-sql-server-in-kubernetes/</link>
       <description></description>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Auto-Generate Professional Kubernetes Architecture Diagrams for SQL Server</title>
-      <link>https://blog.everpuredata.com/purely-technical/visualising-sql-server-in-kubernetes/</link>
+      <link>https://blog.purestorage.com/purely-technical/visualising-sql-server-in-kubernetes/</link>
       <description></description>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
     </item>
@@ -769,25 +769,25 @@
     </item>
     <item>
       <title>Fake It ’Til You Make It: Why Synthetic Data Is on the Rise in 2025</title>
-      <link>https://blog.everpuredata.com/purely-technical/fake-it-til-you-make-it-why-synthetic-data-is-on-the-rise/</link>
-      <description></description>
-      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake It ’Til You Make It: Why Synthetic Data Is on the Rise in 2025</title>
       <link>https://blog.purestorage.com/purely-technical/fake-it-til-you-make-it-why-synthetic-data-is-on-the-rise/</link>
       <description></description>
       <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Fake It ’Til You Make It: Why Synthetic Data Is on the Rise in 2025</title>
+      <link>https://blog.everpuredata.com/purely-technical/fake-it-til-you-make-it-why-synthetic-data-is-on-the-rise/</link>
+      <description></description>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CPU vs. GPU for Machine Learning</title>
-      <link>https://blog.everpuredata.com/purely-technical/cpu-vs-gpu-for-machine-learning/</link>
+      <link>https://blog.purestorage.com/purely-technical/cpu-vs-gpu-for-machine-learning/</link>
       <description></description>
       <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CPU vs. GPU for Machine Learning</title>
-      <link>https://blog.purestorage.com/purely-technical/cpu-vs-gpu-for-machine-learning/</link>
+      <link>https://blog.everpuredata.com/purely-technical/cpu-vs-gpu-for-machine-learning/</link>
       <description></description>
       <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
     </item>
@@ -847,25 +847,25 @@
     </item>
     <item>
       <title>SQL Server Distributed Availability Groups and Kubernetes</title>
-      <link>https://blog.everpuredata.com/purely-technical/sql-server-distributed-availability-groups-and-kubernetes/</link>
-      <description></description>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SQL Server Distributed Availability Groups and Kubernetes</title>
       <link>https://blog.purestorage.com/purely-technical/sql-server-distributed-availability-groups-and-kubernetes/</link>
       <description></description>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>SQL Server Distributed Availability Groups and Kubernetes</title>
+      <link>https://blog.everpuredata.com/purely-technical/sql-server-distributed-availability-groups-and-kubernetes/</link>
+      <description></description>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How to Get Complete Storage Flexibility in VMware Cloud Foundation</title>
-      <link>https://blog.purestorage.com/purely-technical/storage-considerations-for-vmware-cloud-foundation-with-flasharray/</link>
+      <link>https://blog.everpuredata.com/purely-technical/storage-considerations-for-vmware-cloud-foundation-with-flasharray/</link>
       <description></description>
       <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Get Complete Storage Flexibility in VMware Cloud Foundation</title>
-      <link>https://blog.everpuredata.com/purely-technical/storage-considerations-for-vmware-cloud-foundation-with-flasharray/</link>
+      <link>https://blog.purestorage.com/purely-technical/storage-considerations-for-vmware-cloud-foundation-with-flasharray/</link>
       <description></description>
       <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
     </item>
@@ -895,21 +895,15 @@
     </item>
     <item>
       <title>What Is MTU Size and How Do You Calculate It?</title>
-      <link>https://blog.purestorage.com/purely-technical/what-is-mtu-size-and-how-do-you-calculate-it/</link>
-      <description></description>
-      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Is MTU Size and How Do You Calculate It?</title>
       <link>https://blog.everpuredata.com/purely-technical/what-is-mtu-size-and-how-do-you-calculate-it/</link>
       <description></description>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Enhancing Pure Storage Cloud with Multi-tenant Capabilities</title>
-      <link>https://blog.everpuredata.com/purely-technical/enhancing-pure-cloud-block-store-with-multi-tenant-capabilities/</link>
+      <title>What Is MTU Size and How Do You Calculate It?</title>
+      <link>https://blog.purestorage.com/purely-technical/what-is-mtu-size-and-how-do-you-calculate-it/</link>
       <description></description>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Enhancing Pure Storage Cloud with Multi-tenant Capabilities</title>
@@ -918,14 +912,20 @@
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pure Fusion 101: Technical Deep Dive</title>
-      <link>https://blog.purestorage.com/purely-technical/technically-speaking-on-pure-fusion/</link>
+      <title>Enhancing Pure Storage Cloud with Multi-tenant Capabilities</title>
+      <link>https://blog.everpuredata.com/purely-technical/enhancing-pure-cloud-block-store-with-multi-tenant-capabilities/</link>
       <description></description>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pure Fusion 101: Technical Deep Dive</title>
       <link>https://blog.everpuredata.com/purely-technical/technically-speaking-on-pure-fusion/</link>
+      <description></description>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pure Fusion 101: Technical Deep Dive</title>
+      <link>https://blog.purestorage.com/purely-technical/technically-speaking-on-pure-fusion/</link>
       <description></description>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
     </item>
@@ -955,21 +955,15 @@
     </item>
     <item>
       <title>Top 9 VMware Alternatives</title>
-      <link>https://blog.everpuredata.com/purely-technical/top-8-vmware-alternatives/</link>
-      <description></description>
-      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top 9 VMware Alternatives</title>
       <link>https://blog.purestorage.com/purely-technical/top-8-vmware-alternatives/</link>
       <description></description>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Create Tables with MariaDB</title>
-      <link>https://blog.purestorage.com/purely-technical/how-to-create-tables-with-mariadb/</link>
+      <title>Top 9 VMware Alternatives</title>
+      <link>https://blog.everpuredata.com/purely-technical/top-8-vmware-alternatives/</link>
       <description></description>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Create Tables with MariaDB</title>
@@ -978,10 +972,10 @@
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Introduction to Pure Storage FlashArray with VMware Cloud Foundation</title>
-      <link>https://blog.purestorage.com/purely-technical/introduction-to-pure-storage-flasharray-with-vmware-cloud-foundation/</link>
+      <title>How to Create Tables with MariaDB</title>
+      <link>https://blog.purestorage.com/purely-technical/how-to-create-tables-with-mariadb/</link>
       <description></description>
-      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introduction to Pure Storage FlashArray with VMware Cloud Foundation</title>
@@ -990,10 +984,10 @@
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Near-zero RPO with ActiveDR and Microsoft SQL Server</title>
-      <link>https://blog.everpuredata.com/purely-technical/near-zero-rpo-with-activedr-and-microsoft-sql-server/</link>
+      <title>Introduction to Pure Storage FlashArray with VMware Cloud Foundation</title>
+      <link>https://blog.purestorage.com/purely-technical/introduction-to-pure-storage-flasharray-with-vmware-cloud-foundation/</link>
       <description></description>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Near-zero RPO with ActiveDR and Microsoft SQL Server</title>
@@ -1002,10 +996,10 @@
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Data Mesh vs. Data Fabric: What’s the Difference?</title>
-      <link>https://blog.purestorage.com/purely-technical/data-mesh-vs-data-fabric-whats-the-difference/</link>
+      <title>Near-zero RPO with ActiveDR and Microsoft SQL Server</title>
+      <link>https://blog.everpuredata.com/purely-technical/near-zero-rpo-with-activedr-and-microsoft-sql-server/</link>
       <description></description>
-      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Data Mesh vs. Data Fabric: What’s the Difference?</title>
@@ -1014,10 +1008,10 @@
       <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Unlocking Performance Insights: Using resxtop to Monitor Your Azure VMware Solution Environment</title>
-      <link>https://blog.everpuredata.com/purely-technical/unlocking-performance-insights-using-resxtop-to-monitor-your-azure-vmware-solution-environment/</link>
+      <title>Data Mesh vs. Data Fabric: What’s the Difference?</title>
+      <link>https://blog.purestorage.com/purely-technical/data-mesh-vs-data-fabric-whats-the-difference/</link>
       <description></description>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Unlocking Performance Insights: Using resxtop to Monitor Your Azure VMware Solution Environment</title>
@@ -1026,14 +1020,20 @@
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Unlocking Performance Insights: Using resxtop to Monitor Your Azure VMware Solution Environment</title>
+      <link>https://blog.everpuredata.com/purely-technical/unlocking-performance-insights-using-resxtop-to-monitor-your-azure-vmware-solution-environment/</link>
+      <description></description>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Upgrading Operating Systems and SQL Servers</title>
-      <link>https://blog.purestorage.com/purely-technical/upgrading-operating-systems-and-sql-servers/</link>
+      <link>https://blog.everpuredata.com/purely-technical/upgrading-operating-systems-and-sql-servers/</link>
       <description></description>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Upgrading Operating Systems and SQL Servers</title>
-      <link>https://blog.everpuredata.com/purely-technical/upgrading-operating-systems-and-sql-servers/</link>
+      <link>https://blog.purestorage.com/purely-technical/upgrading-operating-systems-and-sql-servers/</link>
       <description></description>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
     </item>
@@ -1075,13 +1075,13 @@
     </item>
     <item>
       <title>Terraform vs. Ansible: When to Use Each</title>
-      <link>https://blog.everpuredata.com/purely-technical/terraform-vs-ansible-when-to-use-each/</link>
+      <link>https://blog.purestorage.com/purely-technical/terraform-vs-ansible-when-to-use-each/</link>
       <description></description>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Terraform vs. Ansible: When to Use Each</title>
-      <link>https://blog.purestorage.com/purely-technical/terraform-vs-ansible-when-to-use-each/</link>
+      <link>https://blog.everpuredata.com/purely-technical/terraform-vs-ansible-when-to-use-each/</link>
       <description></description>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
     </item>
@@ -1117,13 +1117,13 @@
     </item>
     <item>
       <title>Oracle Database 19c on Oracle Direct NFS Using FA File</title>
-      <link>https://blog.purestorage.com/purely-technical/oracle-database-19c-on-oracle-direct-nfs-using-fa-file/</link>
+      <link>https://blog.everpuredata.com/purely-technical/oracle-database-19c-on-oracle-direct-nfs-using-fa-file/</link>
       <description></description>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Oracle Database 19c on Oracle Direct NFS Using FA File</title>
-      <link>https://blog.everpuredata.com/purely-technical/oracle-database-19c-on-oracle-direct-nfs-using-fa-file/</link>
+      <link>https://blog.purestorage.com/purely-technical/oracle-database-19c-on-oracle-direct-nfs-using-fa-file/</link>
       <description></description>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
     </item>
@@ -1141,13 +1141,13 @@
     </item>
     <item>
       <title>RMAN Backups Using Mount Host on Pure FlashArray</title>
-      <link>https://blog.purestorage.com/purely-technical/rman-backups-using-mount-host-on-flasharray/</link>
+      <link>https://blog.everpuredata.com/purely-technical/rman-backups-using-mount-host-on-flasharray/</link>
       <description></description>
       <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>RMAN Backups Using Mount Host on Pure FlashArray</title>
-      <link>https://blog.everpuredata.com/purely-technical/rman-backups-using-mount-host-on-flasharray/</link>
+      <link>https://blog.purestorage.com/purely-technical/rman-backups-using-mount-host-on-flasharray/</link>
       <description></description>
       <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
     </item>
@@ -1165,21 +1165,15 @@
     </item>
     <item>
       <title>Purity//FA comes with Offloaded Data Transfer (ODX)</title>
-      <link>https://blog.purestorage.com/purely-technical/purity-fa-comes-with-offloaded-data-transfer-odx/</link>
-      <description></description>
-      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Purity//FA comes with Offloaded Data Transfer (ODX)</title>
       <link>https://blog.everpuredata.com/purely-technical/purity-fa-comes-with-offloaded-data-transfer-odx/</link>
       <description></description>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pure PowerShell SDK: Find All Disconnected Volumes</title>
-      <link>https://blog.everpuredata.com/purely-technical/find-all-disconnected-volumes/</link>
+      <title>Purity//FA comes with Offloaded Data Transfer (ODX)</title>
+      <link>https://blog.purestorage.com/purely-technical/purity-fa-comes-with-offloaded-data-transfer-odx/</link>
       <description></description>
-      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pure PowerShell SDK: Find All Disconnected Volumes</title>
@@ -1188,10 +1182,10 @@
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Getting Started with the Pure Storage Python Toolkit</title>
-      <link>https://blog.purestorage.com/purely-technical/getting-started-with-the-pure-storage-python-toolkit/</link>
+      <title>Pure PowerShell SDK: Find All Disconnected Volumes</title>
+      <link>https://blog.everpuredata.com/purely-technical/find-all-disconnected-volumes/</link>
       <description></description>
-      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Getting Started with the Pure Storage Python Toolkit</title>
@@ -1200,14 +1194,20 @@
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Getting Started with the Pure Storage Python Toolkit</title>
+      <link>https://blog.purestorage.com/purely-technical/getting-started-with-the-pure-storage-python-toolkit/</link>
+      <description></description>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>12 Reasons Why AI Readiness is the New Imperative</title>
-      <link>https://blog.purestorage.com/purely-technical/ai-readiness-is-not-an-option/</link>
+      <link>https://blog.everpuredata.com/purely-technical/ai-readiness-is-not-an-option/</link>
       <description></description>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>12 Reasons Why AI Readiness is the New Imperative</title>
-      <link>https://blog.everpuredata.com/purely-technical/ai-readiness-is-not-an-option/</link>
+      <link>https://blog.purestorage.com/purely-technical/ai-readiness-is-not-an-option/</link>
       <description></description>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
     </item>
@@ -1291,13 +1291,13 @@
     </item>
     <item>
       <title>Generative AI, RAG, and Data Infrastructure</title>
-      <link>https://blog.everpuredata.com/purely-technical/generative-ai-rag-and-data-infrastructure/</link>
+      <link>https://blog.purestorage.com/purely-technical/generative-ai-rag-and-data-infrastructure/</link>
       <description></description>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Generative AI, RAG, and Data Infrastructure</title>
-      <link>https://blog.purestorage.com/purely-technical/generative-ai-rag-and-data-infrastructure/</link>
+      <link>https://blog.everpuredata.com/purely-technical/generative-ai-rag-and-data-infrastructure/</link>
       <description></description>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
     </item>
@@ -1309,21 +1309,15 @@
     </item>
     <item>
       <title>How to Upgrade Your Own FlashArray with Pure1</title>
-      <link>https://blog.everpuredata.com/purely-technical/upgrade-your-own-flasharray-with-pure1/</link>
-      <description></description>
-      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Upgrade Your Own FlashArray with Pure1</title>
       <link>https://blog.purestorage.com/purely-technical/upgrade-your-own-flasharray-with-pure1/</link>
       <description></description>
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Online Resizing of Oracle Volumes on Pure FlashArray</title>
-      <link>https://blog.everpuredata.com/purely-technical/online-resizing-of-oracle-volumes-on-pure-flasharray/</link>
+      <title>How to Upgrade Your Own FlashArray with Pure1</title>
+      <link>https://blog.everpuredata.com/purely-technical/upgrade-your-own-flasharray-with-pure1/</link>
       <description></description>
-      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Online Resizing of Oracle Volumes on Pure FlashArray</title>
@@ -1332,14 +1326,20 @@
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Online Resizing of Oracle Volumes on Pure FlashArray</title>
+      <link>https://blog.everpuredata.com/purely-technical/online-resizing-of-oracle-volumes-on-pure-flasharray/</link>
+      <description></description>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Overwriting a Volume in Windows Server</title>
-      <link>https://blog.everpuredata.com/purely-technical/overwriting-a-volume-in-windows-server/</link>
+      <link>https://blog.purestorage.com/purely-technical/overwriting-a-volume-in-windows-server/</link>
       <description></description>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Overwriting a Volume in Windows Server</title>
-      <link>https://blog.purestorage.com/purely-technical/overwriting-a-volume-in-windows-server/</link>
+      <link>https://blog.everpuredata.com/purely-technical/overwriting-a-volume-in-windows-server/</link>
       <description></description>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
     </item>
@@ -1351,21 +1351,15 @@
     </item>
     <item>
       <title>Benchmarking Database Storage</title>
-      <link>https://blog.everpuredata.com/purely-technical/on-benchmarking-database-storage/</link>
-      <description></description>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Benchmarking Database Storage</title>
       <link>https://blog.purestorage.com/purely-technical/on-benchmarking-database-storage/</link>
       <description></description>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Exploring the Pure1® REST API, Part 1</title>
-      <link>https://blog.everpuredata.com/purely-technical/pure1-rest-api-part-1/</link>
+      <title>Benchmarking Database Storage</title>
+      <link>https://blog.everpuredata.com/purely-technical/on-benchmarking-database-storage/</link>
       <description></description>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Exploring the Pure1® REST API, Part 1</title>
@@ -1374,10 +1368,10 @@
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Try the REST API Using a REST Client</title>
-      <link>https://blog.purestorage.com/purely-technical/try-the-rest-api-using-a-rest-client/</link>
+      <title>Exploring the Pure1® REST API, Part 1</title>
+      <link>https://blog.everpuredata.com/purely-technical/pure1-rest-api-part-1/</link>
       <description></description>
-      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Try the REST API Using a REST Client</title>
@@ -1386,10 +1380,10 @@
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Streamline Azure VMware Solution: Automating Pure Storage Cloud Expansion</title>
-      <link>https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/</link>
+      <title>Try the REST API Using a REST Client</title>
+      <link>https://blog.purestorage.com/purely-technical/try-the-rest-api-using-a-rest-client/</link>
       <description></description>
-      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Streamline Azure VMware Solution: Automating Pure Storage Cloud Expansion</title>
@@ -1398,10 +1392,10 @@
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Taming the Storage Sprawl: Simplify Your Life with Fan-in Replication for Snapshot Consolidation</title>
-      <link>https://blog.everpuredata.com/purely-technical/how-snapshot-consolidation-with-fan-in-replication-can-simplify-your-life/</link>
+      <title>How to Streamline Azure VMware Solution: Automating Pure Storage Cloud Expansion</title>
+      <link>https://blog.purestorage.com/purely-technical/streamlining-azure-vmware-solution-automating-pure-cloud-block-store-expansion/</link>
       <description></description>
-      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Taming the Storage Sprawl: Simplify Your Life with Fan-in Replication for Snapshot Consolidation</title>
@@ -1410,14 +1404,20 @@
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Taming the Storage Sprawl: Simplify Your Life with Fan-in Replication for Snapshot Consolidation</title>
+      <link>https://blog.everpuredata.com/purely-technical/how-snapshot-consolidation-with-fan-in-replication-can-simplify-your-life/</link>
+      <description></description>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>SQL vs NoSQL: Storage Architecture as the Performance Foundation</title>
-      <link>https://blog.purestorage.com/purely-technical/sql-vs-nosql-databases/</link>
+      <link>https://blog.everpuredata.com/purely-technical/sql-vs-nosql-databases/</link>
       <description></description>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SQL vs NoSQL: Storage Architecture as the Performance Foundation</title>
-      <link>https://blog.everpuredata.com/purely-technical/sql-vs-nosql-databases/</link>
+      <link>https://blog.purestorage.com/purely-technical/sql-vs-nosql-databases/</link>
       <description></description>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
     </item>
@@ -1471,21 +1471,15 @@
     </item>
     <item>
       <title>Extending (root) Volume on LVM on Pure FlashArray</title>
-      <link>https://blog.everpuredata.com/purely-technical/extending-root-volume-on-lvm-on-pure-flasharray/</link>
-      <description></description>
-      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Extending (root) Volume on LVM on Pure FlashArray</title>
       <link>https://blog.purestorage.com/purely-technical/extending-root-volume-on-lvm-on-pure-flasharray/</link>
       <description></description>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Restoring Protection Group Volume Snapshots</title>
-      <link>https://blog.everpuredata.com/purely-technical/updated-restoring-protection-group-volume-snapshots/</link>
+      <title>Extending (root) Volume on LVM on Pure FlashArray</title>
+      <link>https://blog.everpuredata.com/purely-technical/extending-root-volume-on-lvm-on-pure-flasharray/</link>
       <description></description>
-      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Restoring Protection Group Volume Snapshots</title>
@@ -1494,10 +1488,10 @@
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Setting up SAN boot for an 8-Node Windows Server Cluster</title>
-      <link>https://blog.purestorage.com/purely-technical/setting-up-san-boot-for-an-8-node-windows-server-cluster/</link>
+      <title>Restoring Protection Group Volume Snapshots</title>
+      <link>https://blog.everpuredata.com/purely-technical/updated-restoring-protection-group-volume-snapshots/</link>
       <description></description>
-      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Setting up SAN boot for an 8-Node Windows Server Cluster</title>
@@ -1506,10 +1500,10 @@
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Blurred Lines of Data Sovereignty: Do You Really Own Your Data?</title>
-      <link>https://blog.purestorage.com/purely-technical/the-blurred-lines-of-data-sovereignty-do-you-really-own-your-data/</link>
+      <title>Setting up SAN boot for an 8-Node Windows Server Cluster</title>
+      <link>https://blog.purestorage.com/purely-technical/setting-up-san-boot-for-an-8-node-windows-server-cluster/</link>
       <description></description>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Blurred Lines of Data Sovereignty: Do You Really Own Your Data?</title>
@@ -1518,10 +1512,10 @@
       <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Denormalized vs. Normalized Data</title>
-      <link>https://blog.everpuredata.com/purely-technical/denormalized-vs-normalized-data/</link>
+      <title>The Blurred Lines of Data Sovereignty: Do You Really Own Your Data?</title>
+      <link>https://blog.purestorage.com/purely-technical/the-blurred-lines-of-data-sovereignty-do-you-really-own-your-data/</link>
       <description></description>
-      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Denormalized vs. Normalized Data</title>
@@ -1530,14 +1524,20 @@
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Denormalized vs. Normalized Data</title>
+      <link>https://blog.everpuredata.com/purely-technical/denormalized-vs-normalized-data/</link>
+      <description></description>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>XFS vs. Ext4: Which Linux File System is Better?</title>
-      <link>https://blog.everpuredata.com/purely-technical/xfs-vs-ext4-which-linux-file-system-is-better/</link>
+      <link>https://blog.purestorage.com/purely-technical/xfs-vs-ext4-which-linux-file-system-is-better/</link>
       <description></description>
       <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>XFS vs. Ext4: Which Linux File System is Better?</title>
-      <link>https://blog.purestorage.com/purely-technical/xfs-vs-ext4-which-linux-file-system-is-better/</link>
+      <link>https://blog.everpuredata.com/purely-technical/xfs-vs-ext4-which-linux-file-system-is-better/</link>
       <description></description>
       <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
     </item>
@@ -1579,25 +1579,25 @@
     </item>
     <item>
       <title>How to Optimize Your Cloud Storage Bill</title>
-      <link>https://blog.purestorage.com/purely-technical/optimize-your-cloud-storage-bill/</link>
-      <description></description>
-      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Optimize Your Cloud Storage Bill</title>
       <link>https://blog.everpuredata.com/purely-technical/optimize-your-cloud-storage-bill/</link>
       <description></description>
       <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How to Optimize Your Cloud Storage Bill</title>
+      <link>https://blog.purestorage.com/purely-technical/optimize-your-cloud-storage-bill/</link>
+      <description></description>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Non-Disruptive Storage Consolidation and Removal</title>
-      <link>https://blog.everpuredata.com/purely-technical/non-disruptive-storage-consolidation-and-removal/</link>
+      <link>https://blog.purestorage.com/purely-technical/non-disruptive-storage-consolidation-and-removal/</link>
       <description></description>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Non-Disruptive Storage Consolidation and Removal</title>
-      <link>https://blog.purestorage.com/purely-technical/non-disruptive-storage-consolidation-and-removal/</link>
+      <link>https://blog.everpuredata.com/purely-technical/non-disruptive-storage-consolidation-and-removal/</link>
       <description></description>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
     </item>
@@ -1615,25 +1615,25 @@
     </item>
     <item>
       <title>ETL vs. ELT: The Complete 2025 Guide to Modern Data Pipeline Architecture</title>
-      <link>https://blog.purestorage.com/purely-technical/etl-vs-elt/</link>
-      <description></description>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ETL vs. ELT: The Complete 2025 Guide to Modern Data Pipeline Architecture</title>
       <link>https://blog.everpuredata.com/purely-technical/etl-vs-elt/</link>
       <description></description>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>ETL vs. ELT: The Complete 2025 Guide to Modern Data Pipeline Architecture</title>
+      <link>https://blog.purestorage.com/purely-technical/etl-vs-elt/</link>
+      <description></description>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Monitoring Automatic VMFS-6 UNMAP in ESXi</title>
-      <link>https://blog.everpuredata.com/purely-technical/monitoring-automatic-vmfs-6-unmap-in-esxi/</link>
+      <link>https://blog.purestorage.com/purely-technical/monitoring-automatic-vmfs-6-unmap-in-esxi/</link>
       <description></description>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Monitoring Automatic VMFS-6 UNMAP in ESXi</title>
-      <link>https://blog.purestorage.com/purely-technical/monitoring-automatic-vmfs-6-unmap-in-esxi/</link>
+      <link>https://blog.everpuredata.com/purely-technical/monitoring-automatic-vmfs-6-unmap-in-esxi/</link>
       <description></description>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
     </item>
@@ -1675,13 +1675,13 @@
     </item>
     <item>
       <title>Customer-driven Capacity Upgrade for Pure Storage Cloud</title>
-      <link>https://blog.purestorage.com/purely-technical/customer-driven-capacity-upgrade-for-pure-cloud-block-store/</link>
+      <link>https://blog.everpuredata.com/purely-technical/customer-driven-capacity-upgrade-for-pure-cloud-block-store/</link>
       <description></description>
       <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Customer-driven Capacity Upgrade for Pure Storage Cloud</title>
-      <link>https://blog.everpuredata.com/purely-technical/customer-driven-capacity-upgrade-for-pure-cloud-block-store/</link>
+      <link>https://blog.purestorage.com/purely-technical/customer-driven-capacity-upgrade-for-pure-cloud-block-store/</link>
       <description></description>
       <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
     </item>
@@ -1711,13 +1711,13 @@
     </item>
     <item>
       <title>VMFS Management on Azure VMware Solution and Pure Storage Cloud</title>
-      <link>https://blog.purestorage.com/purely-technical/vmfs-management-on-azure-vmware-solution-and-pure-cloud-block-store/</link>
+      <link>https://blog.everpuredata.com/purely-technical/vmfs-management-on-azure-vmware-solution-and-pure-cloud-block-store/</link>
       <description></description>
       <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>VMFS Management on Azure VMware Solution and Pure Storage Cloud</title>
-      <link>https://blog.everpuredata.com/purely-technical/vmfs-management-on-azure-vmware-solution-and-pure-cloud-block-store/</link>
+      <link>https://blog.purestorage.com/purely-technical/vmfs-management-on-azure-vmware-solution-and-pure-cloud-block-store/</link>
       <description></description>
       <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
     </item>
@@ -1765,13 +1765,13 @@
     </item>
     <item>
       <title>How to Deploy a VM Analytics Collector with IPv6 IP Protocol and Static Networking</title>
-      <link>https://blog.everpuredata.com/purely-technical/how-to-deploy-a-vm-analytics-collector-with-ipv6-ip-protocol-and-static-networking/</link>
+      <link>https://blog.purestorage.com/purely-technical/how-to-deploy-a-vm-analytics-collector-with-ipv6-ip-protocol-and-static-networking/</link>
       <description></description>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Deploy a VM Analytics Collector with IPv6 IP Protocol and Static Networking</title>
-      <link>https://blog.purestorage.com/purely-technical/how-to-deploy-a-vm-analytics-collector-with-ipv6-ip-protocol-and-static-networking/</link>
+      <link>https://blog.everpuredata.com/purely-technical/how-to-deploy-a-vm-analytics-collector-with-ipv6-ip-protocol-and-static-networking/</link>
       <description></description>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
     </item>
@@ -1807,25 +1807,25 @@
     </item>
     <item>
       <title>How to Build a LangChain Chatbot Pt. 1: Using LangChain’s S3DirectoryLoader with FlashBlade</title>
-      <link>https://blog.everpuredata.com/purely-technical/how-to-build-a-langchain-chatbot-with-pure-storage/</link>
-      <description></description>
-      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Build a LangChain Chatbot Pt. 1: Using LangChain’s S3DirectoryLoader with FlashBlade</title>
       <link>https://blog.purestorage.com/purely-technical/how-to-build-a-langchain-chatbot-with-pure-storage/</link>
       <description></description>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How to Build a LangChain Chatbot Pt. 1: Using LangChain’s S3DirectoryLoader with FlashBlade</title>
+      <link>https://blog.everpuredata.com/purely-technical/how-to-build-a-langchain-chatbot-with-pure-storage/</link>
+      <description></description>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Creating Volumes from Protection Group Sources</title>
-      <link>https://blog.everpuredata.com/purely-technical/creating-volumes-from-protection-group-sources/</link>
+      <link>https://blog.purestorage.com/purely-technical/creating-volumes-from-protection-group-sources/</link>
       <description></description>
       <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Creating Volumes from Protection Group Sources</title>
-      <link>https://blog.purestorage.com/purely-technical/creating-volumes-from-protection-group-sources/</link>
+      <link>https://blog.everpuredata.com/purely-technical/creating-volumes-from-protection-group-sources/</link>
       <description></description>
       <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
     </item>
@@ -1843,13 +1843,13 @@
     </item>
     <item>
       <title>Pairing On-premises Storage with AWS Outposts for AI </title>
-      <link>https://blog.purestorage.com/purely-technical/on-premises-storage-and-aws-outposts/</link>
+      <link>https://blog.everpuredata.com/purely-technical/on-premises-storage-and-aws-outposts/</link>
       <description></description>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pairing On-premises Storage with AWS Outposts for AI </title>
-      <link>https://blog.everpuredata.com/purely-technical/on-premises-storage-and-aws-outposts/</link>
+      <link>https://blog.purestorage.com/purely-technical/on-premises-storage-and-aws-outposts/</link>
       <description></description>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
     </item>
@@ -1861,13 +1861,13 @@
     </item>
     <item>
       <title>Minimize the Impact of a Cyberattack with Commvault and Pure Storage</title>
-      <link>https://blog.purestorage.com/purely-technical/minimize-the-impact-of-a-cyber-attack-with-commvault-and-pure-storage/</link>
+      <link>https://blog.everpuredata.com/purely-technical/minimize-the-impact-of-a-cyber-attack-with-commvault-and-pure-storage/</link>
       <description></description>
       <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Minimize the Impact of a Cyberattack with Commvault and Pure Storage</title>
-      <link>https://blog.everpuredata.com/purely-technical/minimize-the-impact-of-a-cyber-attack-with-commvault-and-pure-storage/</link>
+      <link>https://blog.purestorage.com/purely-technical/minimize-the-impact-of-a-cyber-attack-with-commvault-and-pure-storage/</link>
       <description></description>
       <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
     </item>
@@ -1903,25 +1903,25 @@
     </item>
     <item>
       <title>FlashBlade S3 and ElasticSearch: The Journey to Disaggregation</title>
-      <link>https://blog.everpuredata.com/purely-technical/flashblade-s3-and-elasticsearch-the-journey-to-disaggregation/</link>
-      <description></description>
-      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FlashBlade S3 and ElasticSearch: The Journey to Disaggregation</title>
       <link>https://blog.purestorage.com/purely-technical/flashblade-s3-and-elasticsearch-the-journey-to-disaggregation/</link>
       <description></description>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>FlashBlade S3 and ElasticSearch: The Journey to Disaggregation</title>
+      <link>https://blog.everpuredata.com/purely-technical/flashblade-s3-and-elasticsearch-the-journey-to-disaggregation/</link>
+      <description></description>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Choose Your Path with Purity Simplified Release Lines</title>
-      <link>https://blog.purestorage.com/purely-technical/purity-operating-environment-simplified-release-lines/</link>
+      <link>https://blog.everpuredata.com/purely-technical/purity-operating-environment-simplified-release-lines/</link>
       <description></description>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Choose Your Path with Purity Simplified Release Lines</title>
-      <link>https://blog.everpuredata.com/purely-technical/purity-operating-environment-simplified-release-lines/</link>
+      <link>https://blog.purestorage.com/purely-technical/purity-operating-environment-simplified-release-lines/</link>
       <description></description>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
     </item>
@@ -2041,13 +2041,13 @@
     </item>
     <item>
       <title>How to Build an Open Data Lakehouse with Spark, Delta, and Trino on S3</title>
-      <link>https://blog.purestorage.com/purely-technical/how-to-build-an-open-data-lakehouse-with-spark-delta-and-trino-on-s3/</link>
+      <link>https://blog.everpuredata.com/purely-technical/how-to-build-an-open-data-lakehouse-with-spark-delta-and-trino-on-s3/</link>
       <description></description>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Build an Open Data Lakehouse with Spark, Delta, and Trino on S3</title>
-      <link>https://blog.everpuredata.com/purely-technical/how-to-build-an-open-data-lakehouse-with-spark-delta-and-trino-on-s3/</link>
+      <link>https://blog.purestorage.com/purely-technical/how-to-build-an-open-data-lakehouse-with-spark-delta-and-trino-on-s3/</link>
       <description></description>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
     </item>
@@ -2077,25 +2077,25 @@
     </item>
     <item>
       <title>How to Optimize Deep Learning Workflows with Fast S3</title>
-      <link>https://blog.purestorage.com/purely-technical/how-to-optimize-deep-learning-workflows-with-fast-s3/</link>
-      <description></description>
-      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Optimize Deep Learning Workflows with Fast S3</title>
       <link>https://blog.everpuredata.com/purely-technical/how-to-optimize-deep-learning-workflows-with-fast-s3/</link>
       <description></description>
       <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Run Apache Spark on Kubernetes: Approaches and Workflow</title>
-      <link>https://blog.purestorage.com/purely-technical/running-apache-spark-on-kubernetes-approaches-and-workflow/</link>
+      <title>How to Optimize Deep Learning Workflows with Fast S3</title>
+      <link>https://blog.purestorage.com/purely-technical/how-to-optimize-deep-learning-workflows-with-fast-s3/</link>
       <description></description>
       <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Run Apache Spark on Kubernetes: Approaches and Workflow</title>
       <link>https://blog.everpuredata.com/purely-technical/running-apache-spark-on-kubernetes-approaches-and-workflow/</link>
+      <description></description>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Run Apache Spark on Kubernetes: Approaches and Workflow</title>
+      <link>https://blog.purestorage.com/purely-technical/running-apache-spark-on-kubernetes-approaches-and-workflow/</link>
       <description></description>
       <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
     </item>
@@ -2107,21 +2107,15 @@
     </item>
     <item>
       <title>What Is New with Pure Storage Cloud Terraform Provider 0.9.0?</title>
-      <link>https://blog.purestorage.com/purely-technical/what-is-new-with-cbs-terraform-provider-0-9-0/</link>
-      <description></description>
-      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Is New with Pure Storage Cloud Terraform Provider 0.9.0?</title>
       <link>https://blog.everpuredata.com/purely-technical/what-is-new-with-cbs-terraform-provider-0-9-0/</link>
       <description></description>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Relational vs. Non-relational Databases</title>
-      <link>https://blog.everpuredata.com/purely-technical/relational-vs-non-relational-databases/</link>
+      <title>What Is New with Pure Storage Cloud Terraform Provider 0.9.0?</title>
+      <link>https://blog.purestorage.com/purely-technical/what-is-new-with-cbs-terraform-provider-0-9-0/</link>
       <description></description>
-      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Relational vs. Non-relational Databases</title>
@@ -2130,14 +2124,20 @@
       <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Relational vs. Non-relational Databases</title>
+      <link>https://blog.everpuredata.com/purely-technical/relational-vs-non-relational-databases/</link>
+      <description></description>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>FlashBlade 4.1.5: Increased Security, Flexibility, and Coverage for All FlashBlade Customers</title>
-      <link>https://blog.purestorage.com/purely-technical/flashblade-4-1-5/</link>
+      <link>https://blog.everpuredata.com/purely-technical/flashblade-4-1-5/</link>
       <description></description>
       <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>FlashBlade 4.1.5: Increased Security, Flexibility, and Coverage for All FlashBlade Customers</title>
-      <link>https://blog.everpuredata.com/purely-technical/flashblade-4-1-5/</link>
+      <link>https://blog.purestorage.com/purely-technical/flashblade-4-1-5/</link>
       <description></description>
       <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
     </item>
@@ -2161,25 +2161,25 @@
     </item>
     <item>
       <title>What Is the /etc/hosts File in Linux?</title>
-      <link>https://blog.purestorage.com/purely-technical/what-is-the-etc-hosts-file-in-linux/</link>
-      <description></description>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Is the /etc/hosts File in Linux?</title>
       <link>https://blog.everpuredata.com/purely-technical/what-is-the-etc-hosts-file-in-linux/</link>
       <description></description>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>What Is the /etc/hosts File in Linux?</title>
+      <link>https://blog.purestorage.com/purely-technical/what-is-the-etc-hosts-file-in-linux/</link>
+      <description></description>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Meet the World’s Most Powerful AND Efficient Storage</title>
-      <link>https://blog.purestorage.com/purely-technical/xcr4-technical/</link>
+      <link>https://blog.everpuredata.com/purely-technical/xcr4-technical/</link>
       <description></description>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Meet the World’s Most Powerful AND Efficient Storage</title>
-      <link>https://blog.everpuredata.com/purely-technical/xcr4-technical/</link>
+      <link>https://blog.purestorage.com/purely-technical/xcr4-technical/</link>
       <description></description>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
     </item>
@@ -2239,13 +2239,13 @@
     </item>
     <item>
       <title>How to Unlock the Power of IoT and Unstructured Data</title>
-      <link>https://blog.purestorage.com/purely-technical/how-to-unlock-the-power-of-iot-and-unstructured-data/</link>
+      <link>https://blog.everpuredata.com/purely-technical/how-to-unlock-the-power-of-iot-and-unstructured-data/</link>
       <description></description>
       <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Unlock the Power of IoT and Unstructured Data</title>
-      <link>https://blog.everpuredata.com/purely-technical/how-to-unlock-the-power-of-iot-and-unstructured-data/</link>
+      <link>https://blog.purestorage.com/purely-technical/how-to-unlock-the-power-of-iot-and-unstructured-data/</link>
       <description></description>
       <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
     </item>
@@ -2269,13 +2269,13 @@
     </item>
     <item>
       <title>Finally! Truly Unified Block and File: A Look at the Details</title>
-      <link>https://blog.everpuredata.com/purely-technical/finally-truly-unified-block-and-file-a-look-at-the-details/</link>
+      <link>https://blog.purestorage.com/purely-technical/finally-truly-unified-block-and-file-a-look-at-the-details/</link>
       <description></description>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Finally! Truly Unified Block and File: A Look at the Details</title>
-      <link>https://blog.purestorage.com/purely-technical/finally-truly-unified-block-and-file-a-look-at-the-details/</link>
+      <link>https://blog.everpuredata.com/purely-technical/finally-truly-unified-block-and-file-a-look-at-the-details/</link>
       <description></description>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
     </item>
@@ -2305,21 +2305,15 @@
     </item>
     <item>
       <title>Reduce Stress with Highly Effective Yet Simple Solutions</title>
-      <link>https://blog.purestorage.com/purely-technical/reduce-stress-with-highly-effective-yet-simple-solutions/</link>
-      <description></description>
-      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reduce Stress with Highly Effective Yet Simple Solutions</title>
       <link>https://blog.everpuredata.com/purely-technical/reduce-stress-with-highly-effective-yet-simple-solutions/</link>
       <description></description>
       <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Protecting Your VMs with the Pure Storage vSphere Plugin Replication Manager</title>
-      <link>https://blog.everpuredata.com/purely-technical/protecting-your-vms-with-the-pure-storage-vsphere-plugin-replication-manager/</link>
+      <title>Reduce Stress with Highly Effective Yet Simple Solutions</title>
+      <link>https://blog.purestorage.com/purely-technical/reduce-stress-with-highly-effective-yet-simple-solutions/</link>
       <description></description>
-      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Protecting Your VMs with the Pure Storage vSphere Plugin Replication Manager</title>
@@ -2328,14 +2322,20 @@
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Protecting Your VMs with the Pure Storage vSphere Plugin Replication Manager</title>
+      <link>https://blog.everpuredata.com/purely-technical/protecting-your-vms-with-the-pure-storage-vsphere-plugin-replication-manager/</link>
+      <description></description>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How to Diagram a Data Warehouse</title>
-      <link>https://blog.purestorage.com/purely-technical/how-to-diagram-a-data-warehouse/</link>
+      <link>https://blog.everpuredata.com/purely-technical/how-to-diagram-a-data-warehouse/</link>
       <description></description>
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Diagram a Data Warehouse</title>
-      <link>https://blog.everpuredata.com/purely-technical/how-to-diagram-a-data-warehouse/</link>
+      <link>https://blog.purestorage.com/purely-technical/how-to-diagram-a-data-warehouse/</link>
       <description></description>
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
     </item>
@@ -2419,25 +2419,25 @@
     </item>
     <item>
       <title>How to Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
-      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
-      <description></description>
-      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
       <link>https://blog.everpuredata.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Perform Non-disruptive Upgrades between FlashArray//X and //XL</title>
-      <link>https://blog.everpuredata.com/purely-technical/non-disruptive-upgrade-to-flasharray-xl-2/</link>
+      <title>How to Deploy VM Analytics Collector on the Pure Storage Virtual Appliance</title>
+      <link>https://blog.purestorage.com/purely-technical/deploy-vm-analytics-collector-on-the-pure-storage-virtual-appliance/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Perform Non-disruptive Upgrades between FlashArray//X and //XL</title>
       <link>https://blog.purestorage.com/purely-technical/non-disruptive-upgrade-to-flasharray-xl-2/</link>
+      <description></description>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Perform Non-disruptive Upgrades between FlashArray//X and //XL</title>
+      <link>https://blog.everpuredata.com/purely-technical/non-disruptive-upgrade-to-flasharray-xl-2/</link>
       <description></description>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
     </item>
@@ -2455,13 +2455,13 @@
     </item>
     <item>
       <title>Task vs. Process in Linux</title>
-      <link>https://blog.everpuredata.com/purely-technical/task-vs-process-in-linux/</link>
+      <link>https://blog.purestorage.com/purely-technical/task-vs-process-in-linux/</link>
       <description></description>
       <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Task vs. Process in Linux</title>
-      <link>https://blog.purestorage.com/purely-technical/task-vs-process-in-linux/</link>
+      <link>https://blog.everpuredata.com/purely-technical/task-vs-process-in-linux/</link>
       <description></description>
       <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
     </item>
@@ -2485,13 +2485,13 @@
     </item>
     <item>
       <title>How to Access External Data Using FlashBlade S3 Object Storage from Oracle 19c/21c</title>
-      <link>https://blog.purestorage.com/purely-technical/accessing-external-data-using-flashblade-s3-object-storage-from-oracle-19c-21c/</link>
+      <link>https://blog.everpuredata.com/purely-technical/accessing-external-data-using-flashblade-s3-object-storage-from-oracle-19c-21c/</link>
       <description></description>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Access External Data Using FlashBlade S3 Object Storage from Oracle 19c/21c</title>
-      <link>https://blog.everpuredata.com/purely-technical/accessing-external-data-using-flashblade-s3-object-storage-from-oracle-19c-21c/</link>
+      <link>https://blog.purestorage.com/purely-technical/accessing-external-data-using-flashblade-s3-object-storage-from-oracle-19c-21c/</link>
       <description></description>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
     </item>
@@ -2509,13 +2509,13 @@
     </item>
     <item>
       <title>How to Attach/Detach SQL Server Databases with PowerShell</title>
-      <link>https://blog.purestorage.com/purely-technical/attach-detach-sql-server-databases-with-powershell/</link>
+      <link>https://blog.everpuredata.com/purely-technical/attach-detach-sql-server-databases-with-powershell/</link>
       <description></description>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Attach/Detach SQL Server Databases with PowerShell</title>
-      <link>https://blog.everpuredata.com/purely-technical/attach-detach-sql-server-databases-with-powershell/</link>
+      <link>https://blog.purestorage.com/purely-technical/attach-detach-sql-server-databases-with-powershell/</link>
       <description></description>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
     </item>
@@ -2533,13 +2533,13 @@
     </item>
     <item>
       <title>How Does GitHub Enterprise Accelerate Software Development?</title>
-      <link>https://blog.everpuredata.com/purely-technical/accelerate-software-development-with-github-enterprise/</link>
+      <link>https://blog.purestorage.com/purely-technical/accelerate-software-development-with-github-enterprise/</link>
       <description></description>
       <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How Does GitHub Enterprise Accelerate Software Development?</title>
-      <link>https://blog.purestorage.com/purely-technical/accelerate-software-development-with-github-enterprise/</link>
+      <link>https://blog.everpuredata.com/purely-technical/accelerate-software-development-with-github-enterprise/</link>
       <description></description>
       <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
     </item>
@@ -2569,13 +2569,13 @@
     </item>
     <item>
       <title>How to Create A Presto Data Pipeline with S3</title>
-      <link>https://blog.everpuredata.com/purely-technical/a-presto-data-pipeline-with-s3/</link>
+      <link>https://blog.purestorage.com/purely-technical/a-presto-data-pipeline-with-s3/</link>
       <description></description>
       <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Create A Presto Data Pipeline with S3</title>
-      <link>https://blog.purestorage.com/purely-technical/a-presto-data-pipeline-with-s3/</link>
+      <link>https://blog.everpuredata.com/purely-technical/a-presto-data-pipeline-with-s3/</link>
       <description></description>
       <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
     </item>
@@ -2635,19 +2635,13 @@
     </item>
     <item>
       <title>How to Configure ElasticSearch Snapshots on S3</title>
-      <link>https://blog.purestorage.com/purely-technical/elasticsearch-snapshots-on-s3/</link>
-      <description></description>
-      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Configure ElasticSearch Snapshots on S3</title>
       <link>https://blog.everpuredata.com/purely-technical/elasticsearch-snapshots-on-s3/</link>
       <description></description>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Consolidate Oracle Workloads with FlashArray//XL</title>
-      <link>https://blog.purestorage.com/purely-technical/consolidate-oracle-workloads-with-flasharray-xl/</link>
+      <title>How to Configure ElasticSearch Snapshots on S3</title>
+      <link>https://blog.purestorage.com/purely-technical/elasticsearch-snapshots-on-s3/</link>
       <description></description>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
     </item>
@@ -2658,14 +2652,20 @@
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How to Consolidate Oracle Workloads with FlashArray//XL</title>
+      <link>https://blog.purestorage.com/purely-technical/consolidate-oracle-workloads-with-flasharray-xl/</link>
+      <description></description>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How to Configure Apache Spark on FlashBlade, Part 2</title>
-      <link>https://blog.everpuredata.com/purely-technical/apache-spark-on-flashblade-part-2/</link>
+      <link>https://blog.purestorage.com/purely-technical/apache-spark-on-flashblade-part-2/</link>
       <description></description>
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Configure Apache Spark on FlashBlade, Part 2</title>
-      <link>https://blog.purestorage.com/purely-technical/apache-spark-on-flashblade-part-2/</link>
+      <link>https://blog.everpuredata.com/purely-technical/apache-spark-on-flashblade-part-2/</link>
       <description></description>
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
     </item>
@@ -2677,21 +2677,15 @@
     </item>
     <item>
       <title>Concurrent Programming Case Study: Comparing Python, Go, and Rust</title>
-      <link>https://blog.everpuredata.com/purely-technical/concurrent-programming-case-study-comparing-python-go-and-rust/</link>
-      <description></description>
-      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Concurrent Programming Case Study: Comparing Python, Go, and Rust</title>
       <link>https://blog.purestorage.com/purely-technical/concurrent-programming-case-study-comparing-python-go-and-rust/</link>
       <description></description>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to List 67 Billion Objects in 1 Bucket in Golang</title>
-      <link>https://blog.everpuredata.com/purely-technical/listing-67-billion-objects-in-1-bucket/</link>
+      <title>Concurrent Programming Case Study: Comparing Python, Go, and Rust</title>
+      <link>https://blog.everpuredata.com/purely-technical/concurrent-programming-case-study-comparing-python-go-and-rust/</link>
       <description></description>
-      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to List 67 Billion Objects in 1 Bucket in Golang</title>
@@ -2700,14 +2694,20 @@
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How to List 67 Billion Objects in 1 Bucket in Golang</title>
+      <link>https://blog.everpuredata.com/purely-technical/listing-67-billion-objects-in-1-bucket/</link>
+      <description></description>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Spark’s Missing Parallelism: Loading Large Datasets</title>
-      <link>https://blog.purestorage.com/purely-technical/sparks-missing-parallelism-loading-large-datasets/</link>
+      <link>https://blog.everpuredata.com/purely-technical/sparks-missing-parallelism-loading-large-datasets/</link>
       <description></description>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Spark’s Missing Parallelism: Loading Large Datasets</title>
-      <link>https://blog.everpuredata.com/purely-technical/sparks-missing-parallelism-loading-large-datasets/</link>
+      <link>https://blog.purestorage.com/purely-technical/sparks-missing-parallelism-loading-large-datasets/</link>
       <description></description>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
     </item>
@@ -2725,13 +2725,13 @@
     </item>
     <item>
       <title>Scaling Synopsys VCS Workloads in Hybrid Cloud with Azure and FlashBlade</title>
-      <link>https://blog.everpuredata.com/purely-technical/scaling-synopsys-vcs-workloads-in-hybrid-cloud-with-azure-and-flashblade/</link>
+      <link>https://blog.purestorage.com/purely-technical/scaling-synopsys-vcs-workloads-in-hybrid-cloud-with-azure-and-flashblade/</link>
       <description></description>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Scaling Synopsys VCS Workloads in Hybrid Cloud with Azure and FlashBlade</title>
-      <link>https://blog.purestorage.com/purely-technical/scaling-synopsys-vcs-workloads-in-hybrid-cloud-with-azure-and-flashblade/</link>
+      <link>https://blog.everpuredata.com/purely-technical/scaling-synopsys-vcs-workloads-in-hybrid-cloud-with-azure-and-flashblade/</link>
       <description></description>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
     </item>
@@ -2779,25 +2779,25 @@
     </item>
     <item>
       <title>How to Configure Presto on FlashBlade S3</title>
-      <link>https://blog.purestorage.com/purely-technical/presto-on-flashblade-s3/</link>
-      <description>Presto is an open source, scale-out SQL engine for interactively querying large data sets, originally created inside Facebook. There are a variety of connectors to different data sources; in order to query data from S3, Presto leverages the Hive connector and the Hive Metastore. Presto operates at impressively large scales and shows promising performance results against Hive on S3 in previous testing.</description>
-      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Configure Presto on FlashBlade S3</title>
       <link>https://blog.everpuredata.com/purely-technical/presto-on-flashblade-s3/</link>
       <description></description>
       <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How to Configure Presto on FlashBlade S3</title>
+      <link>https://blog.purestorage.com/purely-technical/presto-on-flashblade-s3/</link>
+      <description>Presto is an open source, scale-out SQL engine for interactively querying large data sets, originally created inside Facebook. There are a variety of connectors to different data sources; in order to query data from S3, Presto leverages the Hive connector and the Hive Metastore. Presto operates at impressively large scales and shows promising performance results against Hive on S3 in previous testing.</description>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>A Guide to Elasticsearch Snapshots</title>
-      <link>https://blog.everpuredata.com/purely-technical/a-guide-to-elasticsearch-snapshots/</link>
+      <link>https://blog.purestorage.com/purely-technical/a-guide-to-elasticsearch-snapshots/</link>
       <description></description>
       <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Guide to Elasticsearch Snapshots</title>
-      <link>https://blog.purestorage.com/purely-technical/a-guide-to-elasticsearch-snapshots/</link>
+      <link>https://blog.everpuredata.com/purely-technical/a-guide-to-elasticsearch-snapshots/</link>
       <description></description>
       <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
     </item>
@@ -2893,13 +2893,13 @@
     </item>
     <item>
       <title>How to Use the Terminal to Check the MySQL Version</title>
-      <link>https://blog.purestorage.com/purely-technical/how-to-use-the-terminal-to-check-the-mysql-version/</link>
+      <link>https://blog.everpuredata.com/purely-technical/how-to-use-the-terminal-to-check-the-mysql-version/</link>
       <description></description>
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Use the Terminal to Check the MySQL Version</title>
-      <link>https://blog.everpuredata.com/purely-technical/how-to-use-the-terminal-to-check-the-mysql-version/</link>
+      <link>https://blog.purestorage.com/purely-technical/how-to-use-the-terminal-to-check-the-mysql-version/</link>
       <description></description>
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
     </item>
@@ -3019,13 +3019,13 @@
     </item>
     <item>
       <title>Eliminate MySQL and MariaDB Replication Time to Availability</title>
-      <link>https://blog.everpuredata.com/purely-technical/eliminate-mysql-and-mariadb-replication-time-to-availability/</link>
+      <link>https://blog.purestorage.com/purely-technical/eliminate-mysql-and-mariadb-replication-time-to-availability/</link>
       <description></description>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Eliminate MySQL and MariaDB Replication Time to Availability</title>
-      <link>https://blog.purestorage.com/purely-technical/eliminate-mysql-and-mariadb-replication-time-to-availability/</link>
+      <link>https://blog.everpuredata.com/purely-technical/eliminate-mysql-and-mariadb-replication-time-to-availability/</link>
       <description></description>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
     </item>
@@ -3073,13 +3073,13 @@
     </item>
     <item>
       <title>A Cisco Validated Design for Veeam and FlashStack</title>
-      <link>https://blog.everpuredata.com/purely-technical/cisco-validated-design-veeam-and-flashstack/</link>
+      <link>https://blog.purestorage.com/purely-technical/cisco-validated-design-veeam-and-flashstack/</link>
       <description></description>
       <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Cisco Validated Design for Veeam and FlashStack</title>
-      <link>https://blog.purestorage.com/purely-technical/cisco-validated-design-veeam-and-flashstack/</link>
+      <link>https://blog.everpuredata.com/purely-technical/cisco-validated-design-veeam-and-flashstack/</link>
       <description></description>
       <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
     </item>
@@ -3091,13 +3091,13 @@
     </item>
     <item>
       <title>4 Common MySQL Issues and How to Solve Them</title>
-      <link>https://blog.everpuredata.com/purely-technical/4-common-issues-with-mysql-how-to-solve/</link>
+      <link>https://blog.purestorage.com/purely-technical/4-common-issues-with-mysql-how-to-solve/</link>
       <description></description>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>4 Common MySQL Issues and How to Solve Them</title>
-      <link>https://blog.purestorage.com/purely-technical/4-common-issues-with-mysql-how-to-solve/</link>
+      <link>https://blog.everpuredata.com/purely-technical/4-common-issues-with-mysql-how-to-solve/</link>
       <description></description>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
     </item>
@@ -3115,13 +3115,13 @@
     </item>
     <item>
       <title>How to Enable Multicloud Solutions with Azure and Pure</title>
-      <link>https://blog.purestorage.com/purely-technical/enable-multicloud-solutions-with-pure-and-azure/</link>
+      <link>https://blog.everpuredata.com/purely-technical/enable-multicloud-solutions-with-pure-and-azure/</link>
       <description></description>
       <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Enable Multicloud Solutions with Azure and Pure</title>
-      <link>https://blog.everpuredata.com/purely-technical/enable-multicloud-solutions-with-pure-and-azure/</link>
+      <link>https://blog.purestorage.com/purely-technical/enable-multicloud-solutions-with-pure-and-azure/</link>
       <description></description>
       <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
     </item>
@@ -3151,13 +3151,13 @@
     </item>
     <item>
       <title>The Pure Storage Cloud Terraform Provider for AWS</title>
-      <link>https://blog.everpuredata.com/purely-technical/the-pure-cloud-block-store-terraform-provider-for-aws/</link>
+      <link>https://blog.purestorage.com/purely-technical/the-pure-cloud-block-store-terraform-provider-for-aws/</link>
       <description></description>
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Pure Storage Cloud Terraform Provider for AWS</title>
-      <link>https://blog.purestorage.com/purely-technical/the-pure-cloud-block-store-terraform-provider-for-aws/</link>
+      <link>https://blog.everpuredata.com/purely-technical/the-pure-cloud-block-store-terraform-provider-for-aws/</link>
       <description></description>
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
     </item>
@@ -3193,13 +3193,13 @@
     </item>
     <item>
       <title>SCOM Management Pack 1.2 for FlashArray Is Here</title>
-      <link>https://blog.everpuredata.com/purely-technical/scom-management-pack-1-2-for-flasharray/</link>
+      <link>https://blog.purestorage.com/purely-technical/scom-management-pack-1-2-for-flasharray/</link>
       <description></description>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SCOM Management Pack 1.2 for FlashArray Is Here</title>
-      <link>https://blog.purestorage.com/purely-technical/scom-management-pack-1-2-for-flasharray/</link>
+      <link>https://blog.everpuredata.com/purely-technical/scom-management-pack-1-2-for-flasharray/</link>
       <description></description>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
     </item>
@@ -3253,13 +3253,13 @@
     </item>
     <item>
       <title>Pure Storage® and Portworx®: Better Together</title>
-      <link>https://blog.purestorage.com/purely-technical/pure-storage-and-portworx/</link>
+      <link>https://blog.everpuredata.com/purely-technical/pure-storage-and-portworx/</link>
       <description></description>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pure Storage® and Portworx®: Better Together</title>
-      <link>https://blog.everpuredata.com/purely-technical/pure-storage-and-portworx/</link>
+      <link>https://blog.purestorage.com/purely-technical/pure-storage-and-portworx/</link>
       <description></description>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
     </item>
@@ -3283,13 +3283,13 @@
     </item>
     <item>
       <title>Rapid Restore of VMware with Veeam and FlashArray//C</title>
-      <link>https://blog.everpuredata.com/purely-technical/rapid-restore-of-vmware-with-veeam-and-flasharray-c/</link>
+      <link>https://blog.purestorage.com/purely-technical/rapid-restore-of-vmware-with-veeam-and-flasharray-c/</link>
       <description></description>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Rapid Restore of VMware with Veeam and FlashArray//C</title>
-      <link>https://blog.purestorage.com/purely-technical/rapid-restore-of-vmware-with-veeam-and-flasharray-c/</link>
+      <link>https://blog.everpuredata.com/purely-technical/rapid-restore-of-vmware-with-veeam-and-flasharray-c/</link>
       <description></description>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
     </item>
@@ -3313,13 +3313,13 @@
     </item>
     <item>
       <title>Ransomware Protection with NetBackup MSDP and FlashBlade</title>
-      <link>https://blog.everpuredata.com/purely-technical/ransomware-protection-with-netbackup-msdp-and-flashblade/</link>
+      <link>https://blog.purestorage.com/purely-technical/ransomware-protection-with-netbackup-msdp-and-flashblade/</link>
       <description></description>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ransomware Protection with NetBackup MSDP and FlashBlade</title>
-      <link>https://blog.purestorage.com/purely-technical/ransomware-protection-with-netbackup-msdp-and-flashblade/</link>
+      <link>https://blog.everpuredata.com/purely-technical/ransomware-protection-with-netbackup-msdp-and-flashblade/</link>
       <description></description>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
     </item>
@@ -3331,21 +3331,15 @@
     </item>
     <item>
       <title>Combining ActiveDR™ with MongoDB to Reduce Downtime and Costs</title>
-      <link>https://blog.purestorage.com/purely-technical/activedr-and-mongodb-reduce-downtime-and-cost/</link>
-      <description></description>
-      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Combining ActiveDR™ with MongoDB to Reduce Downtime and Costs</title>
       <link>https://blog.everpuredata.com/purely-technical/activedr-and-mongodb-reduce-downtime-and-cost/</link>
       <description></description>
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Solve One of the Biggest Data Protection Challenges</title>
-      <link>https://blog.purestorage.com/purely-technical/solve-big-data-protection-challenges/</link>
+      <title>Combining ActiveDR™ with MongoDB to Reduce Downtime and Costs</title>
+      <link>https://blog.purestorage.com/purely-technical/activedr-and-mongodb-reduce-downtime-and-cost/</link>
       <description></description>
-      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Solve One of the Biggest Data Protection Challenges</title>
@@ -3354,10 +3348,10 @@
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pure Service Orchestrator and VMware Velero Sneak Peek</title>
-      <link>https://blog.purestorage.com/purely-technical/vmware-velero-and-pure-service-orchestrator/</link>
+      <title>How to Solve One of the Biggest Data Protection Challenges</title>
+      <link>https://blog.purestorage.com/purely-technical/solve-big-data-protection-challenges/</link>
       <description></description>
-      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pure Service Orchestrator and VMware Velero Sneak Peek</title>
@@ -3366,14 +3360,20 @@
       <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Pure Service Orchestrator and VMware Velero Sneak Peek</title>
+      <link>https://blog.purestorage.com/purely-technical/vmware-velero-and-pure-service-orchestrator/</link>
+      <description></description>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How to Save Your Time (and Sanity) with Storage Snapshots on SAP</title>
-      <link>https://blog.purestorage.com/purely-technical/storage-snapshots-sap/</link>
+      <link>https://blog.everpuredata.com/purely-technical/storage-snapshots-sap/</link>
       <description></description>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Save Your Time (and Sanity) with Storage Snapshots on SAP</title>
-      <link>https://blog.everpuredata.com/purely-technical/storage-snapshots-sap/</link>
+      <link>https://blog.purestorage.com/purely-technical/storage-snapshots-sap/</link>
       <description></description>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
     </item>
@@ -3385,25 +3385,25 @@
     </item>
     <item>
       <title>Control File and Object Replication with Pure1 Storage Management</title>
-      <link>https://blog.purestorage.com/purely-technical/file-object-replication-pure1/</link>
-      <description></description>
-      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Control File and Object Replication with Pure1 Storage Management</title>
       <link>https://blog.everpuredata.com/purely-technical/file-object-replication-pure1/</link>
       <description></description>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Modernizing JFrog Artifactory on Fast Object</title>
-      <link>https://blog.purestorage.com/purely-technical/jfrog-artifactory-fast-object/</link>
+      <title>Control File and Object Replication with Pure1 Storage Management</title>
+      <link>https://blog.purestorage.com/purely-technical/file-object-replication-pure1/</link>
       <description></description>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Modernizing JFrog Artifactory on Fast Object</title>
       <link>https://blog.everpuredata.com/purely-technical/jfrog-artifactory-fast-object/</link>
+      <description></description>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modernizing JFrog Artifactory on Fast Object</title>
+      <link>https://blog.purestorage.com/purely-technical/jfrog-artifactory-fast-object/</link>
       <description></description>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
     </item>
@@ -3415,13 +3415,13 @@
     </item>
     <item>
       <title>Pure FlashArray SCOM Management Pack 1.1 Released</title>
-      <link>https://blog.purestorage.com/purely-technical/flasharray-scom-management-upgrade-pack-1-1/</link>
+      <link>https://blog.everpuredata.com/purely-technical/flasharray-scom-management-upgrade-pack-1-1/</link>
       <description></description>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pure FlashArray SCOM Management Pack 1.1 Released</title>
-      <link>https://blog.everpuredata.com/purely-technical/flasharray-scom-management-upgrade-pack-1-1/</link>
+      <link>https://blog.purestorage.com/purely-technical/flasharray-scom-management-upgrade-pack-1-1/</link>
       <description></description>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
     </item>
@@ -3445,25 +3445,25 @@
     </item>
     <item>
       <title>Migrating Ansible Content Collections</title>
-      <link>https://blog.purestorage.com/purely-technical/ansible-collection-migration/</link>
-      <description></description>
-      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Migrating Ansible Content Collections</title>
       <link>https://blog.everpuredata.com/purely-technical/ansible-collection-migration/</link>
       <description></description>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Migrating Ansible Content Collections</title>
+      <link>https://blog.purestorage.com/purely-technical/ansible-collection-migration/</link>
+      <description></description>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ansible Content Collections for Pure Storage</title>
-      <link>https://blog.purestorage.com/purely-technical/ansible-collections-pure-storage/</link>
+      <link>https://blog.everpuredata.com/purely-technical/ansible-collections-pure-storage/</link>
       <description></description>
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ansible Content Collections for Pure Storage</title>
-      <link>https://blog.everpuredata.com/purely-technical/ansible-collections-pure-storage/</link>
+      <link>https://blog.purestorage.com/purely-technical/ansible-collections-pure-storage/</link>
       <description></description>
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
     </item>
@@ -3493,25 +3493,25 @@
     </item>
     <item>
       <title>Investigating the On-prem Kubernetes Network Stack</title>
-      <link>https://blog.purestorage.com/purely-technical/kubernetes-cluster-networking-components/</link>
-      <description></description>
-      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Investigating the On-prem Kubernetes Network Stack</title>
       <link>https://blog.everpuredata.com/purely-technical/kubernetes-cluster-networking-components/</link>
       <description></description>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Investigating the On-prem Kubernetes Network Stack</title>
+      <link>https://blog.purestorage.com/purely-technical/kubernetes-cluster-networking-components/</link>
+      <description></description>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Unleash the Power of Integrations with the Pure1 API</title>
-      <link>https://blog.purestorage.com/purely-technical/pure1-api-integration-use-cases/</link>
+      <link>https://blog.everpuredata.com/purely-technical/pure1-api-integration-use-cases/</link>
       <description></description>
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Unleash the Power of Integrations with the Pure1 API</title>
-      <link>https://blog.everpuredata.com/purely-technical/pure1-api-integration-use-cases/</link>
+      <link>https://blog.purestorage.com/purely-technical/pure1-api-integration-use-cases/</link>
       <description></description>
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
     </item>
@@ -3559,25 +3559,25 @@
     </item>
     <item>
       <title>How to Clone an Oracle Database to the Cloud</title>
-      <link>https://blog.purestorage.com/purely-technical/cloning-oracle-database-cloud/</link>
-      <description></description>
-      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Clone an Oracle Database to the Cloud</title>
       <link>https://blog.everpuredata.com/purely-technical/cloning-oracle-database-cloud/</link>
       <description></description>
       <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How to Clone an Oracle Database to the Cloud</title>
+      <link>https://blog.purestorage.com/purely-technical/cloning-oracle-database-cloud/</link>
+      <description></description>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>FlashArray and Fibre Channel with VMware Cloud Foundation</title>
-      <link>https://blog.purestorage.com/purely-technical/flasharray-fibre-channel-vmware-cloud-foundation/</link>
+      <link>https://blog.everpuredata.com/purely-technical/flasharray-fibre-channel-vmware-cloud-foundation/</link>
       <description></description>
       <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>FlashArray and Fibre Channel with VMware Cloud Foundation</title>
-      <link>https://blog.everpuredata.com/purely-technical/flasharray-fibre-channel-vmware-cloud-foundation/</link>
+      <link>https://blog.purestorage.com/purely-technical/flasharray-fibre-channel-vmware-cloud-foundation/</link>
       <description></description>
       <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
     </item>
@@ -3667,13 +3667,13 @@
     </item>
     <item>
       <title>How to Configure NVMeoF RoCE For SUSE 15</title>
-      <link>https://blog.purestorage.com/purely-technical/nvmeof-roce-suse-15/</link>
+      <link>https://blog.everpuredata.com/purely-technical/nvmeof-roce-suse-15/</link>
       <description></description>
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Configure NVMeoF RoCE For SUSE 15</title>
-      <link>https://blog.everpuredata.com/purely-technical/nvmeof-roce-suse-15/</link>
+      <link>https://blog.purestorage.com/purely-technical/nvmeof-roce-suse-15/</link>
       <description></description>
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
     </item>
@@ -3691,13 +3691,13 @@
     </item>
     <item>
       <title>Demystifying IO Operation Readouts in ESXi</title>
-      <link>https://blog.purestorage.com/purely-technical/demystifying-io-operation-readouts-in-esxi/</link>
+      <link>https://blog.everpuredata.com/purely-technical/demystifying-io-operation-readouts-in-esxi/</link>
       <description></description>
       <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Demystifying IO Operation Readouts in ESXi</title>
-      <link>https://blog.everpuredata.com/purely-technical/demystifying-io-operation-readouts-in-esxi/</link>
+      <link>https://blog.purestorage.com/purely-technical/demystifying-io-operation-readouts-in-esxi/</link>
       <description></description>
       <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
     </item>
@@ -3763,13 +3763,13 @@
     </item>
     <item>
       <title>Retrieving Storage Policy of a VM with vRO</title>
-      <link>https://blog.everpuredata.com/purely-technical/retrieving-storage-policy-of-a-vm-with-vro/</link>
+      <link>https://blog.purestorage.com/purely-technical/retrieving-storage-policy-of-a-vm-with-vro/</link>
       <description></description>
       <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Retrieving Storage Policy of a VM with vRO</title>
-      <link>https://blog.purestorage.com/purely-technical/retrieving-storage-policy-of-a-vm-with-vro/</link>
+      <link>https://blog.everpuredata.com/purely-technical/retrieving-storage-policy-of-a-vm-with-vro/</link>
       <description></description>
       <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
     </item>
@@ -3799,13 +3799,13 @@
     </item>
     <item>
       <title>Installing the Pure Storage vSphere Plugin with PowerShell</title>
-      <link>https://blog.everpuredata.com/purely-technical/installing-the-pure-storage-vsphere-plugin-with-powershell/</link>
+      <link>https://blog.purestorage.com/purely-technical/installing-the-pure-storage-vsphere-plugin-with-powershell/</link>
       <description></description>
       <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Installing the Pure Storage vSphere Plugin with PowerShell</title>
-      <link>https://blog.purestorage.com/purely-technical/installing-the-pure-storage-vsphere-plugin-with-powershell/</link>
+      <link>https://blog.everpuredata.com/purely-technical/installing-the-pure-storage-vsphere-plugin-with-powershell/</link>
       <description></description>
       <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
     </item>
@@ -3919,25 +3919,25 @@
     </item>
     <item>
       <title>Apache Kafka: 5 Million Messages/sec Writes on FlashArray</title>
-      <link>https://blog.purestorage.com/purely-technical/flashy-fast-apache-kafka-5-million-messages-per-second-writes-three-producers-on-pure-storage-flasharray-x-with-directflash-fabric/</link>
-      <description></description>
-      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apache Kafka: 5 Million Messages/sec Writes on FlashArray</title>
       <link>https://blog.everpuredata.com/purely-technical/flashy-fast-apache-kafka-5-million-messages-per-second-writes-three-producers-on-pure-storage-flasharray-x-with-directflash-fabric/</link>
       <description></description>
       <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Apache Kafka: 5 Million Messages/sec Writes on FlashArray</title>
+      <link>https://blog.purestorage.com/purely-technical/flashy-fast-apache-kafka-5-million-messages-per-second-writes-three-producers-on-pure-storage-flasharray-x-with-directflash-fabric/</link>
+      <description></description>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Photon-based SRM 8.2 and Pure</title>
-      <link>https://blog.everpuredata.com/purely-technical/photon-based-srm-8-2-and-pure/</link>
+      <link>https://blog.purestorage.com/purely-technical/photon-based-srm-8-2-and-pure/</link>
       <description></description>
       <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Photon-based SRM 8.2 and Pure</title>
-      <link>https://blog.purestorage.com/purely-technical/photon-based-srm-8-2-and-pure/</link>
+      <link>https://blog.everpuredata.com/purely-technical/photon-based-srm-8-2-and-pure/</link>
       <description></description>
       <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
     </item>
@@ -3973,13 +3973,13 @@
     </item>
     <item>
       <title>Exploring the Pure1® REST API, Part 2</title>
-      <link>https://blog.everpuredata.com/purely-technical/pure1-rest-api-part-2/</link>
+      <link>https://blog.purestorage.com/purely-technical/pure1-rest-api-part-2/</link>
       <description></description>
       <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Exploring the Pure1® REST API, Part 2</title>
-      <link>https://blog.purestorage.com/purely-technical/pure1-rest-api-part-2/</link>
+      <link>https://blog.everpuredata.com/purely-technical/pure1-rest-api-part-2/</link>
       <description></description>
       <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
     </item>
@@ -4009,13 +4009,13 @@
     </item>
     <item>
       <title>vRealize Orchestrator 7.6 is released! Updated Web Client</title>
-      <link>https://blog.purestorage.com/purely-technical/vrealize-orchestrator-7-6-is-released-updated-web-client/</link>
+      <link>https://blog.everpuredata.com/purely-technical/vrealize-orchestrator-7-6-is-released-updated-web-client/</link>
       <description></description>
       <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>vRealize Orchestrator 7.6 is released! Updated Web Client</title>
-      <link>https://blog.everpuredata.com/purely-technical/vrealize-orchestrator-7-6-is-released-updated-web-client/</link>
+      <link>https://blog.purestorage.com/purely-technical/vrealize-orchestrator-7-6-is-released-updated-web-client/</link>
       <description></description>
       <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
     </item>
@@ -4039,21 +4039,15 @@
     </item>
     <item>
       <title>SAP HANA Paged Attributes Performance on Pure Storage FlashArray//X</title>
-      <link>https://blog.everpuredata.com/purely-technical/sap-hana-column-tables-paged-attributes-performance-simulation-on-pure-storage-flasharray-x/</link>
-      <description></description>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SAP HANA Paged Attributes Performance on Pure Storage FlashArray//X</title>
       <link>https://blog.purestorage.com/purely-technical/sap-hana-column-tables-paged-attributes-performance-simulation-on-pure-storage-flasharray-x/</link>
       <description></description>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Analyzing the Possibilities of MariaDB and DirectFlash Fabric</title>
-      <link>https://blog.purestorage.com/purely-technical/analyzing-the-possibilities-of-mariadb-and-directflash-fabric/</link>
+      <title>SAP HANA Paged Attributes Performance on Pure Storage FlashArray//X</title>
+      <link>https://blog.everpuredata.com/purely-technical/sap-hana-column-tables-paged-attributes-performance-simulation-on-pure-storage-flasharray-x/</link>
       <description></description>
-      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Analyzing the Possibilities of MariaDB and DirectFlash Fabric</title>
@@ -4062,8 +4056,8 @@
       <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Benefits of Running Cassandra on FlashArray with DirectFlash Fabric</title>
-      <link>https://blog.purestorage.com/purely-technical/benefits-of-running-cassandra-on-flasharray-with-directflash-fabric/</link>
+      <title>Analyzing the Possibilities of MariaDB and DirectFlash Fabric</title>
+      <link>https://blog.purestorage.com/purely-technical/analyzing-the-possibilities-of-mariadb-and-directflash-fabric/</link>
       <description></description>
       <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
     </item>
@@ -4074,14 +4068,20 @@
       <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Beyond DAS: MongoDB on FlashArray with NVMe-oF RoCE</title>
-      <link>https://blog.purestorage.com/purely-technical/mongodb-on-flasharray-with-nvme-of-roce/</link>
+      <title>Benefits of Running Cassandra on FlashArray with DirectFlash Fabric</title>
+      <link>https://blog.purestorage.com/purely-technical/benefits-of-running-cassandra-on-flasharray-with-directflash-fabric/</link>
       <description></description>
       <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Beyond DAS: MongoDB on FlashArray with NVMe-oF RoCE</title>
       <link>https://blog.everpuredata.com/purely-technical/mongodb-on-flasharray-with-nvme-of-roce/</link>
+      <description></description>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond DAS: MongoDB on FlashArray with NVMe-oF RoCE</title>
+      <link>https://blog.purestorage.com/purely-technical/mongodb-on-flasharray-with-nvme-of-roce/</link>
       <description></description>
       <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
     </item>
@@ -4141,21 +4141,15 @@
     </item>
     <item>
       <title>Pulling Performance Statistics from Pure1® with PowerShell</title>
-      <link>https://blog.purestorage.com/purely-technical/pulling-performance-statistics-from-pure1-with-powershell/</link>
-      <description></description>
-      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pulling Performance Statistics from Pure1® with PowerShell</title>
       <link>https://blog.everpuredata.com/purely-technical/pulling-performance-statistics-from-pure1-with-powershell/</link>
       <description></description>
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Using the Pure1® PowerShell Module</title>
-      <link>https://blog.everpuredata.com/purely-technical/using-the-pure1-powershell-module/</link>
+      <title>Pulling Performance Statistics from Pure1® with PowerShell</title>
+      <link>https://blog.purestorage.com/purely-technical/pulling-performance-statistics-from-pure1-with-powershell/</link>
       <description></description>
-      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Using the Pure1® PowerShell Module</title>
@@ -4164,14 +4158,20 @@
       <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Using the Pure1® PowerShell Module</title>
+      <link>https://blog.everpuredata.com/purely-technical/using-the-pure1-powershell-module/</link>
+      <description></description>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Using the Pure1® REST API Part I: PowerShell</title>
-      <link>https://blog.everpuredata.com/purely-technical/using-the-pure1-rest-api-part-i-powershell/</link>
+      <link>https://blog.purestorage.com/purely-technical/using-the-pure1-rest-api-part-i-powershell/</link>
       <description></description>
       <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Using the Pure1® REST API Part I: PowerShell</title>
-      <link>https://blog.purestorage.com/purely-technical/using-the-pure1-rest-api-part-i-powershell/</link>
+      <link>https://blog.everpuredata.com/purely-technical/using-the-pure1-rest-api-part-i-powershell/</link>
       <description></description>
       <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
     </item>
@@ -4201,13 +4201,13 @@
     </item>
     <item>
       <title>Updating a Volume Group Name on FlashArray for vVols</title>
-      <link>https://blog.everpuredata.com/purely-technical/updating-a-volume-group-name-on-the-flasharray-for-vvols/</link>
+      <link>https://blog.purestorage.com/purely-technical/updating-a-volume-group-name-on-the-flasharray-for-vvols/</link>
       <description></description>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Updating a Volume Group Name on FlashArray for vVols</title>
-      <link>https://blog.purestorage.com/purely-technical/updating-a-volume-group-name-on-the-flasharray-for-vvols/</link>
+      <link>https://blog.everpuredata.com/purely-technical/updating-a-volume-group-name-on-the-flasharray-for-vvols/</link>
       <description></description>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
     </item>
@@ -4291,13 +4291,13 @@
     </item>
     <item>
       <title>PowerCLI and VVols Part V: Array Snapshots and VVols</title>
-      <link>https://blog.purestorage.com/purely-technical/powercli-and-vvols-part-v-array-snapshots-and-vvols/</link>
+      <link>https://blog.everpuredata.com/purely-technical/powercli-and-vvols-part-v-array-snapshots-and-vvols/</link>
       <description></description>
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>PowerCLI and VVols Part V: Array Snapshots and VVols</title>
-      <link>https://blog.everpuredata.com/purely-technical/powercli-and-vvols-part-v-array-snapshots-and-vvols/</link>
+      <link>https://blog.purestorage.com/purely-technical/powercli-and-vvols-part-v-array-snapshots-and-vvols/</link>
       <description></description>
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
     </item>
@@ -4489,13 +4489,13 @@
     </item>
     <item>
       <title>Pure and VMware: Updated PowerCLI Scripts</title>
-      <link>https://blog.everpuredata.com/purely-technical/updated-powercli-best-practices-scripts-check-set/</link>
+      <link>https://blog.purestorage.com/purely-technical/updated-powercli-best-practices-scripts-check-set/</link>
       <description></description>
       <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pure and VMware: Updated PowerCLI Scripts</title>
-      <link>https://blog.purestorage.com/purely-technical/updated-powercli-best-practices-scripts-check-set/</link>
+      <link>https://blog.everpuredata.com/purely-technical/updated-powercli-best-practices-scripts-check-set/</link>
       <description></description>
       <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
     </item>
@@ -4519,13 +4519,13 @@
     </item>
     <item>
       <title>What is the latency stat QAVG?</title>
-      <link>https://blog.purestorage.com/purely-technical/what-is-the-latency-stat-qavg/</link>
+      <link>https://blog.everpuredata.com/purely-technical/what-is-the-latency-stat-qavg/</link>
       <description></description>
       <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What is the latency stat QAVG?</title>
-      <link>https://blog.everpuredata.com/purely-technical/what-is-the-latency-stat-qavg/</link>
+      <link>https://blog.purestorage.com/purely-technical/what-is-the-latency-stat-qavg/</link>
       <description></description>
       <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
     </item>
@@ -4621,13 +4621,13 @@
     </item>
     <item>
       <title>Using Postman with the FlashArray REST API</title>
-      <link>https://blog.purestorage.com/purely-technical/using-postman-with-the-flasharray-rest-api/</link>
+      <link>https://blog.everpuredata.com/purely-technical/using-postman-with-the-flasharray-rest-api/</link>
       <description></description>
       <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Using Postman with the FlashArray REST API</title>
-      <link>https://blog.everpuredata.com/purely-technical/using-postman-with-the-flasharray-rest-api/</link>
+      <link>https://blog.purestorage.com/purely-technical/using-postman-with-the-flasharray-rest-api/</link>
       <description></description>
       <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
     </item>
@@ -4681,13 +4681,13 @@
     </item>
     <item>
       <title>Issue with Consistent LUN ID in ESXi 6.5</title>
-      <link>https://blog.purestorage.com/purely-technical/issue-with-consistent-lun-id-in-esxi-6-5/</link>
+      <link>https://blog.everpuredata.com/purely-technical/issue-with-consistent-lun-id-in-esxi-6-5/</link>
       <description></description>
       <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Issue with Consistent LUN ID in ESXi 6.5</title>
-      <link>https://blog.everpuredata.com/purely-technical/issue-with-consistent-lun-id-in-esxi-6-5/</link>
+      <link>https://blog.purestorage.com/purely-technical/issue-with-consistent-lun-id-in-esxi-6-5/</link>
       <description></description>
       <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
     </item>
@@ -4741,13 +4741,13 @@
     </item>
     <item>
       <title>The Billion-Dollar Backup Industry is Flawed. Here’s How We’re Fixing It.</title>
-      <link>https://blog.everpuredata.com/purely-technical/billion-dollar-backup-industry-flawed-heres-fixes/</link>
+      <link>https://blog.purestorage.com/purely-technical/billion-dollar-backup-industry-flawed-heres-fixes/</link>
       <description></description>
       <pubDate>Tue, 14 Nov 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Billion-Dollar Backup Industry is Flawed. Here’s How We’re Fixing It.</title>
-      <link>https://blog.purestorage.com/purely-technical/billion-dollar-backup-industry-flawed-heres-fixes/</link>
+      <link>https://blog.everpuredata.com/purely-technical/billion-dollar-backup-industry-flawed-heres-fixes/</link>
       <description></description>
       <pubDate>Tue, 14 Nov 2017 00:00:00 +0000</pubDate>
     </item>
@@ -4783,13 +4783,13 @@
     </item>
     <item>
       <title>Comparing VVols to VMDKs and RDMs</title>
-      <link>https://blog.everpuredata.com/purely-technical/comparing-vvols-to-vmdks-and-rdms/</link>
+      <link>https://blog.purestorage.com/purely-technical/comparing-vvols-to-vmdks-and-rdms/</link>
       <description></description>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Comparing VVols to VMDKs and RDMs</title>
-      <link>https://blog.purestorage.com/purely-technical/comparing-vvols-to-vmdks-and-rdms/</link>
+      <link>https://blog.everpuredata.com/purely-technical/comparing-vvols-to-vmdks-and-rdms/</link>
       <description></description>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
     </item>
@@ -4837,25 +4837,25 @@
     </item>
     <item>
       <title>How to Use Cinder Manage in Modern OpenStack Environments</title>
-      <link>https://blog.purestorage.com/purely-technical/hints-on-using-cinder-manage-with-openstack-newton-and-later/</link>
-      <description></description>
-      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Use Cinder Manage in Modern OpenStack Environments</title>
       <link>https://blog.everpuredata.com/purely-technical/hints-on-using-cinder-manage-with-openstack-newton-and-later/</link>
       <description></description>
       <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How to Use Cinder Manage in Modern OpenStack Environments</title>
+      <link>https://blog.purestorage.com/purely-technical/hints-on-using-cinder-manage-with-openstack-newton-and-later/</link>
+      <description></description>
+      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Wait, Can My Apps Benefit From NVMe Today?</title>
-      <link>https://blog.everpuredata.com/purely-technical/wait-can-apps-benefit-nvme-today/</link>
+      <link>https://blog.purestorage.com/purely-technical/wait-can-apps-benefit-nvme-today/</link>
       <description></description>
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Wait, Can My Apps Benefit From NVMe Today?</title>
-      <link>https://blog.purestorage.com/purely-technical/wait-can-apps-benefit-nvme-today/</link>
+      <link>https://blog.everpuredata.com/purely-technical/wait-can-apps-benefit-nvme-today/</link>
       <description></description>
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
     </item>
@@ -4921,25 +4921,25 @@
     </item>
     <item>
       <title>Setting up Software iSCSI Multipathing with Distributed vSwitches with the vSphere Web Client</title>
-      <link>https://blog.purestorage.com/purely-technical/setting-up-software-iscsi-multipathing-with-distributed-vswitches-with-the-vsphere-web-client/</link>
-      <description></description>
-      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Setting up Software iSCSI Multipathing with Distributed vSwitches with the vSphere Web Client</title>
       <link>https://blog.everpuredata.com/purely-technical/setting-up-software-iscsi-multipathing-with-distributed-vswitches-with-the-vsphere-web-client/</link>
       <description></description>
       <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Value of Convergence and Hyper-convergence</title>
-      <link>https://blog.everpuredata.com/purely-technical/exploring-the-value-of-convergence-and-hyper-convergence/</link>
+      <title>Setting up Software iSCSI Multipathing with Distributed vSwitches with the vSphere Web Client</title>
+      <link>https://blog.purestorage.com/purely-technical/setting-up-software-iscsi-multipathing-with-distributed-vswitches-with-the-vsphere-web-client/</link>
       <description></description>
       <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Value of Convergence and Hyper-convergence</title>
       <link>https://blog.purestorage.com/purely-technical/exploring-the-value-of-convergence-and-hyper-convergence/</link>
+      <description></description>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Value of Convergence and Hyper-convergence</title>
+      <link>https://blog.everpuredata.com/purely-technical/exploring-the-value-of-convergence-and-hyper-convergence/</link>
       <description></description>
       <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
     </item>
@@ -4957,13 +4957,13 @@
     </item>
     <item>
       <title>Rubrik and Pure Storage FlashArray Integration</title>
-      <link>https://blog.everpuredata.com/purely-technical/rubrik-and-flasharray-integration-why-it-matters/</link>
+      <link>https://blog.purestorage.com/purely-technical/rubrik-and-flasharray-integration-why-it-matters/</link>
       <description></description>
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Rubrik and Pure Storage FlashArray Integration</title>
-      <link>https://blog.purestorage.com/purely-technical/rubrik-and-flasharray-integration-why-it-matters/</link>
+      <link>https://blog.everpuredata.com/purely-technical/rubrik-and-flasharray-integration-why-it-matters/</link>
       <description></description>
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
     </item>
@@ -5005,25 +5005,25 @@
     </item>
     <item>
       <title>Queue Depth Limits and VVol Protocol Endpoints</title>
-      <link>https://blog.everpuredata.com/purely-technical/queue-depth-limits-and-vvol-protocol-endpoints/</link>
-      <description></description>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Queue Depth Limits and VVol Protocol Endpoints</title>
       <link>https://blog.purestorage.com/purely-technical/queue-depth-limits-and-vvol-protocol-endpoints/</link>
       <description></description>
       <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Queue Depth Limits and VVol Protocol Endpoints</title>
+      <link>https://blog.everpuredata.com/purely-technical/queue-depth-limits-and-vvol-protocol-endpoints/</link>
+      <description></description>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Introducing vSphere Virtual Volumes on the FlashArray</title>
-      <link>https://blog.purestorage.com/purely-technical/introducing-vsphere-virtual-volumes-on-the-flasharray/</link>
+      <link>https://blog.everpuredata.com/purely-technical/introducing-vsphere-virtual-volumes-on-the-flasharray/</link>
       <description></description>
       <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing vSphere Virtual Volumes on the FlashArray</title>
-      <link>https://blog.everpuredata.com/purely-technical/introducing-vsphere-virtual-volumes-on-the-flasharray/</link>
+      <link>https://blog.purestorage.com/purely-technical/introducing-vsphere-virtual-volumes-on-the-flasharray/</link>
       <description></description>
       <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
     </item>
@@ -5083,13 +5083,13 @@
     </item>
     <item>
       <title>ESXi and the Missing LUN IDs: 256 or Higher</title>
-      <link>https://blog.purestorage.com/purely-technical/esxi-and-the-missing-luns-256-or-higher/</link>
+      <link>https://blog.everpuredata.com/purely-technical/esxi-and-the-missing-luns-256-or-higher/</link>
       <description></description>
       <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ESXi and the Missing LUN IDs: 256 or Higher</title>
-      <link>https://blog.everpuredata.com/purely-technical/esxi-and-the-missing-luns-256-or-higher/</link>
+      <link>https://blog.purestorage.com/purely-technical/esxi-and-the-missing-luns-256-or-higher/</link>
       <description></description>
       <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
     </item>
@@ -5113,13 +5113,13 @@
     </item>
     <item>
       <title>Multi-site FlashArray Configuration with Site Recovery Manager</title>
-      <link>https://blog.everpuredata.com/purely-technical/multi-site-flasharray-configuration-with-site-recovery-manager/</link>
+      <link>https://blog.purestorage.com/purely-technical/multi-site-flasharray-configuration-with-site-recovery-manager/</link>
       <description></description>
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Multi-site FlashArray Configuration with Site Recovery Manager</title>
-      <link>https://blog.purestorage.com/purely-technical/multi-site-flasharray-configuration-with-site-recovery-manager/</link>
+      <link>https://blog.everpuredata.com/purely-technical/multi-site-flasharray-configuration-with-site-recovery-manager/</link>
       <description></description>
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
     </item>
@@ -5143,13 +5143,13 @@
     </item>
     <item>
       <title>In-Guest UNMAP Fix in ESXi 6.5 Part II: Linux</title>
-      <link>https://blog.purestorage.com/purely-technical/in-guest-unmap-fix-in-esxi-6-5-part-ii-linux/</link>
+      <link>https://blog.everpuredata.com/purely-technical/in-guest-unmap-fix-in-esxi-6-5-part-ii-linux/</link>
       <description></description>
       <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>In-Guest UNMAP Fix in ESXi 6.5 Part II: Linux</title>
-      <link>https://blog.everpuredata.com/purely-technical/in-guest-unmap-fix-in-esxi-6-5-part-ii-linux/</link>
+      <link>https://blog.purestorage.com/purely-technical/in-guest-unmap-fix-in-esxi-6-5-part-ii-linux/</link>
       <description></description>
       <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
     </item>
@@ -5167,19 +5167,19 @@
     </item>
     <item>
       <title>How to Accelerate SGEN in SAP System Copy</title>
-      <link>https://blog.purestorage.com/purely-technical/accelerating-yet-an-another-long-running-activity-in-sap-homogeneous-system-copy-sgen/</link>
-      <description></description>
-      <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Accelerate SGEN in SAP System Copy</title>
       <link>https://blog.everpuredata.com/purely-technical/accelerating-yet-an-another-long-running-activity-in-sap-homogeneous-system-copy-sgen/</link>
       <description></description>
       <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How to Accelerate SGEN in SAP System Copy</title>
+      <link>https://blog.purestorage.com/purely-technical/accelerating-yet-an-another-long-running-activity-in-sap-homogeneous-system-copy-sgen/</link>
+      <description></description>
+      <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Understanding VMware ESXi Queuing and the FlashArray</title>
-      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray/</link>
+      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray-2/</link>
       <description></description>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
     </item>
@@ -5191,7 +5191,7 @@
     </item>
     <item>
       <title>Understanding VMware ESXi Queuing and the FlashArray</title>
-      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray-2/</link>
+      <link>https://blog.purestorage.com/purely-technical/understanding-vmware-esxi-queuing-and-the-flasharray/</link>
       <description></description>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
     </item>
@@ -5221,13 +5221,13 @@
     </item>
     <item>
       <title>How to fine tune SAP HANA IO using hdbparam on Pure Storage</title>
-      <link>https://blog.purestorage.com/purely-technical/how-to-fine-tune-sap-hana-io-using-hdbparam-on-pure-storage/</link>
+      <link>https://blog.everpuredata.com/purely-technical/how-to-fine-tune-sap-hana-io-using-hdbparam-on-pure-storage/</link>
       <description></description>
       <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to fine tune SAP HANA IO using hdbparam on Pure Storage</title>
-      <link>https://blog.everpuredata.com/purely-technical/how-to-fine-tune-sap-hana-io-using-hdbparam-on-pure-storage/</link>
+      <link>https://blog.purestorage.com/purely-technical/how-to-fine-tune-sap-hana-io-using-hdbparam-on-pure-storage/</link>
       <description></description>
       <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
     </item>
@@ -5245,13 +5245,13 @@
     </item>
     <item>
       <title>An Inside Look At Big Data Predictive Analytics With Pure1 – Part 2</title>
-      <link>https://blog.everpuredata.com/purely-technical/an-inside-look-at-big-data-predictive-analytics-with-pure1-part-2/</link>
+      <link>https://blog.purestorage.com/purely-technical/an-inside-look-at-big-data-predictive-analytics-with-pure1-part-2/</link>
       <description></description>
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>An Inside Look At Big Data Predictive Analytics With Pure1 – Part 2</title>
-      <link>https://blog.purestorage.com/purely-technical/an-inside-look-at-big-data-predictive-analytics-with-pure1-part-2/</link>
+      <link>https://blog.everpuredata.com/purely-technical/an-inside-look-at-big-data-predictive-analytics-with-pure1-part-2/</link>
       <description></description>
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
     </item>
@@ -5425,13 +5425,13 @@
     </item>
     <item>
       <title>Where are the Pure Storage SDKs and Toolkits?</title>
-      <link>https://blog.everpuredata.com/purely-technical/where-are-the-pure-storage-sdks-and-toolkits-2/</link>
+      <link>https://blog.purestorage.com/purely-technical/where-are-the-pure-storage-sdks-and-toolkits-2/</link>
       <description></description>
       <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Where are the Pure Storage SDKs and Toolkits?</title>
-      <link>https://blog.purestorage.com/purely-technical/where-are-the-pure-storage-sdks-and-toolkits-2/</link>
+      <link>https://blog.everpuredata.com/purely-technical/where-are-the-pure-storage-sdks-and-toolkits-2/</link>
       <description></description>
       <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
     </item>
@@ -5497,13 +5497,13 @@
     </item>
     <item>
       <title>Is Thin Provisioning Data Reduction?</title>
-      <link>https://blog.everpuredata.com/purely-technical/data-reduction-deep-dive-is-thin-provisioning-data-reduction/</link>
+      <link>https://blog.purestorage.com/purely-technical/data-reduction-deep-dive-is-thin-provisioning-data-reduction/</link>
       <description></description>
       <pubDate>Wed, 21 Oct 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Is Thin Provisioning Data Reduction?</title>
-      <link>https://blog.purestorage.com/purely-technical/data-reduction-deep-dive-is-thin-provisioning-data-reduction/</link>
+      <link>https://blog.everpuredata.com/purely-technical/data-reduction-deep-dive-is-thin-provisioning-data-reduction/</link>
       <description></description>
       <pubDate>Wed, 21 Oct 2015 00:00:00 +0000</pubDate>
     </item>
@@ -5599,13 +5599,13 @@
     </item>
     <item>
       <title>Pure Storage REST Client and Python Library</title>
-      <link>https://blog.everpuredata.com/purely-technical/pure-storage-rest-client-and-python-library/</link>
+      <link>https://blog.purestorage.com/purely-technical/pure-storage-rest-client-and-python-library/</link>
       <description></description>
       <pubDate>Tue, 14 Apr 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pure Storage REST Client and Python Library</title>
-      <link>https://blog.purestorage.com/purely-technical/pure-storage-rest-client-and-python-library/</link>
+      <link>https://blog.everpuredata.com/purely-technical/pure-storage-rest-client-and-python-library/</link>
       <description></description>
       <pubDate>Tue, 14 Apr 2015 00:00:00 +0000</pubDate>
     </item>
@@ -5749,13 +5749,13 @@
     </item>
     <item>
       <title>The Goodness of Pure Storage FlashArray and VMware VAAI integration</title>
-      <link>https://blog.everpuredata.com/purely-technical/does-vmware-vaai-integration-matters-on-a-flasharray/</link>
+      <link>https://blog.purestorage.com/purely-technical/does-vmware-vaai-integration-matters-on-a-flasharray/</link>
       <description></description>
       <pubDate>Tue, 18 Mar 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Goodness of Pure Storage FlashArray and VMware VAAI integration</title>
-      <link>https://blog.purestorage.com/purely-technical/does-vmware-vaai-integration-matters-on-a-flasharray/</link>
+      <link>https://blog.everpuredata.com/purely-technical/does-vmware-vaai-integration-matters-on-a-flasharray/</link>
       <description></description>
       <pubDate>Tue, 18 Mar 2014 00:00:00 +0000</pubDate>
     </item>
@@ -5821,13 +5821,13 @@
     </item>
     <item>
       <title>VM Performance on Flash Storage, Part 1: Alignment</title>
-      <link>https://blog.purestorage.com/purely-technical/say-goodbye-to-vm-alignment-issues-and-poor-performance-with-pure-storage/</link>
+      <link>https://blog.everpuredata.com/purely-technical/say-goodbye-to-vm-alignment-issues-and-poor-performance-with-pure-storage/</link>
       <description></description>
       <pubDate>Tue, 17 Jan 2012 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>VM Performance on Flash Storage, Part 1: Alignment</title>
-      <link>https://blog.everpuredata.com/purely-technical/say-goodbye-to-vm-alignment-issues-and-poor-performance-with-pure-storage/</link>
+      <link>https://blog.purestorage.com/purely-technical/say-goodbye-to-vm-alignment-issues-and-poor-performance-with-pure-storage/</link>
       <description></description>
       <pubDate>Tue, 17 Jan 2012 00:00:00 +0000</pubDate>
     </item>
