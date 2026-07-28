@@ -2084,6 +2084,21 @@
   "PublishDate": "2025-02-26T00:00:00Z",
   "Tags": []
  },
+ "https://blog.everpuredata.com/purely-technical/hyperv-vs-vmware-2/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/hyperv-vs-vmware-2/",
+    "LastMod": "2026-07-28T15:41:37Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "hyperv-vs-vmware-2"
+  },
+  "Title": "Hyper-V vs. VMware vs. Azure Local (and Others): 2026 Comparison and Migration Guide",
+  "Summary": "",
+  "PublishDate": "2026-07-28T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.everpuredata.com/purely-technical/identify-the-asm-device-from-asmlib/": {
   "PostLink": {
    "Link": {
