@@ -3119,6 +3119,21 @@
   "PublishDate": "2023-03-16T00:00:00Z",
   "Tags": []
  },
+ "https://blog.everpuredata.com/purely-technical/proxmox-explained-the-open-source-alternative-reshaping-virtualization/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/proxmox-explained-the-open-source-alternative-reshaping-virtualization/",
+    "LastMod": "2026-07-30T13:00:00Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "proxmox-explained-the-open-source-alternative-reshaping-virtualization"
+  },
+  "Title": "Proxmox Explained: The Open Source Alternative Reshaping Virtualization",
+  "Summary": "",
+  "PublishDate": "2026-07-30T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.everpuredata.com/purely-technical/ps880-cornerstone-enterprise-data-cloud/": {
   "PostLink": {
    "Link": {
