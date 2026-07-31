@@ -2699,6 +2699,21 @@
   "PublishDate": "2024-10-23T00:00:00Z",
   "Tags": []
  },
+ "https://blog.everpuredata.com/purely-technical/new-features-expand-everpure-and-nutanix-joint-solution/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/new-features-expand-everpure-and-nutanix-joint-solution/",
+    "LastMod": "2026-07-31T13:00:00Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "new-features-expand-everpure-and-nutanix-joint-solution"
+  },
+  "Title": "New Features Expand Everpure and Nutanix Joint Solution Change Block Tracking Offload",
+  "Summary": "",
+  "PublishDate": "2026-07-31T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.everpuredata.com/purely-technical/nfs-basics-on-flasharray/": {
   "PostLink": {
    "Link": {
