@@ -2489,6 +2489,21 @@
   "PublishDate": "2026-02-18T00:00:00Z",
   "Tags": []
  },
+ "https://blog.everpuredata.com/purely-technical/machine-learning-storage-what-it-takes-to-keep-training-data-moving/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/machine-learning-storage-what-it-takes-to-keep-training-data-moving/",
+    "LastMod": "2026-08-31T16:49:56Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "machine-learning-storage-what-it-takes-to-keep-training-data-moving"
+  },
+  "Title": "Machine Learning Storage: What It Takes to Keep Training Data Moving",
+  "Summary": "",
+  "PublishDate": "2026-08-31T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.everpuredata.com/purely-technical/making-llm-agents-think-once-then-act-fast/": {
   "PostLink": {
    "Link": {
@@ -4908,7 +4923,7 @@
   "PostLink": {
    "Link": {
     "Loc": "https://blog.everpuredata.com/purely-technical/vcf-vs-vvf-which-is-right-for-your-business/",
-    "LastMod": "2026-03-20T20:33:22Z"
+    "LastMod": "2026-08-20T20:48:04Z"
    },
    "Lang": "en",
    "Category": "purely-technical",
@@ -5112,6 +5127,21 @@
   "Title": "vRealize Orchestrator 7.6 is released! Updated Web Client",
   "Summary": "",
   "PublishDate": "2019-04-12T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/vvols-deprecation-migration-options-for-everpure-customers/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/vvols-deprecation-migration-options-for-everpure-customers/",
+    "LastMod": "2026-08-26T15:31:38Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "vvols-deprecation-migration-options-for-everpure-customers"
+  },
+  "Title": "Planning Beyond vVols: A Concise Guide to VMware Storage Decisions",
+  "Summary": "",
+  "PublishDate": "2026-08-18T00:00:00Z",
   "Tags": []
  },
  "https://blog.everpuredata.com/purely-technical/wait-can-apps-benefit-nvme-today/": {
