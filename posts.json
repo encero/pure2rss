@@ -554,6 +554,21 @@
   "PublishDate": "2019-02-19T00:00:00Z",
   "Tags": []
  },
+ "https://blog.everpuredata.com/purely-technical/beyond-guardrails-why-ai-infrastructure-security-is-hard/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/beyond-guardrails-why-ai-infrastructure-security-is-hard/",
+    "LastMod": "2026-09-10T15:58:03Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "beyond-guardrails-why-ai-infrastructure-security-is-hard"
+  },
+  "Title": "Beyond Guardrails: Why AI Infrastructure Security Is Hard",
+  "Summary": "",
+  "PublishDate": "2026-09-10T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.everpuredata.com/purely-technical/billion-dollar-backup-industry-flawed-heres-fixes/": {
   "PostLink": {
    "Link": {
@@ -3597,6 +3612,21 @@
   "Title": "Rapidly Recovering from SQL Server Data Mishaps with FlashArray Snapshots",
   "Summary": "",
   "PublishDate": "2025-02-28T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/recovery-readiness-for-azure-local-validated-data-protection-on-flasharray/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/recovery-readiness-for-azure-local-validated-data-protection-on-flasharray/",
+    "LastMod": "2026-09-16T13:00:00Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "recovery-readiness-for-azure-local-validated-data-protection-on-flasharray"
+  },
+  "Title": "Recovery Readiness for Azure Local: Validated Data Protection on FlashArray",
+  "Summary": "",
+  "PublishDate": "2026-09-16T00:00:00Z",
   "Tags": []
  },
  "https://blog.everpuredata.com/purely-technical/reduce-stress-with-highly-effective-yet-simple-solutions/": {
