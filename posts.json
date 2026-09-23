@@ -599,6 +599,21 @@
   "PublishDate": "2023-09-14T00:00:00Z",
   "Tags": []
  },
+ "https://blog.everpuredata.com/purely-technical/building-a-gpu-native-data-path-for-pure-kva/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/building-a-gpu-native-data-path-for-pure-kva/",
+    "LastMod": "2026-08-18T13:00:00Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "building-a-gpu-native-data-path-for-pure-kva"
+  },
+  "Title": "Building a GPU-Native Data Path for Pure KVA",
+  "Summary": "",
+  "PublishDate": "2026-08-18T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.everpuredata.com/purely-technical/building-a-hybrid-data-lakehouse-with-sql-server-polybase-flasharray-flashblade/": {
   "PostLink": {
    "Link": {
@@ -2547,6 +2562,21 @@
   "Title": "Managing Vector Storage Bloat: 4 Key Insights for Scalable Systems",
   "Summary": "",
   "PublishDate": "2025-07-23T00:00:00Z",
+  "Tags": []
+ },
+ "https://blog.everpuredata.com/purely-technical/migrating-off-vmware-without-the-vddk/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/migrating-off-vmware-without-the-vddk/",
+    "LastMod": "2026-09-15T13:00:00Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "migrating-off-vmware-without-the-vddk"
+  },
+  "Title": "Migrating Off VMware without the VDDK: What Changed and What Still Works",
+  "Summary": "",
+  "PublishDate": "2026-09-15T00:00:00Z",
   "Tags": []
  },
  "https://blog.everpuredata.com/purely-technical/migration-to-microsoft-azure-made-easy-with-pure-cloud-block-store/": {
