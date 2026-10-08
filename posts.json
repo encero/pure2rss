@@ -2759,6 +2759,21 @@
   "PublishDate": "2024-10-23T00:00:00Z",
   "Tags": []
  },
+ "https://blog.everpuredata.com/purely-technical/netapp-direct-flash-directflash-modules/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/netapp-direct-flash-directflash-modules/",
+    "LastMod": "2026-09-10T18:42:22Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "netapp-direct-flash-directflash-modules"
+  },
+  "Title": "Setting the Record Straight: DirectFlash vs. NetApp",
+  "Summary": "",
+  "PublishDate": "2025-05-21T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.everpuredata.com/purely-technical/new-features-expand-everpure-and-nutanix-joint-solution/": {
   "PostLink": {
    "Link": {
