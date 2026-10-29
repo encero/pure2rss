@@ -944,6 +944,21 @@
   "PublishDate": "2023-07-21T00:00:00Z",
   "Tags": []
  },
+ "https://blog.everpuredata.com/purely-technical/data-lineage-tools/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/data-lineage-tools/",
+    "LastMod": "2026-10-26T20:48:52Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "data-lineage-tools"
+  },
+  "Title": "What Are Data Lineage Tools?",
+  "Summary": "",
+  "PublishDate": "2026-10-26T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.everpuredata.com/purely-technical/data-mesh-vs-data-fabric-whats-the-difference/": {
   "PostLink": {
    "Link": {
