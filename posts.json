@@ -2579,6 +2579,21 @@
   "PublishDate": "2025-07-23T00:00:00Z",
   "Tags": []
  },
+ "https://blog.everpuredata.com/purely-technical/mcp-across-everpure-nutanix-kubernetes/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/mcp-across-everpure-nutanix-kubernetes/",
+    "LastMod": "2026-11-13T15:00:00Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "mcp-across-everpure-nutanix-kubernetes"
+  },
+  "Title": "MCP across Everpure, Nutanix, and Kubernetes ",
+  "Summary": "",
+  "PublishDate": "2026-11-13T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.everpuredata.com/purely-technical/migrating-off-vmware-without-the-vddk/": {
   "PostLink": {
    "Link": {
