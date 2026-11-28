@@ -584,6 +584,21 @@
   "PublishDate": "2017-11-14T00:00:00Z",
   "Tags": []
  },
+ "https://blog.everpuredata.com/purely-technical/black-friday-database-performance/": {
+  "PostLink": {
+   "Link": {
+    "Loc": "https://blog.everpuredata.com/purely-technical/black-friday-database-performance/",
+    "LastMod": "2026-11-27T15:00:00Z"
+   },
+   "Lang": "en",
+   "Category": "purely-technical",
+   "Slug": "black-friday-database-performance"
+  },
+  "Title": "What Your Black Friday Change Freeze Says About Your Databases",
+  "Summary": "",
+  "PublishDate": "2026-11-27T00:00:00Z",
+  "Tags": []
+ },
  "https://blog.everpuredata.com/purely-technical/bringing-data-analytics-into-the-hardware-design-story/": {
   "PostLink": {
    "Link": {
